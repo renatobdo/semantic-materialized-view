@@ -1,5 +1,5 @@
 # O código abaixo mostra um trecho do código usado para geração de documentos cujo tipo_evidencia são MunicipioCriticoIncidencia. Logo abaixo 
-# é impresso 3 documentos com metadados e texto para facilitar a resposta do LLM.
+# são impressos 3 documentos com metadados e texto para facilitar a resposta do LLM.
 
 from datetime import datetime
 import json
