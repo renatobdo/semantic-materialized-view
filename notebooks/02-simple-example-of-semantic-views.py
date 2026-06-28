@@ -1,4 +1,4 @@
-# O código abaixo mostra um trecho do código usado para geração de documentos cujo tipo_evidencia são MunicipioCriticoIncidencia. Logo abaixo 
+# O código abaixo mostra um trecho do código 01-generate-semantic-materialized-view.ipynb usado para geração de documentos cujo tipo_evidencia são MunicipioCriticoIncidencia. Logo abaixo 
 # são impressos 3 documentos com metadados e texto para facilitar a resposta do LLM.
 
 from datetime import datetime
