@@ -266,6 +266,14 @@ apenas para fins de rastreabilidade do desenvolvimento.
 
 A versão atual da aplicação é `app.py`.
 
+## Pipeline de notebooks
+
+O pipeline completo de preparação, validação, enriquecimento, análise epidemiológica e geração das **Visões Semânticas Materializadas (VSMs)** está disponível no diretório [`notebooks/`](notebooks/).
+
+A descrição da sequência de execução e da finalidade de cada notebook está disponível em [`notebooks/README.md`](notebooks/README.md).
+
+
+
 ## Instalação
 
 Clone o repositório:
