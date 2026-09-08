@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_24",
+  "titulo": "Comportamento temporal dos registros de dengue em Rio Grande do Norte — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "24",
+    "uf_nome": "Rio Grande do Norte",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Rio Grande do Norte entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 7234,
+    "total_semanas": 34,
+    "media_semanal": 212.76,
+    "mediana_semanal": 188.0,
+    "minimo_semanal": 0,
+    "maximo_semanal": 444,
+    "semana_pico": 31,
+    "total_pico": 444,
+    "desvio_padrao": 120.9,
+    "coeficiente_variacao": 56.82,
+    "media_periodo_anterior": 356.5,
+    "media_periodo_recente": 309.75,
+    "variacao_absoluta": -46.75,
+    "variacao_percentual": -13.11,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 39
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 74
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 97
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 73
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 101
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 86
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 96
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 172
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 136
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 147
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 143
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 155
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 108
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 152
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 167
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 125
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 212
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 245
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 204
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 245
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 230
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 231
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 341
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 345
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 306
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 339
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 341
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 346
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 379
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 360
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 444
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 424
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 371
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 356.5,
+      "media_recente": 309.75,
+      "variacao_percentual": -13.11,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "31",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 6.14,
+      "distancia_pico_semana_final": 3,
+      "pico_na_janela_recente": "Sim"
+    }
+  },
+  "interpretacao": "Em Rio Grande do Norte, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 31, com 444 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 212.76 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -13.11% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Rio Grande do Norte",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

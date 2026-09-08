@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_33",
+  "titulo": "Desfechos dos registros de dengue em Rio de Janeiro - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "33",
+    "uf_nome": "Rio de Janeiro",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Rio de Janeiro, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 6854,
+    "avaliaveis_hospitalizacao": 4959,
+    "hospitalizados": 480,
+    "percentual_hospitalizados": 9.68,
+    "total_evolucao_avaliavel": 4041,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 4029,
+    "percentual_evolucao_predominante": 99.7
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 6854,
+        "avaliaveis": 4959,
+        "hospitalizados": 480,
+        "nao_hospitalizados": 4479,
+        "ignorados": 404,
+        "ausentes": 1491,
+        "percentual_hospitalizados": 9.68,
+        "percentual_nao_hospitalizados": 90.32,
+        "percentual_ignorados": 5.89,
+        "percentual_ausentes": 21.75
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 4029,
+        "percentual_total": 58.78,
+        "avaliavel": true,
+        "total_avaliaveis": 4041,
+        "percentual_avaliaveis": 99.7
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 257,
+        "percentual_total": 3.75,
+        "avaliavel": false,
+        "total_avaliaveis": 4041,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 2,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 4041,
+        "percentual_avaliaveis": 0.05
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 6,
+        "percentual_total": 0.09,
+        "avaliavel": true,
+        "total_avaliaveis": 4041,
+        "percentual_avaliaveis": 0.15
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 4,
+        "percentual_total": 0.06,
+        "avaliavel": true,
+        "total_avaliaveis": 4041,
+        "percentual_avaliaveis": 0.1
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 2556,
+        "percentual_total": 37.29,
+        "avaliavel": false,
+        "total_avaliaveis": 4041,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Rio de Janeiro, foram considerados 6,854 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 480 apresentaram hospitalização, correspondendo a 9.68%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 4,029 registros e 99.70% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Rio de Janeiro",
+    "33",
+    "2026",
+    "SINAN"
+  ]
+}

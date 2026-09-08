@@ -1,0 +1,1176 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_51",
+  "titulo": "Distribuição geográfica dos registros de dengue em Mato Grosso — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "51",
+    "sigla_uf": "MT",
+    "uf_nome": "Mato Grosso",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Mato Grosso, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 11620,
+    "total_casos_notificacao": 11633,
+    "total_municipios_analisados": 130,
+    "municipio_maior_numero_casos": "Tangará da Serra",
+    "maior_numero_casos_municipio": 990,
+    "municipio_maior_incidencia": "Ribeirãozinho",
+    "maior_incidencia_100mil": 4126.49,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 11621,
+      "autoctones_residencia": 8820,
+      "percentual_autoctones": 75.9,
+      "nao_autoctones_residencia": 189,
+      "percentual_nao_autoctones": 1.63,
+      "indeterminados": 112,
+      "percentual_indeterminados": 0.96,
+      "ausentes": 2500,
+      "percentual_ausentes": 21.51,
+      "total_comparaveis_uf_residencia_infeccao": 8914,
+      "percentual_mesma_uf_residencia_infeccao": 99.94,
+      "percentual_uf_diferente_residencia_infeccao": 0.06
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 51
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 41
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 38
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "5107958",
+        "municipio": "Tangará da Serra",
+        "populacao_2022": 106434.0,
+        "casos": 990,
+        "incidencia_100mil": 930.15,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5101803",
+        "municipio": "Barra do Garças",
+        "populacao_2022": 69210.0,
+        "casos": 976,
+        "incidencia_100mil": 1410.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103403",
+        "municipio": "Cuiabá",
+        "populacao_2022": 650877.0,
+        "casos": 818,
+        "incidencia_100mil": 125.68,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5108402",
+        "municipio": "Várzea Grande",
+        "populacao_2022": 300078.0,
+        "casos": 782,
+        "incidencia_100mil": 260.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5107909",
+        "municipio": "Sinop",
+        "populacao_2022": 196312.0,
+        "casos": 486,
+        "incidencia_100mil": 247.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106257",
+        "municipio": "Nova Xavantina",
+        "populacao_2022": 24345.0,
+        "casos": 478,
+        "incidencia_100mil": 1963.44,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5105259",
+        "municipio": "Lucas do Rio Verde",
+        "populacao_2022": 83798.0,
+        "casos": 447,
+        "incidencia_100mil": 533.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107040",
+        "municipio": "Primavera do Leste",
+        "populacao_2022": 85146.0,
+        "casos": 416,
+        "incidencia_100mil": 488.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5102504",
+        "municipio": "Cáceres",
+        "populacao_2022": 89681.0,
+        "casos": 365,
+        "incidencia_100mil": 407.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5102702",
+        "municipio": "Canarana",
+        "populacao_2022": 25858.0,
+        "casos": 331,
+        "incidencia_100mil": 1280.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107941",
+        "municipio": "Tabaporã",
+        "populacao_2022": 9818.0,
+        "casos": 269,
+        "incidencia_100mil": 2739.87,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107107",
+        "municipio": "São José dos Quatro Marcos",
+        "populacao_2022": 17849.0,
+        "casos": 239,
+        "incidencia_100mil": 1339.01,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5105101",
+        "municipio": "Juara",
+        "populacao_2022": 34906.0,
+        "casos": 209,
+        "incidencia_100mil": 598.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107065",
+        "municipio": "Querência",
+        "populacao_2022": 26769.0,
+        "casos": 191,
+        "incidencia_100mil": 713.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106232",
+        "municipio": "Nova Olímpia",
+        "populacao_2022": 16352.0,
+        "casos": 185,
+        "incidencia_100mil": 1131.36,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5105150",
+        "municipio": "Juína",
+        "populacao_2022": 45869.0,
+        "casos": 177,
+        "incidencia_100mil": 385.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106802",
+        "municipio": "Porto dos Gaúchos",
+        "populacao_2022": 5593.0,
+        "casos": 177,
+        "incidencia_100mil": 3164.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106752",
+        "municipio": "Pontes e Lacerda",
+        "populacao_2022": 52018.0,
+        "casos": 173,
+        "incidencia_100mil": 332.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103304",
+        "municipio": "Comodoro",
+        "populacao_2022": 18238.0,
+        "casos": 168,
+        "incidencia_100mil": 921.15,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5102603",
+        "municipio": "Campinápolis",
+        "populacao_2022": 15347.0,
+        "casos": 158,
+        "incidencia_100mil": 1029.52,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5100359",
+        "municipio": "Alto Boa Vista",
+        "populacao_2022": 5715.0,
+        "casos": 142,
+        "incidencia_100mil": 2484.69,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5100250",
+        "municipio": "Alta Floresta",
+        "populacao_2022": 58613.0,
+        "casos": 125,
+        "incidencia_100mil": 213.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106653",
+        "municipio": "Pontal do Araguaia",
+        "populacao_2022": 6932.0,
+        "casos": 121,
+        "incidencia_100mil": 1745.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107198",
+        "municipio": "Ribeirãozinho",
+        "populacao_2022": 2593.0,
+        "casos": 107,
+        "incidencia_100mil": 4126.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103353",
+        "municipio": "Confresa",
+        "populacao_2022": 35075.0,
+        "casos": 98,
+        "incidencia_100mil": 279.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5102686",
+        "municipio": "Campos de Júlio",
+        "populacao_2022": 8822.0,
+        "casos": 97,
+        "incidencia_100mil": 1099.52,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5104542",
+        "municipio": "Itanhangá",
+        "populacao_2022": 7539.0,
+        "casos": 94,
+        "incidencia_100mil": 1246.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103254",
+        "municipio": "Colniza",
+        "populacao_2022": 25766.0,
+        "casos": 92,
+        "incidencia_100mil": 357.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5101308",
+        "municipio": "Arenápolis",
+        "populacao_2022": 10576.0,
+        "casos": 86,
+        "incidencia_100mil": 813.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5108055",
+        "municipio": "Terra Nova do Norte",
+        "populacao_2022": 10616.0,
+        "casos": 85,
+        "incidencia_100mil": 800.68,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5100201",
+        "municipio": "Água Boa",
+        "populacao_2022": 29219.0,
+        "casos": 79,
+        "incidencia_100mil": 270.37,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5107875",
+        "municipio": "Sapezal",
+        "populacao_2022": 28944.0,
+        "casos": 78,
+        "incidencia_100mil": 269.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5107305",
+        "municipio": "São José do Rio Claro",
+        "populacao_2022": 14911.0,
+        "casos": 73,
+        "incidencia_100mil": 489.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5101001",
+        "municipio": "Araguaiana",
+        "populacao_2022": 3795.0,
+        "casos": 70,
+        "incidencia_100mil": 1844.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107859",
+        "municipio": "São Félix do Araguaia",
+        "populacao_2022": 13621.0,
+        "casos": 70,
+        "incidencia_100mil": 513.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107248",
+        "municipio": "Santa Carmem",
+        "populacao_2022": 5374.0,
+        "casos": 69,
+        "incidencia_100mil": 1283.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106273",
+        "municipio": "Novo Horizonte do Norte",
+        "populacao_2022": 3349.0,
+        "casos": 67,
+        "incidencia_100mil": 2000.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5101258",
+        "municipio": "Araputanga",
+        "populacao_2022": 14786.0,
+        "casos": 65,
+        "incidencia_100mil": 439.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5100409",
+        "municipio": "Alto Garças",
+        "populacao_2022": 13052.0,
+        "casos": 64,
+        "incidencia_100mil": 490.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106422",
+        "municipio": "Peixoto de Azevedo",
+        "populacao_2022": 32714.0,
+        "casos": 63,
+        "incidencia_100mil": 192.58,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103502",
+        "municipio": "Diamantino",
+        "populacao_2022": 21941.0,
+        "casos": 63,
+        "incidencia_100mil": 287.13,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5105580",
+        "municipio": "Marcelândia",
+        "populacao_2022": 11396.0,
+        "casos": 63,
+        "incidencia_100mil": 552.83,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107925",
+        "municipio": "Sorriso",
+        "populacao_2022": 110635.0,
+        "casos": 63,
+        "incidencia_100mil": 56.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5103809",
+        "municipio": "Figueirópolis D'Oeste",
+        "populacao_2022": 3187.0,
+        "casos": 60,
+        "incidencia_100mil": 1882.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5101704",
+        "municipio": "Barra do Bugres",
+        "populacao_2022": 29403.0,
+        "casos": 59,
+        "incidencia_100mil": 200.66,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5102678",
+        "municipio": "Campo Verde",
+        "populacao_2022": 44585.0,
+        "casos": 58,
+        "incidencia_100mil": 130.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5105622",
+        "municipio": "Mirassol d'Oeste",
+        "populacao_2022": 26785.0,
+        "casos": 58,
+        "incidencia_100mil": 216.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103056",
+        "municipio": "Cláudia",
+        "populacao_2022": 9593.0,
+        "casos": 54,
+        "incidencia_100mil": 562.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5101902",
+        "municipio": "Brasnorte",
+        "populacao_2022": 17004.0,
+        "casos": 51,
+        "incidencia_100mil": 299.93,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5104526",
+        "municipio": "Ipiranga do Norte",
+        "populacao_2022": 7815.0,
+        "casos": 50,
+        "incidencia_100mil": 639.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103007",
+        "municipio": "Chapada dos Guimarães",
+        "populacao_2022": 18990.0,
+        "casos": 48,
+        "incidencia_100mil": 252.76,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106224",
+        "municipio": "Nova Mutum",
+        "populacao_2022": 55839.0,
+        "casos": 47,
+        "incidencia_100mil": 84.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5101407",
+        "municipio": "Aripuanã",
+        "populacao_2022": 24626.0,
+        "casos": 47,
+        "incidencia_100mil": 190.86,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5108204",
+        "municipio": "Torixoréu",
+        "populacao_2022": 4164.0,
+        "casos": 45,
+        "incidencia_100mil": 1080.69,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5102637",
+        "municipio": "Campo Novo do Parecis",
+        "populacao_2022": 45899.0,
+        "casos": 44,
+        "incidencia_100mil": 95.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106240",
+        "municipio": "Nova Ubiratã",
+        "populacao_2022": 11530.0,
+        "casos": 42,
+        "incidencia_100mil": 364.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103205",
+        "municipio": "Colíder",
+        "populacao_2022": 31370.0,
+        "casos": 42,
+        "incidencia_100mil": 133.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106778",
+        "municipio": "Porto Alegre do Norte",
+        "populacao_2022": 12127.0,
+        "casos": 41,
+        "incidencia_100mil": 338.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106281",
+        "municipio": "Novo São Joaquim",
+        "populacao_2022": 6919.0,
+        "casos": 38,
+        "incidencia_100mil": 549.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107602",
+        "municipio": "Rondonópolis",
+        "populacao_2022": 244911.0,
+        "casos": 34,
+        "incidencia_100mil": 13.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5108501",
+        "municipio": "Vera",
+        "populacao_2022": 12800.0,
+        "casos": 32,
+        "incidencia_100mil": 250.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5100300",
+        "municipio": "Alto Araguaia",
+        "populacao_2022": 17193.0,
+        "casos": 32,
+        "incidencia_100mil": 186.12,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106299",
+        "municipio": "Paranaíta",
+        "populacao_2022": 11671.0,
+        "casos": 32,
+        "incidencia_100mil": 274.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103700",
+        "municipio": "Feliz Natal",
+        "populacao_2022": 10521.0,
+        "casos": 31,
+        "incidencia_100mil": 294.65,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5105606",
+        "municipio": "Matupá",
+        "populacao_2022": 20091.0,
+        "casos": 31,
+        "incidencia_100mil": 154.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5100508",
+        "municipio": "Alto Paraguai",
+        "populacao_2022": 8009.0,
+        "casos": 29,
+        "incidencia_100mil": 362.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106851",
+        "municipio": "Porto Estrela",
+        "populacao_2022": 3224.0,
+        "casos": 28,
+        "incidencia_100mil": 868.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107156",
+        "municipio": "Reserva do Cabaçal",
+        "populacao_2022": 2122.0,
+        "casos": 28,
+        "incidencia_100mil": 1319.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106505",
+        "municipio": "Poconé",
+        "populacao_2022": 31217.0,
+        "casos": 27,
+        "incidencia_100mil": 86.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5104104",
+        "municipio": "Guarantã do Norte",
+        "populacao_2022": 31024.0,
+        "casos": 27,
+        "incidencia_100mil": 87.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5108352",
+        "municipio": "Vale de São Domingos",
+        "populacao_2022": 2904.0,
+        "casos": 25,
+        "incidencia_100mil": 860.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5105234",
+        "municipio": "Lambari D'Oeste",
+        "populacao_2022": 4790.0,
+        "casos": 24,
+        "incidencia_100mil": 501.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5103379",
+        "municipio": "Cotriguaçu",
+        "populacao_2022": 11011.0,
+        "casos": 24,
+        "incidencia_100mil": 217.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106182",
+        "municipio": "Nova Lacerda",
+        "populacao_2022": 6670.0,
+        "casos": 23,
+        "incidencia_100mil": 344.83,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5107701",
+        "municipio": "Rosário Oeste",
+        "populacao_2022": 15453.0,
+        "casos": 21,
+        "incidencia_100mil": 135.9,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5100607",
+        "municipio": "Alto Taquari",
+        "populacao_2022": 10904.0,
+        "casos": 21,
+        "incidencia_100mil": 192.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103908",
+        "municipio": "General Carneiro",
+        "populacao_2022": 6037.0,
+        "casos": 19,
+        "incidencia_100mil": 314.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5102793",
+        "municipio": "Carlinda",
+        "populacao_2022": 10332.0,
+        "casos": 19,
+        "incidencia_100mil": 183.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103957",
+        "municipio": "Glória D'Oeste",
+        "populacao_2022": 2905.0,
+        "casos": 18,
+        "incidencia_100mil": 619.62,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5105002",
+        "municipio": "Jauru",
+        "populacao_2022": 8367.0,
+        "casos": 16,
+        "incidencia_100mil": 191.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5107578",
+        "municipio": "Rondolândia",
+        "populacao_2022": 3505.0,
+        "casos": 16,
+        "incidencia_100mil": 456.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5108006",
+        "municipio": "Tapurah",
+        "populacao_2022": 14370.0,
+        "casos": 15,
+        "incidencia_100mil": 104.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5108600",
+        "municipio": "Vila Rica",
+        "populacao_2022": 19888.0,
+        "casos": 15,
+        "incidencia_100mil": 75.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5104609",
+        "municipio": "Itiquira",
+        "populacao_2022": 12236.0,
+        "casos": 13,
+        "incidencia_100mil": 106.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106158",
+        "municipio": "Nova Bandeirantes",
+        "populacao_2022": 13635.0,
+        "casos": 12,
+        "incidencia_100mil": 88.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5108105",
+        "municipio": "Tesouro",
+        "populacao_2022": 3025.0,
+        "casos": 11,
+        "incidencia_100mil": 363.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5106307",
+        "municipio": "Paranatinga",
+        "populacao_2022": 26423.0,
+        "casos": 10,
+        "incidencia_100mil": 37.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106190",
+        "municipio": "Nova Santa Helena",
+        "populacao_2022": 4239.0,
+        "casos": 10,
+        "incidencia_100mil": 235.9,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5101605",
+        "municipio": "Barão de Melgaço",
+        "populacao_2022": 7253.0,
+        "casos": 10,
+        "incidencia_100mil": 137.87,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106828",
+        "municipio": "Porto Esperidião",
+        "populacao_2022": 10204.0,
+        "casos": 10,
+        "incidencia_100mil": 98.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5108303",
+        "municipio": "União do Sul",
+        "populacao_2022": 3838.0,
+        "casos": 9,
+        "incidencia_100mil": 234.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5107180",
+        "municipio": "Ribeirão Cascalheira",
+        "populacao_2022": 10089.0,
+        "casos": 9,
+        "incidencia_100mil": 89.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5101852",
+        "municipio": "Bom Jesus do Araguaia",
+        "populacao_2022": 7280.0,
+        "casos": 8,
+        "incidencia_100mil": 109.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5100805",
+        "municipio": "Apiacás",
+        "populacao_2022": 8590.0,
+        "casos": 8,
+        "incidencia_100mil": 93.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107008",
+        "municipio": "Poxoréu",
+        "populacao_2022": 23283.0,
+        "casos": 8,
+        "incidencia_100mil": 34.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107800",
+        "municipio": "Santo Antônio de Leverger",
+        "populacao_2022": 15246.0,
+        "casos": 8,
+        "incidencia_100mil": 52.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5108857",
+        "municipio": "Nova Marilândia",
+        "populacao_2022": 3529.0,
+        "casos": 7,
+        "incidencia_100mil": 198.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103106",
+        "municipio": "Cocalinho",
+        "populacao_2022": 6220.0,
+        "casos": 7,
+        "incidencia_100mil": 112.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106703",
+        "municipio": "Ponte Branca",
+        "populacao_2022": 2008.0,
+        "casos": 7,
+        "incidencia_100mil": 348.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5102694",
+        "municipio": "Canabrava do Norte",
+        "populacao_2022": 4485.0,
+        "casos": 6,
+        "incidencia_100mil": 133.78,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106265",
+        "municipio": "Novo Mundo",
+        "populacao_2022": 6520.0,
+        "casos": 6,
+        "incidencia_100mil": 92.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106216",
+        "municipio": "Nova Canaã do Norte",
+        "populacao_2022": 11707.0,
+        "casos": 6,
+        "incidencia_100mil": 51.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107206",
+        "municipio": "Rio Branco",
+        "populacao_2022": 4535.0,
+        "casos": 6,
+        "incidencia_100mil": 132.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5103858",
+        "municipio": "Gaúcha do Norte",
+        "populacao_2022": 8642.0,
+        "casos": 5,
+        "incidencia_100mil": 57.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107883",
+        "municipio": "Serra Nova Dourada",
+        "populacao_2022": 1800.0,
+        "casos": 5,
+        "incidencia_100mil": 277.78,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5108907",
+        "municipio": "Nova Maringá",
+        "populacao_2022": 5846.0,
+        "casos": 5,
+        "incidencia_100mil": 85.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106109",
+        "municipio": "Nossa Senhora do Livramento",
+        "populacao_2022": 12940.0,
+        "casos": 5,
+        "incidencia_100mil": 38.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5104807",
+        "municipio": "Jaciara",
+        "populacao_2022": 28569.0,
+        "casos": 5,
+        "incidencia_100mil": 17.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5103601",
+        "municipio": "Dom Aquino",
+        "populacao_2022": 7872.0,
+        "casos": 5,
+        "incidencia_100mil": 63.52,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5103452",
+        "municipio": "Denise",
+        "populacao_2022": 7014.0,
+        "casos": 5,
+        "incidencia_100mil": 71.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5105903",
+        "municipio": "Nobres",
+        "populacao_2022": 15492.0,
+        "casos": 5,
+        "incidencia_100mil": 32.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106174",
+        "municipio": "Nova Nazaré",
+        "populacao_2022": 4200.0,
+        "casos": 4,
+        "incidencia_100mil": 95.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5103437",
+        "municipio": "Curvelândia",
+        "populacao_2022": 4903.0,
+        "casos": 4,
+        "incidencia_100mil": 81.58,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107750",
+        "municipio": "Salto do Céu",
+        "populacao_2022": 3679.0,
+        "casos": 3,
+        "incidencia_100mil": 81.54,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5103361",
+        "municipio": "Conquista D'Oeste",
+        "populacao_2022": 3760.0,
+        "casos": 3,
+        "incidencia_100mil": 79.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5104203",
+        "municipio": "Guiratinga",
+        "populacao_2022": 10966.0,
+        "casos": 3,
+        "incidencia_100mil": 27.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5105176",
+        "municipio": "Juruena",
+        "populacao_2022": 10213.0,
+        "casos": 3,
+        "incidencia_100mil": 29.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5105200",
+        "municipio": "Juscimeira",
+        "populacao_2022": 11480.0,
+        "casos": 3,
+        "incidencia_100mil": 26.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5101209",
+        "municipio": "Araguainha",
+        "populacao_2022": 1010.0,
+        "casos": 3,
+        "incidencia_100mil": 297.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5106372",
+        "municipio": "Pedra Preta",
+        "populacao_2022": 18066.0,
+        "casos": 3,
+        "incidencia_100mil": 16.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5100102",
+        "municipio": "Acorizal",
+        "populacao_2022": 5014.0,
+        "casos": 2,
+        "incidencia_100mil": 39.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5105309",
+        "municipio": "Luciara",
+        "populacao_2022": 2509.0,
+        "casos": 2,
+        "incidencia_100mil": 79.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107354",
+        "municipio": "São José do Xingu",
+        "populacao_2022": 5964.0,
+        "casos": 2,
+        "incidencia_100mil": 33.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106315",
+        "municipio": "Novo Santo Antônio",
+        "populacao_2022": 2015.0,
+        "casos": 2,
+        "incidencia_100mil": 99.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106455",
+        "municipio": "Planalto da Serra",
+        "populacao_2022": 3166.0,
+        "casos": 2,
+        "incidencia_100mil": 63.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107263",
+        "municipio": "Santo Afonso",
+        "populacao_2022": 2519.0,
+        "casos": 2,
+        "incidencia_100mil": 79.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107768",
+        "municipio": "Santa Rita do Trivelato",
+        "populacao_2022": 3276.0,
+        "casos": 2,
+        "incidencia_100mil": 61.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107776",
+        "municipio": "Santa Terezinha",
+        "populacao_2022": 7596.0,
+        "casos": 2,
+        "incidencia_100mil": 26.33,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5106000",
+        "municipio": "Nortelândia",
+        "populacao_2022": 5956.0,
+        "casos": 1,
+        "incidencia_100mil": 16.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5107297",
+        "municipio": "São José do Povo",
+        "populacao_2022": 2875.0,
+        "casos": 1,
+        "incidencia_100mil": 34.78,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "MT",
+        "uf_provavel_infeccao": "MT",
+        "total_registros": 8909,
+        "percentual_dentro_uf_residencia": 99.94
+      },
+      {
+        "uf_residencia": "MT",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "MT",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "MT",
+        "uf_provavel_infeccao": "RO",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "MT",
+        "uf_provavel_infeccao": "SE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      }
+    ]
+  },
+  "interpretacao": "Na UF Mato Grosso, foram contabilizados 11.620 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 130 municípios com informações disponíveis para análise, Tangará da Serra apresentou o maior número absoluto de notificações, com 990. A maior incidência foi observada em Ribeirãozinho, com 4.126,49 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 75,90% dos registros de MT foram classificados como autóctones, 1,63% como não autóctones, 0,96% como indeterminados e 21,51% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,94% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Mato Grosso",
+    "MT",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

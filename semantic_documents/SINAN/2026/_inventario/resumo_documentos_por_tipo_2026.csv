@@ -1,0 +1,14 @@
+﻿DOMINIO,TIPO_DOCUMENTO,TOTAL_DOCUMENTOS
+clinico,panorama_clinico_nacional,1
+clinico,perfil_clinico_uf,27
+desfechos,desfechos_uf,27
+desfechos,panorama_desfechos_nacional,1
+desfechos,panorama_obitos_nacional,1
+desfechos,perfil_obitos_uf,26
+epidemiologico,panorama_epidemiologico_integrado,1
+geografico,distribuicao_geografica_uf,27
+geografico,panorama_geografico_nacional,1
+temporal,panorama_temporal_nacional,1
+temporal,perfil_temporal_uf,27
+virologico,panorama_virologico_nacional,1
+virologico,perfil_virologico_uf,27

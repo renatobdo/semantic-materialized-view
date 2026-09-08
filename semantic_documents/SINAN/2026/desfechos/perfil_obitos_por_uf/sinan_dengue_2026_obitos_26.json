@@ -1,0 +1,342 @@
+{
+  "document_id": "SINAN_DENGUE_2026_OBITOS_26",
+  "titulo": "Perfil dos registros classificados em categorias de óbito em Pernambuco - 2026",
+  "tipo_documento": "perfil_obitos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "26",
+    "uf_nome": "Pernambuco",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "populacao_analitica": "registros classificados em categorias de evolução relacionadas a óbito"
+  },
+  "sintese": "Este documento apresenta o perfil dos registros classificados em categorias de evolução relacionadas a óbito no SINAN em Pernambuco, entre as semanas epidemiológicas 1 e 34 de 2026. São apresentadas informações sobre tipo de óbito, sorotipo, sinais clínicos e doenças preexistentes.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros_uf": 22036,
+    "total_registros_obito": 22,
+    "pequeno_numero_registros_obito": false,
+    "total_evolucao_avaliavel": 9665,
+    "percentual_obitos_total": 0.0998,
+    "percentual_obitos_avaliaveis": 0.2276,
+    "tipo_obito_predominante": "Óbito em investigação",
+    "total_tipo_obito_predominante": 16,
+    "sinal_clinico_mais_frequente": "Febre",
+    "percentual_sinal_clinico": 68.18,
+    "doenca_preexistente_mais_frequente": "Hipertensão arterial",
+    "percentual_doenca_preexistente": 22.73
+  },
+  "evidencias": {
+    "tipos_de_obito": [
+      {
+        "tipo_obito": "Óbito em investigação",
+        "total_obitos": 16
+      },
+      {
+        "tipo_obito": "Óbito por outras causas",
+        "total_obitos": 5
+      },
+      {
+        "tipo_obito": "Óbito pelo agravo",
+        "total_obitos": 1
+      }
+    ],
+    "sorotipos_entre_obitos": [
+      {
+        "sorotipo": "DENV-3",
+        "total_registros_obito": 2,
+        "total_obitos_uf": 22,
+        "percentual_total_obitos_uf": 9.09,
+        "total_sorotipo_informado_uf": 2,
+        "percentual_entre_sorotipos_informados": 100.0
+      },
+      {
+        "sorotipo": "Ausente",
+        "total_registros_obito": 20,
+        "total_obitos_uf": 22,
+        "percentual_total_obitos_uf": 90.91,
+        "total_sorotipo_informado_uf": 2,
+        "percentual_entre_sorotipos_informados": null
+      }
+    ],
+    "sinais_clinicos_entre_obitos": [
+      {
+        "variavel": "FEBRE_DECODED",
+        "sinal_clinico": "Febre",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 15,
+        "nao": 7,
+        "ausentes": 0,
+        "percentual_sim": 68.18,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "VOMITO_DECODED",
+        "sinal_clinico": "Vômito",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 11,
+        "nao": 11,
+        "ausentes": 0,
+        "percentual_sim": 50.0,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "MIALGIA_DECODED",
+        "sinal_clinico": "Mialgia",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 10,
+        "nao": 12,
+        "ausentes": 0,
+        "percentual_sim": 45.45,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "NAUSEA_DECODED",
+        "sinal_clinico": "Náusea",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 9,
+        "nao": 13,
+        "ausentes": 0,
+        "percentual_sim": 40.91,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "CEFALEIA_DECODED",
+        "sinal_clinico": "Cefaleia",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 7,
+        "nao": 15,
+        "ausentes": 0,
+        "percentual_sim": 31.82,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "PETEQUIA_N_DECODED",
+        "sinal_clinico": "Petéquias",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 5,
+        "nao": 17,
+        "ausentes": 0,
+        "percentual_sim": 22.73,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "DOR_COSTAS_DECODED",
+        "sinal_clinico": "Dor nas costas",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 4,
+        "nao": 18,
+        "ausentes": 0,
+        "percentual_sim": 18.18,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "LEUCOPENIA_DECODED",
+        "sinal_clinico": "Leucopenia",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 3,
+        "nao": 19,
+        "ausentes": 0,
+        "percentual_sim": 13.64,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "ARTRALGIA_DECODED",
+        "sinal_clinico": "Artralgia",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 3,
+        "nao": 19,
+        "ausentes": 0,
+        "percentual_sim": 13.64,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "EXANTEMA_DECODED",
+        "sinal_clinico": "Exantema",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 1,
+        "nao": 21,
+        "ausentes": 0,
+        "percentual_sim": 4.55,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "DOR_RETRO_DECODED",
+        "sinal_clinico": "Dor retro-orbital",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 1,
+        "nao": 21,
+        "ausentes": 0,
+        "percentual_sim": 4.55,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "ARTRITE_DECODED",
+        "sinal_clinico": "Artrite",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 1,
+        "nao": 21,
+        "ausentes": 0,
+        "percentual_sim": 4.55,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "CONJUNTVIT_DECODED",
+        "sinal_clinico": "Conjuntivite",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "LACO_DECODED",
+        "sinal_clinico": "Prova do laço",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      }
+    ],
+    "doencas_preexistentes_entre_obitos": [
+      {
+        "variavel": "HIPERTENSA_DECODED",
+        "doenca_preexistente": "Hipertensão arterial",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 5,
+        "nao": 17,
+        "ausentes": 0,
+        "percentual_sim": 22.73,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "DIABETES_DECODED",
+        "doenca_preexistente": "Diabetes",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 1,
+        "nao": 21,
+        "ausentes": 0,
+        "percentual_sim": 4.55,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "HEMATOLOG_DECODED",
+        "doenca_preexistente": "Doença hematológica",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "HEPATOPAT_DECODED",
+        "doenca_preexistente": "Hepatopatia",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "RENAL_DECODED",
+        "doenca_preexistente": "Doença renal",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "ACIDO_PEPT_DECODED",
+        "doenca_preexistente": "Doença ácido-péptica",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "AUTO_IMUNE_DECODED",
+        "doenca_preexistente": "Doença autoimune",
+        "total_registros_obito": 22,
+        "avaliaveis": 22,
+        "sim": 0,
+        "nao": 22,
+        "ausentes": 0,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Pernambuco, foram identificados 22 registros classificados em categorias de evolução relacionadas a óbito, entre as semanas epidemiológicas 1 e 34 de 2026. Esse conjunto corresponde a 0.0998% do total de 22,036 registros de dengue da UF. Entre os tipos de óbito registrados, Óbito em investigação apresentou a maior frequência, com 16 registros.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os registros de óbito incluem as categorias óbito pelo agravo, óbito em investigação e óbito por outras causas.",
+    "Os percentuais de sinais clínicos e doenças preexistentes são calculados sobre os registros avaliáveis de cada variável.",
+    "A ausência de informação de sorotipo é mantida explicitamente nas evidências.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais entre sinais clínicos, doenças preexistentes, sorotipo e óbito."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "óbito",
+    "evolução clínica",
+    "óbito pelo agravo",
+    "óbito em investigação",
+    "óbito por outras causas",
+    "sorotipo",
+    "sinal clínico",
+    "doença preexistente",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "óbito",
+    "mortalidade",
+    "evolução",
+    "sorotipo",
+    "sinais clínicos",
+    "doenças preexistentes",
+    "Pernambuco",
+    "26",
+    "2026",
+    "SINAN"
+  ]
+}

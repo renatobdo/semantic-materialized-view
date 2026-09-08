@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_22",
+  "titulo": "Comportamento temporal dos registros de dengue em Piauí — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "22",
+    "uf_nome": "Piauí",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Piauí entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 17383,
+    "total_semanas": 34,
+    "media_semanal": 511.26,
+    "mediana_semanal": 483.5,
+    "minimo_semanal": 0,
+    "maximo_semanal": 1131,
+    "semana_pico": 21,
+    "total_pico": 1131,
+    "desvio_padrao": 347.91,
+    "coeficiente_variacao": 68.05,
+    "media_periodo_anterior": 438.0,
+    "media_periodo_recente": 127.25,
+    "variacao_absoluta": -310.75,
+    "variacao_percentual": -70.95,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 39
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 73
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 89
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 124
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 157
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 244
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 165
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 355
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 332
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 481
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 486
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 649
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 528
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 804
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 934
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 615
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 727
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 812
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 988
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 1038
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 1131
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 1056
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 1093
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 907
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 803
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 492
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 584
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 406
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 417
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 345
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 226
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 210
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 73
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 438.0,
+      "media_recente": 127.25,
+      "variacao_percentual": -70.95,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "21",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 6.51,
+      "distancia_pico_semana_final": 13,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Piauí, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 21, com 1,131 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 511.26 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -70.95% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Piauí",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

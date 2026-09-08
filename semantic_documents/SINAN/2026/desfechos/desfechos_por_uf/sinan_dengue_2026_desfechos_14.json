@@ -1,0 +1,113 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_14",
+  "titulo": "Desfechos dos registros de dengue em Roraima - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "14",
+    "uf_nome": "Roraima",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Roraima, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 556,
+    "avaliaveis_hospitalizacao": 460,
+    "hospitalizados": 56,
+    "percentual_hospitalizados": 12.17,
+    "total_evolucao_avaliavel": 322,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 320,
+    "percentual_evolucao_predominante": 99.38
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 556,
+        "avaliaveis": 460,
+        "hospitalizados": 56,
+        "nao_hospitalizados": 404,
+        "ignorados": 16,
+        "ausentes": 80,
+        "percentual_hospitalizados": 12.17,
+        "percentual_nao_hospitalizados": 87.83,
+        "percentual_ignorados": 2.88,
+        "percentual_ausentes": 14.39
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 320,
+        "percentual_total": 57.55,
+        "avaliavel": true,
+        "total_avaliaveis": 322,
+        "percentual_avaliaveis": 99.38
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 64,
+        "percentual_total": 11.51,
+        "avaliavel": false,
+        "total_avaliaveis": 322,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 2,
+        "percentual_total": 0.36,
+        "avaliavel": true,
+        "total_avaliaveis": 322,
+        "percentual_avaliaveis": 0.62
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 170,
+        "percentual_total": 30.58,
+        "avaliavel": false,
+        "total_avaliaveis": 322,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Roraima, foram considerados 556 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 56 apresentaram hospitalização, correspondendo a 12.17%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 320 registros e 99.38% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Roraima",
+    "14",
+    "2026",
+    "SINAN"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_42",
+  "titulo": "Comportamento temporal dos registros de dengue em Santa Catarina — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "42",
+    "uf_nome": "Santa Catarina",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Santa Catarina entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 3070,
+    "total_semanas": 34,
+    "media_semanal": 90.29,
+    "mediana_semanal": 72.0,
+    "minimo_semanal": 0,
+    "maximo_semanal": 250,
+    "semana_pico": 33,
+    "total_pico": 250,
+    "desvio_padrao": 56.69,
+    "coeficiente_variacao": 62.78,
+    "media_periodo_anterior": 50.75,
+    "media_periodo_recente": 101.0,
+    "variacao_absoluta": 50.25,
+    "variacao_percentual": 99.01,
+    "classificacao_variacao": "Aumento"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 35
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 65
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 59
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 62
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 85
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 58
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 76
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 59
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 78
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 65
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 94
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 87
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 109
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 131
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 166
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 201
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 223
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 172
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 147
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 88
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 84
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 43
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 115
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 68
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 57
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 36
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 29
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 57
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 52
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 65
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 49
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 105
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 250
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 50.75,
+      "media_recente": 101.0,
+      "variacao_percentual": 99.01,
+      "classificacao": "Aumento"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "33",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 8.14,
+      "distancia_pico_semana_final": 1,
+      "pico_na_janela_recente": "Sim"
+    }
+  },
+  "interpretacao": "Em Santa Catarina, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 33, com 250 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 90.29 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de 99.01% na média semanal, classificada como aumento.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Santa Catarina",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

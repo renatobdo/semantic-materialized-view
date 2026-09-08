@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_32",
+  "titulo": "Comportamento temporal dos registros de dengue em Espírito Santo — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "32",
+    "uf_nome": "Espírito Santo",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Espírito Santo entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 19414,
+    "total_semanas": 34,
+    "media_semanal": 571.0,
+    "mediana_semanal": 561.0,
+    "minimo_semanal": 16,
+    "maximo_semanal": 1170,
+    "semana_pico": 17,
+    "total_pico": 1170,
+    "desvio_padrao": 282.69,
+    "coeficiente_variacao": 49.51,
+    "media_periodo_anterior": 574.0,
+    "media_periodo_recente": 499.5,
+    "variacao_absoluta": -74.5,
+    "variacao_percentual": -12.98,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 99
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 206
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 171
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 263
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 216
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 295
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 280
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 466
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 446
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 481
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 560
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 833
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 652
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 817
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 839
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 967
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 1170
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 1028
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 1035
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 896
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 761
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 562
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 588
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 466
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 546
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 477
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 722
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 517
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 655
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 402
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 641
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 687
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 654
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 16
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 574.0,
+      "media_recente": 499.5,
+      "variacao_percentual": -12.98,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "17",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 6.03,
+      "distancia_pico_semana_final": 17,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Espírito Santo, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 17, com 1,170 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 571.00 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -12.98% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Espírito Santo",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

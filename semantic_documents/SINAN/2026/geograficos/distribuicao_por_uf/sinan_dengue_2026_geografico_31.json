@@ -1,0 +1,6232 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_31",
+  "titulo": "Distribuição geográfica dos registros de dengue em Minas Gerais — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "31",
+    "sigla_uf": "MG",
+    "uf_nome": "Minas Gerais",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Minas Gerais, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 61668,
+    "total_casos_notificacao": 61248,
+    "total_municipios_analisados": 756,
+    "municipio_maior_numero_casos": "Uberlândia",
+    "maior_numero_casos_municipio": 7605,
+    "municipio_maior_incidencia": "Machacalis",
+    "maior_incidencia_100mil": 8447.66,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 61668,
+      "autoctones_residencia": 28543,
+      "percentual_autoctones": 46.28,
+      "nao_autoctones_residencia": 571,
+      "percentual_nao_autoctones": 0.93,
+      "indeterminados": 867,
+      "percentual_indeterminados": 1.41,
+      "ausentes": 31687,
+      "percentual_ausentes": 51.38,
+      "total_comparaveis_uf_residencia_infeccao": 28502,
+      "percentual_mesma_uf_residencia_infeccao": 99.88,
+      "percentual_uf_diferente_residencia_infeccao": 0.12
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 166
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 387
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 203
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "3170206",
+        "municipio": "Uberlândia",
+        "populacao_2022": 713224.0,
+        "casos": 7605,
+        "incidencia_100mil": 1066.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3135100",
+        "municipio": "Janaúba",
+        "populacao_2022": 70699.0,
+        "casos": 2797,
+        "incidencia_100mil": 3956.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3106200",
+        "municipio": "Belo Horizonte",
+        "populacao_2022": 2315560.0,
+        "casos": 2385,
+        "incidencia_100mil": 103.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3122306",
+        "municipio": "Divinópolis",
+        "populacao_2022": 231091.0,
+        "casos": 2180,
+        "incidencia_100mil": 943.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3154606",
+        "municipio": "Ribeirão das Neves",
+        "populacao_2022": 329794.0,
+        "casos": 1971,
+        "incidencia_100mil": 597.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3152808",
+        "municipio": "Prata",
+        "populacao_2022": 28342.0,
+        "casos": 1725,
+        "incidencia_100mil": 6086.37,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3156700",
+        "municipio": "Sabará",
+        "populacao_2022": 129380.0,
+        "casos": 1587,
+        "incidencia_100mil": 1226.62,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3143302",
+        "municipio": "Montes Claros",
+        "populacao_2022": 414240.0,
+        "casos": 1497,
+        "incidencia_100mil": 361.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3107307",
+        "municipio": "Bocaiúva",
+        "populacao_2022": 48032.0,
+        "casos": 1153,
+        "incidencia_100mil": 2400.48,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3103504",
+        "municipio": "Araguari",
+        "populacao_2022": 117808.0,
+        "casos": 1145,
+        "incidencia_100mil": 971.92,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3152006",
+        "municipio": "Pompéu",
+        "populacao_2022": 31047.0,
+        "casos": 1063,
+        "incidencia_100mil": 3423.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3104205",
+        "municipio": "Arcos",
+        "populacao_2022": 41416.0,
+        "casos": 1054,
+        "incidencia_100mil": 2544.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3129806",
+        "municipio": "Ibirité",
+        "populacao_2022": 170537.0,
+        "casos": 1030,
+        "incidencia_100mil": 603.97,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3162955",
+        "municipio": "São José da Lapa",
+        "populacao_2022": 26090.0,
+        "casos": 987,
+        "incidencia_100mil": 3783.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3131307",
+        "municipio": "Ipatinga",
+        "populacao_2022": 227731.0,
+        "casos": 960,
+        "incidencia_100mil": 421.55,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3100906",
+        "municipio": "Águas Formosas",
+        "populacao_2022": 18448.0,
+        "casos": 744,
+        "incidencia_100mil": 4032.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3169604",
+        "municipio": "Tupaciguara",
+        "populacao_2022": 25470.0,
+        "casos": 736,
+        "incidencia_100mil": 2889.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3116605",
+        "municipio": "Cláudio",
+        "populacao_2022": 30159.0,
+        "casos": 720,
+        "incidencia_100mil": 2387.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3101102",
+        "municipio": "Aimorés",
+        "populacao_2022": 25269.0,
+        "casos": 668,
+        "incidencia_100mil": 2643.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3106705",
+        "municipio": "Betim",
+        "populacao_2022": 411846.0,
+        "casos": 661,
+        "incidencia_100mil": 160.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3170107",
+        "municipio": "Uberaba",
+        "populacao_2022": 337836.0,
+        "casos": 607,
+        "incidencia_100mil": 179.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3112604",
+        "municipio": "Capinópolis",
+        "populacao_2022": 14655.0,
+        "casos": 588,
+        "incidencia_100mil": 4012.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3126703",
+        "municipio": "Francisco Sá",
+        "populacao_2022": 23476.0,
+        "casos": 586,
+        "incidencia_100mil": 2496.17,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3145208",
+        "municipio": "Nova Serrana",
+        "populacao_2022": 105552.0,
+        "casos": 582,
+        "incidencia_100mil": 551.39,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3118601",
+        "municipio": "Contagem",
+        "populacao_2022": 621863.0,
+        "casos": 563,
+        "incidencia_100mil": 90.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3138906",
+        "municipio": "Machacalis",
+        "populacao_2022": 6487.0,
+        "casos": 548,
+        "incidencia_100mil": 8447.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3127107",
+        "municipio": "Frutal",
+        "populacao_2022": 58588.0,
+        "casos": 500,
+        "incidencia_100mil": 853.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3127701",
+        "municipio": "Governador Valadares",
+        "populacao_2022": 257171.0,
+        "casos": 485,
+        "incidencia_100mil": 188.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3147907",
+        "municipio": "Passos",
+        "populacao_2022": 111939.0,
+        "casos": 475,
+        "incidencia_100mil": 424.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3119302",
+        "municipio": "Coromandel",
+        "populacao_2022": 28894.0,
+        "casos": 459,
+        "incidencia_100mil": 1588.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3104007",
+        "municipio": "Araxá",
+        "populacao_2022": 111691.0,
+        "casos": 456,
+        "incidencia_100mil": 408.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3103751",
+        "municipio": "Araporã",
+        "populacao_2022": 8479.0,
+        "casos": 405,
+        "incidencia_100mil": 4776.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3136702",
+        "municipio": "Juiz de Fora",
+        "populacao_2022": 540756.0,
+        "casos": 401,
+        "incidencia_100mil": 74.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3115805",
+        "municipio": "Centralina",
+        "populacao_2022": 10207.0,
+        "casos": 378,
+        "incidencia_100mil": 3703.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3144805",
+        "municipio": "Nova Lima",
+        "populacao_2022": 111697.0,
+        "casos": 371,
+        "incidencia_100mil": 332.15,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3169901",
+        "municipio": "Ubá",
+        "populacao_2022": 103365.0,
+        "casos": 370,
+        "incidencia_100mil": 357.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3110004",
+        "municipio": "Caeté",
+        "populacao_2022": 38776.0,
+        "casos": 345,
+        "incidencia_100mil": 889.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3121605",
+        "municipio": "Diamantina",
+        "populacao_2022": 47702.0,
+        "casos": 343,
+        "incidencia_100mil": 719.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3112703",
+        "municipio": "Capitão Enéas",
+        "populacao_2022": 14108.0,
+        "casos": 321,
+        "incidencia_100mil": 2275.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3168606",
+        "municipio": "Teófilo Otoni",
+        "populacao_2022": 137418.0,
+        "casos": 316,
+        "incidencia_100mil": 229.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3131158",
+        "municipio": "Ipaba",
+        "populacao_2022": 17136.0,
+        "casos": 309,
+        "incidencia_100mil": 1803.22,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3151206",
+        "municipio": "Pirapora",
+        "populacao_2022": 55606.0,
+        "casos": 300,
+        "incidencia_100mil": 539.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3157807",
+        "municipio": "Santa Luzia",
+        "populacao_2022": 219132.0,
+        "casos": 296,
+        "incidencia_100mil": 135.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3130101",
+        "municipio": "Igarapé",
+        "populacao_2022": 45847.0,
+        "casos": 294,
+        "incidencia_100mil": 641.26,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3126109",
+        "municipio": "Formiga",
+        "populacao_2022": 68248.0,
+        "casos": 292,
+        "incidencia_100mil": 427.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3137205",
+        "municipio": "Lagoa da Prata",
+        "populacao_2022": 51412.0,
+        "casos": 274,
+        "incidencia_100mil": 532.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3149309",
+        "municipio": "Pedro Leopoldo",
+        "populacao_2022": 62580.0,
+        "casos": 269,
+        "incidencia_100mil": 429.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3134202",
+        "municipio": "Ituiutaba",
+        "populacao_2022": 102217.0,
+        "casos": 263,
+        "incidencia_100mil": 257.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3138302",
+        "municipio": "Leandro Ferreira",
+        "populacao_2022": 3199.0,
+        "casos": 259,
+        "incidencia_100mil": 8096.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3171204",
+        "municipio": "Vespasiano",
+        "populacao_2022": 129246.0,
+        "casos": 259,
+        "incidencia_100mil": 200.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3152204",
+        "municipio": "Porteirinha",
+        "populacao_2022": 37438.0,
+        "casos": 258,
+        "incidencia_100mil": 689.14,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3112505",
+        "municipio": "Capim Branco",
+        "populacao_2022": 10663.0,
+        "casos": 244,
+        "incidencia_100mil": 2288.29,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3131901",
+        "municipio": "Itabirito",
+        "populacao_2022": 53365.0,
+        "casos": 242,
+        "incidencia_100mil": 453.48,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3125606",
+        "municipio": "Felisburgo",
+        "populacao_2022": 6489.0,
+        "casos": 230,
+        "incidencia_100mil": 3544.46,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3133402",
+        "municipio": "Itapagipe",
+        "populacao_2022": 13690.0,
+        "casos": 229,
+        "incidencia_100mil": 1672.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3168705",
+        "municipio": "Timóteo",
+        "populacao_2022": 81579.0,
+        "casos": 227,
+        "incidencia_100mil": 278.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3143906",
+        "municipio": "Muriaé",
+        "populacao_2022": 104108.0,
+        "casos": 226,
+        "incidencia_100mil": 217.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3143104",
+        "municipio": "Monte Carmelo",
+        "populacao_2022": 47692.0,
+        "casos": 225,
+        "incidencia_100mil": 471.78,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3101805",
+        "municipio": "Alpercata",
+        "populacao_2022": 6903.0,
+        "casos": 216,
+        "incidencia_100mil": 3129.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3124104",
+        "municipio": "Esmeraldas",
+        "populacao_2022": 85598.0,
+        "casos": 208,
+        "incidencia_100mil": 243.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3148004",
+        "municipio": "Patos de Minas",
+        "populacao_2022": 159235.0,
+        "casos": 198,
+        "incidencia_100mil": 124.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3153202",
+        "municipio": "Presidente Juscelino",
+        "populacao_2022": 3465.0,
+        "casos": 196,
+        "incidencia_100mil": 5656.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3134400",
+        "municipio": "Iturama",
+        "populacao_2022": 38295.0,
+        "casos": 183,
+        "incidencia_100mil": 477.87,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3146206",
+        "municipio": "Ouro Verde de Minas",
+        "populacao_2022": 5757.0,
+        "casos": 180,
+        "incidencia_100mil": 3126.63,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3145059",
+        "municipio": "Nova Porteirinha",
+        "populacao_2022": 6706.0,
+        "casos": 176,
+        "incidencia_100mil": 2624.52,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3162401",
+        "municipio": "São João da Ponte",
+        "populacao_2022": 23930.0,
+        "casos": 170,
+        "incidencia_100mil": 710.41,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3100104",
+        "municipio": "Abadia dos Dourados",
+        "populacao_2022": 6272.0,
+        "casos": 169,
+        "incidencia_100mil": 2694.52,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3111804",
+        "municipio": "Canápolis",
+        "populacao_2022": 10608.0,
+        "casos": 164,
+        "incidencia_100mil": 1546.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3159803",
+        "municipio": "Santa Vitória",
+        "populacao_2022": 20973.0,
+        "casos": 162,
+        "incidencia_100mil": 772.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3141108",
+        "municipio": "Matozinhos",
+        "populacao_2022": 37618.0,
+        "casos": 149,
+        "incidencia_100mil": 396.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3124807",
+        "municipio": "Estrela do Sul",
+        "populacao_2022": 6840.0,
+        "casos": 148,
+        "incidencia_100mil": 2163.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170404",
+        "municipio": "Unaí",
+        "populacao_2022": 86619.0,
+        "casos": 148,
+        "incidencia_100mil": 170.86,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3151602",
+        "municipio": "Planura",
+        "populacao_2022": 11145.0,
+        "casos": 145,
+        "incidencia_100mil": 1301.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3139409",
+        "municipio": "Manhuaçu",
+        "populacao_2022": 91886.0,
+        "casos": 144,
+        "incidencia_100mil": 156.72,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3105608",
+        "municipio": "Barbacena",
+        "populacao_2022": 125317.0,
+        "casos": 142,
+        "incidencia_100mil": 113.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3109006",
+        "municipio": "Brumadinho",
+        "populacao_2022": 38915.0,
+        "casos": 142,
+        "incidencia_100mil": 364.9,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3114204",
+        "municipio": "Carmo do Cajuru",
+        "populacao_2022": 23479.0,
+        "casos": 142,
+        "incidencia_100mil": 604.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3136652",
+        "municipio": "Juatuba",
+        "populacao_2022": 30716.0,
+        "casos": 137,
+        "incidencia_100mil": 446.02,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170909",
+        "municipio": "Varzelândia",
+        "populacao_2022": 18840.0,
+        "casos": 132,
+        "incidencia_100mil": 700.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3114303",
+        "municipio": "Carmo do Paranaíba",
+        "populacao_2022": 29011.0,
+        "casos": 132,
+        "incidencia_100mil": 455.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3120904",
+        "municipio": "Curvelo",
+        "populacao_2022": 80665.0,
+        "casos": 131,
+        "incidencia_100mil": 162.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3158953",
+        "municipio": "Santana do Paraíso",
+        "populacao_2022": 44800.0,
+        "casos": 131,
+        "incidencia_100mil": 292.41,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3149903",
+        "municipio": "Perdões",
+        "populacao_2022": 21384.0,
+        "casos": 128,
+        "incidencia_100mil": 598.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3149200",
+        "municipio": "Pedrinópolis",
+        "populacao_2022": 3344.0,
+        "casos": 125,
+        "incidencia_100mil": 3738.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3133808",
+        "municipio": "Itaúna",
+        "populacao_2022": 97669.0,
+        "casos": 121,
+        "incidencia_100mil": 123.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3111200",
+        "municipio": "Campo Belo",
+        "populacao_2022": 52277.0,
+        "casos": 116,
+        "incidencia_100mil": 221.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3153608",
+        "municipio": "Prudente de Morais",
+        "populacao_2022": 11466.0,
+        "casos": 115,
+        "incidencia_100mil": 1002.97,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3138625",
+        "municipio": "Limeira do Oeste",
+        "populacao_2022": 8687.0,
+        "casos": 112,
+        "incidencia_100mil": 1289.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3153905",
+        "municipio": "Raposos",
+        "populacao_2022": 16279.0,
+        "casos": 111,
+        "incidencia_100mil": 681.86,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3116506",
+        "municipio": "Claro dos Poções",
+        "populacao_2022": 7166.0,
+        "casos": 110,
+        "incidencia_100mil": 1535.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3131604",
+        "municipio": "Iraí de Minas",
+        "populacao_2022": 7180.0,
+        "casos": 108,
+        "incidencia_100mil": 1504.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3140506",
+        "municipio": "Martinho Campos",
+        "populacao_2022": 14003.0,
+        "casos": 105,
+        "incidencia_100mil": 749.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3128709",
+        "municipio": "Guaxupé",
+        "populacao_2022": 50911.0,
+        "casos": 104,
+        "incidencia_100mil": 204.28,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3157708",
+        "municipio": "Santa Juliana",
+        "populacao_2022": 15734.0,
+        "casos": 104,
+        "incidencia_100mil": 660.99,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3112307",
+        "municipio": "Capelinha",
+        "populacao_2022": 39626.0,
+        "casos": 104,
+        "incidencia_100mil": 262.45,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3119401",
+        "municipio": "Coronel Fabriciano",
+        "populacao_2022": 104736.0,
+        "casos": 101,
+        "incidencia_100mil": 96.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3145372",
+        "municipio": "Novorizonte",
+        "populacao_2022": 4571.0,
+        "casos": 101,
+        "incidencia_100mil": 2209.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3148103",
+        "municipio": "Patrocínio",
+        "populacao_2022": 89826.0,
+        "casos": 98,
+        "incidencia_100mil": 109.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3118304",
+        "municipio": "Conselheiro Lafaiete",
+        "populacao_2022": 131621.0,
+        "casos": 98,
+        "incidencia_100mil": 74.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154804",
+        "municipio": "Rio Acima",
+        "populacao_2022": 10261.0,
+        "casos": 97,
+        "incidencia_100mil": 945.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3154507",
+        "municipio": "Riacho dos Machados",
+        "populacao_2022": 8756.0,
+        "casos": 92,
+        "incidencia_100mil": 1050.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3147006",
+        "municipio": "Paracatu",
+        "populacao_2022": 94023.0,
+        "casos": 92,
+        "incidencia_100mil": 97.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154002",
+        "municipio": "Raul Soares",
+        "populacao_2022": 23423.0,
+        "casos": 91,
+        "incidencia_100mil": 388.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3129301",
+        "municipio": "Iapu",
+        "populacao_2022": 12030.0,
+        "casos": 90,
+        "incidencia_100mil": 748.13,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3128253",
+        "municipio": "Guaraciama",
+        "populacao_2022": 5051.0,
+        "casos": 90,
+        "incidencia_100mil": 1781.83,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3137601",
+        "municipio": "Lagoa Santa",
+        "populacao_2022": 75145.0,
+        "casos": 89,
+        "incidencia_100mil": 118.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3111101",
+        "municipio": "Campina Verde",
+        "populacao_2022": 18011.0,
+        "casos": 88,
+        "incidencia_100mil": 488.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3105400",
+        "municipio": "Barão de Cocais",
+        "populacao_2022": 30778.0,
+        "casos": 85,
+        "incidencia_100mil": 276.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3171006",
+        "municipio": "Vazante",
+        "populacao_2022": 19975.0,
+        "casos": 85,
+        "incidencia_100mil": 425.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170701",
+        "municipio": "Varginha",
+        "populacao_2022": 136467.0,
+        "casos": 84,
+        "incidencia_100mil": 61.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3152105",
+        "municipio": "Ponte Nova",
+        "populacao_2022": 57776.0,
+        "casos": 83,
+        "incidencia_100mil": 143.66,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3147105",
+        "municipio": "Pará de Minas",
+        "populacao_2022": 97139.0,
+        "casos": 82,
+        "incidencia_100mil": 84.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3124302",
+        "municipio": "Espinosa",
+        "populacao_2022": 30443.0,
+        "casos": 81,
+        "incidencia_100mil": 266.07,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3127339",
+        "municipio": "Gameleiras",
+        "populacao_2022": 4793.0,
+        "casos": 80,
+        "incidencia_100mil": 1669.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3126505",
+        "municipio": "Francisco Badaró",
+        "populacao_2022": 7366.0,
+        "casos": 76,
+        "incidencia_100mil": 1031.77,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3130200",
+        "municipio": "Igaratinga",
+        "populacao_2022": 10830.0,
+        "casos": 74,
+        "incidencia_100mil": 683.29,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3103405",
+        "municipio": "Araçuaí",
+        "populacao_2022": 34297.0,
+        "casos": 73,
+        "incidencia_100mil": 212.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3121258",
+        "municipio": "Delta",
+        "populacao_2022": 10494.0,
+        "casos": 73,
+        "incidencia_100mil": 695.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3131406",
+        "municipio": "Ipiaçu",
+        "populacao_2022": 3775.0,
+        "casos": 73,
+        "incidencia_100mil": 1933.77,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3138203",
+        "municipio": "Lavras",
+        "populacao_2022": 104761.0,
+        "casos": 72,
+        "incidencia_100mil": 68.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3166956",
+        "municipio": "Serranópolis de Minas",
+        "populacao_2022": 4399.0,
+        "casos": 68,
+        "incidencia_100mil": 1545.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3106309",
+        "municipio": "Belo Oriente",
+        "populacao_2022": 23928.0,
+        "casos": 67,
+        "incidencia_100mil": 280.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3146503",
+        "municipio": "Pains",
+        "populacao_2022": 8142.0,
+        "casos": 67,
+        "incidencia_100mil": 822.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170800",
+        "municipio": "Várzea da Palma",
+        "populacao_2022": 33744.0,
+        "casos": 66,
+        "incidencia_100mil": 195.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3120151",
+        "municipio": "Crisólita",
+        "populacao_2022": 5265.0,
+        "casos": 66,
+        "incidencia_100mil": 1253.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3151800",
+        "municipio": "Poços de Caldas",
+        "populacao_2022": 163742.0,
+        "casos": 64,
+        "incidencia_100mil": 39.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3118007",
+        "municipio": "Congonhas",
+        "populacao_2022": 52890.0,
+        "casos": 61,
+        "incidencia_100mil": 115.33,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3132404",
+        "municipio": "Itajubá",
+        "populacao_2022": 93073.0,
+        "casos": 60,
+        "incidencia_100mil": 64.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3137106",
+        "municipio": "Lagamar",
+        "populacao_2022": 6631.0,
+        "casos": 58,
+        "incidencia_100mil": 874.68,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3123809",
+        "municipio": "Engenheiro Navarro",
+        "populacao_2022": 6354.0,
+        "casos": 58,
+        "incidencia_100mil": 912.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3113404",
+        "municipio": "Caratinga",
+        "populacao_2022": 87360.0,
+        "casos": 57,
+        "incidencia_100mil": 65.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3152600",
+        "municipio": "Pouso Alto",
+        "populacao_2022": 6566.0,
+        "casos": 56,
+        "incidencia_100mil": 852.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3132503",
+        "municipio": "Itamarandiba",
+        "populacao_2022": 32948.0,
+        "casos": 56,
+        "incidencia_100mil": 169.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3135050",
+        "municipio": "Jaíba",
+        "populacao_2022": 37660.0,
+        "casos": 55,
+        "incidencia_100mil": 146.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162922",
+        "municipio": "São Joaquim de Bicas",
+        "populacao_2022": 34348.0,
+        "casos": 55,
+        "incidencia_100mil": 160.13,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3160900",
+        "municipio": "São Brás do Suaçuí",
+        "populacao_2022": 3989.0,
+        "casos": 54,
+        "incidencia_100mil": 1353.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3156403",
+        "municipio": "Romaria",
+        "populacao_2022": 3386.0,
+        "casos": 54,
+        "incidencia_100mil": 1594.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3172004",
+        "municipio": "Visconde do Rio Branco",
+        "populacao_2022": 39160.0,
+        "casos": 54,
+        "incidencia_100mil": 137.9,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3144300",
+        "municipio": "Nanuque",
+        "populacao_2022": 35038.0,
+        "casos": 53,
+        "incidencia_100mil": 151.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3136306",
+        "municipio": "João Pinheiro",
+        "populacao_2022": 46801.0,
+        "casos": 51,
+        "incidencia_100mil": 108.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3168002",
+        "municipio": "Taiobeiras",
+        "populacao_2022": 33050.0,
+        "casos": 51,
+        "incidencia_100mil": 154.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3130903",
+        "municipio": "Inhapim",
+        "populacao_2022": 22692.0,
+        "casos": 50,
+        "incidencia_100mil": 220.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3147204",
+        "municipio": "Paraguaçu",
+        "populacao_2022": 21723.0,
+        "casos": 50,
+        "incidencia_100mil": 230.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3113206",
+        "municipio": "Carandaí",
+        "populacao_2022": 23812.0,
+        "casos": 50,
+        "incidencia_100mil": 209.98,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3170438",
+        "municipio": "União de Minas",
+        "populacao_2022": 3828.0,
+        "casos": 50,
+        "incidencia_100mil": 1306.17,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3141009",
+        "municipio": "Mato Verde",
+        "populacao_2022": 12038.0,
+        "casos": 50,
+        "incidencia_100mil": 415.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3142809",
+        "municipio": "Monte Alegre de Minas",
+        "populacao_2022": 20170.0,
+        "casos": 49,
+        "incidencia_100mil": 242.94,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3164704",
+        "municipio": "São Sebastião do Paraíso",
+        "populacao_2022": 71796.0,
+        "casos": 49,
+        "incidencia_100mil": 68.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3155504",
+        "municipio": "Rio Paranaíba",
+        "populacao_2022": 14532.0,
+        "casos": 49,
+        "incidencia_100mil": 337.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3103009",
+        "municipio": "Antônio Dias",
+        "populacao_2022": 9219.0,
+        "casos": 48,
+        "incidencia_100mil": 520.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3148202",
+        "municipio": "Patrocínio do Muriaé",
+        "populacao_2022": 5576.0,
+        "casos": 48,
+        "incidencia_100mil": 860.83,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3161908",
+        "municipio": "São Gonçalo do Rio Abaixo",
+        "populacao_2022": 11850.0,
+        "casos": 46,
+        "incidencia_100mil": 388.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3161106",
+        "municipio": "São Francisco",
+        "populacao_2022": 52762.0,
+        "casos": 46,
+        "incidencia_100mil": 87.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3132107",
+        "municipio": "Itacarambi",
+        "populacao_2022": 17208.0,
+        "casos": 46,
+        "incidencia_100mil": 267.32,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3140001",
+        "municipio": "Mariana",
+        "populacao_2022": 61387.0,
+        "casos": 45,
+        "incidencia_100mil": 73.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3129103",
+        "municipio": "Gurinhatã",
+        "populacao_2022": 5192.0,
+        "casos": 45,
+        "incidencia_100mil": 866.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3168903",
+        "municipio": "Tiros",
+        "populacao_2022": 7883.0,
+        "casos": 42,
+        "incidencia_100mil": 532.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3111507",
+        "municipio": "Campos Altos",
+        "populacao_2022": 12979.0,
+        "casos": 42,
+        "incidencia_100mil": 323.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3142601",
+        "municipio": "Monsenhor Paulo",
+        "populacao_2022": 8340.0,
+        "casos": 42,
+        "incidencia_100mil": 503.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3127354",
+        "municipio": "Glaucilândia",
+        "populacao_2022": 2928.0,
+        "casos": 41,
+        "incidencia_100mil": 1400.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3145604",
+        "municipio": "Oliveira",
+        "populacao_2022": 39262.0,
+        "casos": 40,
+        "incidencia_100mil": 101.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3142403",
+        "municipio": "Moema",
+        "populacao_2022": 7548.0,
+        "casos": 40,
+        "incidencia_100mil": 529.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3138682",
+        "municipio": "Luislândia",
+        "populacao_2022": 6210.0,
+        "casos": 40,
+        "incidencia_100mil": 644.12,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3132701",
+        "municipio": "Itambacuri",
+        "populacao_2022": 21042.0,
+        "casos": 40,
+        "incidencia_100mil": 190.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3118809",
+        "municipio": "Coração de Jesus",
+        "populacao_2022": 25377.0,
+        "casos": 39,
+        "incidencia_100mil": 153.68,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3124906",
+        "municipio": "Eugenópolis",
+        "populacao_2022": 10801.0,
+        "casos": 39,
+        "incidencia_100mil": 361.08,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3129657",
+        "municipio": "Ibiracatu",
+        "populacao_2022": 5081.0,
+        "casos": 39,
+        "incidencia_100mil": 767.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3131703",
+        "municipio": "Itabira",
+        "populacao_2022": 113343.0,
+        "casos": 39,
+        "incidencia_100mil": 34.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171303",
+        "municipio": "Viçosa",
+        "populacao_2022": 76430.0,
+        "casos": 39,
+        "incidencia_100mil": 51.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3151305",
+        "municipio": "Piraúba",
+        "populacao_2022": 11610.0,
+        "casos": 38,
+        "incidencia_100mil": 327.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3106408",
+        "municipio": "Belo Vale",
+        "populacao_2022": 8627.0,
+        "casos": 38,
+        "incidencia_100mil": 440.48,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3108255",
+        "municipio": "Bonito de Minas",
+        "populacao_2022": 10204.0,
+        "casos": 37,
+        "incidencia_100mil": 362.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3155702",
+        "municipio": "Rio Piracicaba",
+        "populacao_2022": 14631.0,
+        "casos": 37,
+        "incidencia_100mil": 252.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3117504",
+        "municipio": "Conceição do Mato Dentro",
+        "populacao_2022": 23163.0,
+        "casos": 36,
+        "incidencia_100mil": 155.42,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3117306",
+        "municipio": "Conceição das Alagoas",
+        "populacao_2022": 28381.0,
+        "casos": 35,
+        "incidencia_100mil": 123.32,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3161007",
+        "municipio": "São Domingos do Prata",
+        "populacao_2022": 17392.0,
+        "casos": 35,
+        "incidencia_100mil": 201.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3118908",
+        "municipio": "Cordisburgo",
+        "populacao_2022": 7547.0,
+        "casos": 34,
+        "incidencia_100mil": 450.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170008",
+        "municipio": "Ubaí",
+        "populacao_2022": 11708.0,
+        "casos": 34,
+        "incidencia_100mil": 290.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3152501",
+        "municipio": "Pouso Alegre",
+        "populacao_2022": 152217.0,
+        "casos": 34,
+        "incidencia_100mil": 22.34,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3151404",
+        "municipio": "Pitangui",
+        "populacao_2022": 26685.0,
+        "casos": 33,
+        "incidencia_100mil": 123.66,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3154101",
+        "municipio": "Recreio",
+        "populacao_2022": 11007.0,
+        "casos": 33,
+        "incidencia_100mil": 299.81,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3103207",
+        "municipio": "Araçaí",
+        "populacao_2022": 2181.0,
+        "casos": 33,
+        "incidencia_100mil": 1513.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3114006",
+        "municipio": "Carmo da Mata",
+        "populacao_2022": 11019.0,
+        "casos": 33,
+        "incidencia_100mil": 299.48,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3148905",
+        "municipio": "Pedra do Indaiá",
+        "populacao_2022": 4112.0,
+        "casos": 33,
+        "incidencia_100mil": 802.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3103900",
+        "municipio": "Araújos",
+        "populacao_2022": 9199.0,
+        "casos": 33,
+        "incidencia_100mil": 358.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3123502",
+        "municipio": "Douradoquara",
+        "populacao_2022": 1829.0,
+        "casos": 33,
+        "incidencia_100mil": 1804.26,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3120805",
+        "municipio": "Cruzília",
+        "populacao_2022": 15362.0,
+        "casos": 33,
+        "incidencia_100mil": 214.82,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3106606",
+        "municipio": "Bertópolis",
+        "populacao_2022": 4451.0,
+        "casos": 32,
+        "incidencia_100mil": 718.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3102704",
+        "municipio": "Cachoeira de Pajeú",
+        "populacao_2022": 9110.0,
+        "casos": 31,
+        "incidencia_100mil": 340.29,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3147956",
+        "municipio": "Patis",
+        "populacao_2022": 4837.0,
+        "casos": 31,
+        "incidencia_100mil": 640.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3149804",
+        "municipio": "Perdizes",
+        "populacao_2022": 17151.0,
+        "casos": 30,
+        "incidencia_100mil": 174.92,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3115300",
+        "municipio": "Cataguases",
+        "populacao_2022": 66261.0,
+        "casos": 30,
+        "incidencia_100mil": 45.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3118205",
+        "municipio": "Conquista",
+        "populacao_2022": 6694.0,
+        "casos": 30,
+        "incidencia_100mil": 448.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3118403",
+        "municipio": "Conselheiro Pena",
+        "populacao_2022": 20824.0,
+        "casos": 29,
+        "incidencia_100mil": 139.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162807",
+        "municipio": "São João Evangelista",
+        "populacao_2022": 15315.0,
+        "casos": 29,
+        "incidencia_100mil": 189.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3136207",
+        "municipio": "João Monlevade",
+        "populacao_2022": 80187.0,
+        "casos": 29,
+        "incidencia_100mil": 36.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3168804",
+        "municipio": "Tiradentes",
+        "populacao_2022": 7744.0,
+        "casos": 28,
+        "incidencia_100mil": 361.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3126604",
+        "municipio": "Francisco Dumont",
+        "populacao_2022": 4503.0,
+        "casos": 28,
+        "incidencia_100mil": 621.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3145000",
+        "municipio": "Nova Ponte",
+        "populacao_2022": 14598.0,
+        "casos": 27,
+        "incidencia_100mil": 184.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3108503",
+        "municipio": "Botumirim",
+        "populacao_2022": 5790.0,
+        "casos": 27,
+        "incidencia_100mil": 466.32,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3155801",
+        "municipio": "Rio Pomba",
+        "populacao_2022": 17443.0,
+        "casos": 27,
+        "incidencia_100mil": 154.79,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3117876",
+        "municipio": "Confins",
+        "populacao_2022": 7350.0,
+        "casos": 27,
+        "incidencia_100mil": 367.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3133709",
+        "municipio": "Itatiaiuçu",
+        "populacao_2022": 12966.0,
+        "casos": 27,
+        "incidencia_100mil": 208.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3166808",
+        "municipio": "Serra do Salitre",
+        "populacao_2022": 11801.0,
+        "casos": 27,
+        "incidencia_100mil": 228.79,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3134103",
+        "municipio": "Itueta",
+        "populacao_2022": 6055.0,
+        "casos": 26,
+        "incidencia_100mil": 429.4,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3146552",
+        "municipio": "Pai Pedro",
+        "populacao_2022": 5551.0,
+        "casos": 26,
+        "incidencia_100mil": 468.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3126208",
+        "municipio": "Formoso",
+        "populacao_2022": 7949.0,
+        "casos": 26,
+        "incidencia_100mil": 327.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3138807",
+        "municipio": "Luz",
+        "populacao_2022": 17875.0,
+        "casos": 26,
+        "incidencia_100mil": 145.45,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3108602",
+        "municipio": "Brasília de Minas",
+        "populacao_2022": 32025.0,
+        "casos": 26,
+        "incidencia_100mil": 81.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3131109",
+        "municipio": "Inimutaba",
+        "populacao_2022": 7371.0,
+        "casos": 26,
+        "incidencia_100mil": 352.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3123205",
+        "municipio": "Dores do Indaiá",
+        "populacao_2022": 12630.0,
+        "casos": 25,
+        "incidencia_100mil": 197.94,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3120300",
+        "municipio": "Cristália",
+        "populacao_2022": 5121.0,
+        "casos": 25,
+        "incidencia_100mil": 488.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3125705",
+        "municipio": "Felixlândia",
+        "populacao_2022": 13978.0,
+        "casos": 25,
+        "incidencia_100mil": 178.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3135209",
+        "municipio": "Januária",
+        "populacao_2022": 65150.0,
+        "casos": 25,
+        "incidencia_100mil": 38.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3122504",
+        "municipio": "Dom Cavati",
+        "populacao_2022": 4904.0,
+        "casos": 24,
+        "incidencia_100mil": 489.4,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3161502",
+        "municipio": "São Geraldo",
+        "populacao_2022": 10282.0,
+        "casos": 24,
+        "incidencia_100mil": 233.42,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3116159",
+        "municipio": "Chapada Gaúcha",
+        "populacao_2022": 12355.0,
+        "casos": 24,
+        "incidencia_100mil": 194.25,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3148608",
+        "municipio": "Peçanha",
+        "populacao_2022": 17446.0,
+        "casos": 24,
+        "incidencia_100mil": 137.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3109808",
+        "municipio": "Cachoeira Dourada",
+        "populacao_2022": 2315.0,
+        "casos": 24,
+        "incidencia_100mil": 1036.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3157203",
+        "municipio": "Santa Bárbara",
+        "populacao_2022": 30466.0,
+        "casos": 24,
+        "incidencia_100mil": 78.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3112000",
+        "municipio": "Candeias",
+        "populacao_2022": 14001.0,
+        "casos": 24,
+        "incidencia_100mil": 171.42,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3137007",
+        "municipio": "Ladainha",
+        "populacao_2022": 14383.0,
+        "casos": 23,
+        "incidencia_100mil": 159.91,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3167202",
+        "municipio": "Sete Lagoas",
+        "populacao_2022": 227397.0,
+        "casos": 23,
+        "incidencia_100mil": 10.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135605",
+        "municipio": "Jequitaí",
+        "populacao_2022": 6484.0,
+        "casos": 23,
+        "incidencia_100mil": 354.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3157658",
+        "municipio": "Santa Helena de Minas",
+        "populacao_2022": 5938.0,
+        "casos": 23,
+        "incidencia_100mil": 387.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3159506",
+        "municipio": "Santa Rita do Itueto",
+        "populacao_2022": 5826.0,
+        "casos": 23,
+        "incidencia_100mil": 394.78,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3149705",
+        "municipio": "Perdigão",
+        "populacao_2022": 12268.0,
+        "casos": 23,
+        "incidencia_100mil": 187.48,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3165537",
+        "municipio": "Sarzedo",
+        "populacao_2022": 36844.0,
+        "casos": 23,
+        "incidencia_100mil": 62.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3134905",
+        "municipio": "Jacutinga",
+        "populacao_2022": 25525.0,
+        "casos": 22,
+        "incidencia_100mil": 86.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109907",
+        "municipio": "Caetanópolis",
+        "populacao_2022": 11435.0,
+        "casos": 22,
+        "incidencia_100mil": 192.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3133501",
+        "municipio": "Itapecerica",
+        "populacao_2022": 21046.0,
+        "casos": 22,
+        "incidencia_100mil": 104.53,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3151008",
+        "municipio": "Piranguinho",
+        "populacao_2022": 9120.0,
+        "casos": 22,
+        "incidencia_100mil": 241.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3164605",
+        "municipio": "São Sebastião do Oeste",
+        "populacao_2022": 8815.0,
+        "casos": 22,
+        "incidencia_100mil": 249.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3130705",
+        "municipio": "Indianópolis",
+        "populacao_2022": 6171.0,
+        "casos": 22,
+        "incidencia_100mil": 356.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3122009",
+        "municipio": "Divino",
+        "populacao_2022": 20706.0,
+        "casos": 22,
+        "incidencia_100mil": 106.25,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3156205",
+        "municipio": "Rochedo de Minas",
+        "populacao_2022": 2291.0,
+        "casos": 22,
+        "incidencia_100mil": 960.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3169307",
+        "municipio": "Três Corações",
+        "populacao_2022": 75485.0,
+        "casos": 22,
+        "incidencia_100mil": 29.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136959",
+        "municipio": "Juvenília",
+        "populacao_2022": 5789.0,
+        "casos": 22,
+        "incidencia_100mil": 380.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3127602",
+        "municipio": "Gouveia",
+        "populacao_2022": 11331.0,
+        "casos": 21,
+        "incidencia_100mil": 185.33,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3103801",
+        "municipio": "Arapuá",
+        "populacao_2022": 2631.0,
+        "casos": 21,
+        "incidencia_100mil": 798.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3162609",
+        "municipio": "São João do Oriente",
+        "populacao_2022": 7070.0,
+        "casos": 21,
+        "incidencia_100mil": 297.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3140159",
+        "municipio": "Mário Campos",
+        "populacao_2022": 15900.0,
+        "casos": 21,
+        "incidencia_100mil": 132.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3119104",
+        "municipio": "Corinto",
+        "populacao_2022": 23532.0,
+        "casos": 21,
+        "incidencia_100mil": 89.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150109",
+        "municipio": "Piau",
+        "populacao_2022": 2796.0,
+        "casos": 21,
+        "incidencia_100mil": 751.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3128006",
+        "municipio": "Guanhães",
+        "populacao_2022": 32244.0,
+        "casos": 20,
+        "incidencia_100mil": 62.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3146909",
+        "municipio": "Papagaios",
+        "populacao_2022": 13920.0,
+        "casos": 20,
+        "incidencia_100mil": 143.68,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3134608",
+        "municipio": "Jaboticatubas",
+        "populacao_2022": 20406.0,
+        "casos": 20,
+        "incidencia_100mil": 98.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167608",
+        "municipio": "Simonésia",
+        "populacao_2022": 19750.0,
+        "casos": 20,
+        "incidencia_100mil": 101.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3145901",
+        "municipio": "Ouro Branco",
+        "populacao_2022": 38724.0,
+        "casos": 20,
+        "incidencia_100mil": 51.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3107703",
+        "municipio": "Bom Jesus do Amparo",
+        "populacao_2022": 5631.0,
+        "casos": 20,
+        "incidencia_100mil": 355.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3162500",
+        "municipio": "São João del Rei",
+        "populacao_2022": 90225.0,
+        "casos": 20,
+        "incidencia_100mil": 22.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3169356",
+        "municipio": "Três Marias",
+        "populacao_2022": 28895.0,
+        "casos": 20,
+        "incidencia_100mil": 69.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109402",
+        "municipio": "Buritizeiro",
+        "populacao_2022": 23910.0,
+        "casos": 19,
+        "incidencia_100mil": 79.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3111408",
+        "municipio": "Campo Florido",
+        "populacao_2022": 8466.0,
+        "casos": 19,
+        "incidencia_100mil": 224.43,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3127008",
+        "municipio": "Fronteira",
+        "populacao_2022": 14540.0,
+        "casos": 19,
+        "incidencia_100mil": 130.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3107802",
+        "municipio": "Bom Jesus do Galho",
+        "populacao_2022": 14536.0,
+        "casos": 19,
+        "incidencia_100mil": 130.71,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3139607",
+        "municipio": "Mantena",
+        "populacao_2022": 26535.0,
+        "casos": 19,
+        "incidencia_100mil": 71.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3126000",
+        "municipio": "Florestal",
+        "populacao_2022": 8045.0,
+        "casos": 19,
+        "incidencia_100mil": 236.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162252",
+        "municipio": "São João da Lagoa",
+        "populacao_2022": 4822.0,
+        "casos": 19,
+        "incidencia_100mil": 394.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3109253",
+        "municipio": "Bugre",
+        "populacao_2022": 4041.0,
+        "casos": 18,
+        "incidencia_100mil": 445.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3146701",
+        "municipio": "Palma",
+        "populacao_2022": 5707.0,
+        "casos": 18,
+        "incidencia_100mil": 315.4,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3127800",
+        "municipio": "Grão Mogol",
+        "populacao_2022": 13901.0,
+        "casos": 18,
+        "incidencia_100mil": 129.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3146255",
+        "municipio": "Padre Carvalho",
+        "populacao_2022": 5058.0,
+        "casos": 18,
+        "incidencia_100mil": 355.87,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3114550",
+        "municipio": "Carneirinho",
+        "populacao_2022": 9422.0,
+        "casos": 18,
+        "incidencia_100mil": 191.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3122603",
+        "municipio": "Dom Joaquim",
+        "populacao_2022": 4899.0,
+        "casos": 18,
+        "incidencia_100mil": 367.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3171030",
+        "municipio": "Verdelândia",
+        "populacao_2022": 7672.0,
+        "casos": 18,
+        "incidencia_100mil": 234.62,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3171402",
+        "municipio": "Vieiras",
+        "populacao_2022": 3700.0,
+        "casos": 18,
+        "incidencia_100mil": 486.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3136801",
+        "municipio": "Juramento",
+        "populacao_2022": 3768.0,
+        "casos": 18,
+        "incidencia_100mil": 477.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3133758",
+        "municipio": "Itaú de Minas",
+        "populacao_2022": 14406.0,
+        "casos": 18,
+        "incidencia_100mil": 124.95,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3105509",
+        "municipio": "Barão do Monte Alto",
+        "populacao_2022": 4964.0,
+        "casos": 18,
+        "incidencia_100mil": 362.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3150158",
+        "municipio": "Piedade de Caratinga",
+        "populacao_2022": 8529.0,
+        "casos": 18,
+        "incidencia_100mil": 211.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3142205",
+        "municipio": "Miraí",
+        "populacao_2022": 13633.0,
+        "casos": 18,
+        "incidencia_100mil": 132.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3152303",
+        "municipio": "Porto Firme",
+        "populacao_2022": 10569.0,
+        "casos": 17,
+        "incidencia_100mil": 160.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3129509",
+        "municipio": "Ibiá",
+        "populacao_2022": 22229.0,
+        "casos": 17,
+        "incidencia_100mil": 76.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150703",
+        "municipio": "Pirajuba",
+        "populacao_2022": 5537.0,
+        "casos": 17,
+        "incidencia_100mil": 307.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3165503",
+        "municipio": "Sardoá",
+        "populacao_2022": 5104.0,
+        "casos": 17,
+        "incidencia_100mil": 333.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3106101",
+        "municipio": "Belmiro Braga",
+        "populacao_2022": 3244.0,
+        "casos": 17,
+        "incidencia_100mil": 524.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3158904",
+        "municipio": "Santana do Manhuaçu",
+        "populacao_2022": 8987.0,
+        "casos": 17,
+        "incidencia_100mil": 189.16,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3146305",
+        "municipio": "Padre Paraíso",
+        "populacao_2022": 17334.0,
+        "casos": 17,
+        "incidencia_100mil": 98.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3111903",
+        "municipio": "Cana Verde",
+        "populacao_2022": 5272.0,
+        "casos": 16,
+        "incidencia_100mil": 303.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3137536",
+        "municipio": "Lagoa Grande",
+        "populacao_2022": 8969.0,
+        "casos": 16,
+        "incidencia_100mil": 178.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3140530",
+        "municipio": "Martins Soares",
+        "populacao_2022": 8396.0,
+        "casos": 16,
+        "incidencia_100mil": 190.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3139201",
+        "municipio": "Malacacheta",
+        "populacao_2022": 17516.0,
+        "casos": 16,
+        "incidencia_100mil": 91.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140704",
+        "municipio": "Mateus Leme",
+        "populacao_2022": 37841.0,
+        "casos": 16,
+        "incidencia_100mil": 42.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3115102",
+        "municipio": "Cássia",
+        "populacao_2022": 17155.0,
+        "casos": 16,
+        "incidencia_100mil": 93.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3100609",
+        "municipio": "Água Boa",
+        "populacao_2022": 12589.0,
+        "casos": 16,
+        "incidencia_100mil": 127.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3160504",
+        "municipio": "Santo Antônio do Rio Abaixo",
+        "populacao_2022": 1808.0,
+        "casos": 16,
+        "incidencia_100mil": 884.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3122702",
+        "municipio": "Dom Silvério",
+        "populacao_2022": 5228.0,
+        "casos": 16,
+        "incidencia_100mil": 306.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3115359",
+        "municipio": "Catas Altas",
+        "populacao_2022": 5473.0,
+        "casos": 15,
+        "incidencia_100mil": 274.07,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3140803",
+        "municipio": "Matias Barbosa",
+        "populacao_2022": 14121.0,
+        "casos": 15,
+        "incidencia_100mil": 106.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3155603",
+        "municipio": "Rio Pardo de Minas",
+        "populacao_2022": 28271.0,
+        "casos": 15,
+        "incidencia_100mil": 53.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3161304",
+        "municipio": "São Francisco de Sales",
+        "populacao_2022": 5732.0,
+        "casos": 15,
+        "incidencia_100mil": 261.69,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3138708",
+        "municipio": "Luminárias",
+        "populacao_2022": 5586.0,
+        "casos": 15,
+        "incidencia_100mil": 268.53,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3136553",
+        "municipio": "José Raydan",
+        "populacao_2022": 4268.0,
+        "casos": 15,
+        "incidencia_100mil": 351.45,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3141603",
+        "municipio": "Mercês",
+        "populacao_2022": 10373.0,
+        "casos": 15,
+        "incidencia_100mil": 144.61,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3129004",
+        "municipio": "Guiricema",
+        "populacao_2022": 7778.0,
+        "casos": 15,
+        "incidencia_100mil": 192.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162658",
+        "municipio": "São João do Pacuí",
+        "populacao_2022": 3972.0,
+        "casos": 14,
+        "incidencia_100mil": 352.47,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3163102",
+        "municipio": "São José da Varginha",
+        "populacao_2022": 4536.0,
+        "casos": 14,
+        "incidencia_100mil": 308.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3142700",
+        "municipio": "Montalvânia",
+        "populacao_2022": 14060.0,
+        "casos": 14,
+        "incidencia_100mil": 99.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3142908",
+        "municipio": "Monte Azul",
+        "populacao_2022": 20328.0,
+        "casos": 14,
+        "incidencia_100mil": 68.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120839",
+        "municipio": "Cuparaque",
+        "populacao_2022": 3983.0,
+        "casos": 14,
+        "incidencia_100mil": 351.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3117603",
+        "municipio": "Conceição do Pará",
+        "populacao_2022": 5415.0,
+        "casos": 14,
+        "incidencia_100mil": 258.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3111150",
+        "municipio": "Campo Azul",
+        "populacao_2022": 3714.0,
+        "casos": 14,
+        "incidencia_100mil": 376.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170750",
+        "municipio": "Varjão de Minas",
+        "populacao_2022": 6969.0,
+        "casos": 14,
+        "incidencia_100mil": 200.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162450",
+        "municipio": "São João das Missões",
+        "populacao_2022": 13024.0,
+        "casos": 13,
+        "incidencia_100mil": 99.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3137502",
+        "municipio": "Lagoa Formosa",
+        "populacao_2022": 18904.0,
+        "casos": 13,
+        "incidencia_100mil": 68.77,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3101508",
+        "municipio": "Além Paraíba",
+        "populacao_2022": 30717.0,
+        "casos": 13,
+        "incidencia_100mil": 42.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3127057",
+        "municipio": "Fronteira dos Vales",
+        "populacao_2022": 4345.0,
+        "casos": 13,
+        "incidencia_100mil": 299.19,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3105905",
+        "municipio": "Barroso",
+        "populacao_2022": 20080.0,
+        "casos": 13,
+        "incidencia_100mil": 64.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171808",
+        "municipio": "Virginópolis",
+        "populacao_2022": 10314.0,
+        "casos": 13,
+        "incidencia_100mil": 126.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3125952",
+        "municipio": "Fervedouro",
+        "populacao_2022": 10445.0,
+        "casos": 13,
+        "incidencia_100mil": 124.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3127073",
+        "municipio": "Fruta de Leite",
+        "populacao_2022": 4647.0,
+        "casos": 13,
+        "incidencia_100mil": 279.75,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3131000",
+        "municipio": "Inhaúma",
+        "populacao_2022": 6239.0,
+        "casos": 13,
+        "incidencia_100mil": 208.37,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3167103",
+        "municipio": "Serro",
+        "populacao_2022": 21952.0,
+        "casos": 13,
+        "incidencia_100mil": 59.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109303",
+        "municipio": "Buritis",
+        "populacao_2022": 24030.0,
+        "casos": 13,
+        "incidencia_100mil": 54.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140308",
+        "municipio": "Marliéria",
+        "populacao_2022": 4592.0,
+        "casos": 13,
+        "incidencia_100mil": 283.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3138658",
+        "municipio": "Lontra",
+        "populacao_2022": 8790.0,
+        "casos": 13,
+        "incidencia_100mil": 147.9,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3154457",
+        "municipio": "Riachinho",
+        "populacao_2022": 6863.0,
+        "casos": 13,
+        "incidencia_100mil": 189.42,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3123528",
+        "municipio": "Durandé",
+        "populacao_2022": 7817.0,
+        "casos": 13,
+        "incidencia_100mil": 166.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3168408",
+        "municipio": "Tarumirim",
+        "populacao_2022": 14709.0,
+        "casos": 12,
+        "incidencia_100mil": 81.58,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3138104",
+        "municipio": "Lassance",
+        "populacao_2022": 7124.0,
+        "casos": 12,
+        "incidencia_100mil": 168.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3126752",
+        "municipio": "Franciscópolis",
+        "populacao_2022": 5034.0,
+        "casos": 12,
+        "incidencia_100mil": 238.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3149507",
+        "municipio": "Pequeri",
+        "populacao_2022": 3351.0,
+        "casos": 12,
+        "incidencia_100mil": 358.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3147402",
+        "municipio": "Paraopeba",
+        "populacao_2022": 24107.0,
+        "casos": 12,
+        "incidencia_100mil": 49.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3127503",
+        "municipio": "Gonzaga",
+        "populacao_2022": 5230.0,
+        "casos": 12,
+        "incidencia_100mil": 229.45,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3150307",
+        "municipio": "Piedade do Rio Grande",
+        "populacao_2022": 4604.0,
+        "casos": 12,
+        "incidencia_100mil": 260.64,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3169000",
+        "municipio": "Tocantins",
+        "populacao_2022": 16185.0,
+        "casos": 12,
+        "incidencia_100mil": 74.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3158805",
+        "municipio": "Santana do Jacaré",
+        "populacao_2022": 4214.0,
+        "casos": 12,
+        "incidencia_100mil": 284.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3163805",
+        "municipio": "São Miguel do Anta",
+        "populacao_2022": 6334.0,
+        "casos": 12,
+        "incidencia_100mil": 189.45,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162104",
+        "municipio": "São Gotardo",
+        "populacao_2022": 40910.0,
+        "casos": 12,
+        "incidencia_100mil": 29.33,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3100302",
+        "municipio": "Abre Campo",
+        "populacao_2022": 13927.0,
+        "casos": 12,
+        "incidencia_100mil": 86.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3162906",
+        "municipio": "São João Nepomuceno",
+        "populacao_2022": 25565.0,
+        "casos": 12,
+        "incidencia_100mil": 46.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3152402",
+        "municipio": "Poté",
+        "populacao_2022": 13666.0,
+        "casos": 11,
+        "incidencia_100mil": 80.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3143203",
+        "municipio": "Monte Santo de Minas",
+        "populacao_2022": 20890.0,
+        "casos": 11,
+        "incidencia_100mil": 52.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102308",
+        "municipio": "Alvinópolis",
+        "populacao_2022": 15059.0,
+        "casos": 11,
+        "incidencia_100mil": 73.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3162559",
+        "municipio": "São João do Manhuaçu",
+        "populacao_2022": 11246.0,
+        "casos": 11,
+        "incidencia_100mil": 97.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109709",
+        "municipio": "Cachoeira de Minas",
+        "populacao_2022": 11883.0,
+        "casos": 11,
+        "incidencia_100mil": 92.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3146107",
+        "municipio": "Ouro Preto",
+        "populacao_2022": 74821.0,
+        "casos": 11,
+        "incidencia_100mil": 14.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154309",
+        "municipio": "Resplendor",
+        "populacao_2022": 17226.0,
+        "casos": 11,
+        "incidencia_100mil": 63.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3163003",
+        "municipio": "São José da Safira",
+        "populacao_2022": 3806.0,
+        "casos": 11,
+        "incidencia_100mil": 289.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3156908",
+        "municipio": "Sacramento",
+        "populacao_2022": 26670.0,
+        "casos": 11,
+        "incidencia_100mil": 41.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3168507",
+        "municipio": "Teixeiras",
+        "populacao_2022": 12255.0,
+        "casos": 11,
+        "incidencia_100mil": 89.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3146404",
+        "municipio": "Paineiras",
+        "populacao_2022": 4224.0,
+        "casos": 11,
+        "incidencia_100mil": 260.42,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3150901",
+        "municipio": "Piranguçu",
+        "populacao_2022": 6041.0,
+        "casos": 11,
+        "incidencia_100mil": 182.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3150539",
+        "municipio": "Pingo-d'Água",
+        "populacao_2022": 4706.0,
+        "casos": 11,
+        "incidencia_100mil": 233.74,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3127305",
+        "municipio": "Galiléia",
+        "populacao_2022": 6222.0,
+        "casos": 11,
+        "incidencia_100mil": 176.79,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3147600",
+        "municipio": "Passa Quatro",
+        "populacao_2022": 15515.0,
+        "casos": 11,
+        "incidencia_100mil": 70.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3108107",
+        "municipio": "Bonfim",
+        "populacao_2022": 7434.0,
+        "casos": 11,
+        "incidencia_100mil": 147.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3171907",
+        "municipio": "Virgolândia",
+        "populacao_2022": 4552.0,
+        "casos": 10,
+        "incidencia_100mil": 219.68,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3155405",
+        "municipio": "Rio Novo",
+        "populacao_2022": 8518.0,
+        "casos": 10,
+        "incidencia_100mil": 117.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3157278",
+        "municipio": "Santa Bárbara do Monte Verde",
+        "populacao_2022": 3095.0,
+        "casos": 10,
+        "incidencia_100mil": 323.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3156502",
+        "municipio": "Rubelita",
+        "populacao_2022": 5679.0,
+        "casos": 10,
+        "incidencia_100mil": 176.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3157005",
+        "municipio": "Salinas",
+        "populacao_2022": 40178.0,
+        "casos": 10,
+        "incidencia_100mil": 24.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3142502",
+        "municipio": "Monjolos",
+        "populacao_2022": 2169.0,
+        "casos": 10,
+        "incidencia_100mil": 461.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3115003",
+        "municipio": "Cascalho Rico",
+        "populacao_2022": 2712.0,
+        "casos": 10,
+        "incidencia_100mil": 368.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3151503",
+        "municipio": "Piumhi",
+        "populacao_2022": 36062.0,
+        "casos": 10,
+        "incidencia_100mil": 27.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3149150",
+        "municipio": "Pedras de Maria da Cruz",
+        "populacao_2022": 10433.0,
+        "casos": 10,
+        "incidencia_100mil": 95.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3139508",
+        "municipio": "Manhumirim",
+        "populacao_2022": 20613.0,
+        "casos": 10,
+        "incidencia_100mil": 48.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3139250",
+        "municipio": "Mamonas",
+        "populacao_2022": 5997.0,
+        "casos": 10,
+        "incidencia_100mil": 166.75,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3139904",
+        "municipio": "Maria da Fé",
+        "populacao_2022": 14247.0,
+        "casos": 10,
+        "incidencia_100mil": 70.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3141801",
+        "municipio": "Minas Novas",
+        "populacao_2022": 24405.0,
+        "casos": 10,
+        "incidencia_100mil": 40.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3115904",
+        "municipio": "Chácara",
+        "populacao_2022": 3075.0,
+        "casos": 10,
+        "incidencia_100mil": 325.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3115474",
+        "municipio": "Catuti",
+        "populacao_2022": 4739.0,
+        "casos": 10,
+        "incidencia_100mil": 211.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3137304",
+        "municipio": "Lagoa dos Patos",
+        "populacao_2022": 3313.0,
+        "casos": 10,
+        "incidencia_100mil": 301.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3169703",
+        "municipio": "Turmalina",
+        "populacao_2022": 20000.0,
+        "casos": 10,
+        "incidencia_100mil": 50.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159001",
+        "municipio": "Santana do Riacho",
+        "populacao_2022": 5313.0,
+        "casos": 9,
+        "incidencia_100mil": 169.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3107406",
+        "municipio": "Bom Despacho",
+        "populacao_2022": 51737.0,
+        "casos": 9,
+        "incidencia_100mil": 17.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3122207",
+        "municipio": "Divinolândia de Minas",
+        "populacao_2022": 6516.0,
+        "casos": 9,
+        "incidencia_100mil": 138.12,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3122108",
+        "municipio": "Divino das Laranjeiras",
+        "populacao_2022": 4178.0,
+        "casos": 9,
+        "incidencia_100mil": 215.41,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3121902",
+        "municipio": "Divinésia",
+        "populacao_2022": 4226.0,
+        "casos": 9,
+        "incidencia_100mil": 212.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3137700",
+        "municipio": "Lajinha",
+        "populacao_2022": 20835.0,
+        "casos": 9,
+        "incidencia_100mil": 43.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3141306",
+        "municipio": "Medeiros",
+        "populacao_2022": 3900.0,
+        "casos": 9,
+        "incidencia_100mil": 230.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3116704",
+        "municipio": "Coimbra",
+        "populacao_2022": 7117.0,
+        "casos": 9,
+        "incidencia_100mil": 126.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3101706",
+        "municipio": "Almenara",
+        "populacao_2022": 40364.0,
+        "casos": 9,
+        "incidencia_100mil": 22.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135357",
+        "municipio": "Japonvar",
+        "populacao_2022": 8127.0,
+        "casos": 9,
+        "incidencia_100mil": 110.74,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3100807",
+        "municipio": "Aguanil",
+        "populacao_2022": 4357.0,
+        "casos": 9,
+        "incidencia_100mil": 206.56,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3101607",
+        "municipio": "Alfenas",
+        "populacao_2022": 78970.0,
+        "casos": 9,
+        "incidencia_100mil": 11.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120409",
+        "municipio": "Cristiano Otoni",
+        "populacao_2022": 4667.0,
+        "casos": 9,
+        "incidencia_100mil": 192.84,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3160207",
+        "municipio": "Santo Antônio do Itambé",
+        "populacao_2022": 3915.0,
+        "casos": 9,
+        "incidencia_100mil": 229.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3158003",
+        "municipio": "Santa Maria de Itabira",
+        "populacao_2022": 10485.0,
+        "casos": 9,
+        "incidencia_100mil": 85.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3133907",
+        "municipio": "Itaverava",
+        "populacao_2022": 5642.0,
+        "casos": 9,
+        "incidencia_100mil": 159.52,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3125903",
+        "municipio": "Ferros",
+        "populacao_2022": 9590.0,
+        "casos": 9,
+        "incidencia_100mil": 93.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3151909",
+        "municipio": "Pocrane",
+        "populacao_2022": 8350.0,
+        "casos": 9,
+        "incidencia_100mil": 107.78,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3108800",
+        "municipio": "Braúnas",
+        "populacao_2022": 4441.0,
+        "casos": 9,
+        "incidencia_100mil": 202.66,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3117836",
+        "municipio": "Cônego Marinho",
+        "populacao_2022": 7237.0,
+        "casos": 9,
+        "incidencia_100mil": 124.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3126901",
+        "municipio": "Frei Inocêncio",
+        "populacao_2022": 8226.0,
+        "casos": 9,
+        "incidencia_100mil": 109.41,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3145455",
+        "municipio": "Olhos-d'Água",
+        "populacao_2022": 5385.0,
+        "casos": 9,
+        "incidencia_100mil": 167.13,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162575",
+        "municipio": "São João do Manteninha",
+        "populacao_2022": 5331.0,
+        "casos": 8,
+        "incidencia_100mil": 150.07,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162708",
+        "municipio": "São João do Paraíso",
+        "populacao_2022": 23910.0,
+        "casos": 8,
+        "incidencia_100mil": 33.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171071",
+        "municipio": "Veredinha",
+        "populacao_2022": 5181.0,
+        "casos": 8,
+        "incidencia_100mil": 154.41,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3161809",
+        "municipio": "São Gonçalo do Pará",
+        "populacao_2022": 11770.0,
+        "casos": 8,
+        "incidencia_100mil": 67.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104502",
+        "municipio": "Arinos",
+        "populacao_2022": 17272.0,
+        "casos": 8,
+        "incidencia_100mil": 46.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3158102",
+        "municipio": "Santa Maria do Salto",
+        "populacao_2022": 4755.0,
+        "casos": 8,
+        "incidencia_100mil": 168.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3109600",
+        "municipio": "Cachoeira da Prata",
+        "populacao_2022": 3693.0,
+        "casos": 8,
+        "incidencia_100mil": 216.63,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3110608",
+        "municipio": "Cambuí",
+        "populacao_2022": 29536.0,
+        "casos": 8,
+        "incidencia_100mil": 27.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3113503",
+        "municipio": "Carbonita",
+        "populacao_2022": 8512.0,
+        "casos": 8,
+        "incidencia_100mil": 93.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128600",
+        "municipio": "Guarda-Mor",
+        "populacao_2022": 6539.0,
+        "casos": 8,
+        "incidencia_100mil": 122.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3115508",
+        "municipio": "Caxambu",
+        "populacao_2022": 21056.0,
+        "casos": 8,
+        "incidencia_100mil": 37.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3123601",
+        "municipio": "Elói Mendes",
+        "populacao_2022": 26336.0,
+        "casos": 8,
+        "incidencia_100mil": 30.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3164001",
+        "municipio": "São Pedro dos Ferros",
+        "populacao_2022": 7166.0,
+        "casos": 8,
+        "incidencia_100mil": 111.64,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3152709",
+        "municipio": "Prados",
+        "populacao_2022": 9048.0,
+        "casos": 8,
+        "incidencia_100mil": 88.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3132206",
+        "municipio": "Itaguara",
+        "populacao_2022": 13846.0,
+        "casos": 8,
+        "incidencia_100mil": 57.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140100",
+        "municipio": "Marilac",
+        "populacao_2022": 4224.0,
+        "casos": 8,
+        "incidencia_100mil": 189.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3166501",
+        "municipio": "Serra Azul de Minas",
+        "populacao_2022": 3792.0,
+        "casos": 8,
+        "incidencia_100mil": 210.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3114501",
+        "municipio": "Carmópolis de Minas",
+        "populacao_2022": 18003.0,
+        "casos": 8,
+        "incidencia_100mil": 44.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102902",
+        "municipio": "Antônio Carlos",
+        "populacao_2022": 11095.0,
+        "casos": 8,
+        "incidencia_100mil": 72.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3131208",
+        "municipio": "Ipanema",
+        "populacao_2022": 19522.0,
+        "casos": 8,
+        "incidencia_100mil": 40.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3119708",
+        "municipio": "Coronel Xavier Chaves",
+        "populacao_2022": 3486.0,
+        "casos": 8,
+        "incidencia_100mil": 229.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3144607",
+        "municipio": "Nepomuceno",
+        "populacao_2022": 25018.0,
+        "casos": 8,
+        "incidencia_100mil": 31.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3116902",
+        "municipio": "Comendador Gomes",
+        "populacao_2022": 2773.0,
+        "casos": 8,
+        "incidencia_100mil": 288.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3161601",
+        "municipio": "São Geraldo da Piedade",
+        "populacao_2022": 3305.0,
+        "casos": 7,
+        "incidencia_100mil": 211.8,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3162203",
+        "municipio": "São João Batista do Glória",
+        "populacao_2022": 7652.0,
+        "casos": 7,
+        "incidencia_100mil": 91.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3100500",
+        "municipio": "Açucena",
+        "populacao_2022": 8943.0,
+        "casos": 7,
+        "incidencia_100mil": 78.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3153509",
+        "municipio": "Alto Jequitibá",
+        "populacao_2022": 8397.0,
+        "casos": 7,
+        "incidencia_100mil": 83.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154903",
+        "municipio": "Rio Casca",
+        "populacao_2022": 12789.0,
+        "casos": 7,
+        "incidencia_100mil": 54.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3151701",
+        "municipio": "Poço Fundo",
+        "populacao_2022": 16390.0,
+        "casos": 7,
+        "incidencia_100mil": 42.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3160009",
+        "municipio": "Santo Antônio do Aventureiro",
+        "populacao_2022": 3769.0,
+        "casos": 7,
+        "incidencia_100mil": 185.73,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3123106",
+        "municipio": "Dores de Guanhães",
+        "populacao_2022": 5029.0,
+        "casos": 7,
+        "incidencia_100mil": 139.19,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3111002",
+        "municipio": "Campestre",
+        "populacao_2022": 20696.0,
+        "casos": 7,
+        "incidencia_100mil": 33.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3123858",
+        "municipio": "Entre Folhas",
+        "populacao_2022": 5179.0,
+        "casos": 7,
+        "incidencia_100mil": 135.16,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3165552",
+        "municipio": "Setubinha",
+        "populacao_2022": 9917.0,
+        "casos": 7,
+        "incidencia_100mil": 70.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3129707",
+        "municipio": "Ibiraci",
+        "populacao_2022": 10948.0,
+        "casos": 7,
+        "incidencia_100mil": 63.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3145307",
+        "municipio": "Novo Cruzeiro",
+        "populacao_2022": 26975.0,
+        "casos": 7,
+        "incidencia_100mil": 25.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128303",
+        "municipio": "Guaranésia",
+        "populacao_2022": 19150.0,
+        "casos": 7,
+        "incidencia_100mil": 36.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3127206",
+        "municipio": "Funilândia",
+        "populacao_2022": 4686.0,
+        "casos": 7,
+        "incidencia_100mil": 149.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3116407",
+        "municipio": "Claraval",
+        "populacao_2022": 4658.0,
+        "casos": 7,
+        "incidencia_100mil": 150.28,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3141702",
+        "municipio": "Mesquita",
+        "populacao_2022": 5040.0,
+        "casos": 7,
+        "incidencia_100mil": 138.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3165107",
+        "municipio": "São Tomás de Aquino",
+        "populacao_2022": 6740.0,
+        "casos": 7,
+        "incidencia_100mil": 103.86,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3107505",
+        "municipio": "Bom Jardim de Minas",
+        "populacao_2022": 6783.0,
+        "casos": 7,
+        "incidencia_100mil": 103.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3132008",
+        "municipio": "Itacambira",
+        "populacao_2022": 4252.0,
+        "casos": 7,
+        "incidencia_100mil": 164.63,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3143401",
+        "municipio": "Monte Sião",
+        "populacao_2022": 24089.0,
+        "casos": 7,
+        "incidencia_100mil": 29.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140902",
+        "municipio": "Matipó",
+        "populacao_2022": 18552.0,
+        "casos": 7,
+        "incidencia_100mil": 37.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3105103",
+        "municipio": "Bambuí",
+        "populacao_2022": 23546.0,
+        "casos": 7,
+        "incidencia_100mil": 29.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104908",
+        "municipio": "Baependi",
+        "populacao_2022": 18366.0,
+        "casos": 7,
+        "incidencia_100mil": 38.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170503",
+        "municipio": "Urucânia",
+        "populacao_2022": 10600.0,
+        "casos": 6,
+        "incidencia_100mil": 56.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102209",
+        "municipio": "Alvarenga",
+        "populacao_2022": 3975.0,
+        "casos": 6,
+        "incidencia_100mil": 150.94,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3166709",
+        "municipio": "Serra dos Aimorés",
+        "populacao_2022": 6944.0,
+        "casos": 6,
+        "incidencia_100mil": 86.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121209",
+        "municipio": "Delfinópolis",
+        "populacao_2022": 8393.0,
+        "casos": 6,
+        "incidencia_100mil": 71.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135001",
+        "municipio": "Jaguaraçu",
+        "populacao_2022": 3092.0,
+        "casos": 6,
+        "incidencia_100mil": 194.05,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3131802",
+        "municipio": "Itabirinha",
+        "populacao_2022": 10362.0,
+        "casos": 6,
+        "incidencia_100mil": 57.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3145703",
+        "municipio": "Oliveira Fortes",
+        "populacao_2022": 2027.0,
+        "casos": 6,
+        "incidencia_100mil": 296.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3127909",
+        "municipio": "Grupiara",
+        "populacao_2022": 1392.0,
+        "casos": 6,
+        "incidencia_100mil": 431.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3144003",
+        "municipio": "Mutum",
+        "populacao_2022": 27635.0,
+        "casos": 6,
+        "incidencia_100mil": 21.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3146008",
+        "municipio": "Ouro Fino",
+        "populacao_2022": 32094.0,
+        "casos": 6,
+        "incidencia_100mil": 18.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3129608",
+        "municipio": "Ibiaí",
+        "populacao_2022": 6286.0,
+        "casos": 6,
+        "incidencia_100mil": 95.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3119203",
+        "municipio": "Coroaci",
+        "populacao_2022": 10884.0,
+        "casos": 6,
+        "incidencia_100mil": 55.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3134004",
+        "municipio": "Itinga",
+        "populacao_2022": 13745.0,
+        "casos": 6,
+        "incidencia_100mil": 43.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157906",
+        "municipio": "Santa Margarida",
+        "populacao_2022": 16395.0,
+        "casos": 6,
+        "incidencia_100mil": 36.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135704",
+        "municipio": "Jequitibá",
+        "populacao_2022": 5883.0,
+        "casos": 6,
+        "incidencia_100mil": 101.99,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3172202",
+        "municipio": "Wenceslau Braz",
+        "populacao_2022": 2356.0,
+        "casos": 6,
+        "incidencia_100mil": 254.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3163201",
+        "municipio": "São José do Alegre",
+        "populacao_2022": 4133.0,
+        "casos": 6,
+        "incidencia_100mil": 145.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3155306",
+        "municipio": "Rio Manso",
+        "populacao_2022": 5568.0,
+        "casos": 6,
+        "incidencia_100mil": 107.76,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3152907",
+        "municipio": "Pratápolis",
+        "populacao_2022": 8406.0,
+        "casos": 6,
+        "incidencia_100mil": 71.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150802",
+        "municipio": "Piranga",
+        "populacao_2022": 17018.0,
+        "casos": 6,
+        "incidencia_100mil": 35.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110806",
+        "municipio": "Campanário",
+        "populacao_2022": 2923.0,
+        "casos": 6,
+        "incidencia_100mil": 205.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3136108",
+        "municipio": "Joanésia",
+        "populacao_2022": 4329.0,
+        "casos": 6,
+        "incidencia_100mil": 138.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3160405",
+        "municipio": "Santo Antônio do Monte",
+        "populacao_2022": 27295.0,
+        "casos": 6,
+        "incidencia_100mil": 21.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135803",
+        "municipio": "Jequitinhonha",
+        "populacao_2022": 24007.0,
+        "casos": 6,
+        "incidencia_100mil": 24.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3122405",
+        "municipio": "Divisa Nova",
+        "populacao_2022": 5851.0,
+        "casos": 6,
+        "incidencia_100mil": 102.55,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3100203",
+        "municipio": "Abaeté",
+        "populacao_2022": 22675.0,
+        "casos": 6,
+        "incidencia_100mil": 26.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3100708",
+        "municipio": "Água Comprida",
+        "populacao_2022": 2108.0,
+        "casos": 6,
+        "incidencia_100mil": 284.63,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3135308",
+        "municipio": "Japaraíba",
+        "populacao_2022": 4506.0,
+        "casos": 6,
+        "incidencia_100mil": 133.16,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3150604",
+        "municipio": "Piracema",
+        "populacao_2022": 6700.0,
+        "casos": 6,
+        "incidencia_100mil": 89.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3112802",
+        "municipio": "Capitólio",
+        "populacao_2022": 10380.0,
+        "casos": 6,
+        "incidencia_100mil": 57.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3125309",
+        "municipio": "Faria Lemos",
+        "populacao_2022": 3188.0,
+        "casos": 6,
+        "incidencia_100mil": 188.21,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3125101",
+        "municipio": "Extrema",
+        "populacao_2022": 53482.0,
+        "casos": 6,
+        "incidencia_100mil": 11.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3117702",
+        "municipio": "Conceição do Rio Verde",
+        "populacao_2022": 12541.0,
+        "casos": 6,
+        "incidencia_100mil": 47.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3130309",
+        "municipio": "Iguatama",
+        "populacao_2022": 6826.0,
+        "casos": 6,
+        "incidencia_100mil": 87.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3126802",
+        "municipio": "Frei Gaspar",
+        "populacao_2022": 5640.0,
+        "casos": 6,
+        "incidencia_100mil": 106.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3166907",
+        "municipio": "Serrania",
+        "populacao_2022": 7621.0,
+        "casos": 5,
+        "incidencia_100mil": 65.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3143500",
+        "municipio": "Morada Nova de Minas",
+        "populacao_2022": 9067.0,
+        "casos": 5,
+        "incidencia_100mil": 55.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3108305",
+        "municipio": "Borda da Mata",
+        "populacao_2022": 17404.0,
+        "casos": 5,
+        "incidencia_100mil": 28.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128105",
+        "municipio": "Guapé",
+        "populacao_2022": 13772.0,
+        "casos": 5,
+        "incidencia_100mil": 36.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3145109",
+        "municipio": "Nova Resende",
+        "populacao_2022": 16387.0,
+        "casos": 5,
+        "incidencia_100mil": 30.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3113305",
+        "municipio": "Carangola",
+        "populacao_2022": 31240.0,
+        "casos": 5,
+        "incidencia_100mil": 16.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128204",
+        "municipio": "Guaraciaba",
+        "populacao_2022": 9753.0,
+        "casos": 5,
+        "incidencia_100mil": 51.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165008",
+        "municipio": "São Tiago",
+        "populacao_2022": 11192.0,
+        "casos": 5,
+        "incidencia_100mil": 44.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3143708",
+        "municipio": "Morro do Pilar",
+        "populacao_2022": 3133.0,
+        "casos": 5,
+        "incidencia_100mil": 159.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3117801",
+        "municipio": "Conceição dos Ouros",
+        "populacao_2022": 10880.0,
+        "casos": 5,
+        "incidencia_100mil": 45.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3138351",
+        "municipio": "Leme do Prado",
+        "populacao_2022": 4341.0,
+        "casos": 5,
+        "incidencia_100mil": 115.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3138609",
+        "municipio": "Lima Duarte",
+        "populacao_2022": 17221.0,
+        "casos": 5,
+        "incidencia_100mil": 29.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150406",
+        "municipio": "Piedade dos Gerais",
+        "populacao_2022": 5019.0,
+        "casos": 5,
+        "incidencia_100mil": 99.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121704",
+        "municipio": "Diogo de Vasconcelos",
+        "populacao_2022": 3549.0,
+        "casos": 5,
+        "incidencia_100mil": 140.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3124500",
+        "municipio": "Estiva",
+        "populacao_2022": 11502.0,
+        "casos": 5,
+        "incidencia_100mil": 43.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3113107",
+        "municipio": "Caranaíba",
+        "populacao_2022": 2933.0,
+        "casos": 5,
+        "incidencia_100mil": 170.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3112901",
+        "municipio": "Caputira",
+        "populacao_2022": 8936.0,
+        "casos": 5,
+        "incidencia_100mil": 55.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3112653",
+        "municipio": "Capitão Andrade",
+        "populacao_2022": 4585.0,
+        "casos": 5,
+        "incidencia_100mil": 109.05,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3130051",
+        "municipio": "Icaraí de Minas",
+        "populacao_2022": 10677.0,
+        "casos": 5,
+        "incidencia_100mil": 46.83,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3142304",
+        "municipio": "Moeda",
+        "populacao_2022": 5125.0,
+        "casos": 5,
+        "incidencia_100mil": 97.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3139300",
+        "municipio": "Manga",
+        "populacao_2022": 18886.0,
+        "casos": 5,
+        "incidencia_100mil": 26.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3105004",
+        "municipio": "Baldim",
+        "populacao_2022": 7492.0,
+        "casos": 5,
+        "incidencia_100mil": 66.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3124708",
+        "municipio": "Estrela do Indaiá",
+        "populacao_2022": 2772.0,
+        "casos": 5,
+        "incidencia_100mil": 180.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3148509",
+        "municipio": "Pavão",
+        "populacao_2022": 8047.0,
+        "casos": 5,
+        "incidencia_100mil": 62.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3147709",
+        "municipio": "Passa Tempo",
+        "populacao_2022": 8473.0,
+        "casos": 5,
+        "incidencia_100mil": 59.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3119955",
+        "municipio": "Córrego Fundo",
+        "populacao_2022": 6133.0,
+        "casos": 5,
+        "incidencia_100mil": 81.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3101631",
+        "municipio": "Alfredo Vasconcelos",
+        "populacao_2022": 6931.0,
+        "casos": 5,
+        "incidencia_100mil": 72.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171600",
+        "municipio": "Virgem da Lapa",
+        "populacao_2022": 11804.0,
+        "casos": 5,
+        "incidencia_100mil": 42.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170529",
+        "municipio": "Urucuia",
+        "populacao_2022": 17479.0,
+        "casos": 5,
+        "incidencia_100mil": 28.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159605",
+        "municipio": "Santa Rita do Sapucaí",
+        "populacao_2022": 40635.0,
+        "casos": 5,
+        "incidencia_100mil": 12.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135506",
+        "municipio": "Jequeri",
+        "populacao_2022": 12419.0,
+        "casos": 5,
+        "incidencia_100mil": 40.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120607",
+        "municipio": "Crucilândia",
+        "populacao_2022": 5434.0,
+        "casos": 5,
+        "incidencia_100mil": 92.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3161700",
+        "municipio": "São Gonçalo do Abaeté",
+        "populacao_2022": 7375.0,
+        "casos": 5,
+        "incidencia_100mil": 67.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136504",
+        "municipio": "Jordânia",
+        "populacao_2022": 10304.0,
+        "casos": 5,
+        "incidencia_100mil": 48.52,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120201",
+        "municipio": "Cristais",
+        "populacao_2022": 12197.0,
+        "casos": 5,
+        "incidencia_100mil": 40.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3162948",
+        "municipio": "São José da Barra",
+        "populacao_2022": 7793.0,
+        "casos": 5,
+        "incidencia_100mil": 64.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3115706",
+        "municipio": "Central de Minas",
+        "populacao_2022": 6171.0,
+        "casos": 5,
+        "incidencia_100mil": 81.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3156601",
+        "municipio": "Rubim",
+        "populacao_2022": 10298.0,
+        "casos": 5,
+        "incidencia_100mil": 48.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3158508",
+        "municipio": "Santana de Pirapama",
+        "populacao_2022": 7030.0,
+        "casos": 5,
+        "incidencia_100mil": 71.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171154",
+        "municipio": "Vermelho Novo",
+        "populacao_2022": 4899.0,
+        "casos": 5,
+        "incidencia_100mil": 102.06,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3123700",
+        "municipio": "Engenheiro Caldas",
+        "populacao_2022": 13622.0,
+        "casos": 5,
+        "incidencia_100mil": 36.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3146750",
+        "municipio": "Palmópolis",
+        "populacao_2022": 6301.0,
+        "casos": 4,
+        "incidencia_100mil": 63.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3145802",
+        "municipio": "Onça de Pitangui",
+        "populacao_2022": 2969.0,
+        "casos": 4,
+        "incidencia_100mil": 134.73,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3145851",
+        "municipio": "Oratórios",
+        "populacao_2022": 4917.0,
+        "casos": 4,
+        "incidencia_100mil": 81.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3142007",
+        "municipio": "Mirabela",
+        "populacao_2022": 13651.0,
+        "casos": 4,
+        "incidencia_100mil": 29.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128808",
+        "municipio": "Guidoval",
+        "populacao_2022": 7131.0,
+        "casos": 4,
+        "incidencia_100mil": 56.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167707",
+        "municipio": "Sobrália",
+        "populacao_2022": 5137.0,
+        "casos": 4,
+        "incidencia_100mil": 77.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3108206",
+        "municipio": "Bonfinópolis de Minas",
+        "populacao_2022": 5528.0,
+        "casos": 4,
+        "incidencia_100mil": 72.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3119609",
+        "municipio": "Coronel Pacheco",
+        "populacao_2022": 2762.0,
+        "casos": 4,
+        "incidencia_100mil": 144.82,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3144359",
+        "municipio": "Naque",
+        "populacao_2022": 6303.0,
+        "casos": 4,
+        "incidencia_100mil": 63.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165206",
+        "municipio": "São Tomé das Letras",
+        "populacao_2022": 6904.0,
+        "casos": 4,
+        "incidencia_100mil": 57.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157252",
+        "municipio": "Santa Bárbara do Leste",
+        "populacao_2022": 8458.0,
+        "casos": 4,
+        "incidencia_100mil": 47.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3156809",
+        "municipio": "Sabinópolis",
+        "populacao_2022": 14240.0,
+        "casos": 4,
+        "incidencia_100mil": 28.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3117900",
+        "municipio": "Congonhal",
+        "populacao_2022": 11083.0,
+        "casos": 4,
+        "incidencia_100mil": 36.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3115201",
+        "municipio": "Conceição da Barra de Minas",
+        "populacao_2022": 3560.0,
+        "casos": 4,
+        "incidencia_100mil": 112.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3109451",
+        "municipio": "Cabeceira Grande",
+        "populacao_2022": 6627.0,
+        "casos": 4,
+        "incidencia_100mil": 60.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3107109",
+        "municipio": "Boa Esperança",
+        "populacao_2022": 39848.0,
+        "casos": 4,
+        "incidencia_100mil": 10.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3123007",
+        "municipio": "Dores de Campos",
+        "populacao_2022": 10007.0,
+        "casos": 4,
+        "incidencia_100mil": 39.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3125804",
+        "municipio": "Fernandes Tourinho",
+        "populacao_2022": 2789.0,
+        "casos": 4,
+        "incidencia_100mil": 143.42,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3136900",
+        "municipio": "Juruaia",
+        "populacao_2022": 11084.0,
+        "casos": 4,
+        "incidencia_100mil": 36.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109204",
+        "municipio": "Buenópolis",
+        "populacao_2022": 9150.0,
+        "casos": 4,
+        "incidencia_100mil": 43.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170479",
+        "municipio": "Uruana de Minas",
+        "populacao_2022": 3282.0,
+        "casos": 4,
+        "incidencia_100mil": 121.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3141207",
+        "municipio": "Matutina",
+        "populacao_2022": 3814.0,
+        "casos": 4,
+        "incidencia_100mil": 104.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3141504",
+        "municipio": "Mendes Pimentel",
+        "populacao_2022": 5606.0,
+        "casos": 4,
+        "incidencia_100mil": 71.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3162005",
+        "municipio": "São Gonçalo do Sapucaí",
+        "populacao_2022": 23959.0,
+        "casos": 4,
+        "incidencia_100mil": 16.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3127370",
+        "municipio": "Goiabeira",
+        "populacao_2022": 2830.0,
+        "casos": 4,
+        "incidencia_100mil": 141.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3113800",
+        "municipio": "Carmésia",
+        "populacao_2022": 2605.0,
+        "casos": 4,
+        "incidencia_100mil": 153.55,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3148301",
+        "municipio": "Paula Cândido",
+        "populacao_2022": 8659.0,
+        "casos": 4,
+        "incidencia_100mil": 46.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3148756",
+        "municipio": "Pedra Bonita",
+        "populacao_2022": 7320.0,
+        "casos": 4,
+        "incidencia_100mil": 54.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3114402",
+        "municipio": "Carmo do Rio Claro",
+        "populacao_2022": 20954.0,
+        "casos": 4,
+        "incidencia_100mil": 19.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170305",
+        "municipio": "Umburatiba",
+        "populacao_2022": 2684.0,
+        "casos": 4,
+        "incidencia_100mil": 149.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3143005",
+        "municipio": "Monte Belo",
+        "populacao_2022": 13046.0,
+        "casos": 4,
+        "incidencia_100mil": 30.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165404",
+        "municipio": "Sapucaí-Mirim",
+        "populacao_2022": 6311.0,
+        "casos": 4,
+        "incidencia_100mil": 63.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3156304",
+        "municipio": "Rodeiro",
+        "populacao_2022": 8664.0,
+        "casos": 4,
+        "incidencia_100mil": 46.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3158201",
+        "municipio": "Santa Maria do Suaçuí",
+        "populacao_2022": 12788.0,
+        "casos": 4,
+        "incidencia_100mil": 31.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3168309",
+        "municipio": "Taquaraçu de Minas",
+        "populacao_2022": 4224.0,
+        "casos": 4,
+        "incidencia_100mil": 94.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3132305",
+        "municipio": "Itaipé",
+        "populacao_2022": 10463.0,
+        "casos": 4,
+        "incidencia_100mil": 38.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157377",
+        "municipio": "Santa Cruz de Salinas",
+        "populacao_2022": 3910.0,
+        "casos": 4,
+        "incidencia_100mil": 102.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3160454",
+        "municipio": "Santo Antônio do Retiro",
+        "populacao_2022": 6629.0,
+        "casos": 4,
+        "incidencia_100mil": 60.34,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3163904",
+        "municipio": "São Pedro da União",
+        "populacao_2022": 4885.0,
+        "casos": 4,
+        "incidencia_100mil": 81.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3168101",
+        "municipio": "Tapira",
+        "populacao_2022": 4118.0,
+        "casos": 4,
+        "incidencia_100mil": 97.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150000",
+        "municipio": "Pescador",
+        "populacao_2022": 3570.0,
+        "casos": 4,
+        "incidencia_100mil": 112.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3130655",
+        "municipio": "Indaiabira",
+        "populacao_2022": 6346.0,
+        "casos": 4,
+        "incidencia_100mil": 63.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159704",
+        "municipio": "Santa Rosa da Serra",
+        "populacao_2022": 3382.0,
+        "casos": 4,
+        "incidencia_100mil": 118.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3101003",
+        "municipio": "Águas Vermelhas",
+        "populacao_2022": 14037.0,
+        "casos": 4,
+        "incidencia_100mil": 28.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3124401",
+        "municipio": "Espírito Santo do Dourado",
+        "populacao_2022": 6611.0,
+        "casos": 3,
+        "incidencia_100mil": 45.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3138401",
+        "municipio": "Leopoldina",
+        "populacao_2022": 51145.0,
+        "casos": 3,
+        "incidencia_100mil": 5.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3125002",
+        "municipio": "Ewbank da Câmara",
+        "populacao_2022": 3875.0,
+        "casos": 3,
+        "incidencia_100mil": 77.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3106655",
+        "municipio": "Berizal",
+        "populacao_2022": 4201.0,
+        "casos": 3,
+        "incidencia_100mil": 71.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3161403",
+        "municipio": "São Francisco do Glória",
+        "populacao_2022": 4800.0,
+        "casos": 3,
+        "incidencia_100mil": 62.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3111606",
+        "municipio": "Campos Gerais",
+        "populacao_2022": 26105.0,
+        "casos": 3,
+        "incidencia_100mil": 11.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3111705",
+        "municipio": "Canaã",
+        "populacao_2022": 4715.0,
+        "casos": 3,
+        "incidencia_100mil": 63.63,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150208",
+        "municipio": "Piedade de Ponte Nova",
+        "populacao_2022": 3976.0,
+        "casos": 3,
+        "incidencia_100mil": 75.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3130507",
+        "municipio": "Ilicínea",
+        "populacao_2022": 12741.0,
+        "casos": 3,
+        "incidencia_100mil": 23.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3133303",
+        "municipio": "Itaobim",
+        "populacao_2022": 19151.0,
+        "casos": 3,
+        "incidencia_100mil": 15.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120003",
+        "municipio": "Córrego Novo",
+        "populacao_2022": 2875.0,
+        "casos": 3,
+        "incidencia_100mil": 104.35,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3135407",
+        "municipio": "Jeceaba",
+        "populacao_2022": 6197.0,
+        "casos": 3,
+        "incidencia_100mil": 48.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136579",
+        "municipio": "Josenópolis",
+        "populacao_2022": 3630.0,
+        "casos": 3,
+        "incidencia_100mil": 82.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3137403",
+        "municipio": "Lagoa Dourada",
+        "populacao_2022": 12769.0,
+        "casos": 3,
+        "incidencia_100mil": 23.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3124005",
+        "municipio": "Ervália",
+        "populacao_2022": 20255.0,
+        "casos": 3,
+        "incidencia_100mil": 14.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3124203",
+        "municipio": "Espera Feliz",
+        "populacao_2022": 24102.0,
+        "casos": 3,
+        "incidencia_100mil": 12.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154150",
+        "municipio": "Reduto",
+        "populacao_2022": 7848.0,
+        "casos": 3,
+        "incidencia_100mil": 38.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136405",
+        "municipio": "Joaquim Felício",
+        "populacao_2022": 3854.0,
+        "casos": 3,
+        "incidencia_100mil": 77.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3160959",
+        "municipio": "São Domingos das Dores",
+        "populacao_2022": 5626.0,
+        "casos": 3,
+        "incidencia_100mil": 53.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157401",
+        "municipio": "Santa Cruz do Escalvado",
+        "populacao_2022": 4673.0,
+        "casos": 3,
+        "incidencia_100mil": 64.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167806",
+        "municipio": "Soledade de Minas",
+        "populacao_2022": 5613.0,
+        "casos": 3,
+        "incidencia_100mil": 53.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140852",
+        "municipio": "Matias Cardoso",
+        "populacao_2022": 8895.0,
+        "casos": 3,
+        "incidencia_100mil": 33.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3166105",
+        "municipio": "Senhora do Porto",
+        "populacao_2022": 3067.0,
+        "casos": 3,
+        "incidencia_100mil": 97.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3142106",
+        "municipio": "Miradouro",
+        "populacao_2022": 8968.0,
+        "casos": 3,
+        "incidencia_100mil": 33.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3108008",
+        "municipio": "Bom Sucesso",
+        "populacao_2022": 17151.0,
+        "casos": 3,
+        "incidencia_100mil": 17.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3108552",
+        "municipio": "Brasilândia de Minas",
+        "populacao_2022": 15020.0,
+        "casos": 3,
+        "incidencia_100mil": 19.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3117108",
+        "municipio": "Conceição da Aparecida",
+        "populacao_2022": 10371.0,
+        "casos": 3,
+        "incidencia_100mil": 28.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102506",
+        "municipio": "Amparo do Serra",
+        "populacao_2022": 4541.0,
+        "casos": 3,
+        "incidencia_100mil": 66.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102407",
+        "municipio": "Alvorada de Minas",
+        "populacao_2022": 4159.0,
+        "casos": 3,
+        "incidencia_100mil": 72.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170057",
+        "municipio": "Ubaporanga",
+        "populacao_2022": 13017.0,
+        "casos": 3,
+        "incidencia_100mil": 23.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171709",
+        "municipio": "Virgínia",
+        "populacao_2022": 8908.0,
+        "casos": 3,
+        "incidencia_100mil": 33.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3166204",
+        "municipio": "Senhora dos Remédios",
+        "populacao_2022": 10384.0,
+        "casos": 3,
+        "incidencia_100mil": 28.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102852",
+        "municipio": "Angelândia",
+        "populacao_2022": 7718.0,
+        "casos": 3,
+        "incidencia_100mil": 38.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3169406",
+        "municipio": "Três Pontas",
+        "populacao_2022": 55255.0,
+        "casos": 3,
+        "incidencia_100mil": 5.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3101904",
+        "municipio": "Alpinópolis",
+        "populacao_2022": 18300.0,
+        "casos": 3,
+        "incidencia_100mil": 16.39,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121001",
+        "municipio": "Datas",
+        "populacao_2022": 5465.0,
+        "casos": 3,
+        "incidencia_100mil": 54.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3145356",
+        "municipio": "Novo Oriente de Minas",
+        "populacao_2022": 10275.0,
+        "casos": 3,
+        "incidencia_100mil": 29.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3124609",
+        "municipio": "Estrela Dalva",
+        "populacao_2022": 2186.0,
+        "casos": 3,
+        "incidencia_100mil": 137.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3113701",
+        "municipio": "Carlos Chagas",
+        "populacao_2022": 18615.0,
+        "casos": 3,
+        "incidencia_100mil": 16.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3114105",
+        "municipio": "Carmo de Minas",
+        "populacao_2022": 13797.0,
+        "casos": 3,
+        "incidencia_100mil": 21.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3147303",
+        "municipio": "Paraisópolis",
+        "populacao_2022": 20445.0,
+        "casos": 3,
+        "incidencia_100mil": 14.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3147501",
+        "municipio": "Passabém",
+        "populacao_2022": 1600.0,
+        "casos": 3,
+        "incidencia_100mil": 187.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3104452",
+        "municipio": "Aricanduva",
+        "populacao_2022": 4719.0,
+        "casos": 3,
+        "incidencia_100mil": 63.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121803",
+        "municipio": "Dionísio",
+        "populacao_2022": 6847.0,
+        "casos": 3,
+        "incidencia_100mil": 43.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3168051",
+        "municipio": "Taparuba",
+        "populacao_2022": 3387.0,
+        "casos": 3,
+        "incidencia_100mil": 88.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110202",
+        "municipio": "Cajuri",
+        "populacao_2022": 4088.0,
+        "casos": 3,
+        "incidencia_100mil": 73.39,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3152131",
+        "municipio": "Ponto Chique",
+        "populacao_2022": 3747.0,
+        "casos": 3,
+        "incidencia_100mil": 80.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3168200",
+        "municipio": "Tapiraí",
+        "populacao_2022": 1690.0,
+        "casos": 3,
+        "incidencia_100mil": 177.51,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3153400",
+        "municipio": "Presidente Olegário",
+        "populacao_2022": 18765.0,
+        "casos": 3,
+        "incidencia_100mil": 15.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3112059",
+        "municipio": "Cantagalo",
+        "populacao_2022": 3974.0,
+        "casos": 3,
+        "incidencia_100mil": 75.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3127404",
+        "municipio": "Gonçalves",
+        "populacao_2022": 4727.0,
+        "casos": 3,
+        "incidencia_100mil": 63.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3113602",
+        "municipio": "Careaçu",
+        "populacao_2022": 6816.0,
+        "casos": 3,
+        "incidencia_100mil": 44.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3122470",
+        "municipio": "Dom Bosco",
+        "populacao_2022": 3697.0,
+        "casos": 3,
+        "incidencia_100mil": 81.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3155009",
+        "municipio": "Rio Doce",
+        "populacao_2022": 2484.0,
+        "casos": 3,
+        "incidencia_100mil": 120.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3163409",
+        "municipio": "São José do Goiabal",
+        "populacao_2022": 5396.0,
+        "casos": 3,
+        "incidencia_100mil": 55.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110301",
+        "municipio": "Caldas",
+        "populacao_2022": 14217.0,
+        "casos": 2,
+        "incidencia_100mil": 14.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3113909",
+        "municipio": "Carmo da Cachoeira",
+        "populacao_2022": 11547.0,
+        "casos": 2,
+        "incidencia_100mil": 17.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3116209",
+        "municipio": "Chiador",
+        "populacao_2022": 2800.0,
+        "casos": 2,
+        "incidencia_100mil": 71.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3149101",
+        "municipio": "Pedralva",
+        "populacao_2022": 10760.0,
+        "casos": 2,
+        "incidencia_100mil": 18.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3116803",
+        "municipio": "Coluna",
+        "populacao_2022": 8163.0,
+        "casos": 2,
+        "incidencia_100mil": 24.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3129905",
+        "municipio": "Ibitiúra de Minas",
+        "populacao_2022": 3365.0,
+        "casos": 2,
+        "incidencia_100mil": 59.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3119500",
+        "municipio": "Coronel Murta",
+        "populacao_2022": 8200.0,
+        "casos": 2,
+        "incidencia_100mil": 24.39,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3119807",
+        "municipio": "Córrego Danta",
+        "populacao_2022": 2960.0,
+        "casos": 2,
+        "incidencia_100mil": 67.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3107604",
+        "municipio": "Bom Jesus da Penha",
+        "populacao_2022": 4474.0,
+        "casos": 2,
+        "incidencia_100mil": 44.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144409",
+        "municipio": "Natércia",
+        "populacao_2022": 4691.0,
+        "casos": 2,
+        "incidencia_100mil": 42.63,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165701",
+        "municipio": "Senador Firmino",
+        "populacao_2022": 7716.0,
+        "casos": 2,
+        "incidencia_100mil": 25.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3106002",
+        "municipio": "Bela Vista de Minas",
+        "populacao_2022": 10167.0,
+        "casos": 2,
+        "incidencia_100mil": 19.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167301",
+        "municipio": "Silveirânia",
+        "populacao_2022": 2323.0,
+        "casos": 2,
+        "incidencia_100mil": 86.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170578",
+        "municipio": "Vargem Alegre",
+        "populacao_2022": 5780.0,
+        "casos": 2,
+        "incidencia_100mil": 34.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140555",
+        "municipio": "Mata Verde",
+        "populacao_2022": 9112.0,
+        "casos": 2,
+        "incidencia_100mil": 21.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3103702",
+        "municipio": "Araponga",
+        "populacao_2022": 8048.0,
+        "casos": 2,
+        "incidencia_100mil": 24.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3103603",
+        "municipio": "Arantina",
+        "populacao_2022": 2915.0,
+        "casos": 2,
+        "incidencia_100mil": 68.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121100",
+        "municipio": "Delfim Moreira",
+        "populacao_2022": 7952.0,
+        "casos": 2,
+        "incidencia_100mil": 25.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3100401",
+        "municipio": "Acaiaca",
+        "populacao_2022": 3909.0,
+        "casos": 2,
+        "incidencia_100mil": 51.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120870",
+        "municipio": "Curral de Dentro",
+        "populacao_2022": 7406.0,
+        "casos": 2,
+        "incidencia_100mil": 27.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102050",
+        "municipio": "Alto Caparaó",
+        "populacao_2022": 5795.0,
+        "casos": 2,
+        "incidencia_100mil": 34.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3134509",
+        "municipio": "Itutinga",
+        "populacao_2022": 4217.0,
+        "casos": 2,
+        "incidencia_100mil": 47.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3134707",
+        "municipio": "Jacinto",
+        "populacao_2022": 11042.0,
+        "casos": 2,
+        "incidencia_100mil": 18.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3141405",
+        "municipio": "Medina",
+        "populacao_2022": 20156.0,
+        "casos": 2,
+        "incidencia_100mil": 9.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3143450",
+        "municipio": "Montezuma",
+        "populacao_2022": 6888.0,
+        "casos": 2,
+        "incidencia_100mil": 29.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3139805",
+        "municipio": "Mar de Espanha",
+        "populacao_2022": 12721.0,
+        "casos": 2,
+        "incidencia_100mil": 15.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3139003",
+        "municipio": "Machado",
+        "populacao_2022": 37684.0,
+        "casos": 2,
+        "incidencia_100mil": 5.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165560",
+        "municipio": "Sem-Peixe",
+        "populacao_2022": 2433.0,
+        "casos": 2,
+        "incidencia_100mil": 82.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3164308",
+        "municipio": "São Roque de Minas",
+        "populacao_2022": 7129.0,
+        "casos": 2,
+        "incidencia_100mil": 28.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110400",
+        "municipio": "Camacho",
+        "populacao_2022": 2838.0,
+        "casos": 2,
+        "incidencia_100mil": 70.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3163706",
+        "municipio": "São Lourenço",
+        "populacao_2022": 44798.0,
+        "casos": 2,
+        "incidencia_100mil": 4.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3112109",
+        "municipio": "Caparaó",
+        "populacao_2022": 5048.0,
+        "casos": 2,
+        "incidencia_100mil": 39.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3113008",
+        "municipio": "Caraí",
+        "populacao_2022": 19548.0,
+        "casos": 2,
+        "incidencia_100mil": 10.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110707",
+        "municipio": "Cambuquira",
+        "populacao_2022": 12313.0,
+        "casos": 2,
+        "incidencia_100mil": 16.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3108701",
+        "municipio": "Brás Pires",
+        "populacao_2022": 4260.0,
+        "casos": 2,
+        "incidencia_100mil": 46.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110103",
+        "municipio": "Caiana",
+        "populacao_2022": 5304.0,
+        "casos": 2,
+        "incidencia_100mil": 37.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3138005",
+        "municipio": "Laranjal",
+        "populacao_2022": 5963.0,
+        "casos": 2,
+        "incidencia_100mil": 33.54,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3132800",
+        "municipio": "Itambé do Mato Dentro",
+        "populacao_2022": 2142.0,
+        "casos": 2,
+        "incidencia_100mil": 93.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3133204",
+        "municipio": "Itanhomi",
+        "populacao_2022": 11128.0,
+        "casos": 2,
+        "incidencia_100mil": 17.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104700",
+        "municipio": "Ataléia",
+        "populacao_2022": 13736.0,
+        "casos": 2,
+        "incidencia_100mil": 14.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3126307",
+        "municipio": "Fortaleza de Minas",
+        "populacao_2022": 3477.0,
+        "casos": 2,
+        "incidencia_100mil": 57.52,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3125507",
+        "municipio": "São Gonçalo do Rio Preto",
+        "populacao_2022": 3032.0,
+        "casos": 2,
+        "incidencia_100mil": 65.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104106",
+        "municipio": "Arceburgo",
+        "populacao_2022": 9177.0,
+        "casos": 2,
+        "incidencia_100mil": 21.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104304",
+        "municipio": "Areado",
+        "populacao_2022": 13881.0,
+        "casos": 2,
+        "incidencia_100mil": 14.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3125408",
+        "municipio": "Felício dos Santos",
+        "populacao_2022": 5133.0,
+        "casos": 2,
+        "incidencia_100mil": 38.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3137809",
+        "municipio": "Lambari",
+        "populacao_2022": 20414.0,
+        "casos": 2,
+        "incidencia_100mil": 9.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3164209",
+        "municipio": "São Romão",
+        "populacao_2022": 10315.0,
+        "casos": 2,
+        "incidencia_100mil": 19.39,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157104",
+        "municipio": "Salto da Divisa",
+        "populacao_2022": 6110.0,
+        "casos": 2,
+        "incidencia_100mil": 32.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3156452",
+        "municipio": "Rosário da Limeira",
+        "populacao_2022": 4734.0,
+        "casos": 2,
+        "incidencia_100mil": 42.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3107208",
+        "municipio": "Bocaina de Minas",
+        "populacao_2022": 5348.0,
+        "casos": 2,
+        "incidencia_100mil": 37.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121308",
+        "municipio": "Descoberto",
+        "populacao_2022": 4928.0,
+        "casos": 2,
+        "incidencia_100mil": 40.58,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3134301",
+        "municipio": "Itumirim",
+        "populacao_2022": 6638.0,
+        "casos": 2,
+        "incidencia_100mil": 30.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3116100",
+        "municipio": "Chapada do Norte",
+        "populacao_2022": 10337.0,
+        "casos": 2,
+        "incidencia_100mil": 19.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157609",
+        "municipio": "Santa Fé de Minas",
+        "populacao_2022": 3522.0,
+        "casos": 2,
+        "incidencia_100mil": 56.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3122355",
+        "municipio": "Divisa Alegre",
+        "populacao_2022": 6321.0,
+        "casos": 2,
+        "incidencia_100mil": 31.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120508",
+        "municipio": "Cristina",
+        "populacao_2022": 10374.0,
+        "casos": 2,
+        "incidencia_100mil": 19.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120102",
+        "municipio": "Couto de Magalhães de Minas",
+        "populacao_2022": 4245.0,
+        "casos": 2,
+        "incidencia_100mil": 47.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3161205",
+        "municipio": "São Francisco de Paula",
+        "populacao_2022": 6187.0,
+        "casos": 2,
+        "incidencia_100mil": 32.33,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159407",
+        "municipio": "Santa Rita de Ibitipoca",
+        "populacao_2022": 3301.0,
+        "casos": 2,
+        "incidencia_100mil": 60.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3160801",
+        "municipio": "São Bento Abade",
+        "populacao_2022": 4713.0,
+        "casos": 2,
+        "incidencia_100mil": 42.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3171105",
+        "municipio": "Veríssimo",
+        "populacao_2022": 3411.0,
+        "casos": 2,
+        "incidencia_100mil": 58.63,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3101300",
+        "municipio": "Alagoa",
+        "populacao_2022": 2749.0,
+        "casos": 1,
+        "incidencia_100mil": 36.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3101409",
+        "municipio": "Albertina",
+        "populacao_2022": 2952.0,
+        "casos": 1,
+        "incidencia_100mil": 33.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3162302",
+        "municipio": "São João da Mata",
+        "populacao_2022": 2914.0,
+        "casos": 1,
+        "incidencia_100mil": 34.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3160603",
+        "municipio": "Santo Hipólito",
+        "populacao_2022": 2717.0,
+        "casos": 1,
+        "incidencia_100mil": 36.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3160702",
+        "municipio": "Santos Dumont",
+        "populacao_2022": 42406.0,
+        "casos": 1,
+        "incidencia_100mil": 2.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3161056",
+        "municipio": "São Félix de Minas",
+        "populacao_2022": 3200.0,
+        "casos": 1,
+        "incidencia_100mil": 31.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3161650",
+        "municipio": "São Geraldo do Baixio",
+        "populacao_2022": 3143.0,
+        "casos": 1,
+        "incidencia_100mil": 31.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159209",
+        "municipio": "Santa Rita de Caldas",
+        "populacao_2022": 8460.0,
+        "casos": 1,
+        "incidencia_100mil": 11.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159308",
+        "municipio": "Santa Rita de Jacutinga",
+        "populacao_2022": 4755.0,
+        "casos": 1,
+        "incidencia_100mil": 21.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159357",
+        "municipio": "Santa Rita de Minas",
+        "populacao_2022": 6773.0,
+        "casos": 1,
+        "incidencia_100mil": 14.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3159902",
+        "municipio": "Santo Antônio do Amparo",
+        "populacao_2022": 17285.0,
+        "casos": 1,
+        "incidencia_100mil": 5.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3160306",
+        "municipio": "Santo Antônio do Jacinto",
+        "populacao_2022": 10327.0,
+        "casos": 1,
+        "incidencia_100mil": 9.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157302",
+        "municipio": "Santa Bárbara do Tugúrio",
+        "populacao_2022": 4208.0,
+        "casos": 1,
+        "incidencia_100mil": 23.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3157500",
+        "municipio": "Santa Efigênia de Minas",
+        "populacao_2022": 4039.0,
+        "casos": 1,
+        "incidencia_100mil": 24.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3158607",
+        "municipio": "Santana do Deserto",
+        "populacao_2022": 3747.0,
+        "casos": 1,
+        "incidencia_100mil": 26.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154200",
+        "municipio": "Resende Costa",
+        "populacao_2022": 11230.0,
+        "casos": 1,
+        "incidencia_100mil": 8.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3154408",
+        "municipio": "Ressaquinha",
+        "populacao_2022": 4548.0,
+        "casos": 1,
+        "incidencia_100mil": 21.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3155108",
+        "municipio": "Rio do Prado",
+        "populacao_2022": 4639.0,
+        "casos": 1,
+        "incidencia_100mil": 21.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3155207",
+        "municipio": "Rio Espera",
+        "populacao_2022": 5429.0,
+        "casos": 1,
+        "incidencia_100mil": 18.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3163300",
+        "municipio": "São José do Divino",
+        "populacao_2022": 3464.0,
+        "casos": 1,
+        "incidencia_100mil": 28.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3163508",
+        "municipio": "São José do Jacuri",
+        "populacao_2022": 6197.0,
+        "casos": 1,
+        "incidencia_100mil": 16.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3164100",
+        "municipio": "São Pedro do Suaçuí",
+        "populacao_2022": 5103.0,
+        "casos": 1,
+        "incidencia_100mil": 19.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3153004",
+        "municipio": "Pratinha",
+        "populacao_2022": 3559.0,
+        "casos": 1,
+        "incidencia_100mil": 28.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3153103",
+        "municipio": "Presidente Bernardes",
+        "populacao_2022": 4850.0,
+        "casos": 1,
+        "incidencia_100mil": 20.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3153301",
+        "municipio": "Presidente Kubitschek",
+        "populacao_2022": 3071.0,
+        "casos": 1,
+        "incidencia_100mil": 32.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3149606",
+        "municipio": "Pequi",
+        "populacao_2022": 4155.0,
+        "casos": 1,
+        "incidencia_100mil": 24.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3149952",
+        "municipio": "Periquito",
+        "populacao_2022": 6553.0,
+        "casos": 1,
+        "incidencia_100mil": 15.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3150505",
+        "municipio": "Pimenta",
+        "populacao_2022": 8563.0,
+        "casos": 1,
+        "incidencia_100mil": 11.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3148707",
+        "municipio": "Pedra Azul",
+        "populacao_2022": 24410.0,
+        "casos": 1,
+        "incidencia_100mil": 4.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3149408",
+        "municipio": "Pedro Teixeira",
+        "populacao_2022": 1810.0,
+        "casos": 1,
+        "incidencia_100mil": 55.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3147808",
+        "municipio": "Passa Vinte",
+        "populacao_2022": 2233.0,
+        "casos": 1,
+        "incidencia_100mil": 44.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165602",
+        "municipio": "Senador Cortes",
+        "populacao_2022": 2240.0,
+        "casos": 1,
+        "incidencia_100mil": 44.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3165909",
+        "municipio": "Senador Modestino Gonçalves",
+        "populacao_2022": 4008.0,
+        "casos": 1,
+        "incidencia_100mil": 24.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3166006",
+        "municipio": "Senhora de Oliveira",
+        "populacao_2022": 5483.0,
+        "casos": 1,
+        "incidencia_100mil": 18.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144201",
+        "municipio": "Nacip Raydan",
+        "populacao_2022": 2459.0,
+        "casos": 1,
+        "incidencia_100mil": 40.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144375",
+        "municipio": "Natalândia",
+        "populacao_2022": 3520.0,
+        "casos": 1,
+        "incidencia_100mil": 28.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144508",
+        "municipio": "Nazareno",
+        "populacao_2022": 8179.0,
+        "casos": 1,
+        "incidencia_100mil": 12.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144656",
+        "municipio": "Ninheira",
+        "populacao_2022": 10588.0,
+        "casos": 1,
+        "incidencia_100mil": 9.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144706",
+        "municipio": "Nova Era",
+        "populacao_2022": 17438.0,
+        "casos": 1,
+        "incidencia_100mil": 5.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3144904",
+        "municipio": "Nova Módica",
+        "populacao_2022": 3663.0,
+        "casos": 1,
+        "incidencia_100mil": 27.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3140605",
+        "municipio": "Materlândia",
+        "populacao_2022": 3963.0,
+        "casos": 1,
+        "incidencia_100mil": 25.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3137908",
+        "municipio": "Lamim",
+        "populacao_2022": 3184.0,
+        "casos": 1,
+        "incidencia_100mil": 31.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3138674",
+        "municipio": "Luisburgo",
+        "populacao_2022": 6956.0,
+        "casos": 1,
+        "incidencia_100mil": 14.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136520",
+        "municipio": "José Gonçalves de Minas",
+        "populacao_2022": 3969.0,
+        "casos": 1,
+        "incidencia_100mil": 25.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136603",
+        "municipio": "Nova União",
+        "populacao_2022": 5909.0,
+        "casos": 1,
+        "incidencia_100mil": 16.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3135076",
+        "municipio": "Jampruca",
+        "populacao_2022": 4296.0,
+        "casos": 1,
+        "incidencia_100mil": 23.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3136009",
+        "municipio": "Joaíma",
+        "populacao_2022": 13888.0,
+        "casos": 1,
+        "incidencia_100mil": 7.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3132909",
+        "municipio": "Itamogi",
+        "populacao_2022": 10770.0,
+        "casos": 1,
+        "incidencia_100mil": 9.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3130408",
+        "municipio": "Ijaci",
+        "populacao_2022": 7003.0,
+        "casos": 1,
+        "incidencia_100mil": 14.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3130556",
+        "municipio": "Imbé de Minas",
+        "populacao_2022": 6986.0,
+        "casos": 1,
+        "incidencia_100mil": 14.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3130804",
+        "municipio": "Ingaí",
+        "populacao_2022": 2580.0,
+        "casos": 1,
+        "incidencia_100mil": 38.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167400",
+        "municipio": "Silvianópolis",
+        "populacao_2022": 6179.0,
+        "casos": 1,
+        "incidencia_100mil": 16.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167509",
+        "municipio": "Simão Pereira",
+        "populacao_2022": 2947.0,
+        "casos": 1,
+        "incidencia_100mil": 33.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3167905",
+        "municipio": "Tabuleiro",
+        "populacao_2022": 4014.0,
+        "casos": 1,
+        "incidencia_100mil": 24.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128402",
+        "municipio": "Guarani",
+        "populacao_2022": 7714.0,
+        "casos": 1,
+        "incidencia_100mil": 12.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3128501",
+        "municipio": "Guarará",
+        "populacao_2022": 3149.0,
+        "casos": 1,
+        "incidencia_100mil": 31.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3130002",
+        "municipio": "Ibituruna",
+        "populacao_2022": 2698.0,
+        "casos": 1,
+        "incidencia_100mil": 37.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3127388",
+        "municipio": "Goianá",
+        "populacao_2022": 4053.0,
+        "casos": 1,
+        "incidencia_100mil": 24.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3125200",
+        "municipio": "Fama",
+        "populacao_2022": 2578.0,
+        "casos": 1,
+        "incidencia_100mil": 38.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3123304",
+        "municipio": "Dores do Turvo",
+        "populacao_2022": 4987.0,
+        "casos": 1,
+        "incidencia_100mil": 20.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3123908",
+        "municipio": "Entre Rios de Minas",
+        "populacao_2022": 14746.0,
+        "casos": 1,
+        "incidencia_100mil": 6.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3121407",
+        "municipio": "Desterro de Entre Rios",
+        "populacao_2022": 7653.0,
+        "casos": 1,
+        "incidencia_100mil": 13.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3120706",
+        "municipio": "Cruzeiro da Fortaleza",
+        "populacao_2022": 3521.0,
+        "casos": 1,
+        "incidencia_100mil": 28.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3118106",
+        "municipio": "Congonhas do Norte",
+        "populacao_2022": 4831.0,
+        "casos": 1,
+        "incidencia_100mil": 20.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3117009",
+        "municipio": "Comercinho",
+        "populacao_2022": 6660.0,
+        "casos": 1,
+        "incidencia_100mil": 15.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3115409",
+        "municipio": "Catas Altas da Noruega",
+        "populacao_2022": 3110.0,
+        "casos": 1,
+        "incidencia_100mil": 32.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3116001",
+        "municipio": "Chalé",
+        "populacao_2022": 6075.0,
+        "casos": 1,
+        "incidencia_100mil": 16.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3116308",
+        "municipio": "Cipotânea",
+        "populacao_2022": 5581.0,
+        "casos": 1,
+        "incidencia_100mil": 17.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3114907",
+        "municipio": "Casa Grande",
+        "populacao_2022": 2214.0,
+        "casos": 1,
+        "incidencia_100mil": 45.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3169505",
+        "municipio": "Tumiritinga",
+        "populacao_2022": 5886.0,
+        "casos": 1,
+        "incidencia_100mil": 16.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3112406",
+        "municipio": "Capetinga",
+        "populacao_2022": 6562.0,
+        "casos": 1,
+        "incidencia_100mil": 15.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3110905",
+        "municipio": "Campanha",
+        "populacao_2022": 15935.0,
+        "casos": 1,
+        "incidencia_100mil": 6.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109105",
+        "municipio": "Bueno Brandão",
+        "populacao_2022": 10911.0,
+        "casos": 1,
+        "incidencia_100mil": 9.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3109501",
+        "municipio": "Cabo Verde",
+        "populacao_2022": 11410.0,
+        "casos": 1,
+        "incidencia_100mil": 8.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3107901",
+        "municipio": "Bom Repouso",
+        "populacao_2022": 12649.0,
+        "casos": 1,
+        "incidencia_100mil": 7.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3105707",
+        "municipio": "Barra Longa",
+        "populacao_2022": 5666.0,
+        "casos": 1,
+        "incidencia_100mil": 17.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3106507",
+        "municipio": "Berilo",
+        "populacao_2022": 9826.0,
+        "casos": 1,
+        "incidencia_100mil": 10.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3106903",
+        "municipio": "Bicas",
+        "populacao_2022": 13978.0,
+        "casos": 1,
+        "incidencia_100mil": 7.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3107000",
+        "municipio": "Biquinhas",
+        "populacao_2022": 2383.0,
+        "casos": 1,
+        "incidencia_100mil": 41.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104403",
+        "municipio": "Argirita",
+        "populacao_2022": 2688.0,
+        "casos": 1,
+        "incidencia_100mil": 37.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104601",
+        "municipio": "Astolfo Dutra",
+        "populacao_2022": 14138.0,
+        "casos": 1,
+        "incidencia_100mil": 7.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3104809",
+        "municipio": "Augusto de Lima",
+        "populacao_2022": 4538.0,
+        "casos": 1,
+        "incidencia_100mil": 22.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102100",
+        "municipio": "Alto Rio Doce",
+        "populacao_2022": 10891.0,
+        "casos": 1,
+        "incidencia_100mil": 9.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102605",
+        "municipio": "Andradas",
+        "populacao_2022": 40553.0,
+        "casos": 1,
+        "incidencia_100mil": 2.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3102803",
+        "municipio": "Andrelândia",
+        "populacao_2022": 11927.0,
+        "casos": 1,
+        "incidencia_100mil": 8.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3170651",
+        "municipio": "Vargem Grande do Rio Pardo",
+        "populacao_2022": 4633.0,
+        "casos": 1,
+        "incidencia_100mil": 21.58,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "MG",
+        "total_registros": 28468,
+        "percentual_dentro_uf_residencia": 99.88
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "SP",
+        "total_registros": 11,
+        "percentual_dentro_uf_residencia": 0.04
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "RJ",
+        "total_registros": 6,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "ES",
+        "total_registros": 5,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "BA",
+        "total_registros": 3,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "DF",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "AM",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "CE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "PE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "SC",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "MG",
+        "uf_provavel_infeccao": "TO",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Minas Gerais, foram contabilizados 61.668 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 756 municípios com informações disponíveis para análise, Uberlândia apresentou o maior número absoluto de notificações, com 7.605. A maior incidência foi observada em Machacalis, com 8.447,66 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 46,28% dos registros de MG foram classificados como autóctones, 0,93% como não autóctones, 1,41% como indeterminados e 51,38% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,88% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Minas Gerais",
+    "MG",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

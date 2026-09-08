@@ -1,0 +1,121 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_24",
+  "titulo": "Desfechos dos registros de dengue em Rio Grande do Norte - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "24",
+    "uf_nome": "Rio Grande do Norte",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Rio Grande do Norte, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 7234,
+    "avaliaveis_hospitalizacao": 2903,
+    "hospitalizados": 619,
+    "percentual_hospitalizados": 21.32,
+    "total_evolucao_avaliavel": 2101,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 2096,
+    "percentual_evolucao_predominante": 99.76
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 7234,
+        "avaliaveis": 2903,
+        "hospitalizados": 619,
+        "nao_hospitalizados": 2284,
+        "ignorados": 130,
+        "ausentes": 4201,
+        "percentual_hospitalizados": 21.32,
+        "percentual_nao_hospitalizados": 78.68,
+        "percentual_ignorados": 1.8,
+        "percentual_ausentes": 58.07
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 2096,
+        "percentual_total": 28.97,
+        "avaliavel": true,
+        "total_avaliaveis": 2101,
+        "percentual_avaliaveis": 99.76
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 455,
+        "percentual_total": 6.29,
+        "avaliavel": false,
+        "total_avaliaveis": 2101,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 3,
+        "percentual_total": 0.04,
+        "avaliavel": true,
+        "total_avaliaveis": 2101,
+        "percentual_avaliaveis": 0.14
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 2,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 2101,
+        "percentual_avaliaveis": 0.1
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 4678,
+        "percentual_total": 64.67,
+        "avaliavel": false,
+        "total_avaliaveis": 2101,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Rio Grande do Norte, foram considerados 7,234 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 619 apresentaram hospitalização, correspondendo a 21.32%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 2,096 registros e 99.76% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Rio Grande do Norte",
+    "24",
+    "2026",
+    "SINAN"
+  ]
+}

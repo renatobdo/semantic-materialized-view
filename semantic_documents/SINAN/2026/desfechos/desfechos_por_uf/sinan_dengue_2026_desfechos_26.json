@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_26",
+  "titulo": "Desfechos dos registros de dengue em Pernambuco - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "26",
+    "uf_nome": "Pernambuco",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Pernambuco, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 22036,
+    "avaliaveis_hospitalizacao": 11792,
+    "hospitalizados": 1498,
+    "percentual_hospitalizados": 12.7,
+    "total_evolucao_avaliavel": 9665,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 9643,
+    "percentual_evolucao_predominante": 99.77
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 22036,
+        "avaliaveis": 11792,
+        "hospitalizados": 1498,
+        "nao_hospitalizados": 10294,
+        "ignorados": 218,
+        "ausentes": 10026,
+        "percentual_hospitalizados": 12.7,
+        "percentual_nao_hospitalizados": 87.3,
+        "percentual_ignorados": 0.99,
+        "percentual_ausentes": 45.5
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 9643,
+        "percentual_total": 43.76,
+        "avaliavel": true,
+        "total_avaliaveis": 9665,
+        "percentual_avaliaveis": 99.77
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 785,
+        "percentual_total": 3.56,
+        "avaliavel": false,
+        "total_avaliaveis": 9665,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 16,
+        "percentual_total": 0.07,
+        "avaliavel": true,
+        "total_avaliaveis": 9665,
+        "percentual_avaliaveis": 0.17
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 1,
+        "percentual_total": 0.0,
+        "avaliavel": true,
+        "total_avaliaveis": 9665,
+        "percentual_avaliaveis": 0.01
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 5,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 9665,
+        "percentual_avaliaveis": 0.05
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 11586,
+        "percentual_total": 52.58,
+        "avaliavel": false,
+        "total_avaliaveis": 9665,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Pernambuco, foram considerados 22,036 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 1,498 apresentaram hospitalização, correspondendo a 12.70%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 9,643 registros e 99.77% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Pernambuco",
+    "26",
+    "2026",
+    "SINAN"
+  ]
+}

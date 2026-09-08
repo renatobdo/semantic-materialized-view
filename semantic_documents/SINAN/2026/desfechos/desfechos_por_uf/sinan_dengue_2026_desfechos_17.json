@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_17",
+  "titulo": "Desfechos dos registros de dengue em Tocantins - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "17",
+    "uf_nome": "Tocantins",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Tocantins, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 15430,
+    "avaliaveis_hospitalizacao": 10537,
+    "hospitalizados": 1330,
+    "percentual_hospitalizados": 12.62,
+    "total_evolucao_avaliavel": 10099,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 10080,
+    "percentual_evolucao_predominante": 99.81
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 15430,
+        "avaliaveis": 10537,
+        "hospitalizados": 1330,
+        "nao_hospitalizados": 9207,
+        "ignorados": 47,
+        "ausentes": 4846,
+        "percentual_hospitalizados": 12.62,
+        "percentual_nao_hospitalizados": 87.38,
+        "percentual_ignorados": 0.3,
+        "percentual_ausentes": 31.41
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 10080,
+        "percentual_total": 65.33,
+        "avaliavel": true,
+        "total_avaliaveis": 10099,
+        "percentual_avaliaveis": 99.81
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 231,
+        "percentual_total": 1.5,
+        "avaliavel": false,
+        "total_avaliaveis": 10099,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 3,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 10099,
+        "percentual_avaliaveis": 0.03
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 15,
+        "percentual_total": 0.1,
+        "avaliavel": true,
+        "total_avaliaveis": 10099,
+        "percentual_avaliaveis": 0.15
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 1,
+        "percentual_total": 0.01,
+        "avaliavel": true,
+        "total_avaliaveis": 10099,
+        "percentual_avaliaveis": 0.01
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 5100,
+        "percentual_total": 33.05,
+        "avaliavel": false,
+        "total_avaliaveis": 10099,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Tocantins, foram considerados 15,430 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 1,330 apresentaram hospitalização, correspondendo a 12.62%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 10,080 registros e 99.81% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Tocantins",
+    "17",
+    "2026",
+    "SINAN"
+  ]
+}

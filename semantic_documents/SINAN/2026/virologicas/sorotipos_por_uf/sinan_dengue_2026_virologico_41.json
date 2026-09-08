@@ -1,0 +1,85 @@
+{
+  "document_id": "SINAN_DENGUE_2026_VIROLOGICO_41",
+  "titulo": "Sorotipos de dengue em Paraná - 2026",
+  "tipo_documento": "perfil_virologico_uf",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "41",
+    "uf_nome": "Paraná",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta a distribuição dos sorotipos de dengue registrados no SINAN em Paraná, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. Também apresenta a completude da variável de sorotipo.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 11293,
+    "sorotipo_informado": 504,
+    "sorotipo_nao_informado": 10789,
+    "percentual_sorotipo_informado": 4.46,
+    "percentual_sorotipo_nao_informado": 95.54,
+    "sorotipo_mais_frequente": "DENV-2",
+    "total_sorotipo_mais_frequente": 436
+  },
+  "evidencias": {
+    "distribuicao_sorotipos": [
+      {
+        "sorotipo": "DENV-2",
+        "total_registros": 436
+      },
+      {
+        "sorotipo": "DENV-3",
+        "total_registros": 48
+      },
+      {
+        "sorotipo": "DENV-1",
+        "total_registros": 20
+      }
+    ],
+    "completude_sorotipo": [
+      {
+        "total_registros": 11293,
+        "sorotipo_informado": 504,
+        "sorotipo_nao_informado": 10789,
+        "percentual_informado": 4.46,
+        "percentual_nao_informado": 95.54
+      }
+    ]
+  },
+  "interpretacao": "Na UF Paraná, foram registrados 11,293 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Desses, 504 apresentaram informação de sorotipo (4.46%). O sorotipo mais frequente entre os registros com informação disponível foi DENV-2, com 436 registros.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A ausência de informação de sorotipo não representa ausência de registros de dengue.",
+    "A distribuição dos sorotipos considera somente os registros em que a variável SOROTIPO possui informação disponível."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sorotipo",
+    "DEN-1",
+    "DEN-2",
+    "DEN-3",
+    "DEN-4",
+    "unidade federativa",
+    "semana epidemiológica",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sorotipo",
+    "sorotipos dengue",
+    "Paraná",
+    "41",
+    "semana epidemiológica 1",
+    "semana epidemiológica 34",
+    "2026",
+    "SINAN"
+  ]
+}

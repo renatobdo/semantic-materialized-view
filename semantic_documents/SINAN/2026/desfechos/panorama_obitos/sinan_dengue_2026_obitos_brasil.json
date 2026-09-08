@@ -1,0 +1,352 @@
+{
+  "document_id": "SINAN_DENGUE_2026_OBITOS_BRASIL",
+  "titulo": "Panorama nacional dos registros classificados em categorias de óbito - 2026",
+  "tipo_documento": "panorama_obitos_nacional",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "localizacao": "Brasil",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "populacao_analitica": "registros classificados em categorias de evolução relacionadas a óbito"
+  },
+  "sintese": "Este documento apresenta o panorama nacional dos registros classificados em categorias de evolução relacionadas a óbito no SINAN, entre as semanas epidemiológicas 1 e 34 de 2026. São apresentados os tipos de óbito registrados, a distribuição de sorotipos, os sinais clínicos e as doenças preexistentes desse subconjunto.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros_obito": 559,
+    "tipo_obito_predominante": "Óbito pelo agravo",
+    "total_tipo_obito_predominante": 303,
+    "percentual_tipo_obito_predominante": 54.2,
+    "total_sorotipo_informado": 111,
+    "sorotipo_predominante_informado": "DENV-2",
+    "percentual_sorotipo_predominante": 69.37,
+    "sinal_clinico_mais_frequente": "Febre",
+    "percentual_sinal_clinico": 79.43,
+    "doenca_preexistente_mais_frequente": "Hipertensão arterial",
+    "percentual_doenca_preexistente": 37.03
+  },
+  "evidencias": {
+    "tipos_de_obito": [
+      {
+        "tipo_obito": "Óbito pelo agravo",
+        "total_obitos": 303,
+        "percentual_entre_obitos": 54.2
+      },
+      {
+        "tipo_obito": "Óbito em investigação",
+        "total_obitos": 154,
+        "percentual_entre_obitos": 27.55
+      },
+      {
+        "tipo_obito": "Óbito por outras causas",
+        "total_obitos": 102,
+        "percentual_entre_obitos": 18.25
+      }
+    ],
+    "sorotipos_entre_obitos": [
+      {
+        "sorotipo": "Ausente",
+        "total_registros_obito": 448,
+        "percentual_total_obitos": 80.14,
+        "percentual_entre_sorotipos_informados": null
+      },
+      {
+        "sorotipo": "DENV-2",
+        "total_registros_obito": 77,
+        "percentual_total_obitos": 13.77,
+        "percentual_entre_sorotipos_informados": 69.37
+      },
+      {
+        "sorotipo": "DENV-3",
+        "total_registros_obito": 33,
+        "percentual_total_obitos": 5.9,
+        "percentual_entre_sorotipos_informados": 29.73
+      },
+      {
+        "sorotipo": "DENV-1",
+        "total_registros_obito": 1,
+        "percentual_total_obitos": 0.18,
+        "percentual_entre_sorotipos_informados": 0.9
+      }
+    ],
+    "sinais_clinicos_entre_obitos": [
+      {
+        "variavel": "FEBRE_DECODED",
+        "sinal_clinico": "Febre",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 444,
+        "nao": 115,
+        "ausentes": 0,
+        "percentual_sim": 79.43,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "MIALGIA_DECODED",
+        "sinal_clinico": "Mialgia",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 380,
+        "nao": 179,
+        "ausentes": 0,
+        "percentual_sim": 67.98,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "CEFALEIA_DECODED",
+        "sinal_clinico": "Cefaleia",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 305,
+        "nao": 254,
+        "ausentes": 0,
+        "percentual_sim": 54.56,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "VOMITO_DECODED",
+        "sinal_clinico": "Vômito",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 273,
+        "nao": 286,
+        "ausentes": 0,
+        "percentual_sim": 48.84,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "NAUSEA_DECODED",
+        "sinal_clinico": "Náusea",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 266,
+        "nao": 293,
+        "ausentes": 0,
+        "percentual_sim": 47.58,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "DOR_COSTAS_DECODED",
+        "sinal_clinico": "Dor nas costas",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 136,
+        "nao": 423,
+        "ausentes": 0,
+        "percentual_sim": 24.33,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "DOR_RETRO_DECODED",
+        "sinal_clinico": "Dor retro-orbital",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 97,
+        "nao": 462,
+        "ausentes": 0,
+        "percentual_sim": 17.35,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "ARTRALGIA_DECODED",
+        "sinal_clinico": "Artralgia",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 96,
+        "nao": 463,
+        "ausentes": 0,
+        "percentual_sim": 17.17,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "LEUCOPENIA_DECODED",
+        "sinal_clinico": "Leucopenia",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 85,
+        "nao": 474,
+        "ausentes": 0,
+        "percentual_sim": 15.21,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "PETEQUIA_N_DECODED",
+        "sinal_clinico": "Petéquias",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 83,
+        "nao": 476,
+        "ausentes": 0,
+        "percentual_sim": 14.85,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "EXANTEMA_DECODED",
+        "sinal_clinico": "Exantema",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 58,
+        "nao": 501,
+        "ausentes": 0,
+        "percentual_sim": 10.38,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "ARTRITE_DECODED",
+        "sinal_clinico": "Artrite",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 47,
+        "nao": 512,
+        "ausentes": 0,
+        "percentual_sim": 8.41,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "CONJUNTVIT_DECODED",
+        "sinal_clinico": "Conjuntivite",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 16,
+        "nao": 543,
+        "ausentes": 0,
+        "percentual_sim": 2.86,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "LACO_DECODED",
+        "sinal_clinico": "Prova do laço",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 15,
+        "nao": 544,
+        "ausentes": 0,
+        "percentual_sim": 2.68,
+        "percentual_ausentes": 0.0
+      }
+    ],
+    "doencas_preexistentes_entre_obitos": [
+      {
+        "variavel": "HIPERTENSA_DECODED",
+        "doenca_preexistente": "Hipertensão arterial",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 207,
+        "nao": 352,
+        "ausentes": 0,
+        "percentual_sim": 37.03,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "DIABETES_DECODED",
+        "doenca_preexistente": "Diabetes",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 112,
+        "nao": 447,
+        "ausentes": 0,
+        "percentual_sim": 20.04,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "RENAL_DECODED",
+        "doenca_preexistente": "Doença renal",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 35,
+        "nao": 524,
+        "ausentes": 0,
+        "percentual_sim": 6.26,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "HEPATOPAT_DECODED",
+        "doenca_preexistente": "Hepatopatia",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 24,
+        "nao": 535,
+        "ausentes": 0,
+        "percentual_sim": 4.29,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "AUTO_IMUNE_DECODED",
+        "doenca_preexistente": "Doença autoimune",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 20,
+        "nao": 539,
+        "ausentes": 0,
+        "percentual_sim": 3.58,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "HEMATOLOG_DECODED",
+        "doenca_preexistente": "Doença hematológica",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 17,
+        "nao": 542,
+        "ausentes": 0,
+        "percentual_sim": 3.04,
+        "percentual_ausentes": 0.0
+      },
+      {
+        "variavel": "ACIDO_PEPT_DECODED",
+        "doenca_preexistente": "Doença ácido-péptica",
+        "total_registros_obito": 559,
+        "avaliaveis": 559,
+        "sim": 4,
+        "nao": 555,
+        "ausentes": 0,
+        "percentual_sim": 0.72,
+        "percentual_ausentes": 0.0
+      }
+    ]
+  },
+  "interpretacao": "No Brasil, foram identificados 559 registros classificados em categorias de evolução relacionadas a óbito entre as semanas epidemiológicas 1 e 34 de 2026. Entre essas categorias, Óbito pelo agravo foi a mais frequente, com 303 registros (54.20% desse subconjunto). O sinal clínico mais frequentemente registrado como presente foi Febre, com 79.43%, enquanto Hipertensão arterial foi a doença preexistente mais frequentemente registrada, com 37.03%. Entre os 111 registros com sorotipo informado, DENV-2 foi o mais frequente, representando 69.37% dos sorotipos informados.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "O subconjunto inclui registros classificados como óbito pelo agravo, óbito em investigação e óbito por outras causas.",
+    "Por esse motivo, o total apresentado não deve ser interpretado exclusivamente como número de óbitos causados pela dengue.",
+    "Os percentuais de sinais clínicos e doenças preexistentes consideram os registros avaliáveis de cada variável.",
+    "A ausência de informação de sorotipo é mantida explicitamente nas evidências.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais entre sorotipo, sinais clínicos, doenças preexistentes e óbito."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "óbito",
+    "evolução clínica",
+    "óbito pelo agravo",
+    "óbito em investigação",
+    "óbito por outras causas",
+    "sorotipo",
+    "sinal clínico",
+    "doença preexistente",
+    "semana epidemiológica",
+    "Brasil",
+    "vigilância epidemiológica",
+    "SINAN"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "óbito",
+    "mortalidade",
+    "evolução",
+    "sorotipo",
+    "sinais clínicos",
+    "doenças preexistentes",
+    "Brasil",
+    "2026",
+    "SINAN"
+  ]
+}

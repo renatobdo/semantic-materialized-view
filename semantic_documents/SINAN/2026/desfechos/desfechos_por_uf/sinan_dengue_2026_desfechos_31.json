@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_31",
+  "titulo": "Desfechos dos registros de dengue em Minas Gerais - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "31",
+    "uf_nome": "Minas Gerais",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Minas Gerais, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 61248,
+    "avaliaveis_hospitalizacao": 39966,
+    "hospitalizados": 2492,
+    "percentual_hospitalizados": 6.24,
+    "total_evolucao_avaliavel": 42311,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 42230,
+    "percentual_evolucao_predominante": 99.81
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 61248,
+        "avaliaveis": 39966,
+        "hospitalizados": 2492,
+        "nao_hospitalizados": 37474,
+        "ignorados": 318,
+        "ausentes": 20964,
+        "percentual_hospitalizados": 6.24,
+        "percentual_nao_hospitalizados": 93.76,
+        "percentual_ignorados": 0.52,
+        "percentual_ausentes": 34.23
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 42230,
+        "percentual_total": 68.95,
+        "avaliavel": true,
+        "total_avaliaveis": 42311,
+        "percentual_avaliaveis": 99.81
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 807,
+        "percentual_total": 1.32,
+        "avaliavel": false,
+        "total_avaliaveis": 42311,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 26,
+        "percentual_total": 0.04,
+        "avaliavel": true,
+        "total_avaliaveis": 42311,
+        "percentual_avaliaveis": 0.06
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 40,
+        "percentual_total": 0.07,
+        "avaliavel": true,
+        "total_avaliaveis": 42311,
+        "percentual_avaliaveis": 0.09
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 15,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 42311,
+        "percentual_avaliaveis": 0.04
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 18130,
+        "percentual_total": 29.6,
+        "avaliavel": false,
+        "total_avaliaveis": 42311,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Minas Gerais, foram considerados 61,248 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 2,492 apresentaram hospitalização, correspondendo a 6.24%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 42,230 registros e 99.81% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Minas Gerais",
+    "31",
+    "2026",
+    "SINAN"
+  ]
+}

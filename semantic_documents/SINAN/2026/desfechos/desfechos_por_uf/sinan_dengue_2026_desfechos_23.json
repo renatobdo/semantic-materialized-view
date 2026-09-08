@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_23",
+  "titulo": "Desfechos dos registros de dengue em Ceará - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "23",
+    "uf_nome": "Ceará",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Ceará, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 17337,
+    "avaliaveis_hospitalizacao": 13049,
+    "hospitalizados": 2109,
+    "percentual_hospitalizados": 16.16,
+    "total_evolucao_avaliavel": 13045,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 13019,
+    "percentual_evolucao_predominante": 99.8
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 17337,
+        "avaliaveis": 13049,
+        "hospitalizados": 2109,
+        "nao_hospitalizados": 10940,
+        "ignorados": 266,
+        "ausentes": 4022,
+        "percentual_hospitalizados": 16.16,
+        "percentual_nao_hospitalizados": 83.84,
+        "percentual_ignorados": 1.53,
+        "percentual_ausentes": 23.2
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 13019,
+        "percentual_total": 75.09,
+        "avaliavel": true,
+        "total_avaliaveis": 13045,
+        "percentual_avaliaveis": 99.8
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 285,
+        "percentual_total": 1.64,
+        "avaliavel": false,
+        "total_avaliaveis": 13045,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 3,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 13045,
+        "percentual_avaliaveis": 0.02
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 18,
+        "percentual_total": 0.1,
+        "avaliavel": true,
+        "total_avaliaveis": 13045,
+        "percentual_avaliaveis": 0.14
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 5,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 13045,
+        "percentual_avaliaveis": 0.04
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 4007,
+        "percentual_total": 23.11,
+        "avaliavel": false,
+        "total_avaliaveis": 13045,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Ceará, foram considerados 17,337 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 2,109 apresentaram hospitalização, correspondendo a 16.16%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 13,019 registros e 99.80% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Ceará",
+    "23",
+    "2026",
+    "SINAN"
+  ]
+}

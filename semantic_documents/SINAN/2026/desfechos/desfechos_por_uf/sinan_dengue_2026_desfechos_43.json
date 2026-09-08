@@ -1,0 +1,121 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_43",
+  "titulo": "Desfechos dos registros de dengue em Rio Grande do Sul - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "43",
+    "uf_nome": "Rio Grande do Sul",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Rio Grande do Sul, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 6743,
+    "avaliaveis_hospitalizacao": 2348,
+    "hospitalizados": 180,
+    "percentual_hospitalizados": 7.67,
+    "total_evolucao_avaliavel": 1258,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 1253,
+    "percentual_evolucao_predominante": 99.6
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 6743,
+        "avaliaveis": 2348,
+        "hospitalizados": 180,
+        "nao_hospitalizados": 2168,
+        "ignorados": 12,
+        "ausentes": 4383,
+        "percentual_hospitalizados": 7.67,
+        "percentual_nao_hospitalizados": 92.33,
+        "percentual_ignorados": 0.18,
+        "percentual_ausentes": 65.0
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 1253,
+        "percentual_total": 18.58,
+        "avaliavel": true,
+        "total_avaliaveis": 1258,
+        "percentual_avaliaveis": 99.6
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 252,
+        "percentual_total": 3.74,
+        "avaliavel": false,
+        "total_avaliaveis": 1258,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 3,
+        "percentual_total": 0.04,
+        "avaliavel": true,
+        "total_avaliaveis": 1258,
+        "percentual_avaliaveis": 0.24
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 2,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 1258,
+        "percentual_avaliaveis": 0.16
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 5233,
+        "percentual_total": 77.61,
+        "avaliavel": false,
+        "total_avaliaveis": 1258,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Rio Grande do Sul, foram considerados 6,743 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 180 apresentaram hospitalização, correspondendo a 7.67%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 1,253 registros e 99.60% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Rio Grande do Sul",
+    "43",
+    "2026",
+    "SINAN"
+  ]
+}

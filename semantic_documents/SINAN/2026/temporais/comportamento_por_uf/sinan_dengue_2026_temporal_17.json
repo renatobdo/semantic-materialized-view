@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_17",
+  "titulo": "Comportamento temporal dos registros de dengue em Tocantins — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "17",
+    "uf_nome": "Tocantins",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Tocantins entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 15430,
+    "total_semanas": 34,
+    "media_semanal": 453.82,
+    "mediana_semanal": 483.5,
+    "minimo_semanal": 0,
+    "maximo_semanal": 761,
+    "semana_pico": 8,
+    "total_pico": 761,
+    "desvio_padrao": 222.42,
+    "coeficiente_variacao": 49.01,
+    "media_periodo_anterior": 198.75,
+    "media_periodo_recente": 149.0,
+    "variacao_absoluta": -49.75,
+    "variacao_percentual": -25.03,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 107
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 330
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 368
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 462
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 593
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 749
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 565
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 761
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 585
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 510
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 640
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 637
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 505
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 730
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 697
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 673
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 730
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 741
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 660
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 655
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 569
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 433
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 440
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 330
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 321
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 248
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 264
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 189
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 197
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 145
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 191
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 172
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 233
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 198.75,
+      "media_recente": 149.0,
+      "variacao_percentual": -25.03,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "8",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 4.93,
+      "distancia_pico_semana_final": 26,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Tocantins, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 8, com 761 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 453.82 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -25.03% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Tocantins",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_52",
+  "titulo": "Desfechos dos registros de dengue em Goiás - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "52",
+    "uf_nome": "Goiás",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Goiás, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 108884,
+    "avaliaveis_hospitalizacao": 88862,
+    "hospitalizados": 4557,
+    "percentual_hospitalizados": 5.13,
+    "total_evolucao_avaliavel": 98218,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 98102,
+    "percentual_evolucao_predominante": 99.88
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 108884,
+        "avaliaveis": 88862,
+        "hospitalizados": 4557,
+        "nao_hospitalizados": 84305,
+        "ignorados": 6077,
+        "ausentes": 13945,
+        "percentual_hospitalizados": 5.13,
+        "percentual_nao_hospitalizados": 94.87,
+        "percentual_ignorados": 5.58,
+        "percentual_ausentes": 12.81
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 98102,
+        "percentual_total": 90.1,
+        "avaliavel": true,
+        "total_avaliaveis": 98218,
+        "percentual_avaliaveis": 99.88
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 2318,
+        "percentual_total": 2.13,
+        "avaliavel": false,
+        "total_avaliaveis": 98218,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 37,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 98218,
+        "percentual_avaliaveis": 0.04
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 79,
+        "percentual_total": 0.07,
+        "avaliavel": true,
+        "total_avaliaveis": 98218,
+        "percentual_avaliaveis": 0.08
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 8348,
+        "percentual_total": 7.67,
+        "avaliavel": false,
+        "total_avaliaveis": 98218,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Goiás, foram considerados 108,884 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 4,557 apresentaram hospitalização, correspondendo a 5.13%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 98,102 registros e 99.88% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Goiás",
+    "52",
+    "2026",
+    "SINAN"
+  ]
+}

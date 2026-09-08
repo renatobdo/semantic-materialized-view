@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_27",
+  "titulo": "Desfechos dos registros de dengue em Alagoas - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "27",
+    "uf_nome": "Alagoas",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Alagoas, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 5473,
+    "avaliaveis_hospitalizacao": 3167,
+    "hospitalizados": 201,
+    "percentual_hospitalizados": 6.35,
+    "total_evolucao_avaliavel": 3774,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 3768,
+    "percentual_evolucao_predominante": 99.84
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 5473,
+        "avaliaveis": 3167,
+        "hospitalizados": 201,
+        "nao_hospitalizados": 2966,
+        "ignorados": 46,
+        "ausentes": 2260,
+        "percentual_hospitalizados": 6.35,
+        "percentual_nao_hospitalizados": 93.65,
+        "percentual_ignorados": 0.84,
+        "percentual_ausentes": 41.29
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 3768,
+        "percentual_total": 68.85,
+        "avaliavel": true,
+        "total_avaliaveis": 3774,
+        "percentual_avaliaveis": 99.84
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 91,
+        "percentual_total": 1.66,
+        "avaliavel": false,
+        "total_avaliaveis": 3774,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 1,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 3774,
+        "percentual_avaliaveis": 0.03
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 4,
+        "percentual_total": 0.07,
+        "avaliavel": true,
+        "total_avaliaveis": 3774,
+        "percentual_avaliaveis": 0.11
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 1,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 3774,
+        "percentual_avaliaveis": 0.03
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 1608,
+        "percentual_total": 29.38,
+        "avaliavel": false,
+        "total_avaliaveis": 3774,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Alagoas, foram considerados 5,473 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 201 apresentaram hospitalização, correspondendo a 6.35%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 3,768 registros e 99.84% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Alagoas",
+    "27",
+    "2026",
+    "SINAN"
+  ]
+}

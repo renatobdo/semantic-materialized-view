@@ -1,0 +1,860 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_33",
+  "titulo": "Distribuição geográfica dos registros de dengue em Rio de Janeiro — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "33",
+    "sigla_uf": "RJ",
+    "uf_nome": "Rio de Janeiro",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Rio de Janeiro, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 6967,
+    "total_casos_notificacao": 6854,
+    "total_municipios_analisados": 89,
+    "municipio_maior_numero_casos": "Rio de Janeiro",
+    "maior_numero_casos_municipio": 3221,
+    "municipio_maior_incidencia": "Miracema",
+    "maior_incidencia_100mil": 2064.66,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 6968,
+      "autoctones_residencia": 2233,
+      "percentual_autoctones": 32.05,
+      "nao_autoctones_residencia": 93,
+      "percentual_nao_autoctones": 1.33,
+      "indeterminados": 1592,
+      "percentual_indeterminados": 22.85,
+      "ausentes": 3050,
+      "percentual_ausentes": 43.77,
+      "total_comparaveis_uf_residencia_infeccao": 2246,
+      "percentual_mesma_uf_residencia_infeccao": 99.64,
+      "percentual_uf_diferente_residencia_infeccao": 0.36
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 5
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 75
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 9
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "3304557",
+        "municipio": "Rio de Janeiro",
+        "populacao_2022": 6211223.0,
+        "casos": 3221,
+        "incidencia_100mil": 51.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303005",
+        "municipio": "Miracema",
+        "populacao_2022": 26881.0,
+        "casos": 555,
+        "incidencia_100mil": 2064.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3304904",
+        "municipio": "São Gonçalo",
+        "populacao_2022": 896744.0,
+        "casos": 312,
+        "incidencia_100mil": 34.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301900",
+        "municipio": "Itaboraí",
+        "populacao_2022": 224267.0,
+        "casos": 297,
+        "incidencia_100mil": 132.43,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3300605",
+        "municipio": "Bom Jesus do Itabapoana",
+        "populacao_2022": 35173.0,
+        "casos": 253,
+        "incidencia_100mil": 719.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3300100",
+        "municipio": "Angra dos Reis",
+        "populacao_2022": 167434.0,
+        "casos": 181,
+        "incidencia_100mil": 108.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3301876",
+        "municipio": "Iguaba Grande",
+        "populacao_2022": 27920.0,
+        "casos": 172,
+        "incidencia_100mil": 616.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3302700",
+        "municipio": "Maricá",
+        "populacao_2022": 197277.0,
+        "casos": 144,
+        "incidencia_100mil": 72.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303401",
+        "municipio": "Nova Friburgo",
+        "populacao_2022": 189939.0,
+        "casos": 139,
+        "incidencia_100mil": 73.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302205",
+        "municipio": "Itaperuna",
+        "populacao_2022": 101041.0,
+        "casos": 123,
+        "incidencia_100mil": 121.73,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3303302",
+        "municipio": "Niterói",
+        "populacao_2022": 481749.0,
+        "casos": 95,
+        "incidencia_100mil": 19.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305208",
+        "municipio": "São Pedro da Aldeia",
+        "populacao_2022": 104029.0,
+        "casos": 87,
+        "incidencia_100mil": 83.63,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3306305",
+        "municipio": "Volta Redonda",
+        "populacao_2022": 261563.0,
+        "casos": 85,
+        "incidencia_100mil": 32.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304524",
+        "municipio": "Rio das Ostras",
+        "populacao_2022": 156491.0,
+        "casos": 77,
+        "incidencia_100mil": 49.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302809",
+        "municipio": "Mendes",
+        "populacao_2022": 17502.0,
+        "casos": 77,
+        "incidencia_100mil": 439.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3301702",
+        "municipio": "Duque de Caxias",
+        "populacao_2022": 808161.0,
+        "casos": 70,
+        "incidencia_100mil": 8.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300209",
+        "municipio": "Araruama",
+        "populacao_2022": 129671.0,
+        "casos": 69,
+        "incidencia_100mil": 53.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302403",
+        "municipio": "Macaé",
+        "populacao_2022": 246391.0,
+        "casos": 59,
+        "incidencia_100mil": 23.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300803",
+        "municipio": "Cachoeiras de Macacu",
+        "populacao_2022": 56943.0,
+        "casos": 45,
+        "incidencia_100mil": 79.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300407",
+        "municipio": "Barra Mansa",
+        "populacao_2022": 169894.0,
+        "casos": 39,
+        "incidencia_100mil": 22.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304706",
+        "municipio": "Santo Antônio de Pádua",
+        "populacao_2022": 41325.0,
+        "casos": 36,
+        "incidencia_100mil": 87.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304201",
+        "municipio": "Resende",
+        "populacao_2022": 129612.0,
+        "casos": 34,
+        "incidencia_100mil": 26.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3306107",
+        "municipio": "Valença",
+        "populacao_2022": 68088.0,
+        "casos": 33,
+        "incidencia_100mil": 48.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3306156",
+        "municipio": "Varre-Sai",
+        "populacao_2022": 10207.0,
+        "casos": 32,
+        "incidencia_100mil": 313.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3305802",
+        "municipio": "Teresópolis",
+        "populacao_2022": 165123.0,
+        "casos": 31,
+        "incidencia_100mil": 18.77,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303807",
+        "municipio": "Paraty",
+        "populacao_2022": 45243.0,
+        "casos": 29,
+        "incidencia_100mil": 64.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303856",
+        "municipio": "Paty do Alferes",
+        "populacao_2022": 29619.0,
+        "casos": 26,
+        "incidencia_100mil": 87.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301207",
+        "municipio": "Carmo",
+        "populacao_2022": 17198.0,
+        "casos": 26,
+        "incidencia_100mil": 151.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3300704",
+        "municipio": "Cabo Frio",
+        "populacao_2022": 222161.0,
+        "casos": 25,
+        "incidencia_100mil": 11.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301850",
+        "municipio": "Guapimirim",
+        "populacao_2022": 51696.0,
+        "casos": 25,
+        "incidencia_100mil": 48.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304110",
+        "municipio": "Porto Real",
+        "populacao_2022": 20373.0,
+        "casos": 25,
+        "incidencia_100mil": 122.71,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3303500",
+        "municipio": "Nova Iguaçu",
+        "populacao_2022": 785867.0,
+        "casos": 24,
+        "incidencia_100mil": 3.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300456",
+        "municipio": "Belford Roxo",
+        "populacao_2022": 483087.0,
+        "casos": 22,
+        "incidencia_100mil": 4.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303955",
+        "municipio": "Pinheiral",
+        "populacao_2022": 24298.0,
+        "casos": 22,
+        "incidencia_100mil": 90.54,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304300",
+        "municipio": "Rio Bonito",
+        "populacao_2022": 56276.0,
+        "casos": 22,
+        "incidencia_100mil": 39.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302254",
+        "municipio": "Itatiaia",
+        "populacao_2022": 30908.0,
+        "casos": 21,
+        "incidencia_100mil": 67.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303104",
+        "municipio": "Natividade",
+        "populacao_2022": 15074.0,
+        "casos": 20,
+        "incidencia_100mil": 132.68,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3305901",
+        "municipio": "Trajano de Moraes",
+        "populacao_2022": 10302.0,
+        "casos": 20,
+        "incidencia_100mil": 194.14,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3301009",
+        "municipio": "Campos dos Goytacazes",
+        "populacao_2022": 483540.0,
+        "casos": 20,
+        "incidencia_100mil": 4.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300308",
+        "municipio": "Barra do Piraí",
+        "populacao_2022": 92883.0,
+        "casos": 19,
+        "incidencia_100mil": 20.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303708",
+        "municipio": "Paraíba do Sul",
+        "populacao_2022": 42063.0,
+        "casos": 19,
+        "incidencia_100mil": 45.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304128",
+        "municipio": "Quatis",
+        "populacao_2022": 13682.0,
+        "casos": 18,
+        "incidencia_100mil": 131.56,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3304755",
+        "municipio": "São Francisco de Itabapoana",
+        "populacao_2022": 45059.0,
+        "casos": 18,
+        "incidencia_100mil": 39.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305109",
+        "municipio": "São João de Meriti",
+        "populacao_2022": 440962.0,
+        "casos": 17,
+        "incidencia_100mil": 3.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302502",
+        "municipio": "Magé",
+        "populacao_2022": 228127.0,
+        "casos": 17,
+        "incidencia_100mil": 7.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301306",
+        "municipio": "Casimiro de Abreu",
+        "populacao_2022": 46110.0,
+        "casos": 16,
+        "incidencia_100mil": 34.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303906",
+        "municipio": "Petrópolis",
+        "populacao_2022": 278881.0,
+        "casos": 15,
+        "incidencia_100mil": 5.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3306206",
+        "municipio": "Vassouras",
+        "populacao_2022": 33976.0,
+        "casos": 15,
+        "incidencia_100mil": 44.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304508",
+        "municipio": "Rio das Flores",
+        "populacao_2022": 8954.0,
+        "casos": 13,
+        "incidencia_100mil": 145.19,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3304144",
+        "municipio": "Queimados",
+        "populacao_2022": 140523.0,
+        "casos": 13,
+        "incidencia_100mil": 9.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305505",
+        "municipio": "Saquarema",
+        "populacao_2022": 89559.0,
+        "casos": 12,
+        "incidencia_100mil": 13.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305752",
+        "municipio": "Tanguá",
+        "populacao_2022": 31086.0,
+        "casos": 12,
+        "incidencia_100mil": 38.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305406",
+        "municipio": "Sapucaia",
+        "populacao_2022": 17729.0,
+        "casos": 12,
+        "incidencia_100mil": 67.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301157",
+        "municipio": "Cardoso Moreira",
+        "populacao_2022": 12958.0,
+        "casos": 12,
+        "incidencia_100mil": 92.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304003",
+        "municipio": "Piraí",
+        "populacao_2022": 27474.0,
+        "casos": 12,
+        "incidencia_100mil": 43.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302858",
+        "municipio": "Mesquita",
+        "populacao_2022": 167127.0,
+        "casos": 10,
+        "incidencia_100mil": 5.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303609",
+        "municipio": "Paracambi",
+        "populacao_2022": 41375.0,
+        "casos": 9,
+        "incidencia_100mil": 21.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302106",
+        "municipio": "Itaocara",
+        "populacao_2022": 22919.0,
+        "casos": 9,
+        "incidencia_100mil": 39.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302056",
+        "municipio": "Italva",
+        "populacao_2022": 14073.0,
+        "casos": 8,
+        "incidencia_100mil": 56.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300258",
+        "municipio": "Arraial do Cabo",
+        "populacao_2022": 30986.0,
+        "casos": 8,
+        "incidencia_100mil": 25.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301504",
+        "municipio": "Cordeiro",
+        "populacao_2022": 20783.0,
+        "casos": 8,
+        "incidencia_100mil": 38.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300936",
+        "municipio": "Carapebus",
+        "populacao_2022": 13847.0,
+        "casos": 7,
+        "incidencia_100mil": 50.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300506",
+        "municipio": "Bom Jardim",
+        "populacao_2022": 28102.0,
+        "casos": 7,
+        "incidencia_100mil": 24.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302007",
+        "municipio": "Itaguaí",
+        "populacao_2022": 116841.0,
+        "casos": 7,
+        "incidencia_100mil": 5.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302601",
+        "municipio": "Mangaratiba",
+        "populacao_2022": 41220.0,
+        "casos": 7,
+        "incidencia_100mil": 16.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305000",
+        "municipio": "São João da Barra",
+        "populacao_2022": 36573.0,
+        "casos": 5,
+        "incidencia_100mil": 13.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300225",
+        "municipio": "Areal",
+        "populacao_2022": 11828.0,
+        "casos": 5,
+        "incidencia_100mil": 42.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302908",
+        "municipio": "Miguel Pereira",
+        "populacao_2022": 26582.0,
+        "casos": 4,
+        "incidencia_100mil": 15.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302270",
+        "municipio": "Japeri",
+        "populacao_2022": 96289.0,
+        "casos": 4,
+        "incidencia_100mil": 4.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301801",
+        "municipio": "Engenheiro Paulo de Frontin",
+        "populacao_2022": 12242.0,
+        "casos": 4,
+        "incidencia_100mil": 32.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304102",
+        "municipio": "Porciúncula",
+        "populacao_2022": 17288.0,
+        "casos": 4,
+        "incidencia_100mil": 23.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305554",
+        "municipio": "Seropédica",
+        "populacao_2022": 80596.0,
+        "casos": 3,
+        "incidencia_100mil": 3.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300902",
+        "municipio": "Cambuci",
+        "populacao_2022": 14616.0,
+        "casos": 3,
+        "incidencia_100mil": 20.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3303203",
+        "municipio": "Nilópolis",
+        "populacao_2022": 146774.0,
+        "casos": 3,
+        "incidencia_100mil": 2.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300233",
+        "municipio": "Armação dos Búzios",
+        "populacao_2022": 40006.0,
+        "casos": 2,
+        "incidencia_100mil": 5.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3300951",
+        "municipio": "Comendador Levy Gasparian",
+        "populacao_2022": 8741.0,
+        "casos": 2,
+        "incidencia_100mil": 22.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301108",
+        "municipio": "Cantagalo",
+        "populacao_2022": 19390.0,
+        "casos": 2,
+        "incidencia_100mil": 10.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3302304",
+        "municipio": "Laje do Muriaé",
+        "populacao_2022": 7336.0,
+        "casos": 2,
+        "incidencia_100mil": 27.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301603",
+        "municipio": "Duas Barras",
+        "populacao_2022": 10980.0,
+        "casos": 2,
+        "incidencia_100mil": 18.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3301405",
+        "municipio": "Conceição de Macabu",
+        "populacao_2022": 21104.0,
+        "casos": 1,
+        "incidencia_100mil": 4.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304409",
+        "municipio": "Rio Claro",
+        "populacao_2022": 17401.0,
+        "casos": 1,
+        "incidencia_100mil": 5.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304805",
+        "municipio": "São Fidélis",
+        "populacao_2022": 38961.0,
+        "casos": 1,
+        "incidencia_100mil": 2.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304607",
+        "municipio": "Santa Maria Madalena",
+        "populacao_2022": 10232.0,
+        "casos": 1,
+        "incidencia_100mil": 9.77,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3304151",
+        "municipio": "Quissamã",
+        "populacao_2022": 22393.0,
+        "casos": 1,
+        "incidencia_100mil": 4.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305307",
+        "municipio": "São Sebastião do Alto",
+        "populacao_2022": 7750.0,
+        "casos": 1,
+        "incidencia_100mil": 12.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305604",
+        "municipio": "Silva Jardim",
+        "populacao_2022": 21352.0,
+        "casos": 1,
+        "incidencia_100mil": 4.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305133",
+        "municipio": "São José de Ubá",
+        "populacao_2022": 7070.0,
+        "casos": 1,
+        "incidencia_100mil": 14.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305158",
+        "municipio": "São José do Vale do Rio Preto",
+        "populacao_2022": 22080.0,
+        "casos": 1,
+        "incidencia_100mil": 4.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3305703",
+        "municipio": "Sumidouro",
+        "populacao_2022": 15206.0,
+        "casos": 1,
+        "incidencia_100mil": 6.58,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "RJ",
+        "total_registros": 2238,
+        "percentual_dentro_uf_residencia": 99.64
+      },
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "PE",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.09
+      },
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "SP",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.09
+      },
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "MG",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.04
+      },
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "CE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.04
+      },
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "AM",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.04
+      },
+      {
+        "uf_residencia": "RJ",
+        "uf_provavel_infeccao": "PI",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.04
+      }
+    ]
+  },
+  "interpretacao": "Na UF Rio de Janeiro, foram contabilizados 6.967 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 89 municípios com informações disponíveis para análise, Rio de Janeiro apresentou o maior número absoluto de notificações, com 3.221. A maior incidência foi observada em Miracema, com 2.064,66 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 32,05% dos registros de RJ foram classificados como autóctones, 1,33% como não autóctones, 22,85% como indeterminados e 43,77% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,64% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Rio de Janeiro",
+    "RJ",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

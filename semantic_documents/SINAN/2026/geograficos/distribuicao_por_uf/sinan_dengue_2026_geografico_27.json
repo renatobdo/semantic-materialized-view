@@ -1,0 +1,822 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_27",
+  "titulo": "Distribuição geográfica dos registros de dengue em Alagoas — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "27",
+    "sigla_uf": "AL",
+    "uf_nome": "Alagoas",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Alagoas, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 5427,
+    "total_casos_notificacao": 5473,
+    "total_municipios_analisados": 88,
+    "municipio_maior_numero_casos": "Maceió",
+    "maior_numero_casos_municipio": 1140,
+    "municipio_maior_incidencia": "Jundiá",
+    "maior_incidencia_100mil": 2565.98,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 5427,
+      "autoctones_residencia": 2384,
+      "percentual_autoctones": 43.93,
+      "nao_autoctones_residencia": 51,
+      "percentual_nao_autoctones": 0.94,
+      "indeterminados": 177,
+      "percentual_indeterminados": 3.26,
+      "ausentes": 2815,
+      "percentual_ausentes": 51.87,
+      "total_comparaveis_uf_residencia_infeccao": 2400,
+      "percentual_mesma_uf_residencia_infeccao": 99.96,
+      "percentual_uf_diferente_residencia_infeccao": 0.04
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 10
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 54
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 24
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "2704302",
+        "municipio": "Maceió",
+        "populacao_2022": 957916.0,
+        "casos": 1140,
+        "incidencia_100mil": 119.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2700300",
+        "municipio": "Arapiraca",
+        "populacao_2022": 234696.0,
+        "casos": 946,
+        "incidencia_100mil": 403.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2708600",
+        "municipio": "São Miguel dos Campos",
+        "populacao_2022": 51990.0,
+        "casos": 567,
+        "incidencia_100mil": 1090.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2700409",
+        "municipio": "Atalaia",
+        "populacao_2022": 37512.0,
+        "casos": 488,
+        "incidencia_100mil": 1300.92,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2704500",
+        "municipio": "Maragogi",
+        "populacao_2022": 32174.0,
+        "casos": 253,
+        "incidencia_100mil": 786.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2709400",
+        "municipio": "Viçosa",
+        "populacao_2022": 24092.0,
+        "casos": 217,
+        "incidencia_100mil": 900.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2707305",
+        "municipio": "Porto Calvo",
+        "populacao_2022": 24071.0,
+        "casos": 164,
+        "incidencia_100mil": 681.32,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2706307",
+        "municipio": "Palmeira dos Índios",
+        "populacao_2022": 71574.0,
+        "casos": 139,
+        "incidencia_100mil": 194.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2704708",
+        "municipio": "Marechal Deodoro",
+        "populacao_2022": 60370.0,
+        "casos": 109,
+        "incidencia_100mil": 180.55,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2703908",
+        "municipio": "Jundiá",
+        "populacao_2022": 4092.0,
+        "casos": 105,
+        "incidencia_100mil": 2565.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2707602",
+        "municipio": "Quebrangulo",
+        "populacao_2022": 11080.0,
+        "casos": 91,
+        "incidencia_100mil": 821.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2709152",
+        "municipio": "Teotônio Vilela",
+        "populacao_2022": 38053.0,
+        "casos": 86,
+        "incidencia_100mil": 226.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2707701",
+        "municipio": "Rio Largo",
+        "populacao_2022": 93927.0,
+        "casos": 76,
+        "incidencia_100mil": 80.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2705705",
+        "municipio": "Olho d'Água das Flores",
+        "populacao_2022": 20695.0,
+        "casos": 75,
+        "incidencia_100mil": 362.41,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2702405",
+        "municipio": "Delmiro Gouveia",
+        "populacao_2022": 51318.0,
+        "casos": 69,
+        "incidencia_100mil": 134.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2702108",
+        "municipio": "Colônia Leopoldina",
+        "populacao_2022": 15816.0,
+        "casos": 66,
+        "incidencia_100mil": 417.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2709301",
+        "municipio": "União dos Palmares",
+        "populacao_2022": 59280.0,
+        "casos": 56,
+        "incidencia_100mil": 94.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701407",
+        "municipio": "Campo Alegre",
+        "populacao_2022": 32106.0,
+        "casos": 48,
+        "incidencia_100mil": 149.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2704005",
+        "municipio": "Junqueiro",
+        "populacao_2022": 23907.0,
+        "casos": 33,
+        "incidencia_100mil": 138.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2704104",
+        "municipio": "Lagoa da Canoa",
+        "populacao_2022": 18457.0,
+        "casos": 32,
+        "incidencia_100mil": 173.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2708006",
+        "municipio": "Santana do Ipanema",
+        "populacao_2022": 46220.0,
+        "casos": 32,
+        "incidencia_100mil": 69.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2704203",
+        "municipio": "Limoeiro de Anadia",
+        "populacao_2022": 24740.0,
+        "casos": 30,
+        "incidencia_100mil": 121.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2704807",
+        "municipio": "Maribondo",
+        "populacao_2022": 13679.0,
+        "casos": 30,
+        "incidencia_100mil": 219.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2703007",
+        "municipio": "Ibateguara",
+        "populacao_2022": 13731.0,
+        "casos": 29,
+        "incidencia_100mil": 211.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2706901",
+        "municipio": "Pilar",
+        "populacao_2022": 35370.0,
+        "casos": 28,
+        "incidencia_100mil": 79.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2703809",
+        "municipio": "Joaquim Gomes",
+        "populacao_2022": 17150.0,
+        "casos": 28,
+        "incidencia_100mil": 163.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2705507",
+        "municipio": "Murici",
+        "populacao_2022": 25187.0,
+        "casos": 26,
+        "incidencia_100mil": 103.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2703601",
+        "municipio": "Japaratinga",
+        "populacao_2022": 9219.0,
+        "casos": 25,
+        "incidencia_100mil": 271.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2705606",
+        "municipio": "Novo Lino",
+        "populacao_2022": 10020.0,
+        "casos": 25,
+        "incidencia_100mil": 249.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2702603",
+        "municipio": "Feira Grande",
+        "populacao_2022": 22712.0,
+        "casos": 25,
+        "incidencia_100mil": 110.07,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2708907",
+        "municipio": "Satuba",
+        "populacao_2022": 24278.0,
+        "casos": 25,
+        "incidencia_100mil": 102.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2708808",
+        "municipio": "São Sebastião",
+        "populacao_2022": 31786.0,
+        "casos": 25,
+        "incidencia_100mil": 78.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2700607",
+        "municipio": "Barra de São Miguel",
+        "populacao_2022": 7944.0,
+        "casos": 21,
+        "incidencia_100mil": 264.35,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2708402",
+        "municipio": "São José da Tapera",
+        "populacao_2022": 30604.0,
+        "casos": 20,
+        "incidencia_100mil": 65.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706406",
+        "municipio": "Pão de Açúcar",
+        "populacao_2022": 23823.0,
+        "casos": 15,
+        "incidencia_100mil": 62.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702306",
+        "municipio": "Coruripe",
+        "populacao_2022": 50414.0,
+        "casos": 15,
+        "incidencia_100mil": 29.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701803",
+        "municipio": "Carneiros",
+        "populacao_2022": 8999.0,
+        "casos": 14,
+        "incidencia_100mil": 155.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2705002",
+        "municipio": "Mata Grande",
+        "populacao_2022": 21844.0,
+        "casos": 14,
+        "incidencia_100mil": 64.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706422",
+        "municipio": "Pariconha",
+        "populacao_2022": 10573.0,
+        "casos": 13,
+        "incidencia_100mil": 122.95,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2700201",
+        "municipio": "Anadia",
+        "populacao_2022": 13966.0,
+        "casos": 13,
+        "incidencia_100mil": 93.08,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706000",
+        "municipio": "Olivença",
+        "populacao_2022": 10812.0,
+        "casos": 13,
+        "incidencia_100mil": 120.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2703502",
+        "municipio": "Jacuípe",
+        "populacao_2022": 5352.0,
+        "casos": 12,
+        "incidencia_100mil": 224.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2707107",
+        "municipio": "Piranhas",
+        "populacao_2022": 22609.0,
+        "casos": 9,
+        "incidencia_100mil": 39.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2707800",
+        "municipio": "Roteiro",
+        "populacao_2022": 6474.0,
+        "casos": 9,
+        "incidencia_100mil": 139.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2705101",
+        "municipio": "Matriz de Camaragibe",
+        "populacao_2022": 23857.0,
+        "casos": 9,
+        "incidencia_100mil": 37.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2708501",
+        "municipio": "São Luís do Quitunde",
+        "populacao_2022": 30873.0,
+        "casos": 9,
+        "incidencia_100mil": 29.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706703",
+        "municipio": "Penedo",
+        "populacao_2022": 58650.0,
+        "casos": 8,
+        "incidencia_100mil": 13.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2709103",
+        "municipio": "Taquarana",
+        "populacao_2022": 19032.0,
+        "casos": 7,
+        "incidencia_100mil": 36.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702553",
+        "municipio": "Estrela de Alagoas",
+        "populacao_2022": 15429.0,
+        "casos": 7,
+        "incidencia_100mil": 45.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702900",
+        "municipio": "Girau do Ponciano",
+        "populacao_2022": 36102.0,
+        "casos": 7,
+        "incidencia_100mil": 19.39,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2707404",
+        "municipio": "Porto de Pedras",
+        "populacao_2022": 9295.0,
+        "casos": 7,
+        "incidencia_100mil": 75.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706109",
+        "municipio": "Ouro Branco",
+        "populacao_2022": 11446.0,
+        "casos": 6,
+        "incidencia_100mil": 52.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706505",
+        "municipio": "Passo de Camaragibe",
+        "populacao_2022": 13804.0,
+        "casos": 6,
+        "incidencia_100mil": 43.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702355",
+        "municipio": "Craíbas",
+        "populacao_2022": 25397.0,
+        "casos": 6,
+        "incidencia_100mil": 23.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701100",
+        "municipio": "Branquinha",
+        "populacao_2022": 9603.0,
+        "casos": 6,
+        "incidencia_100mil": 62.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2704609",
+        "municipio": "Maravilha",
+        "populacao_2022": 9534.0,
+        "casos": 6,
+        "incidencia_100mil": 62.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2700102",
+        "municipio": "Água Branca",
+        "populacao_2022": 19008.0,
+        "casos": 5,
+        "incidencia_100mil": 26.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2705200",
+        "municipio": "Messias",
+        "populacao_2022": 15405.0,
+        "casos": 5,
+        "incidencia_100mil": 32.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2705309",
+        "municipio": "Minador do Negrão",
+        "populacao_2022": 4845.0,
+        "casos": 5,
+        "incidencia_100mil": 103.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2701001",
+        "municipio": "Boca da Mata",
+        "populacao_2022": 21187.0,
+        "casos": 5,
+        "incidencia_100mil": 23.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2707206",
+        "municipio": "Poço das Trincheiras",
+        "populacao_2022": 12518.0,
+        "casos": 4,
+        "incidencia_100mil": 31.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2708709",
+        "municipio": "São Miguel dos Milagres",
+        "populacao_2022": 8482.0,
+        "casos": 4,
+        "incidencia_100mil": 47.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2703304",
+        "municipio": "Inhapi",
+        "populacao_2022": 15167.0,
+        "casos": 4,
+        "incidencia_100mil": 26.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2703700",
+        "municipio": "Jaramataia",
+        "populacao_2022": 4985.0,
+        "casos": 4,
+        "incidencia_100mil": 80.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701308",
+        "municipio": "Cajueiro",
+        "populacao_2022": 16024.0,
+        "casos": 4,
+        "incidencia_100mil": 24.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701506",
+        "municipio": "Campo Grande",
+        "populacao_2022": 8143.0,
+        "casos": 4,
+        "incidencia_100mil": 49.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701704",
+        "municipio": "Capela",
+        "populacao_2022": 15032.0,
+        "casos": 3,
+        "incidencia_100mil": 19.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2707909",
+        "municipio": "Santa Luzia do Norte",
+        "populacao_2022": 6919.0,
+        "casos": 3,
+        "incidencia_100mil": 43.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2708105",
+        "municipio": "Santana do Mundaú",
+        "populacao_2022": 11323.0,
+        "casos": 3,
+        "incidencia_100mil": 26.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2707503",
+        "municipio": "Porto Real do Colégio",
+        "populacao_2022": 20082.0,
+        "casos": 3,
+        "incidencia_100mil": 14.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2700706",
+        "municipio": "Batalha",
+        "populacao_2022": 16448.0,
+        "casos": 2,
+        "incidencia_100mil": 12.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2700805",
+        "municipio": "Belém",
+        "populacao_2022": 4722.0,
+        "casos": 2,
+        "incidencia_100mil": 42.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2703106",
+        "municipio": "Igaci",
+        "populacao_2022": 23995.0,
+        "casos": 2,
+        "incidencia_100mil": 8.34,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701902",
+        "municipio": "Chã Preta",
+        "populacao_2022": 5910.0,
+        "casos": 2,
+        "incidencia_100mil": 33.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701357",
+        "municipio": "Campestre",
+        "populacao_2022": 6665.0,
+        "casos": 2,
+        "incidencia_100mil": 30.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702009",
+        "municipio": "Coité do Nóia",
+        "populacao_2022": 10810.0,
+        "casos": 2,
+        "incidencia_100mil": 18.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2700904",
+        "municipio": "Belo Monte",
+        "populacao_2022": 5936.0,
+        "casos": 2,
+        "incidencia_100mil": 33.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2700508",
+        "municipio": "Barra de Santo Antônio",
+        "populacao_2022": 16365.0,
+        "casos": 2,
+        "incidencia_100mil": 12.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702504",
+        "municipio": "Dois Riachos",
+        "populacao_2022": 9805.0,
+        "casos": 2,
+        "incidencia_100mil": 20.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2702801",
+        "municipio": "Flexeiras",
+        "populacao_2022": 9618.0,
+        "casos": 2,
+        "incidencia_100mil": 20.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2708303",
+        "municipio": "São José da Laje",
+        "populacao_2022": 20813.0,
+        "casos": 2,
+        "incidencia_100mil": 9.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2706448",
+        "municipio": "Paripueira",
+        "populacao_2022": 13835.0,
+        "casos": 2,
+        "incidencia_100mil": 14.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2705408",
+        "municipio": "Monteirópolis",
+        "populacao_2022": 7184.0,
+        "casos": 2,
+        "incidencia_100mil": 27.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2701605",
+        "municipio": "Canapi",
+        "populacao_2022": 15559.0,
+        "casos": 1,
+        "incidencia_100mil": 6.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2705804",
+        "municipio": "Olho d'Água do Casado",
+        "populacao_2022": 8349.0,
+        "casos": 1,
+        "incidencia_100mil": 11.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2704906",
+        "municipio": "Mar Vermelho",
+        "populacao_2022": 3155.0,
+        "casos": 1,
+        "incidencia_100mil": 31.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2703759",
+        "municipio": "Jequiá da Praia",
+        "populacao_2022": 9470.0,
+        "casos": 1,
+        "incidencia_100mil": 10.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2709202",
+        "municipio": "Traipu",
+        "populacao_2022": 23565.0,
+        "casos": 1,
+        "incidencia_100mil": 4.24,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "AL",
+        "uf_provavel_infeccao": "AL",
+        "total_registros": 2399,
+        "percentual_dentro_uf_residencia": 99.96
+      },
+      {
+        "uf_residencia": "AL",
+        "uf_provavel_infeccao": "SE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.04
+      }
+    ]
+  },
+  "interpretacao": "Na UF Alagoas, foram contabilizados 5.427 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 88 municípios com informações disponíveis para análise, Maceió apresentou o maior número absoluto de notificações, com 1.140. A maior incidência foi observada em Jundiá, com 2.565,98 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 43,93% dos registros de AL foram classificados como autóctones, 0,94% como não autóctones, 3,26% como indeterminados e 51,87% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,96% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Alagoas",
+    "AL",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

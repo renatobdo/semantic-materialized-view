@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_41",
+  "titulo": "Desfechos dos registros de dengue em Paraná - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "41",
+    "uf_nome": "Paraná",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Paraná, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 11293,
+    "avaliaveis_hospitalizacao": 7158,
+    "hospitalizados": 664,
+    "percentual_hospitalizados": 9.28,
+    "total_evolucao_avaliavel": 5604,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 5596,
+    "percentual_evolucao_predominante": 99.86
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 11293,
+        "avaliaveis": 7158,
+        "hospitalizados": 664,
+        "nao_hospitalizados": 6494,
+        "ignorados": 145,
+        "ausentes": 3990,
+        "percentual_hospitalizados": 9.28,
+        "percentual_nao_hospitalizados": 90.72,
+        "percentual_ignorados": 1.28,
+        "percentual_ausentes": 35.33
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 5596,
+        "percentual_total": 49.55,
+        "avaliavel": true,
+        "total_avaliaveis": 5604,
+        "percentual_avaliaveis": 99.86
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 25,
+        "percentual_total": 0.22,
+        "avaliavel": false,
+        "total_avaliaveis": 5604,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 1,
+        "percentual_total": 0.01,
+        "avaliavel": true,
+        "total_avaliaveis": 5604,
+        "percentual_avaliaveis": 0.02
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 4,
+        "percentual_total": 0.04,
+        "avaliavel": true,
+        "total_avaliaveis": 5604,
+        "percentual_avaliaveis": 0.07
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 3,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 5604,
+        "percentual_avaliaveis": 0.05
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 5664,
+        "percentual_total": 50.15,
+        "avaliavel": false,
+        "total_avaliaveis": 5604,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Paraná, foram considerados 11,293 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 664 apresentaram hospitalização, correspondendo a 9.28%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 5,596 registros e 99.86% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Paraná",
+    "41",
+    "2026",
+    "SINAN"
+  ]
+}

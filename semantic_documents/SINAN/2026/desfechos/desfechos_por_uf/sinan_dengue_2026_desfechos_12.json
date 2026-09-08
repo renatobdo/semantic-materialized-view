@@ -1,0 +1,113 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_12",
+  "titulo": "Desfechos dos registros de dengue em Acre - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "12",
+    "uf_nome": "Acre",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Acre, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 1832,
+    "avaliaveis_hospitalizacao": 1362,
+    "hospitalizados": 161,
+    "percentual_hospitalizados": 11.82,
+    "total_evolucao_avaliavel": 1146,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 1144,
+    "percentual_evolucao_predominante": 99.83
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 1832,
+        "avaliaveis": 1362,
+        "hospitalizados": 161,
+        "nao_hospitalizados": 1201,
+        "ignorados": 0,
+        "ausentes": 470,
+        "percentual_hospitalizados": 11.82,
+        "percentual_nao_hospitalizados": 88.18,
+        "percentual_ignorados": 0.0,
+        "percentual_ausentes": 25.66
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 1144,
+        "percentual_total": 62.45,
+        "avaliavel": true,
+        "total_avaliaveis": 1146,
+        "percentual_avaliaveis": 99.83
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 2,
+        "percentual_total": 0.11,
+        "avaliavel": false,
+        "total_avaliaveis": 1146,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 2,
+        "percentual_total": 0.11,
+        "avaliavel": true,
+        "total_avaliaveis": 1146,
+        "percentual_avaliaveis": 0.17
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 684,
+        "percentual_total": 37.34,
+        "avaliavel": false,
+        "total_avaliaveis": 1146,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Acre, foram considerados 1,832 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 161 apresentaram hospitalização, correspondendo a 11.82%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 1,144 registros e 99.83% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Acre",
+    "12",
+    "2026",
+    "SINAN"
+  ]
+}

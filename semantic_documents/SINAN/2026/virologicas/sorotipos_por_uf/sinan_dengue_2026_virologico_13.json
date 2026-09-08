@@ -1,0 +1,81 @@
+{
+  "document_id": "SINAN_DENGUE_2026_VIROLOGICO_13",
+  "titulo": "Sorotipos de dengue em Amazonas - 2026",
+  "tipo_documento": "perfil_virologico_uf",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "13",
+    "uf_nome": "Amazonas",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta a distribuição dos sorotipos de dengue registrados no SINAN em Amazonas, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. Também apresenta a completude da variável de sorotipo.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 1399,
+    "sorotipo_informado": 58,
+    "sorotipo_nao_informado": 1341,
+    "percentual_sorotipo_informado": 4.15,
+    "percentual_sorotipo_nao_informado": 95.85,
+    "sorotipo_mais_frequente": "DENV-1",
+    "total_sorotipo_mais_frequente": 50
+  },
+  "evidencias": {
+    "distribuicao_sorotipos": [
+      {
+        "sorotipo": "DENV-1",
+        "total_registros": 50
+      },
+      {
+        "sorotipo": "DENV-2",
+        "total_registros": 8
+      }
+    ],
+    "completude_sorotipo": [
+      {
+        "total_registros": 1399,
+        "sorotipo_informado": 58,
+        "sorotipo_nao_informado": 1341,
+        "percentual_informado": 4.15,
+        "percentual_nao_informado": 95.85
+      }
+    ]
+  },
+  "interpretacao": "Na UF Amazonas, foram registrados 1,399 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Desses, 58 apresentaram informação de sorotipo (4.15%). O sorotipo mais frequente entre os registros com informação disponível foi DENV-1, com 50 registros.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A ausência de informação de sorotipo não representa ausência de registros de dengue.",
+    "A distribuição dos sorotipos considera somente os registros em que a variável SOROTIPO possui informação disponível."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sorotipo",
+    "DEN-1",
+    "DEN-2",
+    "DEN-3",
+    "DEN-4",
+    "unidade federativa",
+    "semana epidemiológica",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sorotipo",
+    "sorotipos dengue",
+    "Amazonas",
+    "13",
+    "semana epidemiológica 1",
+    "semana epidemiológica 34",
+    "2026",
+    "SINAN"
+  ]
+}

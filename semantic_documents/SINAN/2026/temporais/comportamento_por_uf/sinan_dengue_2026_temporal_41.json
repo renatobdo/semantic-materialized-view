@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_41",
+  "titulo": "Comportamento temporal dos registros de dengue em Paraná — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "41",
+    "uf_nome": "Paraná",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Paraná entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 11293,
+    "total_semanas": 34,
+    "media_semanal": 332.15,
+    "mediana_semanal": 278.0,
+    "minimo_semanal": 0,
+    "maximo_semanal": 657,
+    "semana_pico": 15,
+    "total_pico": 657,
+    "desvio_padrao": 184.98,
+    "coeficiente_variacao": 55.69,
+    "media_periodo_anterior": 183.0,
+    "media_periodo_recente": 351.25,
+    "variacao_absoluta": 168.25,
+    "variacao_percentual": 91.94,
+    "classificacao_variacao": "Aumento"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 190
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 253
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 247
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 257
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 266
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 325
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 290
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 355
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 352
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 331
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 471
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 594
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 530
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 637
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 657
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 551
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 623
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 643
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 425
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 262
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 247
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 176
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 175
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 101
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 93
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 105
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 159
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 160
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 147
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 266
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 330
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 498
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 577
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 183.0,
+      "media_recente": 351.25,
+      "variacao_percentual": 91.94,
+      "classificacao": "Aumento"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "15",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 5.82,
+      "distancia_pico_semana_final": 19,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Paraná, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 15, com 657 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 332.15 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de 91.94% na média semanal, classificada como aumento.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Paraná",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

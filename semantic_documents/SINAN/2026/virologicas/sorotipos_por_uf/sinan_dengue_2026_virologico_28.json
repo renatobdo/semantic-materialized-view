@@ -1,0 +1,85 @@
+{
+  "document_id": "SINAN_DENGUE_2026_VIROLOGICO_28",
+  "titulo": "Sorotipos de dengue em Sergipe - 2026",
+  "tipo_documento": "perfil_virologico_uf",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "28",
+    "uf_nome": "Sergipe",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta a distribuição dos sorotipos de dengue registrados no SINAN em Sergipe, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. Também apresenta a completude da variável de sorotipo.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 1165,
+    "sorotipo_informado": 127,
+    "sorotipo_nao_informado": 1038,
+    "percentual_sorotipo_informado": 10.9,
+    "percentual_sorotipo_nao_informado": 89.1,
+    "sorotipo_mais_frequente": "DENV-3",
+    "total_sorotipo_mais_frequente": 75
+  },
+  "evidencias": {
+    "distribuicao_sorotipos": [
+      {
+        "sorotipo": "DENV-3",
+        "total_registros": 75
+      },
+      {
+        "sorotipo": "DENV-1",
+        "total_registros": 33
+      },
+      {
+        "sorotipo": "DENV-2",
+        "total_registros": 19
+      }
+    ],
+    "completude_sorotipo": [
+      {
+        "total_registros": 1165,
+        "sorotipo_informado": 127,
+        "sorotipo_nao_informado": 1038,
+        "percentual_informado": 10.9,
+        "percentual_nao_informado": 89.1
+      }
+    ]
+  },
+  "interpretacao": "Na UF Sergipe, foram registrados 1,165 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Desses, 127 apresentaram informação de sorotipo (10.90%). O sorotipo mais frequente entre os registros com informação disponível foi DENV-3, com 75 registros.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A ausência de informação de sorotipo não representa ausência de registros de dengue.",
+    "A distribuição dos sorotipos considera somente os registros em que a variável SOROTIPO possui informação disponível."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sorotipo",
+    "DEN-1",
+    "DEN-2",
+    "DEN-3",
+    "DEN-4",
+    "unidade federativa",
+    "semana epidemiológica",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sorotipo",
+    "sorotipos dengue",
+    "Sergipe",
+    "28",
+    "semana epidemiológica 1",
+    "semana epidemiológica 34",
+    "2026",
+    "SINAN"
+  ]
+}

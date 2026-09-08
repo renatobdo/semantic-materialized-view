@@ -1,0 +1,518 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_11",
+  "titulo": "Distribuição geográfica dos registros de dengue em Rondônia — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "11",
+    "sigla_uf": "RO",
+    "uf_nome": "Rondônia",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Rondônia, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 1366,
+    "total_casos_notificacao": 1354,
+    "total_municipios_analisados": 50,
+    "municipio_maior_numero_casos": "Ji-Paraná",
+    "maior_numero_casos_municipio": 215,
+    "municipio_maior_incidencia": "Rio Crespo",
+    "maior_incidencia_100mil": 1354.08,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 1366,
+      "autoctones_residencia": 436,
+      "percentual_autoctones": 31.92,
+      "nao_autoctones_residencia": 28,
+      "percentual_nao_autoctones": 2.05,
+      "indeterminados": 11,
+      "percentual_indeterminados": 0.81,
+      "ausentes": 891,
+      "percentual_ausentes": 65.23,
+      "total_comparaveis_uf_residencia_infeccao": 448,
+      "percentual_mesma_uf_residencia_infeccao": 99.55,
+      "percentual_uf_diferente_residencia_infeccao": 0.45
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 9
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 28
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 13
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1100122",
+        "municipio": "Ji-Paraná",
+        "populacao_2022": 124333.0,
+        "casos": 215,
+        "incidencia_100mil": 172.92,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100304",
+        "municipio": "Vilhena",
+        "populacao_2022": 95832.0,
+        "casos": 144,
+        "incidencia_100mil": 150.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100023",
+        "municipio": "Ariquemes",
+        "populacao_2022": 96833.0,
+        "casos": 103,
+        "incidencia_100mil": 106.37,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100015",
+        "municipio": "Alta Floresta D'Oeste",
+        "populacao_2022": 21494.0,
+        "casos": 102,
+        "incidencia_100mil": 474.55,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1100114",
+        "municipio": "Jaru",
+        "populacao_2022": 50591.0,
+        "casos": 84,
+        "incidencia_100mil": 166.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100098",
+        "municipio": "Espigão D'Oeste",
+        "populacao_2022": 29414.0,
+        "casos": 64,
+        "incidencia_100mil": 217.58,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100320",
+        "municipio": "São Miguel do Guaporé",
+        "populacao_2022": 21635.0,
+        "casos": 55,
+        "incidencia_100mil": 254.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100205",
+        "municipio": "Porto Velho",
+        "populacao_2022": 460434.0,
+        "casos": 52,
+        "incidencia_100mil": 11.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100262",
+        "municipio": "Rio Crespo",
+        "populacao_2022": 3471.0,
+        "casos": 47,
+        "incidencia_100mil": 1354.08,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1100072",
+        "municipio": "Corumbiara",
+        "populacao_2022": 7519.0,
+        "casos": 33,
+        "incidencia_100mil": 438.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1101450",
+        "municipio": "Parecis",
+        "populacao_2022": 4125.0,
+        "casos": 33,
+        "incidencia_100mil": 800.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1101484",
+        "municipio": "São Felipe D'Oeste",
+        "populacao_2022": 5258.0,
+        "casos": 29,
+        "incidencia_100mil": 551.54,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1100106",
+        "municipio": "Guajará-Mirim",
+        "populacao_2022": 39387.0,
+        "casos": 28,
+        "incidencia_100mil": 71.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101104",
+        "municipio": "Itapuã do Oeste",
+        "populacao_2022": 8548.0,
+        "casos": 26,
+        "incidencia_100mil": 304.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1101302",
+        "municipio": "Mirante da Serra",
+        "populacao_2022": 9235.0,
+        "casos": 26,
+        "incidencia_100mil": 281.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100130",
+        "municipio": "Machadinho D'Oeste",
+        "populacao_2022": 30707.0,
+        "casos": 26,
+        "incidencia_100mil": 84.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100049",
+        "municipio": "Cacoal",
+        "populacao_2022": 86887.0,
+        "casos": 25,
+        "incidencia_100mil": 28.77,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101757",
+        "municipio": "Vale do Anari",
+        "populacao_2022": 7788.0,
+        "casos": 24,
+        "incidencia_100mil": 308.17,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1101401",
+        "municipio": "Monte Negro",
+        "populacao_2022": 11548.0,
+        "casos": 21,
+        "incidencia_100mil": 181.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100288",
+        "municipio": "Rolim de Moura",
+        "populacao_2022": 56406.0,
+        "casos": 18,
+        "incidencia_100mil": 31.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100924",
+        "municipio": "Chupinguaia",
+        "populacao_2022": 9324.0,
+        "casos": 15,
+        "incidencia_100mil": 160.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100452",
+        "municipio": "Buritis",
+        "populacao_2022": 27992.0,
+        "casos": 15,
+        "incidencia_100mil": 53.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100908",
+        "municipio": "Castanheiras",
+        "populacao_2022": 3233.0,
+        "casos": 14,
+        "incidencia_100mil": 433.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1100346",
+        "municipio": "Alvorada D'Oeste",
+        "populacao_2022": 13117.0,
+        "casos": 13,
+        "incidencia_100mil": 99.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100148",
+        "municipio": "Nova Brasilândia D'Oeste",
+        "populacao_2022": 15679.0,
+        "casos": 12,
+        "incidencia_100mil": 76.54,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100031",
+        "municipio": "Cabixi",
+        "populacao_2022": 5351.0,
+        "casos": 11,
+        "incidencia_100mil": 205.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100056",
+        "municipio": "Cerejeiras",
+        "populacao_2022": 15890.0,
+        "casos": 11,
+        "incidencia_100mil": 69.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100254",
+        "municipio": "Presidente Médici",
+        "populacao_2022": 19327.0,
+        "casos": 11,
+        "incidencia_100mil": 56.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100379",
+        "municipio": "Alto Alegre dos Parecis",
+        "populacao_2022": 11479.0,
+        "casos": 10,
+        "incidencia_100mil": 87.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101005",
+        "municipio": "Governador Jorge Teixeira",
+        "populacao_2022": 8001.0,
+        "casos": 10,
+        "incidencia_100mil": 124.98,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100155",
+        "municipio": "Ouro Preto do Oeste",
+        "populacao_2022": 35044.0,
+        "casos": 9,
+        "incidencia_100mil": 25.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101559",
+        "municipio": "Teixeirópolis",
+        "populacao_2022": 4256.0,
+        "casos": 9,
+        "incidencia_100mil": 211.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1101468",
+        "municipio": "Pimenteiras do Oeste",
+        "populacao_2022": 2156.0,
+        "casos": 7,
+        "incidencia_100mil": 324.68,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1100189",
+        "municipio": "Pimenta Bueno",
+        "populacao_2022": 35079.0,
+        "casos": 7,
+        "incidencia_100mil": 19.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101492",
+        "municipio": "São Francisco do Guaporé",
+        "populacao_2022": 16286.0,
+        "casos": 7,
+        "incidencia_100mil": 42.98,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100940",
+        "municipio": "Cujubim",
+        "populacao_2022": 14863.0,
+        "casos": 6,
+        "incidencia_100mil": 40.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100809",
+        "municipio": "Candeias do Jamari",
+        "populacao_2022": 22310.0,
+        "casos": 5,
+        "incidencia_100mil": 22.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101476",
+        "municipio": "Primavera de Rondônia",
+        "populacao_2022": 3076.0,
+        "casos": 4,
+        "incidencia_100mil": 130.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1100700",
+        "municipio": "Campo Novo de Rondônia",
+        "populacao_2022": 8844.0,
+        "casos": 4,
+        "incidencia_100mil": 45.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100338",
+        "municipio": "Nova Mamoré",
+        "populacao_2022": 25444.0,
+        "casos": 4,
+        "incidencia_100mil": 15.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101807",
+        "municipio": "Vale do Paraíso",
+        "populacao_2022": 6479.0,
+        "casos": 4,
+        "incidencia_100mil": 61.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101435",
+        "municipio": "Nova União",
+        "populacao_2022": 6200.0,
+        "casos": 4,
+        "incidencia_100mil": 64.52,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101500",
+        "municipio": "Seringueiras",
+        "populacao_2022": 11171.0,
+        "casos": 3,
+        "incidencia_100mil": 26.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101203",
+        "municipio": "Ministro Andreazza",
+        "populacao_2022": 6466.0,
+        "casos": 3,
+        "incidencia_100mil": 46.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100296",
+        "municipio": "Santa Luzia D'Oeste",
+        "populacao_2022": 7419.0,
+        "casos": 3,
+        "incidencia_100mil": 40.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100601",
+        "municipio": "Cacaulândia",
+        "populacao_2022": 4150.0,
+        "casos": 3,
+        "incidencia_100mil": 72.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100502",
+        "municipio": "Novo Horizonte do Oeste",
+        "populacao_2022": 7667.0,
+        "casos": 2,
+        "incidencia_100mil": 26.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100403",
+        "municipio": "Alto Paraíso",
+        "populacao_2022": 16320.0,
+        "casos": 2,
+        "incidencia_100mil": 12.25,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1101708",
+        "municipio": "Urupá",
+        "populacao_2022": 10725.0,
+        "casos": 2,
+        "incidencia_100mil": 18.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1100080",
+        "municipio": "Costa Marques",
+        "populacao_2022": 12627.0,
+        "casos": 1,
+        "incidencia_100mil": 7.92,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "RO",
+        "uf_provavel_infeccao": "RO",
+        "total_registros": 446,
+        "percentual_dentro_uf_residencia": 99.55
+      },
+      {
+        "uf_residencia": "RO",
+        "uf_provavel_infeccao": "MT",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.45
+      }
+    ]
+  },
+  "interpretacao": "Na UF Rondônia, foram contabilizados 1.366 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 50 municípios com informações disponíveis para análise, Ji-Paraná apresentou o maior número absoluto de notificações, com 215. A maior incidência foi observada em Rio Crespo, com 1.354,08 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 31,92% dos registros de RO foram classificados como autóctones, 2,05% como não autóctones, 0,81% como indeterminados e 65,23% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,55% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Rondônia",
+    "RO",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

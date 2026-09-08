@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_31",
+  "titulo": "Comportamento temporal dos registros de dengue em Minas Gerais — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "31",
+    "uf_nome": "Minas Gerais",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Minas Gerais entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 61248,
+    "total_semanas": 34,
+    "media_semanal": 1801.41,
+    "mediana_semanal": 1401.5,
+    "minimo_semanal": 0,
+    "maximo_semanal": 3698,
+    "semana_pico": 15,
+    "total_pico": 3698,
+    "desvio_padrao": 1082.27,
+    "coeficiente_variacao": 60.08,
+    "media_periodo_anterior": 793.25,
+    "media_periodo_recente": 507.0,
+    "variacao_absoluta": -286.25,
+    "variacao_percentual": -36.09,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 724
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 1274
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 1086
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 1313
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 1392
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 1518
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 1410
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 1925
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 2358
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 2652
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 2916
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 3398
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 2881
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 3588
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 3698
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 3122
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 3147
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 3537
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 3244
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 2680
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 2355
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 1443
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 1393
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 1222
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 966
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 805
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 867
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 849
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 777
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 680
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 727
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 856
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 445
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 793.25,
+      "media_recente": 507.0,
+      "variacao_percentual": -36.09,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "15",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 6.04,
+      "distancia_pico_semana_final": 19,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Minas Gerais, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 15, com 3,698 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 1801.41 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -36.09% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Minas Gerais",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

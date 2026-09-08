@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_16",
+  "titulo": "Comportamento temporal dos registros de dengue em Amapá — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "16",
+    "uf_nome": "Amapá",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Amapá entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 513,
+    "total_semanas": 34,
+    "media_semanal": 15.09,
+    "mediana_semanal": 14.5,
+    "minimo_semanal": 0,
+    "maximo_semanal": 34,
+    "semana_pico": 23,
+    "total_pico": 34,
+    "desvio_padrao": 7.09,
+    "coeficiente_variacao": 46.96,
+    "media_periodo_anterior": 17.0,
+    "media_periodo_recente": 9.5,
+    "variacao_absoluta": -7.5,
+    "variacao_percentual": -44.12,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 5
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 13
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 17
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 9
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 10
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 13
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 18
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 16
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 16
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 22
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 13
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 19
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 6
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 8
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 13
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 15
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 24
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 10
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 6
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 25
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 19
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 14
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 34
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 20
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 20
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 22
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 27
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 21
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 10
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 10
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 14
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 16
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 8
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 17.0,
+      "media_recente": 9.5,
+      "variacao_percentual": -44.12,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "23",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 6.63,
+      "distancia_pico_semana_final": 11,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Amapá, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 23, com 34 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 15.09 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -44.12% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Amapá",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

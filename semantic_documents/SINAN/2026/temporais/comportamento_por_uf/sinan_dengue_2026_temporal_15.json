@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_15",
+  "titulo": "Comportamento temporal dos registros de dengue em Pará — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "15",
+    "uf_nome": "Pará",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Pará entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 9323,
+    "total_semanas": 34,
+    "media_semanal": 274.21,
+    "mediana_semanal": 279.0,
+    "minimo_semanal": 0,
+    "maximo_semanal": 446,
+    "semana_pico": 12,
+    "total_pico": 446,
+    "desvio_padrao": 101.56,
+    "coeficiente_variacao": 37.04,
+    "media_periodo_anterior": 220.75,
+    "media_periodo_recente": 141.25,
+    "variacao_absoluta": -79.5,
+    "variacao_percentual": -36.01,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 73
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 131
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 226
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 219
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 275
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 280
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 249
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 345
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 369
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 409
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 430
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 446
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 322
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 369
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 407
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 319
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 303
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 338
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 342
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 345
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 300
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 250
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 339
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 284
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 278
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 227
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 197
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 186
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 250
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 250
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 265
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 231
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 69
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 220.75,
+      "media_recente": 141.25,
+      "variacao_percentual": -36.01,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "12",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 4.78,
+      "distancia_pico_semana_final": 22,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Pará, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 12, com 446 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 274.21 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -36.01% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Pará",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

@@ -1,0 +1,1808 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_22",
+  "titulo": "Distribuição geográfica dos registros de dengue em Piauí — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "22",
+    "sigla_uf": "PI",
+    "uf_nome": "Piauí",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Piauí, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 17346,
+    "total_casos_notificacao": 17383,
+    "total_municipios_analisados": 209,
+    "municipio_maior_numero_casos": "Teresina",
+    "maior_numero_casos_municipio": 8076,
+    "municipio_maior_incidencia": "Antônio Almeida",
+    "maior_incidencia_100mil": 6027.92,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 17346,
+      "autoctones_residencia": 7903,
+      "percentual_autoctones": 45.56,
+      "nao_autoctones_residencia": 361,
+      "percentual_nao_autoctones": 2.08,
+      "indeterminados": 213,
+      "percentual_indeterminados": 1.23,
+      "ausentes": 8869,
+      "percentual_ausentes": 51.13,
+      "total_comparaveis_uf_residencia_infeccao": 7976,
+      "percentual_mesma_uf_residencia_infeccao": 99.94,
+      "percentual_uf_diferente_residencia_infeccao": 0.06
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 82
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 79
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 48
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "2211001",
+        "municipio": "Teresina",
+        "populacao_2022": 866300.0,
+        "casos": 8076,
+        "incidencia_100mil": 932.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210607",
+        "municipio": "São Raimundo Nonato",
+        "populacao_2022": 38934.0,
+        "casos": 856,
+        "incidencia_100mil": 2198.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2207702",
+        "municipio": "Parnaíba",
+        "populacao_2022": 162159.0,
+        "casos": 578,
+        "incidencia_100mil": 356.44,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210805",
+        "municipio": "Simplício Mendes",
+        "populacao_2022": 13870.0,
+        "casos": 522,
+        "incidencia_100mil": 3763.52,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208205",
+        "municipio": "Pio IX",
+        "populacao_2022": 17613.0,
+        "casos": 289,
+        "incidencia_100mil": 1640.83,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210508",
+        "municipio": "São Pedro do Piauí",
+        "populacao_2022": 13755.0,
+        "casos": 247,
+        "incidencia_100mil": 1795.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2204501",
+        "municipio": "Guadalupe",
+        "populacao_2022": 10270.0,
+        "casos": 246,
+        "incidencia_100mil": 2395.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201929",
+        "municipio": "Bonfim do Piauí",
+        "populacao_2022": 5913.0,
+        "casos": 217,
+        "incidencia_100mil": 3669.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208007",
+        "municipio": "Picos",
+        "populacao_2022": 83090.0,
+        "casos": 201,
+        "incidencia_100mil": 241.91,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2200806",
+        "municipio": "Antônio Almeida",
+        "populacao_2022": 3152.0,
+        "casos": 190,
+        "incidencia_100mil": 6027.92,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2200707",
+        "municipio": "Anísio de Abreu",
+        "populacao_2022": 9407.0,
+        "casos": 183,
+        "incidencia_100mil": 1945.36,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2211209",
+        "municipio": "Uruçuí",
+        "populacao_2022": 25203.0,
+        "casos": 181,
+        "incidencia_100mil": 718.17,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2203909",
+        "municipio": "Floriano",
+        "populacao_2022": 62036.0,
+        "casos": 176,
+        "incidencia_100mil": 283.71,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2202307",
+        "municipio": "Canto do Buriti",
+        "populacao_2022": 19365.0,
+        "casos": 167,
+        "incidencia_100mil": 862.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205532",
+        "municipio": "Jurema",
+        "populacao_2022": 4425.0,
+        "casos": 142,
+        "incidencia_100mil": 3209.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2206720",
+        "municipio": "Nazária",
+        "populacao_2022": 10262.0,
+        "casos": 137,
+        "incidencia_100mil": 1335.02,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2200301",
+        "municipio": "Alto Longá",
+        "populacao_2022": 13479.0,
+        "casos": 136,
+        "incidencia_100mil": 1008.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2209559",
+        "municipio": "São Braz do Piauí",
+        "populacao_2022": 4358.0,
+        "casos": 135,
+        "incidencia_100mil": 3097.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205102",
+        "municipio": "Itaueira",
+        "populacao_2022": 10323.0,
+        "casos": 135,
+        "incidencia_100mil": 1307.76,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208304",
+        "municipio": "Piracuruca",
+        "populacao_2022": 28846.0,
+        "casos": 127,
+        "incidencia_100mil": 440.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202109",
+        "municipio": "Campinas do Piauí",
+        "populacao_2022": 4938.0,
+        "casos": 122,
+        "incidencia_100mil": 2470.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210003",
+        "municipio": "São João do Piauí",
+        "populacao_2022": 21421.0,
+        "casos": 111,
+        "incidencia_100mil": 518.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2211357",
+        "municipio": "Várzea Branca",
+        "populacao_2022": 5055.0,
+        "casos": 111,
+        "incidencia_100mil": 2195.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2211100",
+        "municipio": "União",
+        "populacao_2022": 46119.0,
+        "casos": 104,
+        "incidencia_100mil": 225.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2203750",
+        "municipio": "Fartura do Piauí",
+        "populacao_2022": 5284.0,
+        "casos": 100,
+        "incidencia_100mil": 1892.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210409",
+        "municipio": "São Miguel do Tapuio",
+        "populacao_2022": 17554.0,
+        "casos": 100,
+        "incidencia_100mil": 569.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2203701",
+        "municipio": "Esperantina",
+        "populacao_2022": 40970.0,
+        "casos": 88,
+        "incidencia_100mil": 214.79,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206951",
+        "municipio": "Novo Santo Antônio",
+        "populacao_2022": 2827.0,
+        "casos": 86,
+        "incidencia_100mil": 3042.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208809",
+        "municipio": "Regeneração",
+        "populacao_2022": 17133.0,
+        "casos": 86,
+        "incidencia_100mil": 501.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210359",
+        "municipio": "São Lourenço do Piauí",
+        "populacao_2022": 4410.0,
+        "casos": 84,
+        "incidencia_100mil": 1904.76,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2211506",
+        "municipio": "Vera Mendes",
+        "populacao_2022": 3185.0,
+        "casos": 84,
+        "incidencia_100mil": 2637.36,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201705",
+        "municipio": "Bertolínia",
+        "populacao_2022": 5562.0,
+        "casos": 83,
+        "incidencia_100mil": 1492.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2203354",
+        "municipio": "Dirceu Arcoverde",
+        "populacao_2022": 7054.0,
+        "casos": 80,
+        "incidencia_100mil": 1134.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205706",
+        "municipio": "Luís Correia",
+        "populacao_2022": 30641.0,
+        "casos": 77,
+        "incidencia_100mil": 251.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2210631",
+        "municipio": "Sebastião Leal",
+        "populacao_2022": 4446.0,
+        "casos": 74,
+        "incidencia_100mil": 1664.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202604",
+        "municipio": "Castelo do Piauí",
+        "populacao_2022": 19288.0,
+        "casos": 74,
+        "incidencia_100mil": 383.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2203859",
+        "municipio": "Floresta do Piauí",
+        "populacao_2022": 2333.0,
+        "casos": 74,
+        "incidencia_100mil": 3171.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2209971",
+        "municipio": "São João do Arraial",
+        "populacao_2022": 8186.0,
+        "casos": 73,
+        "incidencia_100mil": 891.77,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2200400",
+        "municipio": "Altos",
+        "populacao_2022": 47453.0,
+        "casos": 72,
+        "incidencia_100mil": 151.73,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2210052",
+        "municipio": "São José do Divino",
+        "populacao_2022": 4841.0,
+        "casos": 68,
+        "incidencia_100mil": 1404.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2207355",
+        "municipio": "Pajeú do Piauí",
+        "populacao_2022": 3000.0,
+        "casos": 59,
+        "incidencia_100mil": 1966.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2204550",
+        "municipio": "Guaribas",
+        "populacao_2022": 4276.0,
+        "casos": 59,
+        "incidencia_100mil": 1379.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208106",
+        "municipio": "Pimenteiras",
+        "populacao_2022": 11341.0,
+        "casos": 59,
+        "incidencia_100mil": 520.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2206100",
+        "municipio": "Matias Olímpio",
+        "populacao_2022": 10641.0,
+        "casos": 58,
+        "incidencia_100mil": 545.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2207959",
+        "municipio": "Nova Santa Rita",
+        "populacao_2022": 4076.0,
+        "casos": 58,
+        "incidencia_100mil": 1422.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2206803",
+        "municipio": "Nossa Senhora dos Remédios",
+        "populacao_2022": 8525.0,
+        "casos": 57,
+        "incidencia_100mil": 668.62,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202117",
+        "municipio": "Campo Alegre do Fidalgo",
+        "populacao_2022": 4616.0,
+        "casos": 57,
+        "incidencia_100mil": 1234.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208502",
+        "municipio": "Porto",
+        "populacao_2022": 12052.0,
+        "casos": 57,
+        "incidencia_100mil": 472.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205300",
+        "municipio": "Jerumenha",
+        "populacao_2022": 4497.0,
+        "casos": 53,
+        "incidencia_100mil": 1178.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202455",
+        "municipio": "Capitão Gervásio Oliveira",
+        "populacao_2022": 3974.0,
+        "casos": 52,
+        "incidencia_100mil": 1308.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2208403",
+        "municipio": "Piripiri",
+        "populacao_2022": 65538.0,
+        "casos": 50,
+        "incidencia_100mil": 76.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209401",
+        "municipio": "Santo Antônio de Lisboa",
+        "populacao_2022": 5839.0,
+        "casos": 48,
+        "incidencia_100mil": 822.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205359",
+        "municipio": "João Costa",
+        "populacao_2022": 2970.0,
+        "casos": 48,
+        "incidencia_100mil": 1616.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202406",
+        "municipio": "Capitão de Campos",
+        "populacao_2022": 11100.0,
+        "casos": 48,
+        "incidencia_100mil": 432.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202026",
+        "municipio": "Buriti dos Montes",
+        "populacao_2022": 7434.0,
+        "casos": 45,
+        "incidencia_100mil": 605.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205508",
+        "municipio": "José de Freitas",
+        "populacao_2022": 42559.0,
+        "casos": 45,
+        "incidencia_100mil": 105.74,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2203453",
+        "municipio": "Dom Inocêncio",
+        "populacao_2022": 9159.0,
+        "casos": 45,
+        "incidencia_100mil": 491.32,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2211407",
+        "municipio": "Várzea Grande",
+        "populacao_2022": 4417.0,
+        "casos": 43,
+        "incidencia_100mil": 973.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205565",
+        "municipio": "Lagoa do Barro do Piauí",
+        "populacao_2022": 4995.0,
+        "casos": 43,
+        "incidencia_100mil": 860.86,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202851",
+        "municipio": "Coronel José Dias",
+        "populacao_2022": 4250.0,
+        "casos": 42,
+        "incidencia_100mil": 988.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205409",
+        "municipio": "Joaquim Pires",
+        "populacao_2022": 13886.0,
+        "casos": 41,
+        "incidencia_100mil": 295.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2207009",
+        "municipio": "Oeiras",
+        "populacao_2022": 38161.0,
+        "casos": 40,
+        "incidencia_100mil": 104.82,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2203800",
+        "municipio": "Flores do Piauí",
+        "populacao_2022": 4414.0,
+        "casos": 40,
+        "incidencia_100mil": 906.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2200509",
+        "municipio": "Amarante",
+        "populacao_2022": 17234.0,
+        "casos": 38,
+        "incidencia_100mil": 220.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2204907",
+        "municipio": "Isaías Coelho",
+        "populacao_2022": 7774.0,
+        "casos": 38,
+        "incidencia_100mil": 488.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2206407",
+        "municipio": "Monsenhor Gil",
+        "populacao_2022": 10255.0,
+        "casos": 36,
+        "incidencia_100mil": 351.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202505",
+        "municipio": "Caracol",
+        "populacao_2022": 10318.0,
+        "casos": 35,
+        "incidencia_100mil": 339.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2207306",
+        "municipio": "Paes Landim",
+        "populacao_2022": 4088.0,
+        "casos": 34,
+        "incidencia_100mil": 831.7,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2206357",
+        "municipio": "Milton Brandão",
+        "populacao_2022": 6542.0,
+        "casos": 34,
+        "incidencia_100mil": 519.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2203255",
+        "municipio": "Curralinhos",
+        "populacao_2022": 4413.0,
+        "casos": 33,
+        "incidencia_100mil": 747.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210979",
+        "municipio": "Tanque do Piauí",
+        "populacao_2022": 2316.0,
+        "casos": 32,
+        "incidencia_100mil": 1381.69,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201150",
+        "municipio": "Baixa Grande do Ribeiro",
+        "populacao_2022": 13272.0,
+        "casos": 32,
+        "incidencia_100mil": 241.11,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2202703",
+        "municipio": "Cocal",
+        "populacao_2022": 28212.0,
+        "casos": 30,
+        "incidencia_100mil": 106.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2209377",
+        "municipio": "Santa Rosa do Piauí",
+        "populacao_2022": 4650.0,
+        "casos": 28,
+        "incidencia_100mil": 602.15,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2209906",
+        "municipio": "São João da Serra",
+        "populacao_2022": 6114.0,
+        "casos": 28,
+        "incidencia_100mil": 457.97,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205573",
+        "municipio": "Lagoa de São Francisco",
+        "populacao_2022": 6331.0,
+        "casos": 28,
+        "incidencia_100mil": 442.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2206902",
+        "municipio": "Novo Oriente do Piauí",
+        "populacao_2022": 6097.0,
+        "casos": 27,
+        "incidencia_100mil": 442.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2209302",
+        "municipio": "Santa Luz",
+        "populacao_2022": 5336.0,
+        "casos": 27,
+        "incidencia_100mil": 506.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202000",
+        "municipio": "Buriti dos Lopes",
+        "populacao_2022": 19654.0,
+        "casos": 26,
+        "incidencia_100mil": 132.29,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206001",
+        "municipio": "Marcos Parente",
+        "populacao_2022": 4724.0,
+        "casos": 25,
+        "incidencia_100mil": 529.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201903",
+        "municipio": "Bom Jesus",
+        "populacao_2022": 28796.0,
+        "casos": 24,
+        "incidencia_100mil": 83.34,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2210383",
+        "municipio": "São Miguel da Baixa Grande",
+        "populacao_2022": 2269.0,
+        "casos": 24,
+        "incidencia_100mil": 1057.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202208",
+        "municipio": "Campo Maior",
+        "populacao_2022": 45793.0,
+        "casos": 23,
+        "incidencia_100mil": 50.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205607",
+        "municipio": "Landri Sales",
+        "populacao_2022": 5213.0,
+        "casos": 23,
+        "incidencia_100mil": 441.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201606",
+        "municipio": "Beneditinos",
+        "populacao_2022": 9929.0,
+        "casos": 23,
+        "incidencia_100mil": 231.64,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2211308",
+        "municipio": "Valença do Piauí",
+        "populacao_2022": 22279.0,
+        "casos": 23,
+        "incidencia_100mil": 103.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2200103",
+        "municipio": "Agricolândia",
+        "populacao_2022": 4940.0,
+        "casos": 21,
+        "incidencia_100mil": 425.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201739",
+        "municipio": "Betânia do Piauí",
+        "populacao_2022": 6220.0,
+        "casos": 20,
+        "incidencia_100mil": 321.54,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2202802",
+        "municipio": "Conceição do Canindé",
+        "populacao_2022": 4932.0,
+        "casos": 19,
+        "incidencia_100mil": 385.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2209005",
+        "municipio": "Rio Grande do Piauí",
+        "populacao_2022": 5801.0,
+        "casos": 19,
+        "incidencia_100mil": 327.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2204659",
+        "municipio": "Ilha Grande",
+        "populacao_2022": 9274.0,
+        "casos": 18,
+        "incidencia_100mil": 194.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206308",
+        "municipio": "Miguel Leão",
+        "populacao_2022": 1318.0,
+        "casos": 18,
+        "incidencia_100mil": 1365.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201507",
+        "municipio": "Batalha",
+        "populacao_2022": 26300.0,
+        "casos": 18,
+        "incidencia_100mil": 68.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2204352",
+        "municipio": "Geminiano",
+        "populacao_2022": 5445.0,
+        "casos": 18,
+        "incidencia_100mil": 330.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2200608",
+        "municipio": "Angical do Piauí",
+        "populacao_2022": 6827.0,
+        "casos": 17,
+        "incidencia_100mil": 249.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2200202",
+        "municipio": "Água Branca",
+        "populacao_2022": 17573.0,
+        "casos": 17,
+        "incidencia_100mil": 96.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2203305",
+        "municipio": "Demerval Lobão",
+        "populacao_2022": 16352.0,
+        "casos": 17,
+        "incidencia_100mil": 103.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2210904",
+        "municipio": "Socorro do Piauí",
+        "populacao_2022": 4141.0,
+        "casos": 16,
+        "incidencia_100mil": 386.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2205557",
+        "municipio": "Lagoa Alegre",
+        "populacao_2022": 8256.0,
+        "casos": 16,
+        "incidencia_100mil": 193.8,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2201988",
+        "municipio": "Brejo do Piauí",
+        "populacao_2022": 3904.0,
+        "casos": 16,
+        "incidencia_100mil": 409.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2203206",
+        "municipio": "Curimatá",
+        "populacao_2022": 11270.0,
+        "casos": 15,
+        "incidencia_100mil": 133.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2208700",
+        "municipio": "Redenção do Gurguéia",
+        "populacao_2022": 8394.0,
+        "casos": 14,
+        "incidencia_100mil": 166.79,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206209",
+        "municipio": "Miguel Alves",
+        "populacao_2022": 32150.0,
+        "casos": 14,
+        "incidencia_100mil": 43.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2211605",
+        "municipio": "Vila Nova do Piauí",
+        "populacao_2022": 2935.0,
+        "casos": 14,
+        "incidencia_100mil": 477.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2204402",
+        "municipio": "Gilbués",
+        "populacao_2022": 10892.0,
+        "casos": 14,
+        "incidencia_100mil": 128.53,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2202729",
+        "municipio": "Cocal dos Alves",
+        "populacao_2022": 6386.0,
+        "casos": 14,
+        "incidencia_100mil": 219.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2204600",
+        "municipio": "Hugo Napoleão",
+        "populacao_2022": 3518.0,
+        "casos": 13,
+        "incidencia_100mil": 369.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2209955",
+        "municipio": "São João da Varjota",
+        "populacao_2022": 4383.0,
+        "casos": 13,
+        "incidencia_100mil": 296.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2209609",
+        "municipio": "São Félix do Piauí",
+        "populacao_2022": 2842.0,
+        "casos": 13,
+        "incidencia_100mil": 457.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2201200",
+        "municipio": "Barras",
+        "populacao_2022": 47938.0,
+        "casos": 13,
+        "incidencia_100mil": 27.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2203230",
+        "municipio": "Currais",
+        "populacao_2022": 4854.0,
+        "casos": 13,
+        "incidencia_100mil": 267.82,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2205201",
+        "municipio": "Jaicós",
+        "populacao_2022": 17527.0,
+        "casos": 12,
+        "incidencia_100mil": 68.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209500",
+        "municipio": "Santo Inácio do Piauí",
+        "populacao_2022": 3646.0,
+        "casos": 12,
+        "incidencia_100mil": 329.13,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210953",
+        "municipio": "Tamboril do Piauí",
+        "populacao_2022": 2949.0,
+        "casos": 12,
+        "incidencia_100mil": 406.92,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2207801",
+        "municipio": "Paulistana",
+        "populacao_2022": 21055.0,
+        "casos": 11,
+        "incidencia_100mil": 52.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2208551",
+        "municipio": "Porto Alegre do Piauí",
+        "populacao_2022": 2364.0,
+        "casos": 11,
+        "incidencia_100mil": 465.31,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2210938",
+        "municipio": "Sussuapara",
+        "populacao_2022": 6220.0,
+        "casos": 11,
+        "incidencia_100mil": 176.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2200251",
+        "municipio": "Alagoinha do Piauí",
+        "populacao_2022": 6819.0,
+        "casos": 11,
+        "incidencia_100mil": 161.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2202737",
+        "municipio": "Coivaras",
+        "populacao_2022": 4117.0,
+        "casos": 10,
+        "incidencia_100mil": 242.9,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2203602",
+        "municipio": "Eliseu Martins",
+        "populacao_2022": 4377.0,
+        "casos": 10,
+        "incidencia_100mil": 228.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2201919",
+        "municipio": "Bom Princípio do Piauí",
+        "populacao_2022": 5636.0,
+        "casos": 10,
+        "incidencia_100mil": 177.43,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2209872",
+        "municipio": "São João da Fronteira",
+        "populacao_2022": 5522.0,
+        "casos": 10,
+        "incidencia_100mil": 181.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2200459",
+        "municipio": "Alvorada do Gurguéia",
+        "populacao_2022": 5322.0,
+        "casos": 9,
+        "incidencia_100mil": 169.11,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2204204",
+        "municipio": "Francisco Santos",
+        "populacao_2022": 8237.0,
+        "casos": 9,
+        "incidencia_100mil": 109.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2207900",
+        "municipio": "Pedro II",
+        "populacao_2022": 37894.0,
+        "casos": 9,
+        "incidencia_100mil": 23.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207553",
+        "municipio": "Paquetá",
+        "populacao_2022": 3813.0,
+        "casos": 9,
+        "incidencia_100mil": 236.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2208908",
+        "municipio": "Ribeiro Gonçalves",
+        "populacao_2022": 6164.0,
+        "casos": 9,
+        "incidencia_100mil": 146.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2210656",
+        "municipio": "Sigefredo Pacheco",
+        "populacao_2022": 9460.0,
+        "casos": 8,
+        "incidencia_100mil": 84.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205581",
+        "municipio": "Lagoa do Piauí",
+        "populacao_2022": 4810.0,
+        "casos": 8,
+        "incidencia_100mil": 166.32,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2207504",
+        "municipio": "Palmeirais",
+        "populacao_2022": 13264.0,
+        "casos": 7,
+        "incidencia_100mil": 52.77,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209658",
+        "municipio": "São Francisco de Assis do Piauí",
+        "populacao_2022": 5572.0,
+        "casos": 7,
+        "incidencia_100mil": 125.63,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2210300",
+        "municipio": "São Julião",
+        "populacao_2022": 6025.0,
+        "casos": 7,
+        "incidencia_100mil": 116.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2210706",
+        "municipio": "Simões",
+        "populacao_2022": 14350.0,
+        "casos": 7,
+        "incidencia_100mil": 48.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2203503",
+        "municipio": "Elesbão Veloso",
+        "populacao_2022": 13607.0,
+        "casos": 7,
+        "incidencia_100mil": 51.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207405",
+        "municipio": "Palmeira do Piauí",
+        "populacao_2022": 4952.0,
+        "casos": 6,
+        "incidencia_100mil": 121.16,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2205516",
+        "municipio": "Juazeiro do Piauí",
+        "populacao_2022": 5214.0,
+        "casos": 6,
+        "incidencia_100mil": 115.07,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2205003",
+        "municipio": "Itainópolis",
+        "populacao_2022": 10790.0,
+        "casos": 6,
+        "incidencia_100mil": 55.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202711",
+        "municipio": "Cocal de Telha",
+        "populacao_2022": 4911.0,
+        "casos": 5,
+        "incidencia_100mil": 101.81,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2202778",
+        "municipio": "Colônia do Piauí",
+        "populacao_2022": 6994.0,
+        "casos": 5,
+        "incidencia_100mil": 71.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2200053",
+        "municipio": "Acauã",
+        "populacao_2022": 6420.0,
+        "casos": 5,
+        "incidencia_100mil": 77.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2200905",
+        "municipio": "Aroazes",
+        "populacao_2022": 5369.0,
+        "casos": 5,
+        "incidencia_100mil": 93.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2200954",
+        "municipio": "Aroeiras do Itaim",
+        "populacao_2022": 2690.0,
+        "casos": 5,
+        "incidencia_100mil": 185.87,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2203404",
+        "municipio": "Dom Expedito Lopes",
+        "populacao_2022": 6320.0,
+        "casos": 5,
+        "incidencia_100mil": 79.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2203107",
+        "municipio": "Cristino Castro",
+        "populacao_2022": 10503.0,
+        "casos": 5,
+        "incidencia_100mil": 47.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202539",
+        "municipio": "Caraúbas do Piauí",
+        "populacao_2022": 5630.0,
+        "casos": 5,
+        "incidencia_100mil": 88.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2206696",
+        "municipio": "Murici dos Portelas",
+        "populacao_2022": 9797.0,
+        "casos": 5,
+        "incidencia_100mil": 51.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2204808",
+        "municipio": "Ipiranga do Piauí",
+        "populacao_2022": 9420.0,
+        "casos": 5,
+        "incidencia_100mil": 53.08,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205599",
+        "municipio": "Lagoa do Sítio",
+        "populacao_2022": 4520.0,
+        "casos": 5,
+        "incidencia_100mil": 110.62,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206654",
+        "municipio": "Morro Cabeça no Tempo",
+        "populacao_2022": 4377.0,
+        "casos": 5,
+        "incidencia_100mil": 114.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206753",
+        "municipio": "Nossa Senhora de Nazaré",
+        "populacao_2022": 5228.0,
+        "casos": 5,
+        "incidencia_100mil": 95.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207603",
+        "municipio": "Parnaguá",
+        "populacao_2022": 10103.0,
+        "casos": 5,
+        "incidencia_100mil": 49.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2208650",
+        "municipio": "Queimada Nova",
+        "populacao_2022": 8738.0,
+        "casos": 5,
+        "incidencia_100mil": 57.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2204006",
+        "municipio": "Francinópolis",
+        "populacao_2022": 4505.0,
+        "casos": 4,
+        "incidencia_100mil": 88.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201960",
+        "municipio": "Brasileira",
+        "populacao_2022": 8436.0,
+        "casos": 4,
+        "incidencia_100mil": 47.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201176",
+        "municipio": "Barra D'Alcântara",
+        "populacao_2022": 3995.0,
+        "casos": 4,
+        "incidencia_100mil": 100.13,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2202133",
+        "municipio": "Campo Grande do Piauí",
+        "populacao_2022": 6020.0,
+        "casos": 4,
+        "incidencia_100mil": 66.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201945",
+        "municipio": "Boqueirão do Piauí",
+        "populacao_2022": 6545.0,
+        "casos": 4,
+        "incidencia_100mil": 61.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2203271",
+        "municipio": "Curral Novo do Piauí",
+        "populacao_2022": 5073.0,
+        "casos": 4,
+        "incidencia_100mil": 78.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202752",
+        "municipio": "Colônia do Gurguéia",
+        "populacao_2022": 6150.0,
+        "casos": 4,
+        "incidencia_100mil": 65.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205151",
+        "municipio": "Jacobina do Piauí",
+        "populacao_2022": 5613.0,
+        "casos": 4,
+        "incidencia_100mil": 71.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209757",
+        "municipio": "São Gonçalo do Gurguéia",
+        "populacao_2022": 2947.0,
+        "casos": 4,
+        "incidencia_100mil": 135.73,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2205854",
+        "municipio": "Madeiro",
+        "populacao_2022": 8032.0,
+        "casos": 3,
+        "incidencia_100mil": 37.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205805",
+        "municipio": "Luzilândia",
+        "populacao_2022": 25375.0,
+        "casos": 3,
+        "incidencia_100mil": 11.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207934",
+        "municipio": "Pedro Laurentino",
+        "populacao_2022": 2458.0,
+        "casos": 3,
+        "incidencia_100mil": 122.05,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2209104",
+        "municipio": "Santa Cruz do Piauí",
+        "populacao_2022": 5831.0,
+        "casos": 3,
+        "incidencia_100mil": 51.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209856",
+        "municipio": "São João da Canabrava",
+        "populacao_2022": 4242.0,
+        "casos": 3,
+        "incidencia_100mil": 70.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207793",
+        "municipio": "Pau D'Arco do Piauí",
+        "populacao_2022": 3880.0,
+        "casos": 3,
+        "incidencia_100mil": 77.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207108",
+        "municipio": "Olho D'Água do Piauí",
+        "populacao_2022": 2637.0,
+        "casos": 3,
+        "incidencia_100mil": 113.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2206605",
+        "municipio": "Monte Alegre do Piauí",
+        "populacao_2022": 10660.0,
+        "casos": 3,
+        "incidencia_100mil": 28.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2206050",
+        "municipio": "Massapê do Piauí",
+        "populacao_2022": 5218.0,
+        "casos": 3,
+        "incidencia_100mil": 57.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2206670",
+        "municipio": "Morro do Chapéu do Piauí",
+        "populacao_2022": 6425.0,
+        "casos": 3,
+        "incidencia_100mil": 46.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202059",
+        "municipio": "Cabeceiras do Piauí",
+        "populacao_2022": 10212.0,
+        "casos": 3,
+        "incidencia_100mil": 29.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202174",
+        "municipio": "Campo Largo do Piauí",
+        "populacao_2022": 7419.0,
+        "casos": 3,
+        "incidencia_100mil": 40.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201556",
+        "municipio": "Bela Vista do Piauí",
+        "populacao_2022": 4091.0,
+        "casos": 3,
+        "incidencia_100mil": 73.33,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202083",
+        "municipio": "Cajueiro da Praia",
+        "populacao_2022": 7957.0,
+        "casos": 3,
+        "incidencia_100mil": 37.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201804",
+        "municipio": "Bocaina",
+        "populacao_2022": 4078.0,
+        "casos": 3,
+        "incidencia_100mil": 73.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202653",
+        "municipio": "Caxingó",
+        "populacao_2022": 5496.0,
+        "casos": 2,
+        "incidencia_100mil": 36.39,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2210102",
+        "municipio": "São José do Peixe",
+        "populacao_2022": 3297.0,
+        "casos": 2,
+        "incidencia_100mil": 60.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2210201",
+        "municipio": "São José do Piauí",
+        "populacao_2022": 6597.0,
+        "casos": 2,
+        "incidencia_100mil": 30.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2208874",
+        "municipio": "Ribeira do Piauí",
+        "populacao_2022": 4055.0,
+        "casos": 2,
+        "incidencia_100mil": 49.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209203",
+        "municipio": "Santa Filomena",
+        "populacao_2022": 6087.0,
+        "casos": 2,
+        "incidencia_100mil": 32.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209450",
+        "municipio": "Santo Antônio dos Milagres",
+        "populacao_2022": 2138.0,
+        "casos": 2,
+        "incidencia_100mil": 93.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205540",
+        "municipio": "Lagoinha do Piauí",
+        "populacao_2022": 2939.0,
+        "casos": 2,
+        "incidencia_100mil": 68.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205953",
+        "municipio": "Marcolândia",
+        "populacao_2022": 8533.0,
+        "casos": 2,
+        "incidencia_100mil": 23.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205904",
+        "municipio": "Manoel Emídio",
+        "populacao_2022": 5209.0,
+        "casos": 2,
+        "incidencia_100mil": 38.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205250",
+        "municipio": "Jardim do Mulato",
+        "populacao_2022": 4180.0,
+        "casos": 2,
+        "incidencia_100mil": 47.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201101",
+        "municipio": "Avelino Lopes",
+        "populacao_2022": 10866.0,
+        "casos": 2,
+        "incidencia_100mil": 18.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2204709",
+        "municipio": "Inhuma",
+        "populacao_2022": 14958.0,
+        "casos": 2,
+        "incidencia_100mil": 13.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205276",
+        "municipio": "Jatobá do Piauí",
+        "populacao_2022": 4494.0,
+        "casos": 2,
+        "incidencia_100mil": 44.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201051",
+        "municipio": "Assunção do Piauí",
+        "populacao_2022": 7452.0,
+        "casos": 1,
+        "incidencia_100mil": 13.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201572",
+        "municipio": "Belém do Piauí",
+        "populacao_2022": 3423.0,
+        "casos": 1,
+        "incidencia_100mil": 29.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202251",
+        "municipio": "Canavieira",
+        "populacao_2022": 3414.0,
+        "casos": 1,
+        "incidencia_100mil": 29.29,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201002",
+        "municipio": "Arraial",
+        "populacao_2022": 4520.0,
+        "casos": 1,
+        "incidencia_100mil": 22.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2204303",
+        "municipio": "Fronteiras",
+        "populacao_2022": 10259.0,
+        "casos": 1,
+        "incidencia_100mil": 9.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202901",
+        "municipio": "Corrente",
+        "populacao_2022": 27278.0,
+        "casos": 1,
+        "incidencia_100mil": 3.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2202075",
+        "municipio": "Cajazeiras do Piauí",
+        "populacao_2022": 3108.0,
+        "casos": 1,
+        "incidencia_100mil": 32.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201408",
+        "municipio": "Barro Duro",
+        "populacao_2022": 6640.0,
+        "casos": 1,
+        "incidencia_100mil": 15.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2201770",
+        "municipio": "Boa Hora",
+        "populacao_2022": 6902.0,
+        "casos": 1,
+        "incidencia_100mil": 14.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205524",
+        "municipio": "Júlio Borges",
+        "populacao_2022": 5388.0,
+        "casos": 1,
+        "incidencia_100mil": 18.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2206506",
+        "municipio": "Monsenhor Hipólito",
+        "populacao_2022": 7577.0,
+        "casos": 1,
+        "incidencia_100mil": 13.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2205458",
+        "municipio": "Joca Marques",
+        "populacao_2022": 5394.0,
+        "casos": 1,
+        "incidencia_100mil": 18.54,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2207751",
+        "municipio": "Passagem Franca do Piauí",
+        "populacao_2022": 4135.0,
+        "casos": 1,
+        "incidencia_100mil": 24.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2206704",
+        "municipio": "Nazaré do Piauí",
+        "populacao_2022": 6665.0,
+        "casos": 1,
+        "incidencia_100mil": 15.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209153",
+        "municipio": "Santa Cruz dos Milagres",
+        "populacao_2022": 3435.0,
+        "casos": 1,
+        "incidencia_100mil": 29.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209351",
+        "municipio": "Santana do Piauí",
+        "populacao_2022": 4125.0,
+        "casos": 1,
+        "incidencia_100mil": 24.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209807",
+        "municipio": "São Gonçalo do Piauí",
+        "populacao_2022": 4837.0,
+        "casos": 1,
+        "incidencia_100mil": 20.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2209708",
+        "municipio": "São Francisco do Piauí",
+        "populacao_2022": 5392.0,
+        "casos": 1,
+        "incidencia_100mil": 18.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2210391",
+        "municipio": "São Miguel do Fidalgo",
+        "populacao_2022": 2829.0,
+        "casos": 1,
+        "incidencia_100mil": 35.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2210375",
+        "municipio": "São Luis do Piauí",
+        "populacao_2022": 2309.0,
+        "casos": 1,
+        "incidencia_100mil": 43.31,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "PI",
+        "uf_provavel_infeccao": "PI",
+        "total_registros": 7971,
+        "percentual_dentro_uf_residencia": 99.94
+      },
+      {
+        "uf_residencia": "PI",
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.03
+      },
+      {
+        "uf_residencia": "PI",
+        "uf_provavel_infeccao": "CE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "PI",
+        "uf_provavel_infeccao": "RR",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "PI",
+        "uf_provavel_infeccao": "SP",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      }
+    ]
+  },
+  "interpretacao": "Na UF Piauí, foram contabilizados 17.346 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 209 municípios com informações disponíveis para análise, Teresina apresentou o maior número absoluto de notificações, com 8.076. A maior incidência foi observada em Antônio Almeida, com 6.027,92 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 45,56% dos registros de PI foram classificados como autóctones, 2,08% como não autóctones, 1,23% como indeterminados e 51,13% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,94% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Piauí",
+    "PI",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

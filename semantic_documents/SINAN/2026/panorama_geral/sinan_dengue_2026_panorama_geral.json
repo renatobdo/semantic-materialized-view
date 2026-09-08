@@ -1,0 +1,167 @@
+{
+  "document_id": "SINAN_DENGUE_2026_PANORAMA_GERAL",
+  "titulo": "Panorama epidemiológico integrado da dengue no Brasil - 2026",
+  "tipo_documento": "panorama_epidemiologico_integrado",
+  "dominio": "epidemiologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "localizacao": "Brasil",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "populacao_analitica": "registros de dengue notificados no SINAN"
+  },
+  "sintese": "Síntese epidemiológica integrada dos registros de dengue notificados no SINAN no Brasil entre as semanas epidemiológicas 1 e 34 de 2026, reunindo informações temporais, geográficas, de autoctonia e provável local de infecção, virológicas, clínicas e de desfechos.",
+  "indicadores": {
+    "situacao_geral": {
+      "total_registros": 444266,
+      "semana_inicial": 1,
+      "semana_final": 34,
+      "total_semanas": 34
+    },
+    "temporal": {
+      "media_semanal": 13066.65,
+      "mediana_semanal": 11983.5,
+      "semana_pico": 15,
+      "total_registros_pico": 21470,
+      "percentual_pico_total": 4.83
+    },
+    "geografico": {
+      "total_ufs": 27,
+      "total_municipios_analisados": 4711,
+      "uf_maior_numero_registros_residencia": "GO",
+      "total_registros_uf_maior_numero": 108912,
+      "municipio_maior_numero_registros": "Goiânia",
+      "total_registros_municipio_maior_numero": 31778,
+      "municipio_maior_incidencia": "Turvânia",
+      "maior_incidencia_100mil": 9084.82
+    },
+    "autoctonia": {
+      "total_registros": 444266,
+      "autoctones_residencia": 257191,
+      "percentual_autoctones": 57.89,
+      "nao_autoctones_residencia": 6023,
+      "percentual_nao_autoctones": 1.36,
+      "indeterminados": 18002,
+      "percentual_indeterminados": 4.05,
+      "ausentes": 163050,
+      "percentual_ausentes": 36.7,
+      "total_comparaveis_uf_residencia_infeccao": 240724,
+      "percentual_mesma_uf_residencia_infeccao": 99.85,
+      "total_comparaveis_municipio_residencia_infeccao": 240724,
+      "percentual_mesmo_municipio_residencia_infeccao": 99.37,
+      "uf_provavel_infeccao_maior_frequencia": "GO",
+      "total_uf_provavel_infeccao_maior_frequencia": 82695,
+      "consistencia": {
+        "consistente": {
+          "total_registros": 257590,
+          "percentual_total": 57.98
+        },
+        "nao_avaliavel": {
+          "total_registros": 185541,
+          "percentual_total": 41.76
+        },
+        "inconsistente": {
+          "total_registros": 1135,
+          "percentual_total": 0.26
+        }
+      }
+    },
+    "virologico": {
+      "sorotipo_informado": 29517,
+      "percentual_sorotipo_informado": 6.64,
+      "sorotipo_nao_informado": 414749,
+      "percentual_sorotipo_nao_informado": 93.36,
+      "ufs_sem_sorotipo_informado": 1
+    },
+    "clinico": {
+      "sinal_clinico_maior_frequencia": "Febre",
+      "percentual_sinal_clinico": 88.21,
+      "doenca_preexistente_maior_frequencia": "Hipertensão arterial",
+      "percentual_doenca_preexistente": 7.74
+    },
+    "desfechos": {
+      "hospitalizacao_avaliaveis": 325931,
+      "hospitalizados": 27589,
+      "percentual_hospitalizados": 8.46,
+      "total_evolucao_avaliavel": 309618,
+      "evolucao_predominante": "Cura",
+      "percentual_evolucao_predominante": 99.82
+    },
+    "obitos": {
+      "total_registros_categorias_obito": 559,
+      "tipo_obito_predominante": "Óbito pelo agravo",
+      "total_tipo_obito_predominante": 303,
+      "percentual_tipo_obito_predominante": 54.2,
+      "total_sorotipo_informado": 111,
+      "sorotipo_predominante_entre_informados": "DENV-2",
+      "percentual_sorotipo_predominante_entre_informados": 69.37,
+      "sinal_clinico_mais_frequente": "Febre",
+      "percentual_sinal_clinico": 79.43,
+      "doenca_preexistente_mais_frequente": "Hipertensão arterial",
+      "percentual_doenca_preexistente": 37.03
+    }
+  },
+  "evidencias": {
+    "documentos_semanticos_origem": [
+      "SINAN_DENGUE_2026_CLINICO_BRASIL",
+      "SINAN_DENGUE_2026_DESFECHOS_BRASIL",
+      "SINAN_DENGUE_2026_OBITOS_BRASIL",
+      "SINAN_DENGUE_2026_GEOGRAFICO_BRASIL",
+      "SINAN_DENGUE_2026_TEMPORAL_BRASIL",
+      "SINAN_DENGUE_2026_SOROTIPOS_BRASIL"
+    ]
+  },
+  "interpretacao": "No período entre as semanas epidemiológicas 1 e 34 de 2026, foram consideradas 444.266 notificações de dengue no SINAN. Foram registradas, em média, 13.066,65 notificações de dengue por semana. O maior volume ocorreu na semana epidemiológica 15, com 21.470 notificações, correspondendo a 4,83% do total do período. Na distribuição geográfica, GO apresentou o maior número de notificações segundo residência, com 108.912 notificações. Goiânia apresentou o maior volume municipal, com 31.778 notificações. Turvânia apresentou a maior incidência observada, de 9.084,82 por 100 mil habitantes. Quanto à classificação de autoctonia, 57,89% dos registros foram classificados como autóctones, 1,36% como não autóctones, 4,05% como indeterminados e 36,70% apresentaram informação ausente. Entre os registros comparáveis, 99,85% apresentaram a mesma UF de residência e provável infecção, e 99,37% o mesmo município. Entre as UFs identificadas como provável local de infecção, GO apresentou o maior número de registros, com 82.695 notificações. Quanto ao perfil virológico, o sorotipo foi informado em 29.517 registros (6,64%), enquanto 414.749 registros (93,36%) não apresentaram informação de sorotipo. No perfil clínico, Febre foi o sinal clínico mais frequente (88,21%), e Hipertensão arterial foi a doença preexistente mais frequente (7,74%). Entre os 325.931 registros avaliáveis para hospitalização, 27.589 foram classificados como hospitalizados (8,46%). Entre os 309.618 registros com evolução avaliável, Cura foi a categoria predominante (99,82%). Foram identificados 559 registros classificados em categorias de evolução relacionadas a óbito. A categoria predominante foi Óbito pelo agravo (54,20%). Nesse subconjunto, 111 registros apresentaram sorotipo informado. Entre esses registros, DENV-2 foi o sorotipo mais frequente (69,37%).",
+  "observacoes_dados": [
+    "Os indicadores apresentados foram obtidos a partir dos documentos semânticos nacionais produzidos no Notebook 06.",
+    "Os percentuais de hospitalização e evolução utilizam apenas os registros avaliáveis em cada variável.",
+    "A análise de autoctonia depende do preenchimento do provável local de infecção; registros ausentes e indeterminados são mantidos explicitamente nos indicadores.",
+    "Os percentuais de concordância entre residência e provável local de infecção foram calculados apenas entre os registros comparáveis, não correspondendo ao total de notificações do período.",
+    "A informação de sorotipo apresenta elevada ausência de preenchimento, devendo ser interpretada considerando essa limitação.",
+    "Os registros classificados em categorias relacionadas a óbito incluem diferentes categorias de evolução e não devem ser interpretados indistintamente como óbitos causados por dengue.",
+    "As relações apresentadas neste documento são descritivas e não representam inferências causais."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Registro epidemiológico",
+    "Semana epidemiológica",
+    "Distribuição temporal",
+    "Distribuição geográfica",
+    "Incidência",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção",
+    "Município provável de infecção",
+    "Sorotipo",
+    "Sinal clínico",
+    "Doença preexistente",
+    "Hospitalização",
+    "Evolução clínica",
+    "Óbito"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "panorama epidemiológico",
+    "vigilância epidemiológica",
+    "semana epidemiológica",
+    "incidência",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção",
+    "município provável de infecção",
+    "sorotipo",
+    "sinais clínicos",
+    "hospitalização",
+    "evolução",
+    "óbito"
+  ]
+}

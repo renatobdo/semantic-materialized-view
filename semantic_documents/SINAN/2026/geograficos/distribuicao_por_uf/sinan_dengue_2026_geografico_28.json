@@ -1,0 +1,560 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_28",
+  "titulo": "Distribuição geográfica dos registros de dengue em Sergipe — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "28",
+    "sigla_uf": "SE",
+    "uf_nome": "Sergipe",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Sergipe, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 1126,
+    "total_casos_notificacao": 1165,
+    "total_municipios_analisados": 56,
+    "municipio_maior_numero_casos": "Aracaju",
+    "maior_numero_casos_municipio": 406,
+    "municipio_maior_incidencia": "Nossa Senhora da Glória",
+    "maior_incidencia_100mil": 548.38,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 1126,
+      "autoctones_residencia": 206,
+      "percentual_autoctones": 18.29,
+      "nao_autoctones_residencia": 11,
+      "percentual_nao_autoctones": 0.98,
+      "indeterminados": 186,
+      "percentual_indeterminados": 16.52,
+      "ausentes": 723,
+      "percentual_ausentes": 64.21,
+      "total_comparaveis_uf_residencia_infeccao": 212,
+      "percentual_mesma_uf_residencia_infeccao": 100.0,
+      "percentual_uf_diferente_residencia_infeccao": 0.0
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 4
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 47
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 5
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "2800308",
+        "municipio": "Aracaju",
+        "populacao_2022": 602757.0,
+        "casos": 406,
+        "incidencia_100mil": 67.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804508",
+        "municipio": "Nossa Senhora da Glória",
+        "populacao_2022": 41212.0,
+        "casos": 226,
+        "incidencia_100mil": 548.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2804805",
+        "municipio": "Nossa Senhora do Socorro",
+        "populacao_2022": 192330.0,
+        "casos": 83,
+        "incidencia_100mil": 43.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2805604",
+        "municipio": "Porto da Folha",
+        "populacao_2022": 26576.0,
+        "casos": 57,
+        "incidencia_100mil": 214.48,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2804201",
+        "municipio": "Monte Alegre de Sergipe",
+        "populacao_2022": 14336.0,
+        "casos": 55,
+        "incidencia_100mil": 383.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2806701",
+        "municipio": "São Cristóvão",
+        "populacao_2022": 95612.0,
+        "casos": 23,
+        "incidencia_100mil": 24.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2800605",
+        "municipio": "Barra dos Coqueiros",
+        "populacao_2022": 41511.0,
+        "casos": 20,
+        "incidencia_100mil": 48.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2802205",
+        "municipio": "Feira Nova",
+        "populacao_2022": 5975.0,
+        "casos": 18,
+        "incidencia_100mil": 301.26,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2805703",
+        "municipio": "Propriá",
+        "populacao_2022": 26618.0,
+        "casos": 18,
+        "incidencia_100mil": 67.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803104",
+        "municipio": "Itabi",
+        "populacao_2022": 4745.0,
+        "casos": 17,
+        "incidencia_100mil": 358.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2802601",
+        "municipio": "Graccho Cardoso",
+        "populacao_2022": 5834.0,
+        "casos": 16,
+        "incidencia_100mil": 274.25,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2805406",
+        "municipio": "Poço Redondo",
+        "populacao_2022": 33439.0,
+        "casos": 16,
+        "incidencia_100mil": 47.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2802403",
+        "municipio": "Gararu",
+        "populacao_2022": 11096.0,
+        "casos": 15,
+        "incidencia_100mil": 135.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2802106",
+        "municipio": "Estância",
+        "populacao_2022": 65078.0,
+        "casos": 15,
+        "incidencia_100mil": 23.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804458",
+        "municipio": "Nossa Senhora Aparecida",
+        "populacao_2022": 9232.0,
+        "casos": 11,
+        "incidencia_100mil": 119.15,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2807105",
+        "municipio": "Simão Dias",
+        "populacao_2022": 42578.0,
+        "casos": 11,
+        "incidencia_100mil": 25.83,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2800209",
+        "municipio": "Aquidabã",
+        "populacao_2022": 20131.0,
+        "casos": 11,
+        "incidencia_100mil": 54.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2802908",
+        "municipio": "Itabaiana",
+        "populacao_2022": 103440.0,
+        "casos": 9,
+        "incidencia_100mil": 8.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2807402",
+        "municipio": "Tobias Barreto",
+        "populacao_2022": 50905.0,
+        "casos": 8,
+        "incidencia_100mil": 15.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2801207",
+        "municipio": "Canindé de São Francisco",
+        "populacao_2022": 26834.0,
+        "casos": 8,
+        "incidencia_100mil": 29.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2800506",
+        "municipio": "Areia Branca",
+        "populacao_2022": 18081.0,
+        "casos": 6,
+        "incidencia_100mil": 33.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2807600",
+        "municipio": "Umbaúba",
+        "populacao_2022": 23917.0,
+        "casos": 5,
+        "incidencia_100mil": 20.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2806305",
+        "municipio": "Santa Luzia do Itanhy",
+        "populacao_2022": 13616.0,
+        "casos": 5,
+        "incidencia_100mil": 36.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2800670",
+        "municipio": "Boquim",
+        "populacao_2022": 24636.0,
+        "casos": 5,
+        "incidencia_100mil": 20.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2802809",
+        "municipio": "Indiaroba",
+        "populacao_2022": 16549.0,
+        "casos": 4,
+        "incidencia_100mil": 24.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2801900",
+        "municipio": "Cumbe",
+        "populacao_2022": 3824.0,
+        "casos": 4,
+        "incidencia_100mil": 104.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2803203",
+        "municipio": "Itaporanga d'Ajuda",
+        "populacao_2022": 34411.0,
+        "casos": 4,
+        "incidencia_100mil": 11.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2801603",
+        "municipio": "Cedro de São João",
+        "populacao_2022": 5391.0,
+        "casos": 3,
+        "incidencia_100mil": 55.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804904",
+        "municipio": "Pacatuba",
+        "populacao_2022": 12502.0,
+        "casos": 3,
+        "incidencia_100mil": 24.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804102",
+        "municipio": "Moita Bonita",
+        "populacao_2022": 11050.0,
+        "casos": 3,
+        "incidencia_100mil": 27.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803401",
+        "municipio": "Japoatã",
+        "populacao_2022": 13407.0,
+        "casos": 3,
+        "incidencia_100mil": 22.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2800100",
+        "municipio": "Amparo do São Francisco",
+        "populacao_2022": 2170.0,
+        "casos": 2,
+        "incidencia_100mil": 92.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2807303",
+        "municipio": "Telha",
+        "populacao_2022": 3274.0,
+        "casos": 2,
+        "incidencia_100mil": 61.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2807006",
+        "municipio": "São Miguel do Aleixo",
+        "populacao_2022": 3434.0,
+        "casos": 2,
+        "incidencia_100mil": 58.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804607",
+        "municipio": "Nossa Senhora das Dores",
+        "populacao_2022": 24996.0,
+        "casos": 2,
+        "incidencia_100mil": 8.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803005",
+        "municipio": "Itabaianinha",
+        "populacao_2022": 40678.0,
+        "casos": 2,
+        "incidencia_100mil": 4.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2802304",
+        "municipio": "Frei Paulo",
+        "populacao_2022": 14530.0,
+        "casos": 2,
+        "incidencia_100mil": 13.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2801108",
+        "municipio": "Canhoba",
+        "populacao_2022": 3791.0,
+        "casos": 2,
+        "incidencia_100mil": 52.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803609",
+        "municipio": "Laranjeiras",
+        "populacao_2022": 23975.0,
+        "casos": 2,
+        "incidencia_100mil": 8.34,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803500",
+        "municipio": "Lagarto",
+        "populacao_2022": 101579.0,
+        "casos": 2,
+        "incidencia_100mil": 1.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804300",
+        "municipio": "Muribeca",
+        "populacao_2022": 7822.0,
+        "casos": 2,
+        "incidencia_100mil": 25.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803807",
+        "municipio": "Malhada dos Bois",
+        "populacao_2022": 3579.0,
+        "casos": 2,
+        "incidencia_100mil": 55.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2805901",
+        "municipio": "Riachuelo",
+        "populacao_2022": 8748.0,
+        "casos": 2,
+        "incidencia_100mil": 22.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804706",
+        "municipio": "Nossa Senhora de Lourdes",
+        "populacao_2022": 6268.0,
+        "casos": 2,
+        "incidencia_100mil": 31.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2801702",
+        "municipio": "Cristinápolis",
+        "populacao_2022": 17100.0,
+        "casos": 1,
+        "incidencia_100mil": 5.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2801306",
+        "municipio": "Capela",
+        "populacao_2022": 31645.0,
+        "casos": 1,
+        "incidencia_100mil": 3.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2802007",
+        "municipio": "Divina Pastora",
+        "populacao_2022": 4340.0,
+        "casos": 1,
+        "incidencia_100mil": 23.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2803906",
+        "municipio": "Malhador",
+        "populacao_2022": 11533.0,
+        "casos": 1,
+        "incidencia_100mil": 8.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804409",
+        "municipio": "Neópolis",
+        "populacao_2022": 16426.0,
+        "casos": 1,
+        "incidencia_100mil": 6.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2804003",
+        "municipio": "Maruim",
+        "populacao_2022": 15719.0,
+        "casos": 1,
+        "incidencia_100mil": 6.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2806008",
+        "municipio": "Ribeirópolis",
+        "populacao_2022": 17033.0,
+        "casos": 1,
+        "incidencia_100mil": 5.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2805802",
+        "municipio": "Riachão do Dantas",
+        "populacao_2022": 18313.0,
+        "casos": 1,
+        "incidencia_100mil": 5.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2806602",
+        "municipio": "Santo Amaro das Brotas",
+        "populacao_2022": 11092.0,
+        "casos": 1,
+        "incidencia_100mil": 9.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2806206",
+        "municipio": "Salgado",
+        "populacao_2022": 20279.0,
+        "casos": 1,
+        "incidencia_100mil": 4.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2806909",
+        "municipio": "São Francisco",
+        "populacao_2022": 3243.0,
+        "casos": 1,
+        "incidencia_100mil": 30.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2807501",
+        "municipio": "Tomar do Geru",
+        "populacao_2022": 12012.0,
+        "casos": 1,
+        "incidencia_100mil": 8.33,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "SE",
+        "uf_provavel_infeccao": "SE",
+        "total_registros": 212,
+        "percentual_dentro_uf_residencia": 100.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Sergipe, foram contabilizados 1.126 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 56 municípios com informações disponíveis para análise, Aracaju apresentou o maior número absoluto de notificações, com 406. A maior incidência foi observada em Nossa Senhora da Glória, com 548,38 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 18,29% dos registros de SE foram classificados como autóctones, 0,98% como não autóctones, 16,52% como indeterminados e 64,21% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 100,00% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Sergipe",
+    "SE",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

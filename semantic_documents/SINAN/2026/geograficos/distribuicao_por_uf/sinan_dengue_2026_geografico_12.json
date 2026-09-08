@@ -1,0 +1,288 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_12",
+  "titulo": "Distribuição geográfica dos registros de dengue em Acre — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "12",
+    "sigla_uf": "AC",
+    "uf_nome": "Acre",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Acre, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 1813,
+    "total_casos_notificacao": 1832,
+    "total_municipios_analisados": 22,
+    "municipio_maior_numero_casos": "Rio Branco",
+    "maior_numero_casos_municipio": 819,
+    "municipio_maior_incidencia": "Mâncio Lima",
+    "maior_incidencia_100mil": 497.56,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 1813,
+      "autoctones_residencia": 230,
+      "percentual_autoctones": 12.69,
+      "nao_autoctones_residencia": 9,
+      "percentual_nao_autoctones": 0.5,
+      "indeterminados": 29,
+      "percentual_indeterminados": 1.6,
+      "ausentes": 1545,
+      "percentual_ausentes": 85.22,
+      "total_comparaveis_uf_residencia_infeccao": 231,
+      "percentual_mesma_uf_residencia_infeccao": 100.0,
+      "percentual_uf_diferente_residencia_infeccao": 0.0
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 6
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 6
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 10
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1200401",
+        "municipio": "Rio Branco",
+        "populacao_2022": 364756.0,
+        "casos": 819,
+        "incidencia_100mil": 224.53,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200203",
+        "municipio": "Cruzeiro do Sul",
+        "populacao_2022": 91888.0,
+        "casos": 321,
+        "incidencia_100mil": 349.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1200336",
+        "municipio": "Mâncio Lima",
+        "populacao_2022": 19294.0,
+        "casos": 96,
+        "incidencia_100mil": 497.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1200104",
+        "municipio": "Brasiléia",
+        "populacao_2022": 26000.0,
+        "casos": 83,
+        "incidencia_100mil": 319.23,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1200427",
+        "municipio": "Rodrigues Alves",
+        "populacao_2022": 14938.0,
+        "casos": 73,
+        "incidencia_100mil": 488.69,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1200450",
+        "municipio": "Senador Guiomard",
+        "populacao_2022": 21454.0,
+        "casos": 58,
+        "incidencia_100mil": 270.35,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200351",
+        "municipio": "Marechal Thaumaturgo",
+        "populacao_2022": 17093.0,
+        "casos": 45,
+        "incidencia_100mil": 263.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200252",
+        "municipio": "Epitaciolândia",
+        "populacao_2022": 18757.0,
+        "casos": 44,
+        "incidencia_100mil": 234.58,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200500",
+        "municipio": "Sena Madureira",
+        "populacao_2022": 41343.0,
+        "casos": 43,
+        "incidencia_100mil": 104.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200393",
+        "municipio": "Porto Walter",
+        "populacao_2022": 10735.0,
+        "casos": 43,
+        "incidencia_100mil": 400.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1200054",
+        "municipio": "Assis Brasil",
+        "populacao_2022": 8100.0,
+        "casos": 38,
+        "incidencia_100mil": 469.14,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1200807",
+        "municipio": "Porto Acre",
+        "populacao_2022": 16693.0,
+        "casos": 30,
+        "incidencia_100mil": 179.72,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200708",
+        "municipio": "Xapuri",
+        "populacao_2022": 18243.0,
+        "casos": 23,
+        "incidencia_100mil": 126.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200179",
+        "municipio": "Capixaba",
+        "populacao_2022": 10392.0,
+        "casos": 20,
+        "incidencia_100mil": 192.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200385",
+        "municipio": "Plácido de Castro",
+        "populacao_2022": 16560.0,
+        "casos": 18,
+        "incidencia_100mil": 108.7,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200013",
+        "municipio": "Acrelândia",
+        "populacao_2022": 14021.0,
+        "casos": 15,
+        "incidencia_100mil": 106.98,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1200609",
+        "municipio": "Tarauacá",
+        "populacao_2022": 43467.0,
+        "casos": 11,
+        "incidencia_100mil": 25.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1200344",
+        "municipio": "Manoel Urbano",
+        "populacao_2022": 11996.0,
+        "casos": 10,
+        "incidencia_100mil": 83.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1200302",
+        "municipio": "Feijó",
+        "populacao_2022": 35426.0,
+        "casos": 9,
+        "incidencia_100mil": 25.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1200138",
+        "municipio": "Bujari",
+        "populacao_2022": 12917.0,
+        "casos": 7,
+        "incidencia_100mil": 54.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1200328",
+        "municipio": "Jordão",
+        "populacao_2022": 9222.0,
+        "casos": 5,
+        "incidencia_100mil": 54.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1200435",
+        "municipio": "Santa Rosa do Purus",
+        "populacao_2022": 6723.0,
+        "casos": 2,
+        "incidencia_100mil": 29.75,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "AC",
+        "uf_provavel_infeccao": "AC",
+        "total_registros": 231,
+        "percentual_dentro_uf_residencia": 100.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Acre, foram contabilizados 1.813 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 22 municípios com informações disponíveis para análise, Rio Branco apresentou o maior número absoluto de notificações, com 819. A maior incidência foi observada em Mâncio Lima, com 497,56 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 12,69% dos registros de AC foram classificados como autóctones, 0,50% como não autóctones, 1,60% como indeterminados e 85,22% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 100,00% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Acre",
+    "AC",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

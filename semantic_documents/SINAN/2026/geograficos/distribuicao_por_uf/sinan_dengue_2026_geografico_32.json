@@ -1,0 +1,752 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_32",
+  "titulo": "Distribuição geográfica dos registros de dengue em Espírito Santo — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "32",
+    "sigla_uf": "ES",
+    "uf_nome": "Espírito Santo",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Espírito Santo, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 19045,
+    "total_casos_notificacao": 19414,
+    "total_municipios_analisados": 77,
+    "municipio_maior_numero_casos": "Serra",
+    "maior_numero_casos_municipio": 5771,
+    "municipio_maior_incidencia": "Pancas",
+    "maior_incidencia_100mil": 3403.38,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 19045,
+      "autoctones_residencia": 18793,
+      "percentual_autoctones": 98.68,
+      "nao_autoctones_residencia": 39,
+      "percentual_nao_autoctones": 0.2,
+      "indeterminados": 134,
+      "percentual_indeterminados": 0.7,
+      "ausentes": 79,
+      "percentual_ausentes": 0.41,
+      "total_comparaveis_uf_residencia_infeccao": 44,
+      "percentual_mesma_uf_residencia_infeccao": 81.82,
+      "percentual_uf_diferente_residencia_infeccao": 18.18
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 28
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 28
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 21
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "3205002",
+        "municipio": "Serra",
+        "populacao_2022": 520653.0,
+        "casos": 5771,
+        "incidencia_100mil": 1108.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3205200",
+        "municipio": "Vila Velha",
+        "populacao_2022": 467722.0,
+        "casos": 1953,
+        "incidencia_100mil": 417.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3201209",
+        "municipio": "Cachoeiro de Itapemirim",
+        "populacao_2022": 185786.0,
+        "casos": 1291,
+        "incidencia_100mil": 694.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3205309",
+        "municipio": "Vitória",
+        "populacao_2022": 322869.0,
+        "casos": 1265,
+        "incidencia_100mil": 391.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3200805",
+        "municipio": "Baixo Guandu",
+        "populacao_2022": 30674.0,
+        "casos": 1000,
+        "incidencia_100mil": 3260.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3201308",
+        "municipio": "Cariacica",
+        "populacao_2022": 353491.0,
+        "casos": 793,
+        "incidencia_100mil": 224.33,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3204005",
+        "municipio": "Pancas",
+        "populacao_2022": 18893.0,
+        "casos": 643,
+        "incidencia_100mil": 3403.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203320",
+        "municipio": "Marataízes",
+        "populacao_2022": 41929.0,
+        "casos": 642,
+        "incidencia_100mil": 1531.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203908",
+        "municipio": "Nova Venécia",
+        "populacao_2022": 49065.0,
+        "casos": 516,
+        "incidencia_100mil": 1051.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3202801",
+        "municipio": "Itapemirim",
+        "populacao_2022": 39832.0,
+        "casos": 479,
+        "incidencia_100mil": 1202.55,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3201407",
+        "municipio": "Castelo",
+        "populacao_2022": 36930.0,
+        "casos": 469,
+        "incidencia_100mil": 1269.97,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3200201",
+        "municipio": "Alegre",
+        "populacao_2022": 29177.0,
+        "casos": 340,
+        "incidencia_100mil": 1165.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203106",
+        "municipio": "Jerônimo Monteiro",
+        "populacao_2022": 11575.0,
+        "casos": 314,
+        "incidencia_100mil": 2712.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203700",
+        "municipio": "Muniz Freire",
+        "populacao_2022": 18153.0,
+        "casos": 296,
+        "incidencia_100mil": 1630.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3201506",
+        "municipio": "Colatina",
+        "populacao_2022": 120033.0,
+        "casos": 253,
+        "incidencia_100mil": 210.78,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3200300",
+        "municipio": "Alfredo Chaves",
+        "populacao_2022": 13836.0,
+        "casos": 248,
+        "incidencia_100mil": 1792.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203163",
+        "municipio": "Laranja da Terra",
+        "populacao_2022": 11094.0,
+        "casos": 232,
+        "incidencia_100mil": 2091.22,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3200102",
+        "municipio": "Afonso Cláudio",
+        "populacao_2022": 30684.0,
+        "casos": 219,
+        "incidencia_100mil": 713.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3204203",
+        "municipio": "Piúma",
+        "populacao_2022": 22300.0,
+        "casos": 188,
+        "incidencia_100mil": 843.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3202306",
+        "municipio": "Guaçuí",
+        "populacao_2022": 29358.0,
+        "casos": 184,
+        "incidencia_100mil": 626.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3202405",
+        "municipio": "Guarapari",
+        "populacao_2022": 124656.0,
+        "casos": 182,
+        "incidencia_100mil": 146.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3203205",
+        "municipio": "Linhares",
+        "populacao_2022": 166786.0,
+        "casos": 159,
+        "incidencia_100mil": 95.33,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3202207",
+        "municipio": "Fundão",
+        "populacao_2022": 18014.0,
+        "casos": 134,
+        "incidencia_100mil": 743.87,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3202702",
+        "municipio": "Itaguaçu",
+        "populacao_2022": 13589.0,
+        "casos": 114,
+        "incidencia_100mil": 838.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3201001",
+        "municipio": "Boa Esperança",
+        "populacao_2022": 13608.0,
+        "casos": 110,
+        "incidencia_100mil": 808.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3200409",
+        "municipio": "Anchieta",
+        "populacao_2022": 29984.0,
+        "casos": 84,
+        "incidencia_100mil": 280.15,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3204906",
+        "municipio": "São Mateus",
+        "populacao_2022": 123752.0,
+        "casos": 78,
+        "incidencia_100mil": 63.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3200904",
+        "municipio": "Barra de São Francisco",
+        "populacao_2022": 42498.0,
+        "casos": 66,
+        "incidencia_100mil": 155.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3202652",
+        "municipio": "Irupi",
+        "populacao_2022": 13710.0,
+        "casos": 65,
+        "incidencia_100mil": 474.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203056",
+        "municipio": "Jaguaré",
+        "populacao_2022": 28931.0,
+        "casos": 62,
+        "incidencia_100mil": 214.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3202603",
+        "municipio": "Iconha",
+        "populacao_2022": 12326.0,
+        "casos": 55,
+        "incidencia_100mil": 446.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3202256",
+        "municipio": "Governador Lindenberg",
+        "populacao_2022": 11009.0,
+        "casos": 47,
+        "incidencia_100mil": 426.92,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3205101",
+        "municipio": "Viana",
+        "populacao_2022": 73423.0,
+        "casos": 46,
+        "incidencia_100mil": 62.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3203809",
+        "municipio": "Muqui",
+        "populacao_2022": 13745.0,
+        "casos": 44,
+        "incidencia_100mil": 320.12,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3201605",
+        "municipio": "Conceição da Barra",
+        "populacao_2022": 27458.0,
+        "casos": 38,
+        "incidencia_100mil": 138.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3204807",
+        "municipio": "São José do Calçado",
+        "populacao_2022": 10878.0,
+        "casos": 38,
+        "incidencia_100mil": 349.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3203304",
+        "municipio": "Mantenópolis",
+        "populacao_2022": 12770.0,
+        "casos": 36,
+        "incidencia_100mil": 281.91,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3201159",
+        "municipio": "Brejetuba",
+        "populacao_2022": 12985.0,
+        "casos": 33,
+        "incidencia_100mil": 254.14,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3200169",
+        "municipio": "Água Doce do Norte",
+        "populacao_2022": 12042.0,
+        "casos": 33,
+        "incidencia_100mil": 274.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3205036",
+        "municipio": "Vargem Alta",
+        "populacao_2022": 19563.0,
+        "casos": 31,
+        "incidencia_100mil": 158.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3204104",
+        "municipio": "Pinheiros",
+        "populacao_2022": 23915.0,
+        "casos": 30,
+        "incidencia_100mil": 125.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3201902",
+        "municipio": "Domingos Martins",
+        "populacao_2022": 35416.0,
+        "casos": 30,
+        "incidencia_100mil": 84.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3202900",
+        "municipio": "Itarana",
+        "populacao_2022": 10597.0,
+        "casos": 29,
+        "incidencia_100mil": 273.66,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3204658",
+        "municipio": "São Domingos do Norte",
+        "populacao_2022": 8589.0,
+        "casos": 29,
+        "incidencia_100mil": 337.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3204559",
+        "municipio": "Santa Maria de Jetibá",
+        "populacao_2022": 41636.0,
+        "casos": 25,
+        "incidencia_100mil": 60.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3200508",
+        "municipio": "Apiacá",
+        "populacao_2022": 7223.0,
+        "casos": 23,
+        "incidencia_100mil": 318.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3200607",
+        "municipio": "Aracruz",
+        "populacao_2022": 94765.0,
+        "casos": 23,
+        "incidencia_100mil": 24.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204609",
+        "municipio": "Santa Teresa",
+        "populacao_2022": 22808.0,
+        "casos": 20,
+        "incidencia_100mil": 87.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204708",
+        "municipio": "São Gabriel da Palha",
+        "populacao_2022": 32252.0,
+        "casos": 18,
+        "incidencia_100mil": 55.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3203007",
+        "municipio": "Iúna",
+        "populacao_2022": 28590.0,
+        "casos": 17,
+        "incidencia_100mil": 59.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3202108",
+        "municipio": "Ecoporanga",
+        "populacao_2022": 21992.0,
+        "casos": 17,
+        "incidencia_100mil": 77.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3203502",
+        "municipio": "Montanha",
+        "populacao_2022": 18900.0,
+        "casos": 17,
+        "incidencia_100mil": 89.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3201100",
+        "municipio": "Bom Jesus do Norte",
+        "populacao_2022": 10254.0,
+        "casos": 16,
+        "incidencia_100mil": 156.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3200706",
+        "municipio": "Atílio Vivácqua",
+        "populacao_2022": 10540.0,
+        "casos": 15,
+        "incidencia_100mil": 142.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3205069",
+        "municipio": "Venda Nova do Imigrante",
+        "populacao_2022": 23831.0,
+        "casos": 15,
+        "incidencia_100mil": 62.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3201704",
+        "municipio": "Conceição do Castelo",
+        "populacao_2022": 11937.0,
+        "casos": 13,
+        "incidencia_100mil": 108.91,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3200136",
+        "municipio": "Águia Branca",
+        "populacao_2022": 9711.0,
+        "casos": 13,
+        "incidencia_100mil": 133.87,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3204302",
+        "municipio": "Presidente Kennedy",
+        "populacao_2022": 13696.0,
+        "casos": 13,
+        "incidencia_100mil": 94.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204054",
+        "municipio": "Pedro Canário",
+        "populacao_2022": 21522.0,
+        "casos": 12,
+        "incidencia_100mil": 55.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204351",
+        "municipio": "Rio Bananal",
+        "populacao_2022": 19274.0,
+        "casos": 11,
+        "incidencia_100mil": 57.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3205010",
+        "municipio": "Sooretama",
+        "populacao_2022": 26502.0,
+        "casos": 11,
+        "incidencia_100mil": 41.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204500",
+        "municipio": "Santa Leopoldina",
+        "populacao_2022": 13106.0,
+        "casos": 11,
+        "incidencia_100mil": 83.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3205150",
+        "municipio": "Vila Pavão",
+        "populacao_2022": 8911.0,
+        "casos": 10,
+        "incidencia_100mil": 112.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3200359",
+        "municipio": "Alto Rio Novo",
+        "populacao_2022": 7434.0,
+        "casos": 8,
+        "incidencia_100mil": 107.61,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3203403",
+        "municipio": "Mimoso do Sul",
+        "populacao_2022": 24475.0,
+        "casos": 8,
+        "incidencia_100mil": 32.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3201803",
+        "municipio": "Divino de São Lourenço",
+        "populacao_2022": 5083.0,
+        "casos": 8,
+        "incidencia_100mil": 157.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3202454",
+        "municipio": "Ibatiba",
+        "populacao_2022": 25380.0,
+        "casos": 7,
+        "incidencia_100mil": 27.58,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3203346",
+        "municipio": "Marechal Floriano",
+        "populacao_2022": 17641.0,
+        "casos": 7,
+        "incidencia_100mil": 39.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3203353",
+        "municipio": "Marilândia",
+        "populacao_2022": 12387.0,
+        "casos": 7,
+        "incidencia_100mil": 56.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204252",
+        "municipio": "Ponto Belo",
+        "populacao_2022": 6497.0,
+        "casos": 7,
+        "incidencia_100mil": 107.74,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "3203130",
+        "municipio": "João Neiva",
+        "populacao_2022": 14079.0,
+        "casos": 6,
+        "incidencia_100mil": 42.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3202009",
+        "municipio": "Dores do Rio Preto",
+        "populacao_2022": 6596.0,
+        "casos": 4,
+        "incidencia_100mil": 60.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3202553",
+        "municipio": "Ibitirama",
+        "populacao_2022": 9520.0,
+        "casos": 4,
+        "incidencia_100mil": 42.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3203601",
+        "municipio": "Mucurici",
+        "populacao_2022": 5466.0,
+        "casos": 4,
+        "incidencia_100mil": 73.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3202504",
+        "municipio": "Ibiraçu",
+        "populacao_2022": 11723.0,
+        "casos": 3,
+        "incidencia_100mil": 25.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3205176",
+        "municipio": "Vila Valério",
+        "populacao_2022": 13728.0,
+        "casos": 2,
+        "incidencia_100mil": 14.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "3204955",
+        "municipio": "São Roque do Canaã",
+        "populacao_2022": 10886.0,
+        "casos": 1,
+        "incidencia_100mil": 9.19,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "ES",
+        "uf_provavel_infeccao": "ES",
+        "total_registros": 36,
+        "percentual_dentro_uf_residencia": 81.82
+      },
+      {
+        "uf_residencia": "ES",
+        "uf_provavel_infeccao": "BA",
+        "total_registros": 3,
+        "percentual_dentro_uf_residencia": 6.82
+      },
+      {
+        "uf_residencia": "ES",
+        "uf_provavel_infeccao": "MG",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 4.55
+      },
+      {
+        "uf_residencia": "ES",
+        "uf_provavel_infeccao": "PE",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 4.55
+      },
+      {
+        "uf_residencia": "ES",
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 2.27
+      }
+    ]
+  },
+  "interpretacao": "Na UF Espírito Santo, foram contabilizados 19.045 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 77 municípios com informações disponíveis para análise, Serra apresentou o maior número absoluto de notificações, com 5.771. A maior incidência foi observada em Pancas, com 3.403,38 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 98,68% dos registros de ES foram classificados como autóctones, 0,20% como não autóctones, 0,70% como indeterminados e 0,41% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 81,82% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Espírito Santo",
+    "ES",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

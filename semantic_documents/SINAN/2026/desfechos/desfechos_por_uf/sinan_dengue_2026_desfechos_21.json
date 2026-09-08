@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_21",
+  "titulo": "Desfechos dos registros de dengue em Maranhão - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "21",
+    "uf_nome": "Maranhão",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Maranhão, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 12282,
+    "avaliaveis_hospitalizacao": 8340,
+    "hospitalizados": 2585,
+    "percentual_hospitalizados": 31.0,
+    "total_evolucao_avaliavel": 7023,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 7001,
+    "percentual_evolucao_predominante": 99.69
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 12282,
+        "avaliaveis": 8340,
+        "hospitalizados": 2585,
+        "nao_hospitalizados": 5755,
+        "ignorados": 87,
+        "ausentes": 3855,
+        "percentual_hospitalizados": 31.0,
+        "percentual_nao_hospitalizados": 69.0,
+        "percentual_ignorados": 0.71,
+        "percentual_ausentes": 31.39
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 7001,
+        "percentual_total": 57.0,
+        "avaliavel": true,
+        "total_avaliaveis": 7023,
+        "percentual_avaliaveis": 99.69
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 80,
+        "percentual_total": 0.65,
+        "avaliavel": false,
+        "total_avaliaveis": 7023,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 7,
+        "percentual_total": 0.06,
+        "avaliavel": true,
+        "total_avaliaveis": 7023,
+        "percentual_avaliaveis": 0.1
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 8,
+        "percentual_total": 0.07,
+        "avaliavel": true,
+        "total_avaliaveis": 7023,
+        "percentual_avaliaveis": 0.11
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 7,
+        "percentual_total": 0.06,
+        "avaliavel": true,
+        "total_avaliaveis": 7023,
+        "percentual_avaliaveis": 0.1
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 5179,
+        "percentual_total": 42.17,
+        "avaliavel": false,
+        "total_avaliaveis": 7023,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Maranhão, foram considerados 12,282 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 2,585 apresentaram hospitalização, correspondendo a 31.00%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 7,001 registros e 99.69% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Maranhão",
+    "21",
+    "2026",
+    "SINAN"
+  ]
+}

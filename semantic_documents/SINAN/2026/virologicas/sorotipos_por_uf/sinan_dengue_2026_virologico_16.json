@@ -1,0 +1,72 @@
+{
+  "document_id": "SINAN_DENGUE_2026_VIROLOGICO_16",
+  "titulo": "Sorotipos de dengue em Amapá - 2026",
+  "tipo_documento": "perfil_virologico_uf",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "16",
+    "uf_nome": "Amapá",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta a distribuição dos sorotipos de dengue registrados no SINAN em Amapá, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. Também apresenta a completude da variável de sorotipo.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 513,
+    "sorotipo_informado": 0,
+    "sorotipo_nao_informado": 513,
+    "percentual_sorotipo_informado": 0.0,
+    "percentual_sorotipo_nao_informado": 100.0,
+    "sorotipo_mais_frequente": null,
+    "total_sorotipo_mais_frequente": 0
+  },
+  "evidencias": {
+    "distribuicao_sorotipos": [],
+    "completude_sorotipo": [
+      {
+        "total_registros": 513,
+        "sorotipo_informado": 0,
+        "sorotipo_nao_informado": 513,
+        "percentual_informado": 0.0,
+        "percentual_nao_informado": 100.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Amapá, foram registrados 513 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Nenhum registro apresentou informação de sorotipo, impossibilitando caracterizar a distribuição virológica da UF neste período.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A ausência de informação de sorotipo não representa ausência de registros de dengue.",
+    "A distribuição dos sorotipos considera somente os registros em que a variável SOROTIPO possui informação disponível."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sorotipo",
+    "DEN-1",
+    "DEN-2",
+    "DEN-3",
+    "DEN-4",
+    "unidade federativa",
+    "semana epidemiológica",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sorotipo",
+    "sorotipos dengue",
+    "Amapá",
+    "16",
+    "semana epidemiológica 1",
+    "semana epidemiológica 34",
+    "2026",
+    "SINAN"
+  ]
+}

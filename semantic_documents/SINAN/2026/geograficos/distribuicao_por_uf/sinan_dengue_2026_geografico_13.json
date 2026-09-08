@@ -1,0 +1,456 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_13",
+  "titulo": "Distribuição geográfica dos registros de dengue em Amazonas — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "13",
+    "sigla_uf": "AM",
+    "uf_nome": "Amazonas",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Amazonas, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 1437,
+    "total_casos_notificacao": 1399,
+    "total_municipios_analisados": 40,
+    "municipio_maior_numero_casos": "Manaus",
+    "maior_numero_casos_municipio": 730,
+    "municipio_maior_incidencia": "Eirunepé",
+    "maior_incidencia_100mil": 639.13,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 1437,
+      "autoctones_residencia": 665,
+      "percentual_autoctones": 46.28,
+      "nao_autoctones_residencia": 153,
+      "percentual_nao_autoctones": 10.65,
+      "indeterminados": 17,
+      "percentual_indeterminados": 1.18,
+      "ausentes": 602,
+      "percentual_ausentes": 41.89,
+      "total_comparaveis_uf_residencia_infeccao": 778,
+      "percentual_mesma_uf_residencia_infeccao": 99.23,
+      "percentual_uf_diferente_residencia_infeccao": 0.77
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 3
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 34
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 3
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1302603",
+        "municipio": "Manaus",
+        "populacao_2022": 2063689.0,
+        "casos": 730,
+        "incidencia_100mil": 35.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301407",
+        "municipio": "Eirunepé",
+        "populacao_2022": 33170.0,
+        "casos": 212,
+        "incidencia_100mil": 639.13,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1301506",
+        "municipio": "Envira",
+        "populacao_2022": 17186.0,
+        "casos": 72,
+        "incidencia_100mil": 418.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1302306",
+        "municipio": "Jutaí",
+        "populacao_2022": 25172.0,
+        "casos": 60,
+        "incidencia_100mil": 238.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1301654",
+        "municipio": "Guajará",
+        "populacao_2022": 13815.0,
+        "casos": 50,
+        "incidencia_100mil": 361.93,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1304062",
+        "municipio": "Tabatinga",
+        "populacao_2022": 66764.0,
+        "casos": 47,
+        "incidencia_100mil": 70.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303908",
+        "municipio": "São Paulo de Olivença",
+        "populacao_2022": 32967.0,
+        "casos": 35,
+        "incidencia_100mil": 106.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1300706",
+        "municipio": "Boca do Acre",
+        "populacao_2022": 35447.0,
+        "casos": 33,
+        "incidencia_100mil": 93.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1300607",
+        "municipio": "Benjamin Constant",
+        "populacao_2022": 37648.0,
+        "casos": 23,
+        "incidencia_100mil": 61.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1300029",
+        "municipio": "Alvarães",
+        "populacao_2022": 15866.0,
+        "casos": 19,
+        "incidencia_100mil": 119.75,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1301803",
+        "municipio": "Ipixuna",
+        "populacao_2022": 24311.0,
+        "casos": 17,
+        "incidencia_100mil": 69.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303809",
+        "municipio": "São Gabriel da Cachoeira",
+        "populacao_2022": 51795.0,
+        "casos": 16,
+        "incidencia_100mil": 30.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301209",
+        "municipio": "Coari",
+        "populacao_2022": 70616.0,
+        "casos": 11,
+        "incidencia_100mil": 15.58,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1300201",
+        "municipio": "Atalaia do Norte",
+        "populacao_2022": 15314.0,
+        "casos": 10,
+        "incidencia_100mil": 65.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1304104",
+        "municipio": "Tapauá",
+        "populacao_2022": 19599.0,
+        "casos": 10,
+        "incidencia_100mil": 51.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302702",
+        "municipio": "Manicoré",
+        "populacao_2022": 53914.0,
+        "casos": 9,
+        "incidencia_100mil": 16.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1304203",
+        "municipio": "Tefé",
+        "populacao_2022": 73669.0,
+        "casos": 9,
+        "incidencia_100mil": 12.22,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301308",
+        "municipio": "Codajás",
+        "populacao_2022": 23549.0,
+        "casos": 8,
+        "incidencia_100mil": 33.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301852",
+        "municipio": "Iranduba",
+        "populacao_2022": 61163.0,
+        "casos": 5,
+        "incidencia_100mil": 8.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302504",
+        "municipio": "Manacapuru",
+        "populacao_2022": 101883.0,
+        "casos": 5,
+        "incidencia_100mil": 4.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303601",
+        "municipio": "Santa Isabel do Rio Negro",
+        "populacao_2022": 14164.0,
+        "casos": 5,
+        "incidencia_100mil": 35.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303403",
+        "municipio": "Parintins",
+        "populacao_2022": 96372.0,
+        "casos": 5,
+        "incidencia_100mil": 5.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1300300",
+        "municipio": "Autazes",
+        "populacao_2022": 41564.0,
+        "casos": 4,
+        "incidencia_100mil": 9.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1300805",
+        "municipio": "Borba",
+        "populacao_2022": 33080.0,
+        "casos": 4,
+        "incidencia_100mil": 12.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301902",
+        "municipio": "Itacoatiara",
+        "populacao_2022": 103598.0,
+        "casos": 4,
+        "incidencia_100mil": 3.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301001",
+        "municipio": "Carauari",
+        "populacao_2022": 28742.0,
+        "casos": 4,
+        "incidencia_100mil": 13.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302108",
+        "municipio": "Japurá",
+        "populacao_2022": 8858.0,
+        "casos": 4,
+        "incidencia_100mil": 45.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302801",
+        "municipio": "Maraã",
+        "populacao_2022": 15529.0,
+        "casos": 4,
+        "incidencia_100mil": 25.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303502",
+        "municipio": "Pauini",
+        "populacao_2022": 19373.0,
+        "casos": 3,
+        "incidencia_100mil": 15.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303536",
+        "municipio": "Presidente Figueiredo",
+        "populacao_2022": 30668.0,
+        "casos": 3,
+        "incidencia_100mil": 9.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302900",
+        "municipio": "Maués",
+        "populacao_2022": 61204.0,
+        "casos": 2,
+        "incidencia_100mil": 3.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301100",
+        "municipio": "Careiro",
+        "populacao_2022": 30792.0,
+        "casos": 2,
+        "incidencia_100mil": 6.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302553",
+        "municipio": "Manaquiri",
+        "populacao_2022": 17107.0,
+        "casos": 2,
+        "incidencia_100mil": 11.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303205",
+        "municipio": "Novo Airão",
+        "populacao_2022": 15761.0,
+        "casos": 2,
+        "incidencia_100mil": 12.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301704",
+        "municipio": "Humaitá",
+        "populacao_2022": 57473.0,
+        "casos": 2,
+        "incidencia_100mil": 3.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302207",
+        "municipio": "Juruá",
+        "populacao_2022": 10742.0,
+        "casos": 2,
+        "incidencia_100mil": 18.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1300060",
+        "municipio": "Amaturá",
+        "populacao_2022": 10819.0,
+        "casos": 1,
+        "incidencia_100mil": 9.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1301605",
+        "municipio": "Fonte Boa",
+        "populacao_2022": 25871.0,
+        "casos": 1,
+        "incidencia_100mil": 3.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1302405",
+        "municipio": "Lábrea",
+        "populacao_2022": 45448.0,
+        "casos": 1,
+        "incidencia_100mil": 2.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1303700",
+        "municipio": "Santo Antônio do Içá",
+        "populacao_2022": 28211.0,
+        "casos": 1,
+        "incidencia_100mil": 3.54,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "AM",
+        "uf_provavel_infeccao": "AM",
+        "total_registros": 772,
+        "percentual_dentro_uf_residencia": 99.23
+      },
+      {
+        "uf_residencia": "AM",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.26
+      },
+      {
+        "uf_residencia": "AM",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.26
+      },
+      {
+        "uf_residencia": "AM",
+        "uf_provavel_infeccao": "AC",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.13
+      },
+      {
+        "uf_residencia": "AM",
+        "uf_provavel_infeccao": "PE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.13
+      }
+    ]
+  },
+  "interpretacao": "Na UF Amazonas, foram contabilizados 1.437 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 40 municípios com informações disponíveis para análise, Manaus apresentou o maior número absoluto de notificações, com 730. A maior incidência foi observada em Eirunepé, com 639,13 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 46,28% dos registros de AM foram classificados como autóctones, 10,65% como não autóctones, 1,18% como indeterminados e 41,89% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,23% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Amazonas",
+    "AM",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

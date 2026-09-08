@@ -1,0 +1,85 @@
+{
+  "document_id": "SINAN_DENGUE_2026_VIROLOGICO_33",
+  "titulo": "Sorotipos de dengue em Rio de Janeiro - 2026",
+  "tipo_documento": "perfil_virologico_uf",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "33",
+    "uf_nome": "Rio de Janeiro",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta a distribuição dos sorotipos de dengue registrados no SINAN em Rio de Janeiro, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. Também apresenta a completude da variável de sorotipo.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 6854,
+    "sorotipo_informado": 424,
+    "sorotipo_nao_informado": 6430,
+    "percentual_sorotipo_informado": 6.19,
+    "percentual_sorotipo_nao_informado": 93.81,
+    "sorotipo_mais_frequente": "DENV-2",
+    "total_sorotipo_mais_frequente": 392
+  },
+  "evidencias": {
+    "distribuicao_sorotipos": [
+      {
+        "sorotipo": "DENV-2",
+        "total_registros": 392
+      },
+      {
+        "sorotipo": "DENV-1",
+        "total_registros": 28
+      },
+      {
+        "sorotipo": "DENV-3",
+        "total_registros": 4
+      }
+    ],
+    "completude_sorotipo": [
+      {
+        "total_registros": 6854,
+        "sorotipo_informado": 424,
+        "sorotipo_nao_informado": 6430,
+        "percentual_informado": 6.19,
+        "percentual_nao_informado": 93.81
+      }
+    ]
+  },
+  "interpretacao": "Na UF Rio de Janeiro, foram registrados 6,854 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Desses, 424 apresentaram informação de sorotipo (6.19%). O sorotipo mais frequente entre os registros com informação disponível foi DENV-2, com 392 registros.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A ausência de informação de sorotipo não representa ausência de registros de dengue.",
+    "A distribuição dos sorotipos considera somente os registros em que a variável SOROTIPO possui informação disponível."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sorotipo",
+    "DEN-1",
+    "DEN-2",
+    "DEN-3",
+    "DEN-4",
+    "unidade federativa",
+    "semana epidemiológica",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sorotipo",
+    "sorotipos dengue",
+    "Rio de Janeiro",
+    "33",
+    "semana epidemiológica 1",
+    "semana epidemiológica 34",
+    "2026",
+    "SINAN"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "SINAN_DENGUE_2026_VIROLOGICO_42",
+  "titulo": "Sorotipos de dengue em Santa Catarina - 2026",
+  "tipo_documento": "perfil_virologico_uf",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "42",
+    "uf_nome": "Santa Catarina",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta a distribuição dos sorotipos de dengue registrados no SINAN em Santa Catarina, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. Também apresenta a completude da variável de sorotipo.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 3070,
+    "sorotipo_informado": 233,
+    "sorotipo_nao_informado": 2837,
+    "percentual_sorotipo_informado": 7.59,
+    "percentual_sorotipo_nao_informado": 92.41,
+    "sorotipo_mais_frequente": "DENV-2",
+    "total_sorotipo_mais_frequente": 106
+  },
+  "evidencias": {
+    "distribuicao_sorotipos": [
+      {
+        "sorotipo": "DENV-2",
+        "total_registros": 106
+      },
+      {
+        "sorotipo": "DENV-3",
+        "total_registros": 94
+      },
+      {
+        "sorotipo": "DENV-1",
+        "total_registros": 32
+      },
+      {
+        "sorotipo": "DENV-4",
+        "total_registros": 1
+      }
+    ],
+    "completude_sorotipo": [
+      {
+        "total_registros": 3070,
+        "sorotipo_informado": 233,
+        "sorotipo_nao_informado": 2837,
+        "percentual_informado": 7.59,
+        "percentual_nao_informado": 92.41
+      }
+    ]
+  },
+  "interpretacao": "Na UF Santa Catarina, foram registrados 3,070 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Desses, 233 apresentaram informação de sorotipo (7.59%). O sorotipo mais frequente entre os registros com informação disponível foi DENV-2, com 106 registros.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A ausência de informação de sorotipo não representa ausência de registros de dengue.",
+    "A distribuição dos sorotipos considera somente os registros em que a variável SOROTIPO possui informação disponível."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sorotipo",
+    "DEN-1",
+    "DEN-2",
+    "DEN-3",
+    "DEN-4",
+    "unidade federativa",
+    "semana epidemiológica",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sorotipo",
+    "sorotipos dengue",
+    "Santa Catarina",
+    "42",
+    "semana epidemiológica 1",
+    "semana epidemiológica 34",
+    "2026",
+    "SINAN"
+  ]
+}

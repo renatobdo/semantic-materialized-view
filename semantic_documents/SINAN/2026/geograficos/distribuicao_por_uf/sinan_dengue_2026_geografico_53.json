@@ -1,0 +1,136 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_53",
+  "titulo": "Distribuição geográfica dos registros de dengue em Distrito Federal — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "53",
+    "sigla_uf": "DF",
+    "uf_nome": "Distrito Federal",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Distrito Federal, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 3700,
+    "total_casos_notificacao": 3841,
+    "total_municipios_analisados": 1,
+    "municipio_maior_numero_casos": "Brasília",
+    "maior_numero_casos_municipio": 3700,
+    "municipio_maior_incidencia": "Brasília",
+    "maior_incidencia_100mil": 131.33,
+    "criticidade_maior_incidencia": "Média",
+    "autoctonia": {
+      "total_registros": 3700,
+      "autoctones_residencia": 563,
+      "percentual_autoctones": 15.22,
+      "nao_autoctones_residencia": 120,
+      "percentual_nao_autoctones": 3.24,
+      "indeterminados": 717,
+      "percentual_indeterminados": 19.38,
+      "ausentes": 2300,
+      "percentual_ausentes": 62.16,
+      "total_comparaveis_uf_residencia_infeccao": 601,
+      "percentual_mesma_uf_residencia_infeccao": 98.5,
+      "percentual_uf_diferente_residencia_infeccao": 1.5
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 1
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "5300108",
+        "municipio": "Brasília",
+        "populacao_2022": 2817381.0,
+        "casos": 3700,
+        "incidencia_100mil": 131.33,
+        "grau_criticidade": "Média"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "DF",
+        "uf_provavel_infeccao": "DF",
+        "total_registros": 592,
+        "percentual_dentro_uf_residencia": 98.5
+      },
+      {
+        "uf_residencia": "DF",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 6,
+        "percentual_dentro_uf_residencia": 1.0
+      },
+      {
+        "uf_residencia": "DF",
+        "uf_provavel_infeccao": "MT",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.17
+      },
+      {
+        "uf_residencia": "DF",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.17
+      },
+      {
+        "uf_residencia": "DF",
+        "uf_provavel_infeccao": "PI",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.17
+      }
+    ]
+  },
+  "interpretacao": "Na UF Distrito Federal, foram contabilizados 3.700 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 1 municípios com informações disponíveis para análise, Brasília apresentou o maior número absoluto de notificações, com 3.700. A maior incidência foi observada em Brasília, com 131,33 notificações por 100 mil habitantes, classificada como Média. Quanto à autoctonia segundo o município de residência, 15,22% dos registros de DF foram classificados como autóctones, 3,24% como não autóctones, 19,38% como indeterminados e 62,16% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 98,50% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Distrito Federal",
+    "DF",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

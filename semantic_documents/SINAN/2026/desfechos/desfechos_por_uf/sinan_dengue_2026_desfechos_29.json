@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_29",
+  "titulo": "Desfechos dos registros de dengue em Bahia - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "29",
+    "uf_nome": "Bahia",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Bahia, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 21609,
+    "avaliaveis_hospitalizacao": 13827,
+    "hospitalizados": 1569,
+    "percentual_hospitalizados": 11.35,
+    "total_evolucao_avaliavel": 9030,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 8995,
+    "percentual_evolucao_predominante": 99.61
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 21609,
+        "avaliaveis": 13827,
+        "hospitalizados": 1569,
+        "nao_hospitalizados": 12258,
+        "ignorados": 268,
+        "ausentes": 7514,
+        "percentual_hospitalizados": 11.35,
+        "percentual_nao_hospitalizados": 88.65,
+        "percentual_ignorados": 1.24,
+        "percentual_ausentes": 34.77
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 8995,
+        "percentual_total": 41.63,
+        "avaliavel": true,
+        "total_avaliaveis": 9030,
+        "percentual_avaliaveis": 99.61
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 772,
+        "percentual_total": 3.57,
+        "avaliavel": false,
+        "total_avaliaveis": 9030,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 6,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 9030,
+        "percentual_avaliaveis": 0.07
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 19,
+        "percentual_total": 0.09,
+        "avaliavel": true,
+        "total_avaliaveis": 9030,
+        "percentual_avaliaveis": 0.21
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 10,
+        "percentual_total": 0.05,
+        "avaliavel": true,
+        "total_avaliaveis": 9030,
+        "percentual_avaliaveis": 0.11
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 11807,
+        "percentual_total": 54.64,
+        "avaliavel": false,
+        "total_avaliaveis": 9030,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Bahia, foram considerados 21,609 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 1,569 apresentaram hospitalização, correspondendo a 11.35%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 8,995 registros e 99.61% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Bahia",
+    "29",
+    "2026",
+    "SINAN"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_50",
+  "titulo": "Desfechos dos registros de dengue em Mato Grosso do Sul - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "50",
+    "uf_nome": "Mato Grosso do Sul",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Mato Grosso do Sul, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 4651,
+    "avaliaveis_hospitalizacao": 3305,
+    "hospitalizados": 124,
+    "percentual_hospitalizados": 3.75,
+    "total_evolucao_avaliavel": 1881,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 1877,
+    "percentual_evolucao_predominante": 99.79
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 4651,
+        "avaliaveis": 3305,
+        "hospitalizados": 124,
+        "nao_hospitalizados": 3181,
+        "ignorados": 5,
+        "ausentes": 1341,
+        "percentual_hospitalizados": 3.75,
+        "percentual_nao_hospitalizados": 96.25,
+        "percentual_ignorados": 0.11,
+        "percentual_ausentes": 28.83
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 1877,
+        "percentual_total": 40.36,
+        "avaliavel": true,
+        "total_avaliaveis": 1881,
+        "percentual_avaliaveis": 99.79
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 6,
+        "percentual_total": 0.13,
+        "avaliavel": false,
+        "total_avaliaveis": 1881,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 1,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 1881,
+        "percentual_avaliaveis": 0.05
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 3,
+        "percentual_total": 0.06,
+        "avaliavel": true,
+        "total_avaliaveis": 1881,
+        "percentual_avaliaveis": 0.16
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 2764,
+        "percentual_total": 59.43,
+        "avaliavel": false,
+        "total_avaliaveis": 1881,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Mato Grosso do Sul, foram considerados 4,651 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 124 apresentaram hospitalização, correspondendo a 3.75%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 1,877 registros e 99.79% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Mato Grosso do Sul",
+    "50",
+    "2026",
+    "SINAN"
+  ]
+}

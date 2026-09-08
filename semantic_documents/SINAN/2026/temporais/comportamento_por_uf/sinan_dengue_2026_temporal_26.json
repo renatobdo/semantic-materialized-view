@@ -1,0 +1,216 @@
+{
+  "document_id": "SINAN_DENGUE_2026_TEMPORAL_26",
+  "titulo": "Comportamento temporal dos registros de dengue em Pernambuco — 2026",
+  "tipo_documento": "perfil_temporal_uf",
+  "dominio": "temporal",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "26",
+    "uf_nome": "Pernambuco",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34
+  },
+  "sintese": "Este documento apresenta o comportamento temporal dos registros de dengue em Pernambuco entre as semanas epidemiológicas 1 e 34 de 2026, incluindo distribuição semanal, pico de registros e variação temporal recente.",
+  "indicadores": {
+    "total_registros": 22036,
+    "total_semanas": 34,
+    "media_semanal": 648.12,
+    "mediana_semanal": 714.5,
+    "minimo_semanal": 0,
+    "maximo_semanal": 1169,
+    "semana_pico": 23,
+    "total_pico": 1169,
+    "desvio_padrao": 343.8,
+    "coeficiente_variacao": 53.05,
+    "media_periodo_anterior": 934.25,
+    "media_periodo_recente": 476.0,
+    "variacao_absoluta": -458.25,
+    "variacao_percentual": -49.05,
+    "classificacao_variacao": "Redução"
+  },
+  "evidencias": {
+    "serie_semanal": [
+      {
+        "semana_epidemiologica": 1,
+        "total_registros": 82
+      },
+      {
+        "semana_epidemiologica": 2,
+        "total_registros": 183
+      },
+      {
+        "semana_epidemiologica": 3,
+        "total_registros": 190
+      },
+      {
+        "semana_epidemiologica": 4,
+        "total_registros": 218
+      },
+      {
+        "semana_epidemiologica": 5,
+        "total_registros": 244
+      },
+      {
+        "semana_epidemiologica": 6,
+        "total_registros": 350
+      },
+      {
+        "semana_epidemiologica": 7,
+        "total_registros": 321
+      },
+      {
+        "semana_epidemiologica": 8,
+        "total_registros": 422
+      },
+      {
+        "semana_epidemiologica": 9,
+        "total_registros": 354
+      },
+      {
+        "semana_epidemiologica": 10,
+        "total_registros": 403
+      },
+      {
+        "semana_epidemiologica": 11,
+        "total_registros": 416
+      },
+      {
+        "semana_epidemiologica": 12,
+        "total_registros": 534
+      },
+      {
+        "semana_epidemiologica": 13,
+        "total_registros": 452
+      },
+      {
+        "semana_epidemiologica": 14,
+        "total_registros": 633
+      },
+      {
+        "semana_epidemiologica": 15,
+        "total_registros": 755
+      },
+      {
+        "semana_epidemiologica": 16,
+        "total_registros": 708
+      },
+      {
+        "semana_epidemiologica": 17,
+        "total_registros": 884
+      },
+      {
+        "semana_epidemiologica": 18,
+        "total_registros": 994
+      },
+      {
+        "semana_epidemiologica": 19,
+        "total_registros": 987
+      },
+      {
+        "semana_epidemiologica": 20,
+        "total_registros": 1126
+      },
+      {
+        "semana_epidemiologica": 21,
+        "total_registros": 999
+      },
+      {
+        "semana_epidemiologica": 22,
+        "total_registros": 986
+      },
+      {
+        "semana_epidemiologica": 23,
+        "total_registros": 1169
+      },
+      {
+        "semana_epidemiologica": 24,
+        "total_registros": 1146
+      },
+      {
+        "semana_epidemiologica": 25,
+        "total_registros": 846
+      },
+      {
+        "semana_epidemiologica": 26,
+        "total_registros": 993
+      },
+      {
+        "semana_epidemiologica": 27,
+        "total_registros": 1017
+      },
+      {
+        "semana_epidemiologica": 28,
+        "total_registros": 951
+      },
+      {
+        "semana_epidemiologica": 29,
+        "total_registros": 887
+      },
+      {
+        "semana_epidemiologica": 30,
+        "total_registros": 882
+      },
+      {
+        "semana_epidemiologica": 31,
+        "total_registros": 800
+      },
+      {
+        "semana_epidemiologica": 32,
+        "total_registros": 721
+      },
+      {
+        "semana_epidemiologica": 33,
+        "total_registros": 383
+      },
+      {
+        "semana_epidemiologica": 34,
+        "total_registros": 0
+      }
+    ],
+    "comparacao_temporal": {
+      "semana_inicial_anterior": 27,
+      "semana_final_anterior": 30,
+      "semana_inicial_recente": 31,
+      "semana_final_recente": 34,
+      "media_anterior": 934.25,
+      "media_recente": 476.0,
+      "variacao_percentual": -49.05,
+      "classificacao": "Redução"
+    },
+    "comportamento_pico": {
+      "semanas_pico": "23",
+      "quantidade_semanas_pico": 1,
+      "percentual_pico_total": 5.3,
+      "distancia_pico_semana_final": 11,
+      "pico_na_janela_recente": "Não"
+    }
+  },
+  "interpretacao": "Em Pernambuco, o maior número semanal de registros no período analisado ocorreu na semana epidemiológica 23, com 1,169 registros. Entre as semanas epidemiológicas 1 e 34, a média foi de 648.12 registros por semana. Na comparação entre as janelas temporais analisadas, o período mais recente (semanas 31 a 34) apresentou variação de -49.05% na média semanal, classificada como redução.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A classificação da variação compara médias semanais entre duas janelas temporais e não representa, isoladamente, uma tendência epidemiológica de longo prazo."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Semana Epidemiológica",
+    "Série Temporal",
+    "Pico de registros",
+    "Variação temporal",
+    "Unidade Federativa"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Pernambuco",
+    "semana epidemiológica",
+    "série temporal",
+    "pico",
+    "variação temporal",
+    "registros de dengue"
+  ]
+}

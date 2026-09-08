@@ -1,0 +1,2128 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_52",
+  "titulo": "Distribuição geográfica dos registros de dengue em Goiás — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "52",
+    "sigla_uf": "GO",
+    "uf_nome": "Goiás",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Goiás, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 108912,
+    "total_casos_notificacao": 108884,
+    "total_municipios_analisados": 243,
+    "municipio_maior_numero_casos": "Goiânia",
+    "maior_numero_casos_municipio": 31778,
+    "municipio_maior_incidencia": "Turvânia",
+    "maior_incidencia_100mil": 9084.82,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 108912,
+      "autoctones_residencia": 82214,
+      "percentual_autoctones": 75.49,
+      "nao_autoctones_residencia": 1315,
+      "percentual_nao_autoctones": 1.21,
+      "indeterminados": 7954,
+      "percentual_indeterminados": 7.3,
+      "ausentes": 17429,
+      "percentual_ausentes": 16.0,
+      "total_comparaveis_uf_residencia_infeccao": 82681,
+      "percentual_mesma_uf_residencia_infeccao": 99.97,
+      "percentual_uf_diferente_residencia_infeccao": 0.03
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 167
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 17
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 59
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "5208707",
+        "municipio": "Goiânia",
+        "populacao_2022": 1437366.0,
+        "casos": 31778,
+        "incidencia_100mil": 2210.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201405",
+        "municipio": "Aparecida de Goiânia",
+        "populacao_2022": 527796.0,
+        "casos": 21333,
+        "incidencia_100mil": 4041.9,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218805",
+        "municipio": "Rio Verde",
+        "populacao_2022": 225696.0,
+        "casos": 7017,
+        "incidencia_100mil": 3109.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211909",
+        "municipio": "Jataí",
+        "populacao_2022": 105729.0,
+        "casos": 6938,
+        "incidencia_100mil": 6562.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220454",
+        "municipio": "Senador Canedo",
+        "populacao_2022": 155635.0,
+        "casos": 2968,
+        "incidencia_100mil": 1907.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211503",
+        "municipio": "Itumbiara",
+        "populacao_2022": 107970.0,
+        "casos": 2480,
+        "incidencia_100mil": 2296.93,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203302",
+        "municipio": "Bela Vista de Goiás",
+        "populacao_2022": 34445.0,
+        "casos": 1775,
+        "incidencia_100mil": 5153.14,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210000",
+        "municipio": "Inhumas",
+        "populacao_2022": 52204.0,
+        "casos": 1652,
+        "incidencia_100mil": 3164.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201108",
+        "municipio": "Anápolis",
+        "populacao_2022": 398869.0,
+        "casos": 1495,
+        "incidencia_100mil": 374.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220108",
+        "municipio": "São Luís de Montes Belos",
+        "populacao_2022": 33852.0,
+        "casos": 1405,
+        "incidencia_100mil": 4150.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218508",
+        "municipio": "Quirinópolis",
+        "populacao_2022": 48447.0,
+        "casos": 1285,
+        "incidencia_100mil": 2652.38,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208806",
+        "municipio": "Goianira",
+        "populacao_2022": 71916.0,
+        "casos": 1271,
+        "incidencia_100mil": 1767.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208004",
+        "municipio": "Formosa",
+        "populacao_2022": 115901.0,
+        "casos": 1058,
+        "incidencia_100mil": 912.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213103",
+        "municipio": "Mineiros",
+        "populacao_2022": 70081.0,
+        "casos": 1021,
+        "incidencia_100mil": 1456.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212501",
+        "municipio": "Luziânia",
+        "populacao_2022": 209129.0,
+        "casos": 999,
+        "incidencia_100mil": 477.7,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203500",
+        "municipio": "Bom Jesus de Goiás",
+        "populacao_2022": 23958.0,
+        "casos": 898,
+        "incidencia_100mil": 3748.23,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221403",
+        "municipio": "Trindade",
+        "populacao_2022": 142431.0,
+        "casos": 839,
+        "incidencia_100mil": 589.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215231",
+        "municipio": "Novo Gama",
+        "populacao_2022": 103804.0,
+        "casos": 741,
+        "incidencia_100mil": 713.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5217104",
+        "municipio": "Piracanjuba",
+        "populacao_2022": 24883.0,
+        "casos": 685,
+        "incidencia_100mil": 2752.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205901",
+        "municipio": "Corumbaíba",
+        "populacao_2022": 9164.0,
+        "casos": 673,
+        "incidencia_100mil": 7343.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219308",
+        "municipio": "Santa Helena de Goiás",
+        "populacao_2022": 38492.0,
+        "casos": 663,
+        "incidencia_100mil": 1722.44,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221858",
+        "municipio": "Valparaíso de Goiás",
+        "populacao_2022": 198861.0,
+        "casos": 652,
+        "incidencia_100mil": 327.87,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201306",
+        "municipio": "Anicuns",
+        "populacao_2022": 18503.0,
+        "casos": 631,
+        "incidencia_100mil": 3410.26,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205109",
+        "municipio": "Catalão",
+        "populacao_2022": 114427.0,
+        "casos": 577,
+        "incidencia_100mil": 504.25,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211800",
+        "municipio": "Jaraguá",
+        "populacao_2022": 45223.0,
+        "casos": 559,
+        "incidencia_100mil": 1236.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212204",
+        "municipio": "Jussara",
+        "populacao_2022": 19620.0,
+        "casos": 497,
+        "incidencia_100mil": 2533.13,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209705",
+        "municipio": "Hidrolândia",
+        "populacao_2022": 27742.0,
+        "casos": 464,
+        "incidencia_100mil": 1672.55,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209101",
+        "municipio": "Goiatuba",
+        "populacao_2022": 35664.0,
+        "casos": 425,
+        "incidencia_100mil": 1191.68,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221502",
+        "municipio": "Turvânia",
+        "populacao_2022": 4480.0,
+        "casos": 407,
+        "incidencia_100mil": 9084.82,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203906",
+        "municipio": "Buriti Alegre",
+        "populacao_2022": 10495.0,
+        "casos": 405,
+        "incidencia_100mil": 3858.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219001",
+        "municipio": "Sanclerlândia",
+        "populacao_2022": 7918.0,
+        "casos": 387,
+        "incidencia_100mil": 4887.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220405",
+        "municipio": "São Simão",
+        "populacao_2022": 17020.0,
+        "casos": 387,
+        "incidencia_100mil": 2273.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213806",
+        "municipio": "Morrinhos",
+        "populacao_2022": 51351.0,
+        "casos": 378,
+        "incidencia_100mil": 736.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5217609",
+        "municipio": "Planaltina",
+        "populacao_2022": 105031.0,
+        "casos": 360,
+        "incidencia_100mil": 342.76,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219738",
+        "municipio": "Santo Antônio de Goiás",
+        "populacao_2022": 7386.0,
+        "casos": 355,
+        "incidencia_100mil": 4806.39,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207402",
+        "municipio": "Edéia",
+        "populacao_2022": 11747.0,
+        "casos": 319,
+        "incidencia_100mil": 2715.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5217302",
+        "municipio": "Pirenópolis",
+        "populacao_2022": 26690.0,
+        "casos": 305,
+        "incidencia_100mil": 1142.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203401",
+        "municipio": "Bom Jardim de Goiás",
+        "populacao_2022": 7826.0,
+        "casos": 298,
+        "incidencia_100mil": 3807.82,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220504",
+        "municipio": "Serranópolis",
+        "populacao_2022": 8027.0,
+        "casos": 298,
+        "incidencia_100mil": 3712.47,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211206",
+        "municipio": "Itapuranga",
+        "populacao_2022": 26113.0,
+        "casos": 285,
+        "incidencia_100mil": 1091.41,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207808",
+        "municipio": "Firminópolis",
+        "populacao_2022": 10419.0,
+        "casos": 283,
+        "incidencia_100mil": 2716.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215702",
+        "municipio": "Palmeiras de Goiás",
+        "populacao_2022": 31858.0,
+        "casos": 268,
+        "incidencia_100mil": 841.23,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208905",
+        "municipio": "Goiás",
+        "populacao_2022": 24071.0,
+        "casos": 251,
+        "incidencia_100mil": 1042.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200050",
+        "municipio": "Abadia de Goiás",
+        "populacao_2022": 19128.0,
+        "casos": 246,
+        "incidencia_100mil": 1286.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203807",
+        "municipio": "Britânia",
+        "populacao_2022": 5695.0,
+        "casos": 233,
+        "incidencia_100mil": 4091.31,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218607",
+        "municipio": "Rialma",
+        "populacao_2022": 12165.0,
+        "casos": 232,
+        "incidencia_100mil": 1907.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209937",
+        "municipio": "Inaciolândia",
+        "populacao_2022": 5954.0,
+        "casos": 228,
+        "incidencia_100mil": 3829.36,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211008",
+        "municipio": "Itapirapuã",
+        "populacao_2022": 8007.0,
+        "casos": 228,
+        "incidencia_100mil": 2847.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213772",
+        "municipio": "Montividiu do Norte",
+        "populacao_2022": 3779.0,
+        "casos": 226,
+        "incidencia_100mil": 5980.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218003",
+        "municipio": "Porangatu",
+        "populacao_2022": 44317.0,
+        "casos": 213,
+        "incidencia_100mil": 480.63,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214507",
+        "municipio": "Nerópolis",
+        "populacao_2022": 31932.0,
+        "casos": 213,
+        "incidencia_100mil": 667.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204508",
+        "municipio": "Caldas Novas",
+        "populacao_2022": 98622.0,
+        "casos": 212,
+        "incidencia_100mil": 214.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5200258",
+        "municipio": "Águas Lindas de Goiás",
+        "populacao_2022": 225693.0,
+        "casos": 205,
+        "incidencia_100mil": 90.83,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5208608",
+        "municipio": "Goianésia",
+        "populacao_2022": 73707.0,
+        "casos": 198,
+        "incidencia_100mil": 268.63,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204409",
+        "municipio": "Caiapônia",
+        "populacao_2022": 16513.0,
+        "casos": 196,
+        "incidencia_100mil": 1186.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210208",
+        "municipio": "Iporá",
+        "populacao_2022": 35684.0,
+        "casos": 192,
+        "incidencia_100mil": 538.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204904",
+        "municipio": "Campos Belos",
+        "populacao_2022": 18108.0,
+        "casos": 192,
+        "incidencia_100mil": 1060.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205406",
+        "municipio": "Ceres",
+        "populacao_2022": 22046.0,
+        "casos": 176,
+        "incidencia_100mil": 798.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209150",
+        "municipio": "Gouvelândia",
+        "populacao_2022": 4390.0,
+        "casos": 152,
+        "incidencia_100mil": 3462.41,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213004",
+        "municipio": "Maurilândia",
+        "populacao_2022": 10304.0,
+        "casos": 149,
+        "incidencia_100mil": 1446.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5216403",
+        "municipio": "Paraúna",
+        "populacao_2022": 10659.0,
+        "casos": 148,
+        "incidencia_100mil": 1388.5,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209952",
+        "municipio": "Indiara",
+        "populacao_2022": 17061.0,
+        "casos": 142,
+        "incidencia_100mil": 832.31,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5217401",
+        "municipio": "Pires do Rio",
+        "populacao_2022": 32373.0,
+        "casos": 138,
+        "incidencia_100mil": 426.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205059",
+        "municipio": "Castelândia",
+        "populacao_2022": 2985.0,
+        "casos": 134,
+        "incidencia_100mil": 4489.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200134",
+        "municipio": "Acreúna",
+        "populacao_2022": 21568.0,
+        "casos": 132,
+        "incidencia_100mil": 612.02,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204706",
+        "municipio": "Campinorte",
+        "populacao_2022": 12510.0,
+        "casos": 131,
+        "incidencia_100mil": 1047.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215009",
+        "municipio": "Nova Veneza",
+        "populacao_2022": 9481.0,
+        "casos": 129,
+        "incidencia_100mil": 1360.62,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207253",
+        "municipio": "Doverlândia",
+        "populacao_2022": 6956.0,
+        "casos": 126,
+        "incidencia_100mil": 1811.39,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211404",
+        "municipio": "Itauçu",
+        "populacao_2022": 7736.0,
+        "casos": 126,
+        "incidencia_100mil": 1628.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218052",
+        "municipio": "Porteirão",
+        "populacao_2022": 4070.0,
+        "casos": 122,
+        "incidencia_100mil": 2997.54,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208103",
+        "municipio": "Formoso",
+        "populacao_2022": 4660.0,
+        "casos": 119,
+        "incidencia_100mil": 2553.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5217708",
+        "municipio": "Pontalina",
+        "populacao_2022": 18309.0,
+        "casos": 118,
+        "incidencia_100mil": 644.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5206602",
+        "municipio": "Cumari",
+        "populacao_2022": 2927.0,
+        "casos": 113,
+        "incidencia_100mil": 3860.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5216304",
+        "municipio": "Paranaiguara",
+        "populacao_2022": 7607.0,
+        "casos": 112,
+        "incidencia_100mil": 1472.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215900",
+        "municipio": "Palminópolis",
+        "populacao_2022": 3851.0,
+        "casos": 107,
+        "incidencia_100mil": 2778.5,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213905",
+        "municipio": "Mossâmedes",
+        "populacao_2022": 4654.0,
+        "casos": 102,
+        "incidencia_100mil": 2191.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209903",
+        "municipio": "Iaciara",
+        "populacao_2022": 10584.0,
+        "casos": 101,
+        "incidencia_100mil": 954.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213087",
+        "municipio": "Minaçu",
+        "populacao_2022": 27075.0,
+        "casos": 100,
+        "incidencia_100mil": 369.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207600",
+        "municipio": "Fazenda Nova",
+        "populacao_2022": 5877.0,
+        "casos": 99,
+        "incidencia_100mil": 1684.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5216809",
+        "municipio": "Petrolina de Goiás",
+        "populacao_2022": 9573.0,
+        "casos": 97,
+        "incidencia_100mil": 1013.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220603",
+        "municipio": "Silvânia",
+        "populacao_2022": 22245.0,
+        "casos": 95,
+        "incidencia_100mil": 427.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201702",
+        "municipio": "Aragarças",
+        "populacao_2022": 18390.0,
+        "casos": 95,
+        "incidencia_100mil": 516.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212956",
+        "municipio": "Matrinchã",
+        "populacao_2022": 4042.0,
+        "casos": 93,
+        "incidencia_100mil": 2300.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201454",
+        "municipio": "Aparecida do Rio Doce",
+        "populacao_2022": 2907.0,
+        "casos": 92,
+        "incidencia_100mil": 3164.77,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218904",
+        "municipio": "Rubiataba",
+        "populacao_2022": 19788.0,
+        "casos": 91,
+        "incidencia_100mil": 459.87,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210901",
+        "municipio": "Itapaci",
+        "populacao_2022": 21087.0,
+        "casos": 90,
+        "incidencia_100mil": 426.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204854",
+        "municipio": "Campo Limpo de Goiás",
+        "populacao_2022": 8081.0,
+        "casos": 90,
+        "incidencia_100mil": 1113.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210406",
+        "municipio": "Itaberaí",
+        "populacao_2022": 44734.0,
+        "casos": 87,
+        "incidencia_100mil": 194.48,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204805",
+        "municipio": "Campo Alegre de Goiás",
+        "populacao_2022": 7422.0,
+        "casos": 85,
+        "incidencia_100mil": 1145.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200209",
+        "municipio": "Água Limpa",
+        "populacao_2022": 1858.0,
+        "casos": 85,
+        "incidencia_100mil": 4574.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219712",
+        "municipio": "Santo Antônio da Barra",
+        "populacao_2022": 4267.0,
+        "casos": 83,
+        "incidencia_100mil": 1945.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5213509",
+        "municipio": "Monte Alegre de Goiás",
+        "populacao_2022": 6692.0,
+        "casos": 82,
+        "incidencia_100mil": 1225.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201801",
+        "municipio": "Aragoiânia",
+        "populacao_2022": 11890.0,
+        "casos": 80,
+        "incidencia_100mil": 672.83,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5206404",
+        "municipio": "Crixás",
+        "populacao_2022": 17065.0,
+        "casos": 79,
+        "incidencia_100mil": 462.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203104",
+        "municipio": "Baliza",
+        "populacao_2022": 3351.0,
+        "casos": 76,
+        "incidencia_100mil": 2267.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219100",
+        "municipio": "Santa Bárbara de Goiás",
+        "populacao_2022": 6149.0,
+        "casos": 75,
+        "incidencia_100mil": 1219.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207352",
+        "municipio": "Edealina",
+        "populacao_2022": 4001.0,
+        "casos": 73,
+        "incidencia_100mil": 1824.54,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207501",
+        "municipio": "Estrela do Norte",
+        "populacao_2022": 3205.0,
+        "casos": 72,
+        "incidencia_100mil": 2246.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221809",
+        "municipio": "Urutaí",
+        "populacao_2022": 3553.0,
+        "casos": 71,
+        "incidencia_100mil": 1998.31,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205703",
+        "municipio": "Córrego do Ouro",
+        "populacao_2022": 2454.0,
+        "casos": 71,
+        "incidencia_100mil": 2893.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212055",
+        "municipio": "Jesúpolis",
+        "populacao_2022": 2123.0,
+        "casos": 70,
+        "incidencia_100mil": 3297.22,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5206206",
+        "municipio": "Cristalina",
+        "populacao_2022": 62337.0,
+        "casos": 70,
+        "incidencia_100mil": 112.29,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5216452",
+        "municipio": "Perolândia",
+        "populacao_2022": 2964.0,
+        "casos": 69,
+        "incidencia_100mil": 2327.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219704",
+        "municipio": "Santa Terezinha de Goiás",
+        "populacao_2022": 10645.0,
+        "casos": 69,
+        "incidencia_100mil": 648.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200100",
+        "municipio": "Abadiânia",
+        "populacao_2022": 17232.0,
+        "casos": 68,
+        "incidencia_100mil": 394.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5217203",
+        "municipio": "Piranhas",
+        "populacao_2022": 11712.0,
+        "casos": 68,
+        "incidencia_100mil": 580.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205208",
+        "municipio": "Caturaí",
+        "populacao_2022": 5184.0,
+        "casos": 68,
+        "incidencia_100mil": 1311.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5222054",
+        "municipio": "Vicentinópolis",
+        "populacao_2022": 8768.0,
+        "casos": 66,
+        "incidencia_100mil": 752.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219753",
+        "municipio": "Santo Antônio do Descoberto",
+        "populacao_2022": 72127.0,
+        "casos": 66,
+        "incidencia_100mil": 91.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5213707",
+        "municipio": "Montes Claros de Goiás",
+        "populacao_2022": 8756.0,
+        "casos": 66,
+        "incidencia_100mil": 753.77,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208152",
+        "municipio": "Gameleira de Goiás",
+        "populacao_2022": 3456.0,
+        "casos": 65,
+        "incidencia_100mil": 1880.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221601",
+        "municipio": "Uruaçu",
+        "populacao_2022": 42546.0,
+        "casos": 63,
+        "incidencia_100mil": 148.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5203559",
+        "municipio": "Bonfinópolis",
+        "populacao_2022": 10296.0,
+        "casos": 62,
+        "incidencia_100mil": 602.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201603",
+        "municipio": "Araçu",
+        "populacao_2022": 3799.0,
+        "casos": 61,
+        "incidencia_100mil": 1605.69,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208400",
+        "municipio": "Goianápolis",
+        "populacao_2022": 13967.0,
+        "casos": 59,
+        "incidencia_100mil": 422.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212105",
+        "municipio": "Joviânia",
+        "populacao_2022": 7159.0,
+        "casos": 57,
+        "incidencia_100mil": 796.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204250",
+        "municipio": "Cachoeira Dourada",
+        "populacao_2022": 7782.0,
+        "casos": 57,
+        "incidencia_100mil": 732.46,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208509",
+        "municipio": "Goiandira",
+        "populacao_2022": 4973.0,
+        "casos": 56,
+        "incidencia_100mil": 1126.08,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215504",
+        "municipio": "Ouvidor",
+        "populacao_2022": 7200.0,
+        "casos": 53,
+        "incidencia_100mil": 736.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5216007",
+        "municipio": "Panamá",
+        "populacao_2022": 2455.0,
+        "casos": 51,
+        "incidencia_100mil": 2077.39,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203203",
+        "municipio": "Barro Alto",
+        "populacao_2022": 10371.0,
+        "casos": 51,
+        "incidencia_100mil": 491.76,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205497",
+        "municipio": "Cidade Ocidental",
+        "populacao_2022": 91767.0,
+        "casos": 50,
+        "incidencia_100mil": 54.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5220207",
+        "municipio": "São Miguel do Araguaia",
+        "populacao_2022": 21900.0,
+        "casos": 50,
+        "incidencia_100mil": 228.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5203939",
+        "municipio": "Buriti de Goiás",
+        "populacao_2022": 2732.0,
+        "casos": 45,
+        "incidencia_100mil": 1647.14,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5208301",
+        "municipio": "Divinópolis de Goiás",
+        "populacao_2022": 4457.0,
+        "casos": 45,
+        "incidencia_100mil": 1009.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214903",
+        "municipio": "Nova Roma",
+        "populacao_2022": 3076.0,
+        "casos": 45,
+        "incidencia_100mil": 1462.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200902",
+        "municipio": "Amorinópolis",
+        "populacao_2022": 3007.0,
+        "casos": 44,
+        "incidencia_100mil": 1463.25,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200852",
+        "municipio": "Americano do Brasil",
+        "populacao_2022": 5259.0,
+        "casos": 44,
+        "incidencia_100mil": 836.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219902",
+        "municipio": "São Francisco de Goiás",
+        "populacao_2022": 6378.0,
+        "casos": 43,
+        "incidencia_100mil": 674.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215207",
+        "municipio": "Novo Brasil",
+        "populacao_2022": 3527.0,
+        "casos": 42,
+        "incidencia_100mil": 1190.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5207907",
+        "municipio": "Flores de Goiás",
+        "populacao_2022": 13744.0,
+        "casos": 42,
+        "incidencia_100mil": 305.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215306",
+        "municipio": "Orizona",
+        "populacao_2022": 16399.0,
+        "casos": 41,
+        "incidencia_100mil": 250.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5219605",
+        "municipio": "Santa Tereza de Goiás",
+        "populacao_2022": 3293.0,
+        "casos": 41,
+        "incidencia_100mil": 1245.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200605",
+        "municipio": "Alto Paraíso de Goiás",
+        "populacao_2022": 10306.0,
+        "casos": 40,
+        "incidencia_100mil": 388.12,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210604",
+        "municipio": "Itaguaru",
+        "populacao_2022": 4904.0,
+        "casos": 40,
+        "incidencia_100mil": 815.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214002",
+        "municipio": "Mozarlândia",
+        "populacao_2022": 14750.0,
+        "casos": 40,
+        "incidencia_100mil": 271.19,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5206701",
+        "municipio": "Damianópolis",
+        "populacao_2022": 3770.0,
+        "casos": 38,
+        "incidencia_100mil": 1007.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205513",
+        "municipio": "Cocalzinho de Goiás",
+        "populacao_2022": 25016.0,
+        "casos": 37,
+        "incidencia_100mil": 147.91,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5213855",
+        "municipio": "Morro Agudo de Goiás",
+        "populacao_2022": 2456.0,
+        "casos": 36,
+        "incidencia_100mil": 1465.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204300",
+        "municipio": "Caçu",
+        "populacao_2022": 13774.0,
+        "casos": 36,
+        "incidencia_100mil": 261.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5205471",
+        "municipio": "Chapadão do Céu",
+        "populacao_2022": 12870.0,
+        "casos": 36,
+        "incidencia_100mil": 279.72,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5213756",
+        "municipio": "Montividiu",
+        "populacao_2022": 12521.0,
+        "casos": 34,
+        "incidencia_100mil": 271.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5221007",
+        "municipio": "Taquaral de Goiás",
+        "populacao_2022": 4026.0,
+        "casos": 33,
+        "incidencia_100mil": 819.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214051",
+        "municipio": "Mundo Novo",
+        "populacao_2022": 6189.0,
+        "casos": 33,
+        "incidencia_100mil": 533.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211305",
+        "municipio": "Itarumã",
+        "populacao_2022": 6101.0,
+        "casos": 32,
+        "incidencia_100mil": 524.5,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221700",
+        "municipio": "Uruana",
+        "populacao_2022": 13729.0,
+        "casos": 32,
+        "incidencia_100mil": 233.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5206800",
+        "municipio": "Damolândia",
+        "populacao_2022": 2724.0,
+        "casos": 32,
+        "incidencia_100mil": 1174.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210109",
+        "municipio": "Ipameri",
+        "populacao_2022": 25548.0,
+        "casos": 31,
+        "incidencia_100mil": 121.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5215801",
+        "municipio": "Palmelo",
+        "populacao_2022": 2259.0,
+        "casos": 29,
+        "incidencia_100mil": 1283.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212907",
+        "municipio": "Marzagão",
+        "populacao_2022": 2758.0,
+        "casos": 28,
+        "incidencia_100mil": 1015.23,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203609",
+        "municipio": "Brazabrantes",
+        "populacao_2022": 3992.0,
+        "casos": 27,
+        "incidencia_100mil": 676.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5203575",
+        "municipio": "Bonópolis",
+        "populacao_2022": 3299.0,
+        "casos": 27,
+        "incidencia_100mil": 818.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220264",
+        "municipio": "São Miguel do Passa Quatro",
+        "populacao_2022": 4464.0,
+        "casos": 27,
+        "incidencia_100mil": 604.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218391",
+        "municipio": "Professor Jamil",
+        "populacao_2022": 3649.0,
+        "casos": 26,
+        "incidencia_100mil": 712.52,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214804",
+        "municipio": "Nova Aurora",
+        "populacao_2022": 2101.0,
+        "casos": 26,
+        "incidencia_100mil": 1237.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219258",
+        "municipio": "Santa Fé de Goiás",
+        "populacao_2022": 4951.0,
+        "casos": 25,
+        "incidencia_100mil": 504.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218789",
+        "municipio": "Rio Quente",
+        "populacao_2022": 3864.0,
+        "casos": 25,
+        "incidencia_100mil": 647.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5206305",
+        "municipio": "Cristianópolis",
+        "populacao_2022": 3504.0,
+        "casos": 25,
+        "incidencia_100mil": 713.47,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209200",
+        "municipio": "Guapó",
+        "populacao_2022": 19545.0,
+        "casos": 25,
+        "incidencia_100mil": 127.91,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5200308",
+        "municipio": "Alexânia",
+        "populacao_2022": 27008.0,
+        "casos": 24,
+        "incidencia_100mil": 88.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5202502",
+        "municipio": "Aruanã",
+        "populacao_2022": 8300.0,
+        "casos": 24,
+        "incidencia_100mil": 289.16,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5212303",
+        "municipio": "Leopoldo de Bulhões",
+        "populacao_2022": 8745.0,
+        "casos": 24,
+        "incidencia_100mil": 274.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5218300",
+        "municipio": "Posse",
+        "populacao_2022": 34914.0,
+        "casos": 24,
+        "incidencia_100mil": 68.74,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5220009",
+        "municipio": "São João d'Aliança",
+        "populacao_2022": 14041.0,
+        "casos": 23,
+        "incidencia_100mil": 163.81,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204607",
+        "municipio": "Campestre de Goiás",
+        "populacao_2022": 3755.0,
+        "casos": 22,
+        "incidencia_100mil": 585.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209606",
+        "municipio": "Heitoraí",
+        "populacao_2022": 3354.0,
+        "casos": 21,
+        "incidencia_100mil": 626.12,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5222005",
+        "municipio": "Vianópolis",
+        "populacao_2022": 14956.0,
+        "casos": 21,
+        "incidencia_100mil": 140.41,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5212709",
+        "municipio": "Mambaí",
+        "populacao_2022": 8124.0,
+        "casos": 21,
+        "incidencia_100mil": 258.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5207535",
+        "municipio": "Faina",
+        "populacao_2022": 7070.0,
+        "casos": 20,
+        "incidencia_100mil": 282.89,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204102",
+        "municipio": "Cachoeira Alta",
+        "populacao_2022": 11513.0,
+        "casos": 20,
+        "incidencia_100mil": 173.72,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5214606",
+        "municipio": "Niquelândia",
+        "populacao_2022": 34964.0,
+        "casos": 20,
+        "incidencia_100mil": 57.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5219209",
+        "municipio": "Santa Cruz de Goiás",
+        "populacao_2022": 3002.0,
+        "casos": 19,
+        "incidencia_100mil": 632.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214861",
+        "municipio": "Nova Glória",
+        "populacao_2022": 8310.0,
+        "casos": 19,
+        "incidencia_100mil": 228.64,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5221551",
+        "municipio": "Turvelândia",
+        "populacao_2022": 4985.0,
+        "casos": 18,
+        "incidencia_100mil": 361.08,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214408",
+        "municipio": "Nazário",
+        "populacao_2022": 8189.0,
+        "casos": 16,
+        "incidencia_100mil": 195.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5219407",
+        "municipio": "Santa Rita do Araguaia",
+        "populacao_2022": 5924.0,
+        "casos": 16,
+        "incidencia_100mil": 270.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5220157",
+        "municipio": "São Luiz do Norte",
+        "populacao_2022": 4837.0,
+        "casos": 16,
+        "incidencia_100mil": 330.78,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5202601",
+        "municipio": "Aurilândia",
+        "populacao_2022": 3284.0,
+        "casos": 16,
+        "incidencia_100mil": 487.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200803",
+        "municipio": "Alvorada do Norte",
+        "populacao_2022": 8446.0,
+        "casos": 16,
+        "incidencia_100mil": 189.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5206503",
+        "municipio": "Cromínia",
+        "populacao_2022": 3883.0,
+        "casos": 15,
+        "incidencia_100mil": 386.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200555",
+        "municipio": "Alto Horizonte",
+        "populacao_2022": 6072.0,
+        "casos": 15,
+        "incidencia_100mil": 247.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204557",
+        "municipio": "Caldazinha",
+        "populacao_2022": 4507.0,
+        "casos": 14,
+        "incidencia_100mil": 310.63,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210307",
+        "municipio": "Israelândia",
+        "populacao_2022": 2560.0,
+        "casos": 14,
+        "incidencia_100mil": 546.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5219506",
+        "municipio": "Santa Rosa de Goiás",
+        "populacao_2022": 2820.0,
+        "casos": 14,
+        "incidencia_100mil": 496.45,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5215603",
+        "municipio": "Padre Bernardo",
+        "populacao_2022": 34967.0,
+        "casos": 14,
+        "incidencia_100mil": 40.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5221452",
+        "municipio": "Trombas",
+        "populacao_2022": 3120.0,
+        "casos": 14,
+        "incidencia_100mil": 448.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5212600",
+        "municipio": "Mairipotaba",
+        "populacao_2022": 2561.0,
+        "casos": 13,
+        "incidencia_100mil": 507.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205521",
+        "municipio": "Colinas do Sul",
+        "populacao_2022": 4030.0,
+        "casos": 13,
+        "incidencia_100mil": 322.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5204003",
+        "municipio": "Cabeceiras",
+        "populacao_2022": 7560.0,
+        "casos": 13,
+        "incidencia_100mil": 171.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5214705",
+        "municipio": "Nova América",
+        "populacao_2022": 2337.0,
+        "casos": 13,
+        "incidencia_100mil": 556.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5221577",
+        "municipio": "Uirapuru",
+        "populacao_2022": 2798.0,
+        "casos": 12,
+        "incidencia_100mil": 428.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211602",
+        "municipio": "Ivolândia",
+        "populacao_2022": 2693.0,
+        "casos": 12,
+        "incidencia_100mil": 445.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210802",
+        "municipio": "Itajá",
+        "populacao_2022": 4380.0,
+        "casos": 12,
+        "incidencia_100mil": 273.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5209291",
+        "municipio": "Guaraíta",
+        "populacao_2022": 2188.0,
+        "casos": 12,
+        "incidencia_100mil": 548.45,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209408",
+        "municipio": "Guarani de Goiás",
+        "populacao_2022": 4085.0,
+        "casos": 12,
+        "incidencia_100mil": 293.76,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5202353",
+        "municipio": "Arenópolis",
+        "populacao_2022": 2946.0,
+        "casos": 12,
+        "incidencia_100mil": 407.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205307",
+        "municipio": "Cavalcante",
+        "populacao_2022": 9583.0,
+        "casos": 12,
+        "incidencia_100mil": 125.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5205802",
+        "municipio": "Corumbá de Goiás",
+        "populacao_2022": 10562.0,
+        "casos": 11,
+        "incidencia_100mil": 104.15,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5205000",
+        "municipio": "Carmo do Rio Verde",
+        "populacao_2022": 9710.0,
+        "casos": 10,
+        "incidencia_100mil": 102.99,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5214838",
+        "municipio": "Nova Crixás",
+        "populacao_2022": 12815.0,
+        "casos": 10,
+        "incidencia_100mil": 78.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5202155",
+        "municipio": "Araguapaz",
+        "populacao_2022": 7153.0,
+        "casos": 10,
+        "incidencia_100mil": 139.8,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5212808",
+        "municipio": "Mara Rosa",
+        "populacao_2022": 10700.0,
+        "casos": 10,
+        "incidencia_100mil": 93.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5220058",
+        "municipio": "São João da Paraúna",
+        "populacao_2022": 1774.0,
+        "casos": 10,
+        "incidencia_100mil": 563.7,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5214879",
+        "municipio": "Nova Iguaçu de Goiás",
+        "populacao_2022": 3010.0,
+        "casos": 10,
+        "incidencia_100mil": 332.23,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5200159",
+        "municipio": "Adelândia",
+        "populacao_2022": 2297.0,
+        "casos": 9,
+        "incidencia_100mil": 391.82,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5222302",
+        "municipio": "Vila Propício",
+        "populacao_2022": 5815.0,
+        "casos": 9,
+        "incidencia_100mil": 154.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5221304",
+        "municipio": "Três Ranchos",
+        "populacao_2022": 2921.0,
+        "casos": 9,
+        "incidencia_100mil": 308.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218706",
+        "municipio": "Rianápolis",
+        "populacao_2022": 3980.0,
+        "casos": 9,
+        "incidencia_100mil": 226.13,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5213400",
+        "municipio": "Moiporá",
+        "populacao_2022": 1685.0,
+        "casos": 9,
+        "incidencia_100mil": 534.12,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5210562",
+        "municipio": "Itaguari",
+        "populacao_2022": 4963.0,
+        "casos": 9,
+        "incidencia_100mil": 181.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204953",
+        "municipio": "Campos Verdes",
+        "populacao_2022": 4005.0,
+        "casos": 9,
+        "incidencia_100mil": 224.72,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5221197",
+        "municipio": "Terezópolis de Goiás",
+        "populacao_2022": 7944.0,
+        "casos": 8,
+        "incidencia_100mil": 100.7,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5201504",
+        "municipio": "Aporé",
+        "populacao_2022": 4325.0,
+        "casos": 8,
+        "incidencia_100mil": 184.97,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5206909",
+        "municipio": "Davinópolis",
+        "populacao_2022": 1902.0,
+        "casos": 8,
+        "incidencia_100mil": 420.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5209804",
+        "municipio": "Hidrolina",
+        "populacao_2022": 3545.0,
+        "casos": 8,
+        "incidencia_100mil": 225.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5205455",
+        "municipio": "Cezarina",
+        "populacao_2022": 8090.0,
+        "casos": 8,
+        "incidencia_100mil": 98.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5211701",
+        "municipio": "Jandaia",
+        "populacao_2022": 6272.0,
+        "casos": 8,
+        "incidencia_100mil": 127.55,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5212006",
+        "municipio": "Jaupaci",
+        "populacao_2022": 2924.0,
+        "casos": 8,
+        "incidencia_100mil": 273.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5219803",
+        "municipio": "São Domingos",
+        "populacao_2022": 9711.0,
+        "casos": 7,
+        "incidencia_100mil": 72.08,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5204656",
+        "municipio": "Campinaçu",
+        "populacao_2022": 3708.0,
+        "casos": 7,
+        "incidencia_100mil": 188.78,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5200506",
+        "municipio": "Aloândia",
+        "populacao_2022": 1973.0,
+        "casos": 7,
+        "incidencia_100mil": 354.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5220702",
+        "municipio": "Sítio d'Abadia",
+        "populacao_2022": 2927.0,
+        "casos": 6,
+        "incidencia_100mil": 204.99,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5220686",
+        "municipio": "Simolândia",
+        "populacao_2022": 5742.0,
+        "casos": 6,
+        "incidencia_100mil": 104.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5215652",
+        "municipio": "Palestina de Goiás",
+        "populacao_2022": 3132.0,
+        "casos": 6,
+        "incidencia_100mil": 191.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5204201",
+        "municipio": "Cachoeira de Goiás",
+        "populacao_2022": 1405.0,
+        "casos": 6,
+        "incidencia_100mil": 427.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218102",
+        "municipio": "Portelândia",
+        "populacao_2022": 3280.0,
+        "casos": 5,
+        "incidencia_100mil": 152.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5222203",
+        "municipio": "Vila Boa",
+        "populacao_2022": 4215.0,
+        "casos": 5,
+        "incidencia_100mil": 118.62,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5213053",
+        "municipio": "Mimoso de Goiás",
+        "populacao_2022": 2614.0,
+        "casos": 5,
+        "incidencia_100mil": 191.28,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5221080",
+        "municipio": "Teresina de Goiás",
+        "populacao_2022": 2701.0,
+        "casos": 4,
+        "incidencia_100mil": 148.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5214101",
+        "municipio": "Mutunópolis",
+        "populacao_2022": 3564.0,
+        "casos": 4,
+        "incidencia_100mil": 112.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5219357",
+        "municipio": "Santa Isabel",
+        "populacao_2022": 3538.0,
+        "casos": 4,
+        "incidencia_100mil": 113.06,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5202809",
+        "municipio": "Avelinópolis",
+        "populacao_2022": 2868.0,
+        "casos": 4,
+        "incidencia_100mil": 139.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5200829",
+        "municipio": "Amaralina",
+        "populacao_2022": 3268.0,
+        "casos": 3,
+        "incidencia_100mil": 91.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5200175",
+        "municipio": "Água Fria de Goiás",
+        "populacao_2022": 4954.0,
+        "casos": 3,
+        "incidencia_100mil": 60.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5207105",
+        "municipio": "Diorama",
+        "populacao_2022": 2062.0,
+        "casos": 3,
+        "incidencia_100mil": 145.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5220280",
+        "municipio": "São Patrício",
+        "populacao_2022": 2143.0,
+        "casos": 3,
+        "incidencia_100mil": 139.99,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5216908",
+        "municipio": "Pilar de Goiás",
+        "populacao_2022": 2328.0,
+        "casos": 3,
+        "incidencia_100mil": 128.87,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5212253",
+        "municipio": "Lagoa Santa",
+        "populacao_2022": 1390.0,
+        "casos": 3,
+        "incidencia_100mil": 215.83,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5203962",
+        "municipio": "Buritinópolis",
+        "populacao_2022": 3145.0,
+        "casos": 2,
+        "incidencia_100mil": 63.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5221908",
+        "municipio": "Varjão",
+        "populacao_2022": 3716.0,
+        "casos": 2,
+        "incidencia_100mil": 53.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5209457",
+        "municipio": "Guarinos",
+        "populacao_2022": 2161.0,
+        "casos": 2,
+        "incidencia_100mil": 92.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5201207",
+        "municipio": "Anhanguera",
+        "populacao_2022": 924.0,
+        "casos": 1,
+        "incidencia_100mil": 108.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5215405",
+        "municipio": "Ouro Verde de Goiás",
+        "populacao_2022": 4057.0,
+        "casos": 1,
+        "incidencia_100mil": 24.65,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 82657,
+        "percentual_dentro_uf_residencia": 99.97
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "MT",
+        "total_registros": 5,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "MG",
+        "total_registros": 4,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "TO",
+        "total_registros": 3,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "DF",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "BA",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "SP",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "AL",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "PE",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "SC",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      },
+      {
+        "uf_residencia": "GO",
+        "uf_provavel_infeccao": "RS",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Goiás, foram contabilizados 108.912 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 243 municípios com informações disponíveis para análise, Goiânia apresentou o maior número absoluto de notificações, com 31.778. A maior incidência foi observada em Turvânia, com 9.084,82 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 75,49% dos registros de GO foram classificados como autóctones, 1,21% como não autóctones, 7,30% como indeterminados e 16,00% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,97% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Goiás",
+    "GO",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

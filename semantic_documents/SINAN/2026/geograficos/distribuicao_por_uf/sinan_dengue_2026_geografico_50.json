@@ -1,0 +1,744 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_50",
+  "titulo": "Distribuição geográfica dos registros de dengue em Mato Grosso do Sul — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "50",
+    "sigla_uf": "MS",
+    "uf_nome": "Mato Grosso do Sul",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Mato Grosso do Sul, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 4663,
+    "total_casos_notificacao": 4651,
+    "total_municipios_analisados": 79,
+    "municipio_maior_numero_casos": "Corumbá",
+    "maior_numero_casos_municipio": 1756,
+    "municipio_maior_incidencia": "Santa Rita do Pardo",
+    "maior_incidencia_100mil": 2049.24,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 4663,
+      "autoctones_residencia": 1899,
+      "percentual_autoctones": 40.72,
+      "nao_autoctones_residencia": 35,
+      "percentual_nao_autoctones": 0.75,
+      "indeterminados": 149,
+      "percentual_indeterminados": 3.2,
+      "ausentes": 2580,
+      "percentual_ausentes": 55.33,
+      "total_comparaveis_uf_residencia_infeccao": 1908,
+      "percentual_mesma_uf_residencia_infeccao": 100.0,
+      "percentual_uf_diferente_residencia_infeccao": 0.0
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 12
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 34
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 33
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "5003207",
+        "municipio": "Corumbá",
+        "populacao_2022": 96268.0,
+        "casos": 1756,
+        "incidencia_100mil": 1824.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5003702",
+        "municipio": "Dourados",
+        "populacao_2022": 243367.0,
+        "casos": 455,
+        "incidencia_100mil": 186.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5003256",
+        "municipio": "Costa Rica",
+        "populacao_2022": 26037.0,
+        "casos": 205,
+        "incidencia_100mil": 787.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5007901",
+        "municipio": "Sidrolândia",
+        "populacao_2022": 47118.0,
+        "casos": 151,
+        "incidencia_100mil": 320.47,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5005004",
+        "municipio": "Jardim",
+        "populacao_2022": 23981.0,
+        "casos": 149,
+        "incidencia_100mil": 621.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5007554",
+        "municipio": "Santa Rita do Pardo",
+        "populacao_2022": 7027.0,
+        "casos": 144,
+        "incidencia_100mil": 2049.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5001102",
+        "municipio": "Aquidauana",
+        "populacao_2022": 46803.0,
+        "casos": 134,
+        "incidencia_100mil": 286.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5005202",
+        "municipio": "Ladário",
+        "populacao_2022": 21522.0,
+        "casos": 132,
+        "incidencia_100mil": 613.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5008305",
+        "municipio": "Três Lagoas",
+        "populacao_2022": 132152.0,
+        "casos": 100,
+        "incidencia_100mil": 75.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5000609",
+        "municipio": "Amambai",
+        "populacao_2022": 39325.0,
+        "casos": 86,
+        "incidencia_100mil": 218.69,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5002407",
+        "municipio": "Caarapó",
+        "populacao_2022": 30612.0,
+        "casos": 81,
+        "incidencia_100mil": 264.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5005400",
+        "municipio": "Maracaju",
+        "populacao_2022": 45047.0,
+        "casos": 78,
+        "incidencia_100mil": 173.15,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5006606",
+        "municipio": "Ponta Porã",
+        "populacao_2022": 92017.0,
+        "casos": 66,
+        "incidencia_100mil": 71.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5000708",
+        "municipio": "Anastácio",
+        "populacao_2022": 24114.0,
+        "casos": 59,
+        "incidencia_100mil": 244.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5005681",
+        "municipio": "Mundo Novo",
+        "populacao_2022": 19193.0,
+        "casos": 56,
+        "incidencia_100mil": 291.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5002704",
+        "municipio": "Campo Grande",
+        "populacao_2022": 898100.0,
+        "casos": 54,
+        "incidencia_100mil": 6.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5000856",
+        "municipio": "Angélica",
+        "populacao_2022": 10729.0,
+        "casos": 50,
+        "incidencia_100mil": 466.03,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5001904",
+        "municipio": "Bataguassu",
+        "populacao_2022": 23031.0,
+        "casos": 45,
+        "incidencia_100mil": 195.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5008008",
+        "municipio": "Terenos",
+        "populacao_2022": 17652.0,
+        "casos": 41,
+        "incidencia_100mil": 232.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5002951",
+        "municipio": "Chapadão do Sul",
+        "populacao_2022": 30993.0,
+        "casos": 37,
+        "incidencia_100mil": 119.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5003488",
+        "municipio": "Dois Irmãos do Buriti",
+        "populacao_2022": 11100.0,
+        "casos": 34,
+        "incidencia_100mil": 306.31,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5002209",
+        "municipio": "Bonito",
+        "populacao_2022": 23659.0,
+        "casos": 32,
+        "incidencia_100mil": 135.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5002001",
+        "municipio": "Batayporã",
+        "populacao_2022": 10712.0,
+        "casos": 32,
+        "incidencia_100mil": 298.73,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5006358",
+        "municipio": "Paranhos",
+        "populacao_2022": 12921.0,
+        "casos": 30,
+        "incidencia_100mil": 232.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5004502",
+        "municipio": "Itaporã",
+        "populacao_2022": 24137.0,
+        "casos": 29,
+        "incidencia_100mil": 120.15,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5000906",
+        "municipio": "Antônio João",
+        "populacao_2022": 9303.0,
+        "casos": 28,
+        "incidencia_100mil": 300.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5006200",
+        "municipio": "Nova Andradina",
+        "populacao_2022": 48563.0,
+        "casos": 27,
+        "incidencia_100mil": 55.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5000203",
+        "municipio": "Água Clara",
+        "populacao_2022": 16741.0,
+        "casos": 27,
+        "incidencia_100mil": 161.28,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5004106",
+        "municipio": "Guia Lopes da Laguna",
+        "populacao_2022": 9940.0,
+        "casos": 26,
+        "incidencia_100mil": 261.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5003801",
+        "municipio": "Fátima do Sul",
+        "populacao_2022": 20609.0,
+        "casos": 25,
+        "incidencia_100mil": 121.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5004908",
+        "municipio": "Jaraguari",
+        "populacao_2022": 7139.0,
+        "casos": 23,
+        "incidencia_100mil": 322.17,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5007695",
+        "municipio": "São Gabriel do Oeste",
+        "populacao_2022": 29579.0,
+        "casos": 22,
+        "incidencia_100mil": 74.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003454",
+        "municipio": "Deodápolis",
+        "populacao_2022": 13663.0,
+        "casos": 22,
+        "incidencia_100mil": 161.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5006408",
+        "municipio": "Pedro Gomes",
+        "populacao_2022": 6941.0,
+        "casos": 22,
+        "incidencia_100mil": 316.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5006275",
+        "municipio": "Paraíso das Águas",
+        "populacao_2022": 5510.0,
+        "casos": 22,
+        "incidencia_100mil": 399.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5007703",
+        "municipio": "Sete Quedas",
+        "populacao_2022": 10994.0,
+        "casos": 21,
+        "incidencia_100mil": 191.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5007208",
+        "municipio": "Rio Brilhante",
+        "populacao_2022": 37601.0,
+        "casos": 20,
+        "incidencia_100mil": 53.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5002159",
+        "municipio": "Bodoquena",
+        "populacao_2022": 8567.0,
+        "casos": 17,
+        "incidencia_100mil": 198.44,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5006309",
+        "municipio": "Paranaíba",
+        "populacao_2022": 40957.0,
+        "casos": 17,
+        "incidencia_100mil": 41.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5004007",
+        "municipio": "Glória de Dourados",
+        "populacao_2022": 10444.0,
+        "casos": 17,
+        "incidencia_100mil": 162.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5004304",
+        "municipio": "Iguatemi",
+        "populacao_2022": 13808.0,
+        "casos": 17,
+        "incidencia_100mil": 123.12,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5005251",
+        "municipio": "Laguna Carapã",
+        "populacao_2022": 6799.0,
+        "casos": 16,
+        "incidencia_100mil": 235.33,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5007109",
+        "municipio": "Ribas do Rio Pardo",
+        "populacao_2022": 23150.0,
+        "casos": 16,
+        "incidencia_100mil": 69.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003504",
+        "municipio": "Douradina",
+        "populacao_2022": 5578.0,
+        "casos": 16,
+        "incidencia_100mil": 286.84,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5008404",
+        "municipio": "Vicentina",
+        "populacao_2022": 6336.0,
+        "casos": 15,
+        "incidencia_100mil": 236.74,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5005806",
+        "municipio": "Nioaque",
+        "populacao_2022": 13220.0,
+        "casos": 15,
+        "incidencia_100mil": 113.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5005707",
+        "municipio": "Naviraí",
+        "populacao_2022": 50457.0,
+        "casos": 13,
+        "incidencia_100mil": 25.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5007505",
+        "municipio": "Rochedo",
+        "populacao_2022": 5199.0,
+        "casos": 13,
+        "incidencia_100mil": 250.05,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5007802",
+        "municipio": "Selvíria",
+        "populacao_2022": 8142.0,
+        "casos": 13,
+        "incidencia_100mil": 159.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5004601",
+        "municipio": "Itaquiraí",
+        "populacao_2022": 19423.0,
+        "casos": 10,
+        "incidencia_100mil": 51.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5004403",
+        "municipio": "Inocência",
+        "populacao_2022": 8404.0,
+        "casos": 9,
+        "incidencia_100mil": 107.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5001508",
+        "municipio": "Bandeirantes",
+        "populacao_2022": 7940.0,
+        "casos": 9,
+        "incidencia_100mil": 113.35,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5001003",
+        "municipio": "Aparecida do Taboado",
+        "populacao_2022": 27674.0,
+        "casos": 9,
+        "incidencia_100mil": 32.52,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5004700",
+        "municipio": "Ivinhema",
+        "populacao_2022": 27821.0,
+        "casos": 8,
+        "incidencia_100mil": 28.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5001243",
+        "municipio": "Aral Moreira",
+        "populacao_2022": 10748.0,
+        "casos": 8,
+        "incidencia_100mil": 74.43,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5002308",
+        "municipio": "Brasilândia",
+        "populacao_2022": 11579.0,
+        "casos": 8,
+        "incidencia_100mil": 69.09,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003157",
+        "municipio": "Coronel Sapucaia",
+        "populacao_2022": 14289.0,
+        "casos": 7,
+        "incidencia_100mil": 48.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5005608",
+        "municipio": "Miranda",
+        "populacao_2022": 25536.0,
+        "casos": 7,
+        "incidencia_100mil": 27.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5005103",
+        "municipio": "Jateí",
+        "populacao_2022": 3586.0,
+        "casos": 7,
+        "incidencia_100mil": 195.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5006903",
+        "municipio": "Porto Murtinho",
+        "populacao_2022": 12859.0,
+        "casos": 6,
+        "incidencia_100mil": 46.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5002902",
+        "municipio": "Cassilândia",
+        "populacao_2022": 20988.0,
+        "casos": 6,
+        "incidencia_100mil": 28.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5002605",
+        "municipio": "Camapuã",
+        "populacao_2022": 13583.0,
+        "casos": 6,
+        "incidencia_100mil": 44.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5000807",
+        "municipio": "Anaurilândia",
+        "populacao_2022": 7653.0,
+        "casos": 5,
+        "incidencia_100mil": 65.33,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003108",
+        "municipio": "Corguinho",
+        "populacao_2022": 4783.0,
+        "casos": 5,
+        "incidencia_100mil": 104.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5002100",
+        "municipio": "Bela Vista",
+        "populacao_2022": 21613.0,
+        "casos": 5,
+        "incidencia_100mil": 23.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003751",
+        "municipio": "Eldorado",
+        "populacao_2022": 11386.0,
+        "casos": 5,
+        "incidencia_100mil": 43.91,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5007976",
+        "municipio": "Taquarussu",
+        "populacao_2022": 3625.0,
+        "casos": 5,
+        "incidencia_100mil": 137.93,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "5007935",
+        "municipio": "Sonora",
+        "populacao_2022": 14516.0,
+        "casos": 4,
+        "incidencia_100mil": 27.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003306",
+        "municipio": "Coxim",
+        "populacao_2022": 32151.0,
+        "casos": 4,
+        "incidencia_100mil": 12.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5007406",
+        "municipio": "Rio Verde de Mato Grosso",
+        "populacao_2022": 19818.0,
+        "casos": 4,
+        "incidencia_100mil": 20.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5000252",
+        "municipio": "Alcinópolis",
+        "populacao_2022": 4537.0,
+        "casos": 3,
+        "incidencia_100mil": 66.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5007307",
+        "municipio": "Rio Negro",
+        "populacao_2022": 4841.0,
+        "casos": 3,
+        "incidencia_100mil": 61.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5006002",
+        "municipio": "Nova Alvorada do Sul",
+        "populacao_2022": 21822.0,
+        "casos": 3,
+        "incidencia_100mil": 13.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5003900",
+        "municipio": "Figueirão",
+        "populacao_2022": 3539.0,
+        "casos": 3,
+        "incidencia_100mil": 84.77,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5002803",
+        "municipio": "Caracol",
+        "populacao_2022": 5036.0,
+        "casos": 3,
+        "incidencia_100mil": 59.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5006259",
+        "municipio": "Novo Horizonte do Sul",
+        "populacao_2022": 4721.0,
+        "casos": 2,
+        "incidencia_100mil": 42.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5004809",
+        "municipio": "Japorã",
+        "populacao_2022": 8148.0,
+        "casos": 1,
+        "incidencia_100mil": 12.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5005152",
+        "municipio": "Juti",
+        "populacao_2022": 6729.0,
+        "casos": 1,
+        "incidencia_100mil": 14.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "5007950",
+        "municipio": "Tacuru",
+        "populacao_2022": 10808.0,
+        "casos": 1,
+        "incidencia_100mil": 9.25,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "MS",
+        "uf_provavel_infeccao": "MS",
+        "total_registros": 1908,
+        "percentual_dentro_uf_residencia": 100.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Mato Grosso do Sul, foram contabilizados 4.663 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 79 municípios com informações disponíveis para análise, Corumbá apresentou o maior número absoluto de notificações, com 1.756. A maior incidência foi observada em Santa Rita do Pardo, com 2.049,24 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 40,72% dos registros de MS foram classificados como autóctones, 0,75% como não autóctones, 3,20% como indeterminados e 55,33% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 100,00% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Mato Grosso do Sul",
+    "MS",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

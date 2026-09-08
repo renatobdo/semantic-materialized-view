@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_51",
+  "titulo": "Desfechos dos registros de dengue em Mato Grosso - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "51",
+    "uf_nome": "Mato Grosso",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Mato Grosso, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 11633,
+    "avaliaveis_hospitalizacao": 9741,
+    "hospitalizados": 1446,
+    "percentual_hospitalizados": 14.84,
+    "total_evolucao_avaliavel": 9208,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 9180,
+    "percentual_evolucao_predominante": 99.7
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 11633,
+        "avaliaveis": 9741,
+        "hospitalizados": 1446,
+        "nao_hospitalizados": 8295,
+        "ignorados": 22,
+        "ausentes": 1870,
+        "percentual_hospitalizados": 14.84,
+        "percentual_nao_hospitalizados": 85.16,
+        "percentual_ignorados": 0.19,
+        "percentual_ausentes": 16.07
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 9180,
+        "percentual_total": 78.91,
+        "avaliavel": true,
+        "total_avaliaveis": 9208,
+        "percentual_avaliaveis": 99.7
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 300,
+        "percentual_total": 2.58,
+        "avaliavel": false,
+        "total_avaliaveis": 9208,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 1,
+        "percentual_total": 0.01,
+        "avaliavel": true,
+        "total_avaliaveis": 9208,
+        "percentual_avaliaveis": 0.01
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 14,
+        "percentual_total": 0.12,
+        "avaliavel": true,
+        "total_avaliaveis": 9208,
+        "percentual_avaliaveis": 0.15
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 13,
+        "percentual_total": 0.11,
+        "avaliavel": true,
+        "total_avaliaveis": 9208,
+        "percentual_avaliaveis": 0.14
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 2125,
+        "percentual_total": 18.27,
+        "avaliavel": false,
+        "total_avaliaveis": 9208,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Mato Grosso, foram considerados 11,633 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 1,446 apresentaram hospitalização, correspondendo a 14.84%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 9,180 registros e 99.70% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Mato Grosso",
+    "51",
+    "2026",
+    "SINAN"
+  ]
+}

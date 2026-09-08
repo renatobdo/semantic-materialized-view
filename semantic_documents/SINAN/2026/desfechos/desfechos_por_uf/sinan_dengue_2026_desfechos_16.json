@@ -1,0 +1,113 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_16",
+  "titulo": "Desfechos dos registros de dengue em Amapá - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "16",
+    "uf_nome": "Amapá",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Amapá, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 513,
+    "avaliaveis_hospitalizacao": 416,
+    "hospitalizados": 56,
+    "percentual_hospitalizados": 13.46,
+    "total_evolucao_avaliavel": 286,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 285,
+    "percentual_evolucao_predominante": 99.65
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 513,
+        "avaliaveis": 416,
+        "hospitalizados": 56,
+        "nao_hospitalizados": 360,
+        "ignorados": 1,
+        "ausentes": 96,
+        "percentual_hospitalizados": 13.46,
+        "percentual_nao_hospitalizados": 86.54,
+        "percentual_ignorados": 0.19,
+        "percentual_ausentes": 18.71
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 285,
+        "percentual_total": 55.56,
+        "avaliavel": true,
+        "total_avaliaveis": 286,
+        "percentual_avaliaveis": 99.65
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 37,
+        "percentual_total": 7.21,
+        "avaliavel": false,
+        "total_avaliaveis": 286,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 1,
+        "percentual_total": 0.19,
+        "avaliavel": true,
+        "total_avaliaveis": 286,
+        "percentual_avaliaveis": 0.35
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 190,
+        "percentual_total": 37.04,
+        "avaliavel": false,
+        "total_avaliaveis": 286,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Amapá, foram considerados 513 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 56 apresentaram hospitalização, correspondendo a 13.46%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 285 registros e 99.65% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Amapá",
+    "16",
+    "2026",
+    "SINAN"
+  ]
+}

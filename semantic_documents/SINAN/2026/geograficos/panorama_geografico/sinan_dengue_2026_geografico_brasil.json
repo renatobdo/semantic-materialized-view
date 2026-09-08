@@ -1,0 +1,742 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_BRASIL",
+  "titulo": "Panorama geográfico dos registros de dengue no Brasil — 2026",
+  "tipo_documento": "panorama_geografico_nacional",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "pais": "Brasil",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_municipios_analisados": 4711
+  },
+  "sintese": "Este documento apresenta um panorama nacional da distribuição geográfica dos registros de dengue no SINAN em 2026, considerando as semanas epidemiológicas 1 a 34, as UFs de residência e de notificação, a distribuição municipal, a incidência por 100 mil habitantes e a classificação de criticidade. O panorama também incorpora autoctonia e o provável local de infecção, incluindo a concordância entre residência e provável local de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 444266,
+    "total_casos_notificacao": 444266,
+    "total_ufs_residencia": 27,
+    "total_ufs_notificacao": 27,
+    "total_municipios_analisados": 4711,
+    "uf_maior_numero_residencia": "GO",
+    "codigo_uf_maior_numero_residencia": "52",
+    "total_maior_uf_residencia": 108912,
+    "uf_maior_numero_notificacao": "Goiás",
+    "codigo_uf_maior_numero_notificacao": "52",
+    "total_maior_uf_notificacao": 108884,
+    "municipio_maior_numero_casos": "Goiânia",
+    "maior_numero_casos_municipio": 31778,
+    "municipio_maior_incidencia": "Turvânia",
+    "maior_incidencia_100mil": 9084.82,
+    "autoctonia": {
+      "total_registros": 444266,
+      "autoctones_residencia": 257191,
+      "percentual_autoctones": 57.89,
+      "nao_autoctones_residencia": 6023,
+      "percentual_nao_autoctones": 1.36,
+      "indeterminados": 18002,
+      "percentual_indeterminados": 4.05,
+      "ausentes": 163050,
+      "percentual_ausentes": 36.7,
+      "total_comparaveis_uf_residencia_infeccao": 240724,
+      "percentual_mesma_uf_residencia_infeccao": 99.85,
+      "total_comparaveis_municipio_residencia_infeccao": 240724,
+      "percentual_mesmo_municipio_residencia_infeccao": 99.37
+    },
+    "consistencia_autoctonia": {
+      "consistente": {
+        "total_registros": 257590,
+        "percentual_total": 57.98
+      },
+      "nao_avaliavel": {
+        "total_registros": 185541,
+        "percentual_total": 41.76
+      },
+      "inconsistente": {
+        "total_registros": 1135,
+        "percentual_total": 0.26
+      }
+    },
+    "uf_provavel_infeccao_maior_frequencia": "GO",
+    "total_uf_provavel_infeccao_maior_frequencia": 82695
+  },
+  "evidencias": {
+    "distribuicao_por_uf_residencia": [
+      {
+        "codigo_uf": "52",
+        "uf": "GO",
+        "total_casos": 108912
+      },
+      {
+        "codigo_uf": "35",
+        "uf": "SP",
+        "total_casos": 65032
+      },
+      {
+        "codigo_uf": "31",
+        "uf": "MG",
+        "total_casos": 61668
+      },
+      {
+        "codigo_uf": "26",
+        "uf": "PE",
+        "total_casos": 22008
+      },
+      {
+        "codigo_uf": "29",
+        "uf": "BA",
+        "total_casos": 21749
+      },
+      {
+        "codigo_uf": "32",
+        "uf": "ES",
+        "total_casos": 19045
+      },
+      {
+        "codigo_uf": "23",
+        "uf": "CE",
+        "total_casos": 17353
+      },
+      {
+        "codigo_uf": "22",
+        "uf": "PI",
+        "total_casos": 17346
+      },
+      {
+        "codigo_uf": "17",
+        "uf": "TO",
+        "total_casos": 15296
+      },
+      {
+        "codigo_uf": "21",
+        "uf": "MA",
+        "total_casos": 12386
+      },
+      {
+        "codigo_uf": "51",
+        "uf": "MT",
+        "total_casos": 11620
+      },
+      {
+        "codigo_uf": "41",
+        "uf": "PR",
+        "total_casos": 11297
+      },
+      {
+        "codigo_uf": "15",
+        "uf": "PA",
+        "total_casos": 9476
+      },
+      {
+        "codigo_uf": "24",
+        "uf": "RN",
+        "total_casos": 7201
+      },
+      {
+        "codigo_uf": "33",
+        "uf": "RJ",
+        "total_casos": 6967
+      },
+      {
+        "codigo_uf": "43",
+        "uf": "RS",
+        "total_casos": 6765
+      },
+      {
+        "codigo_uf": "25",
+        "uf": "PB",
+        "total_casos": 6530
+      },
+      {
+        "codigo_uf": "27",
+        "uf": "AL",
+        "total_casos": 5427
+      },
+      {
+        "codigo_uf": "50",
+        "uf": "MS",
+        "total_casos": 4663
+      },
+      {
+        "codigo_uf": "53",
+        "uf": "DF",
+        "total_casos": 3700
+      },
+      {
+        "codigo_uf": "42",
+        "uf": "SC",
+        "total_casos": 2996
+      },
+      {
+        "codigo_uf": "12",
+        "uf": "AC",
+        "total_casos": 1813
+      },
+      {
+        "codigo_uf": "13",
+        "uf": "AM",
+        "total_casos": 1437
+      },
+      {
+        "codigo_uf": "11",
+        "uf": "RO",
+        "total_casos": 1366
+      },
+      {
+        "codigo_uf": "28",
+        "uf": "SE",
+        "total_casos": 1126
+      },
+      {
+        "codigo_uf": "14",
+        "uf": "RR",
+        "total_casos": 562
+      },
+      {
+        "codigo_uf": "16",
+        "uf": "AP",
+        "total_casos": 510
+      }
+    ],
+    "distribuicao_por_uf_notificacao": [
+      {
+        "codigo_uf": "52",
+        "uf": "Goiás",
+        "total_casos": 108884
+      },
+      {
+        "codigo_uf": "35",
+        "uf": "São Paulo",
+        "total_casos": 65195
+      },
+      {
+        "codigo_uf": "31",
+        "uf": "Minas Gerais",
+        "total_casos": 61248
+      },
+      {
+        "codigo_uf": "26",
+        "uf": "Pernambuco",
+        "total_casos": 22036
+      },
+      {
+        "codigo_uf": "29",
+        "uf": "Bahia",
+        "total_casos": 21609
+      },
+      {
+        "codigo_uf": "32",
+        "uf": "Espírito Santo",
+        "total_casos": 19414
+      },
+      {
+        "codigo_uf": "22",
+        "uf": "Piauí",
+        "total_casos": 17383
+      },
+      {
+        "codigo_uf": "23",
+        "uf": "Ceará",
+        "total_casos": 17337
+      },
+      {
+        "codigo_uf": "17",
+        "uf": "Tocantins",
+        "total_casos": 15430
+      },
+      {
+        "codigo_uf": "21",
+        "uf": "Maranhão",
+        "total_casos": 12282
+      },
+      {
+        "codigo_uf": "51",
+        "uf": "Mato Grosso",
+        "total_casos": 11633
+      },
+      {
+        "codigo_uf": "41",
+        "uf": "Paraná",
+        "total_casos": 11293
+      },
+      {
+        "codigo_uf": "15",
+        "uf": "Pará",
+        "total_casos": 9323
+      },
+      {
+        "codigo_uf": "24",
+        "uf": "Rio Grande do Norte",
+        "total_casos": 7234
+      },
+      {
+        "codigo_uf": "33",
+        "uf": "Rio de Janeiro",
+        "total_casos": 6854
+      },
+      {
+        "codigo_uf": "43",
+        "uf": "Rio Grande do Sul",
+        "total_casos": 6743
+      },
+      {
+        "codigo_uf": "25",
+        "uf": "Paraíba",
+        "total_casos": 6514
+      },
+      {
+        "codigo_uf": "27",
+        "uf": "Alagoas",
+        "total_casos": 5473
+      },
+      {
+        "codigo_uf": "50",
+        "uf": "Mato Grosso do Sul",
+        "total_casos": 4651
+      },
+      {
+        "codigo_uf": "53",
+        "uf": "Distrito Federal",
+        "total_casos": 3841
+      },
+      {
+        "codigo_uf": "42",
+        "uf": "Santa Catarina",
+        "total_casos": 3070
+      },
+      {
+        "codigo_uf": "12",
+        "uf": "Acre",
+        "total_casos": 1832
+      },
+      {
+        "codigo_uf": "13",
+        "uf": "Amazonas",
+        "total_casos": 1399
+      },
+      {
+        "codigo_uf": "11",
+        "uf": "Rondônia",
+        "total_casos": 1354
+      },
+      {
+        "codigo_uf": "28",
+        "uf": "Sergipe",
+        "total_casos": 1165
+      },
+      {
+        "codigo_uf": "14",
+        "uf": "Roraima",
+        "total_casos": 556
+      },
+      {
+        "codigo_uf": "16",
+        "uf": "Amapá",
+        "total_casos": 513
+      }
+    ],
+    "criticidade_municipal_nacional": [
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 2634
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 1070
+      },
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 1007
+      }
+    ],
+    "municipios_maior_numero_registros": [
+      {
+        "codigo_municipio": "5208707",
+        "municipio": "Goiânia",
+        "uf": "GO",
+        "casos": 31778,
+        "populacao_2022": 1437366.0,
+        "incidencia_100mil": 2210.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5201405",
+        "municipio": "Aparecida de Goiânia",
+        "uf": "GO",
+        "casos": 21333,
+        "populacao_2022": 527796.0,
+        "incidencia_100mil": 4041.9,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3550308",
+        "municipio": "São Paulo",
+        "uf": "SP",
+        "casos": 9995,
+        "populacao_2022": 11451999.0,
+        "incidencia_100mil": 87.28,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2211001",
+        "municipio": "Teresina",
+        "uf": "PI",
+        "casos": 8076,
+        "populacao_2022": 866300.0,
+        "incidencia_100mil": 932.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3170206",
+        "municipio": "Uberlândia",
+        "uf": "MG",
+        "casos": 7605,
+        "populacao_2022": 713224.0,
+        "incidencia_100mil": 1066.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5218805",
+        "municipio": "Rio Verde",
+        "uf": "GO",
+        "casos": 7017,
+        "populacao_2022": 225696.0,
+        "incidencia_100mil": 3109.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211909",
+        "municipio": "Jataí",
+        "uf": "GO",
+        "casos": 6938,
+        "populacao_2022": 105729.0,
+        "incidencia_100mil": 6562.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3205002",
+        "municipio": "Serra",
+        "uf": "ES",
+        "casos": 5771,
+        "populacao_2022": 520653.0,
+        "incidencia_100mil": 1108.42,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3549805",
+        "municipio": "São José do Rio Preto",
+        "uf": "SP",
+        "casos": 5039,
+        "populacao_2022": 480393.0,
+        "incidencia_100mil": 1048.93,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702109",
+        "municipio": "Araguaína",
+        "uf": "TO",
+        "casos": 4745,
+        "populacao_2022": 171301.0,
+        "incidencia_100mil": 2769.98,
+        "grau_criticidade": "Alta"
+      }
+    ],
+    "municipios_maior_incidencia": [
+      {
+        "codigo_municipio": "5221502",
+        "municipio": "Turvânia",
+        "uf": "GO",
+        "casos": 407,
+        "populacao_2022": 4480.0,
+        "incidencia_100mil": 9084.82,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3138906",
+        "municipio": "Machacalis",
+        "uf": "MG",
+        "casos": 548,
+        "populacao_2022": 6487.0,
+        "incidencia_100mil": 8447.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3138302",
+        "municipio": "Leandro Ferreira",
+        "uf": "MG",
+        "casos": 259,
+        "populacao_2022": 3199.0,
+        "incidencia_100mil": 8096.28,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5205901",
+        "municipio": "Corumbaíba",
+        "uf": "GO",
+        "casos": 673,
+        "populacao_2022": 9164.0,
+        "incidencia_100mil": 7343.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2918704",
+        "municipio": "Lafaiete Coutinho",
+        "uf": "BA",
+        "casos": 293,
+        "populacao_2022": 4075.0,
+        "incidencia_100mil": 7190.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101806",
+        "municipio": "Benedito Leite",
+        "uf": "MA",
+        "casos": 393,
+        "populacao_2022": 5469.0,
+        "incidencia_100mil": 7185.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "4118303",
+        "municipio": "Paranapoema",
+        "uf": "PR",
+        "casos": 162,
+        "populacao_2022": 2398.0,
+        "incidencia_100mil": 6755.63,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "5211909",
+        "municipio": "Jataí",
+        "uf": "GO",
+        "casos": 6938,
+        "populacao_2022": 105729.0,
+        "incidencia_100mil": 6562.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "3152808",
+        "municipio": "Prata",
+        "uf": "MG",
+        "casos": 1725,
+        "populacao_2022": 28342.0,
+        "incidencia_100mil": 6086.37,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2200806",
+        "municipio": "Antônio Almeida",
+        "uf": "PI",
+        "casos": 190,
+        "populacao_2022": 3152.0,
+        "incidencia_100mil": 6027.92,
+        "grau_criticidade": "Alta"
+      }
+    ],
+    "distribuicao_uf_provavel_infeccao": [
+      {
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 82695,
+        "percentual_total": 18.61
+      },
+      {
+        "uf_provavel_infeccao": "SP",
+        "total_registros": 48235,
+        "percentual_total": 10.86
+      },
+      {
+        "uf_provavel_infeccao": "MG",
+        "total_registros": 28504,
+        "percentual_total": 6.42
+      },
+      {
+        "uf_provavel_infeccao": "CE",
+        "total_registros": 9479,
+        "percentual_total": 2.13
+      },
+      {
+        "uf_provavel_infeccao": "TO",
+        "total_registros": 8952,
+        "percentual_total": 2.02
+      },
+      {
+        "uf_provavel_infeccao": "MT",
+        "total_registros": 8934,
+        "percentual_total": 2.01
+      },
+      {
+        "uf_provavel_infeccao": "PI",
+        "total_registros": 7980,
+        "percentual_total": 1.8
+      },
+      {
+        "uf_provavel_infeccao": "BA",
+        "total_registros": 7951,
+        "percentual_total": 1.79
+      },
+      {
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 6057,
+        "percentual_total": 1.36
+      },
+      {
+        "uf_provavel_infeccao": "PR",
+        "total_registros": 5477,
+        "percentual_total": 1.23
+      },
+      {
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 4871,
+        "percentual_total": 1.1
+      },
+      {
+        "uf_provavel_infeccao": "PE",
+        "total_registros": 3767,
+        "percentual_total": 0.85
+      },
+      {
+        "uf_provavel_infeccao": "PB",
+        "total_registros": 3256,
+        "percentual_total": 0.73
+      },
+      {
+        "uf_provavel_infeccao": "AL",
+        "total_registros": 2405,
+        "percentual_total": 0.54
+      },
+      {
+        "uf_provavel_infeccao": "RJ",
+        "total_registros": 2253,
+        "percentual_total": 0.51
+      },
+      {
+        "uf_provavel_infeccao": "RN",
+        "total_registros": 2047,
+        "percentual_total": 0.46
+      },
+      {
+        "uf_provavel_infeccao": "RS",
+        "total_registros": 1982,
+        "percentual_total": 0.45
+      },
+      {
+        "uf_provavel_infeccao": "MS",
+        "total_registros": 1916,
+        "percentual_total": 0.43
+      },
+      {
+        "uf_provavel_infeccao": "SC",
+        "total_registros": 1013,
+        "percentual_total": 0.23
+      },
+      {
+        "uf_provavel_infeccao": "AM",
+        "total_registros": 776,
+        "percentual_total": 0.17
+      },
+      {
+        "uf_provavel_infeccao": "DF",
+        "total_registros": 598,
+        "percentual_total": 0.13
+      },
+      {
+        "uf_provavel_infeccao": "RO",
+        "total_registros": 448,
+        "percentual_total": 0.1
+      },
+      {
+        "uf_provavel_infeccao": "RR",
+        "total_registros": 358,
+        "percentual_total": 0.08
+      },
+      {
+        "uf_provavel_infeccao": "AP",
+        "total_registros": 287,
+        "percentual_total": 0.06
+      },
+      {
+        "uf_provavel_infeccao": "AC",
+        "total_registros": 232,
+        "percentual_total": 0.05
+      },
+      {
+        "uf_provavel_infeccao": "SE",
+        "total_registros": 214,
+        "percentual_total": 0.05
+      },
+      {
+        "uf_provavel_infeccao": "ES",
+        "total_registros": 43,
+        "percentual_total": 0.01
+      }
+    ],
+    "consistencia_autoctonia": [
+      {
+        "status": "Consistente",
+        "total_registros": 257590,
+        "percentual_total": 57.98
+      },
+      {
+        "status": "Não avaliável",
+        "total_registros": 185541,
+        "percentual_total": 41.76
+      },
+      {
+        "status": "Inconsistente",
+        "total_registros": 1135,
+        "percentual_total": 0.26
+      }
+    ]
+  },
+  "interpretacao": "No período analisado, GO apresentou o maior número de notificações segundo a UF de residência, com 108.912 notificações. Considerando a UF de notificação, Goiás apresentou o maior total, com 108.884 notificações. No nível municipal, Goiânia (GO) apresentou o maior número absoluto de notificações entre os municípios analisados, com 31.778 notificações. A maior incidência municipal foi observada em Turvânia (GO), com 9.084,82 notificações por 100 mil habitantes. Quanto à autoctonia segundo o município de residência, 57,89% dos registros foram classificados como autóctones, 1,36% como não autóctones, 4,05% como indeterminados e 36,70% apresentaram informação ausente. Entre os registros comparáveis, 99,85% apresentaram a mesma UF de residência e provável infecção. No nível municipal, 99,37% dos registros comparáveis apresentaram o mesmo município de residência e provável infecção.",
+  "observacoes_dados": [
+    "Os resultados correspondem ao período disponível entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os totais segundo UF de residência e UF de notificação correspondem a perspectivas geográficas distintas.",
+    "Na apresentação da distribuição por UF de residência, 15 registros com ausência ou divergência entre código e sigla da UF foram preservados nos dados analíticos, mas não foram tratados como categorias geográficas válidas no panorama.",
+    "A incidência municipal é calculada em relação à população utilizada como referência no processo de enriquecimento dos dados.",
+    "Municípios com populações pequenas podem apresentar elevada incidência mesmo quando o número absoluto de registros é relativamente baixo.",
+    "As listas municipais apresentadas neste panorama estão limitadas aos 10 maiores valores. A informação municipal completa está preservada nos documentos geográficos específicos das UFs.",
+    "A análise de autoctonia depende do preenchimento do provável local de infecção; registros ausentes e indeterminados são mantidos explicitamente nos indicadores."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Brasil",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção",
+    "Município provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Brasil",
+    "município",
+    "UF",
+    "incidência",
+    "notificações",
+    "residência",
+    "notificação",
+    "criticidade",
+    "distribuição geográfica",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção",
+    "município provável de infecção"
+  ]
+}

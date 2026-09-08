@@ -1,0 +1,295 @@
+{
+  "document_id": "SINAN_DENGUE_2026_CLINICO_14",
+  "titulo": "Perfil clínico dos registros de dengue em Roraima - 2026",
+  "tipo_documento": "perfil_clinico_uf",
+  "dominio": "clinico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "14",
+    "uf_nome": "Roraima",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta o perfil clínico dos registros de dengue no SINAN em Roraima, considerando as semanas epidemiológicas 1 a 34 de 2026. São apresentadas informações sobre sinais clínicos e doenças preexistentes.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 556,
+    "sinal_clinico_maior_frequencia": "Febre",
+    "percentual_sinal_clinico": 96.55,
+    "doenca_preexistente_maior_frequencia": "Hipertensão arterial",
+    "percentual_doenca_preexistente": 6.53
+  },
+  "evidencias": {
+    "sinais_clinicos": [
+      {
+        "variavel": "FEBRE_DECODED",
+        "sinal_clinico": "Febre",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 532,
+        "nao": 19,
+        "ausentes": 5,
+        "percentual_sim": 96.55,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "CEFALEIA_DECODED",
+        "sinal_clinico": "Cefaleia",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 494,
+        "nao": 57,
+        "ausentes": 5,
+        "percentual_sim": 89.66,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "MIALGIA_DECODED",
+        "sinal_clinico": "Mialgia",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 446,
+        "nao": 105,
+        "ausentes": 5,
+        "percentual_sim": 80.94,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "DOR_COSTAS_DECODED",
+        "sinal_clinico": "Dor nas costas",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 341,
+        "nao": 210,
+        "ausentes": 5,
+        "percentual_sim": 61.89,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "NAUSEA_DECODED",
+        "sinal_clinico": "Náusea",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 312,
+        "nao": 239,
+        "ausentes": 5,
+        "percentual_sim": 56.62,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "VOMITO_DECODED",
+        "sinal_clinico": "Vômito",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 240,
+        "nao": 311,
+        "ausentes": 5,
+        "percentual_sim": 43.56,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "DOR_RETRO_DECODED",
+        "sinal_clinico": "Dor retro-orbital",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 240,
+        "nao": 311,
+        "ausentes": 5,
+        "percentual_sim": 43.56,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "ARTRALGIA_DECODED",
+        "sinal_clinico": "Artralgia",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 159,
+        "nao": 392,
+        "ausentes": 5,
+        "percentual_sim": 28.86,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "ARTRITE_DECODED",
+        "sinal_clinico": "Artrite",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 136,
+        "nao": 415,
+        "ausentes": 5,
+        "percentual_sim": 24.68,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "EXANTEMA_DECODED",
+        "sinal_clinico": "Exantema",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 98,
+        "nao": 453,
+        "ausentes": 5,
+        "percentual_sim": 17.79,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "CONJUNTVIT_DECODED",
+        "sinal_clinico": "Conjuntivite",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 67,
+        "nao": 484,
+        "ausentes": 5,
+        "percentual_sim": 12.16,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "PETEQUIA_N_DECODED",
+        "sinal_clinico": "Petéquias",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 48,
+        "nao": 503,
+        "ausentes": 5,
+        "percentual_sim": 8.71,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "LEUCOPENIA_DECODED",
+        "sinal_clinico": "Leucopenia",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 19,
+        "nao": 532,
+        "ausentes": 5,
+        "percentual_sim": 3.45,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "LACO_DECODED",
+        "sinal_clinico": "Prova do laço",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 6,
+        "nao": 545,
+        "ausentes": 5,
+        "percentual_sim": 1.09,
+        "percentual_ausentes": 0.9
+      }
+    ],
+    "doencas_preexistentes": [
+      {
+        "variavel": "HIPERTENSA_DECODED",
+        "doenca_preexistente": "Hipertensão arterial",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 36,
+        "nao": 515,
+        "ausentes": 5,
+        "percentual_sim": 6.53,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "DIABETES_DECODED",
+        "doenca_preexistente": "Diabetes",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 20,
+        "nao": 531,
+        "ausentes": 5,
+        "percentual_sim": 3.63,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "HEMATOLOG_DECODED",
+        "doenca_preexistente": "Doença hematológica",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 6,
+        "nao": 545,
+        "ausentes": 5,
+        "percentual_sim": 1.09,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "HEPATOPAT_DECODED",
+        "doenca_preexistente": "Hepatopatia",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 5,
+        "nao": 546,
+        "ausentes": 5,
+        "percentual_sim": 0.91,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "ACIDO_PEPT_DECODED",
+        "doenca_preexistente": "Doença ácido-péptica",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 4,
+        "nao": 547,
+        "ausentes": 5,
+        "percentual_sim": 0.73,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "RENAL_DECODED",
+        "doenca_preexistente": "Doença renal",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 1,
+        "nao": 550,
+        "ausentes": 5,
+        "percentual_sim": 0.18,
+        "percentual_ausentes": 0.9
+      },
+      {
+        "variavel": "AUTO_IMUNE_DECODED",
+        "doenca_preexistente": "Doença autoimune",
+        "total_registros": 556,
+        "avaliaveis": 551,
+        "sim": 0,
+        "nao": 551,
+        "ausentes": 5,
+        "percentual_sim": 0.0,
+        "percentual_ausentes": 0.9
+      }
+    ]
+  },
+  "interpretacao": "Na UF Roraima, foram considerados 556 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os sinais clínicos avaliados, Febre apresentou a maior frequência de registros com resposta positiva, correspondendo a 96.55% dos registros avaliáveis para essa variável. Entre as doenças preexistentes avaliadas, Hipertensão arterial apresentou a maior frequência de resposta positiva, correspondendo a 6.53% dos registros avaliáveis para essa variável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de resposta positiva são calculados sobre os registros avaliáveis de cada variável.",
+    "A ausência de preenchimento é apresentada separadamente para cada sinal clínico e doença preexistente.",
+    "As frequências apresentadas possuem caráter descritivo e não estabelecem relações causais entre condições preexistentes e dengue."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "sinal clínico",
+    "sintoma",
+    "doença preexistente",
+    "perfil clínico",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "sinais clínicos",
+    "sintomas",
+    "doenças preexistentes",
+    "perfil clínico",
+    "Roraima",
+    "14",
+    "2026",
+    "SINAN"
+  ]
+}

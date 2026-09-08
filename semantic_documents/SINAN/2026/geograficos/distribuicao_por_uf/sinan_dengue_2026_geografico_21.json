@@ -1,0 +1,1766 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_21",
+  "titulo": "Distribuição geográfica dos registros de dengue em Maranhão — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "21",
+    "sigla_uf": "MA",
+    "uf_nome": "Maranhão",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Maranhão, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 12386,
+    "total_casos_notificacao": 12282,
+    "total_municipios_analisados": 203,
+    "municipio_maior_numero_casos": "São Luís",
+    "maior_numero_casos_municipio": 2113,
+    "municipio_maior_incidencia": "Benedito Leite",
+    "maior_incidencia_100mil": 7185.96,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 12386,
+      "autoctones_residencia": 5960,
+      "percentual_autoctones": 48.12,
+      "nao_autoctones_residencia": 237,
+      "percentual_nao_autoctones": 1.91,
+      "indeterminados": 254,
+      "percentual_indeterminados": 2.05,
+      "ausentes": 5935,
+      "percentual_ausentes": 47.92,
+      "total_comparaveis_uf_residencia_infeccao": 6053,
+      "percentual_mesma_uf_residencia_infeccao": 99.9,
+      "percentual_uf_diferente_residencia_infeccao": 0.1
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 41
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 115
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 47
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "2111300",
+        "municipio": "São Luís",
+        "populacao_2022": 1037775.0,
+        "casos": 2113,
+        "incidencia_100mil": 203.61,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2108207",
+        "municipio": "Pedreiras",
+        "populacao_2022": 37050.0,
+        "casos": 856,
+        "incidencia_100mil": 2310.39,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2109502",
+        "municipio": "Riachão",
+        "populacao_2022": 22145.0,
+        "casos": 631,
+        "incidencia_100mil": 2849.4,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101400",
+        "municipio": "Balsas",
+        "populacao_2022": 101767.0,
+        "casos": 589,
+        "incidencia_100mil": 578.77,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2108504",
+        "municipio": "Pindaré-Mirim",
+        "populacao_2022": 31429.0,
+        "casos": 539,
+        "incidencia_100mil": 1714.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101806",
+        "municipio": "Benedito Leite",
+        "populacao_2022": 5469.0,
+        "casos": 393,
+        "incidencia_100mil": 7185.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2103208",
+        "municipio": "Chapadinha",
+        "populacao_2022": 81386.0,
+        "casos": 388,
+        "incidencia_100mil": 476.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2105906",
+        "municipio": "Lago Verde",
+        "populacao_2022": 14769.0,
+        "casos": 339,
+        "incidencia_100mil": 2295.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2110500",
+        "municipio": "São Bento",
+        "populacao_2022": 46395.0,
+        "casos": 306,
+        "incidencia_100mil": 659.55,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2104057",
+        "municipio": "Estreito",
+        "populacao_2022": 33294.0,
+        "casos": 266,
+        "incidencia_100mil": 798.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2111201",
+        "municipio": "São José de Ribamar",
+        "populacao_2022": 244579.0,
+        "casos": 266,
+        "incidencia_100mil": 108.76,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2104800",
+        "municipio": "Grajaú",
+        "populacao_2022": 73872.0,
+        "casos": 226,
+        "incidencia_100mil": 305.93,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2109908",
+        "municipio": "Santa Inês",
+        "populacao_2022": 85014.0,
+        "casos": 191,
+        "incidencia_100mil": 224.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2108603",
+        "municipio": "Pinheiro",
+        "populacao_2022": 84621.0,
+        "casos": 166,
+        "incidencia_100mil": 196.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2106102",
+        "municipio": "Loreto",
+        "populacao_2022": 11597.0,
+        "casos": 151,
+        "incidencia_100mil": 1302.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2112233",
+        "municipio": "Trizidela do Vale",
+        "populacao_2022": 22484.0,
+        "casos": 147,
+        "incidencia_100mil": 653.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2107506",
+        "municipio": "Paço do Lumiar",
+        "populacao_2022": 145643.0,
+        "casos": 147,
+        "incidencia_100mil": 100.93,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2112209",
+        "municipio": "Timon",
+        "populacao_2022": 174465.0,
+        "casos": 145,
+        "incidencia_100mil": 83.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109007",
+        "municipio": "Porto Franco",
+        "populacao_2022": 23903.0,
+        "casos": 128,
+        "incidencia_100mil": 535.5,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2105658",
+        "municipio": "Junco do Maranhão",
+        "populacao_2022": 5146.0,
+        "casos": 125,
+        "incidencia_100mil": 2429.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2104206",
+        "municipio": "Fortuna",
+        "populacao_2022": 16976.0,
+        "casos": 116,
+        "incidencia_100mil": 683.32,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2110906",
+        "municipio": "São Francisco do Maranhão",
+        "populacao_2022": 12064.0,
+        "casos": 115,
+        "incidencia_100mil": 953.25,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2110005",
+        "municipio": "Santa Luzia",
+        "populacao_2022": 57635.0,
+        "casos": 113,
+        "incidencia_100mil": 196.06,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2102002",
+        "municipio": "Bom Jardim",
+        "populacao_2022": 33100.0,
+        "casos": 111,
+        "incidencia_100mil": 335.35,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101608",
+        "municipio": "Barra do Corda",
+        "populacao_2022": 84532.0,
+        "casos": 106,
+        "incidencia_100mil": 125.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2100956",
+        "municipio": "Arame",
+        "populacao_2022": 25517.0,
+        "casos": 104,
+        "incidencia_100mil": 407.57,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2102606",
+        "municipio": "Cândido Mendes",
+        "populacao_2022": 19932.0,
+        "casos": 101,
+        "incidencia_100mil": 506.72,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2100204",
+        "municipio": "Alcântara",
+        "populacao_2022": 18467.0,
+        "casos": 98,
+        "incidencia_100mil": 530.68,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2105302",
+        "municipio": "Imperatriz",
+        "populacao_2022": 273110.0,
+        "casos": 92,
+        "incidencia_100mil": 33.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103505",
+        "municipio": "Colinas",
+        "populacao_2022": 40316.0,
+        "casos": 85,
+        "incidencia_100mil": 210.83,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2100550",
+        "municipio": "Amapá do Maranhão",
+        "populacao_2022": 7170.0,
+        "casos": 85,
+        "incidencia_100mil": 1185.5,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2108108",
+        "municipio": "Paulo Ramos",
+        "populacao_2022": 20341.0,
+        "casos": 84,
+        "incidencia_100mil": 412.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2111102",
+        "municipio": "São João dos Patos",
+        "populacao_2022": 25020.0,
+        "casos": 84,
+        "incidencia_100mil": 335.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2104073",
+        "municipio": "Feira Nova do Maranhão",
+        "populacao_2022": 8048.0,
+        "casos": 75,
+        "incidencia_100mil": 931.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2100436",
+        "municipio": "Alto Alegre do Maranhão",
+        "populacao_2022": 24048.0,
+        "casos": 72,
+        "incidencia_100mil": 299.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2109452",
+        "municipio": "Raposa",
+        "populacao_2022": 30839.0,
+        "casos": 72,
+        "incidencia_100mil": 233.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2111508",
+        "municipio": "São Mateus do Maranhão",
+        "populacao_2022": 38829.0,
+        "casos": 71,
+        "incidencia_100mil": 182.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2104503",
+        "municipio": "Governador Archer",
+        "populacao_2022": 10231.0,
+        "casos": 70,
+        "incidencia_100mil": 684.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2109106",
+        "municipio": "Presidente Dutra",
+        "populacao_2022": 45155.0,
+        "casos": 68,
+        "incidencia_100mil": 150.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2112001",
+        "municipio": "Tasso Fragoso",
+        "populacao_2022": 8862.0,
+        "casos": 63,
+        "incidencia_100mil": 710.9,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2112407",
+        "municipio": "Turiaçu",
+        "populacao_2022": 37491.0,
+        "casos": 62,
+        "incidencia_100mil": 165.37,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105609",
+        "municipio": "Joselândia",
+        "populacao_2022": 14924.0,
+        "casos": 60,
+        "incidencia_100mil": 402.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2104305",
+        "municipio": "Godofredo Viana",
+        "populacao_2022": 10186.0,
+        "casos": 57,
+        "incidencia_100mil": 559.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2110658",
+        "municipio": "São Domingos do Azeitão",
+        "populacao_2022": 7992.0,
+        "casos": 56,
+        "incidencia_100mil": 700.7,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2100832",
+        "municipio": "Apicum-Açu",
+        "populacao_2022": 17519.0,
+        "casos": 56,
+        "incidencia_100mil": 319.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101202",
+        "municipio": "Bacabal",
+        "populacao_2022": 103711.0,
+        "casos": 56,
+        "incidencia_100mil": 54.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111052",
+        "municipio": "São João do Paraíso",
+        "populacao_2022": 9904.0,
+        "casos": 55,
+        "incidencia_100mil": 555.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2110104",
+        "municipio": "Santa Quitéria do Maranhão",
+        "populacao_2022": 23957.0,
+        "casos": 52,
+        "incidencia_100mil": 217.06,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2107704",
+        "municipio": "Paraibano",
+        "populacao_2022": 18274.0,
+        "casos": 52,
+        "incidencia_100mil": 284.56,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2107407",
+        "municipio": "Olho d'Água das Cunhãs",
+        "populacao_2022": 17919.0,
+        "casos": 52,
+        "incidencia_100mil": 290.19,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105922",
+        "municipio": "Lagoa do Mato",
+        "populacao_2022": 10572.0,
+        "casos": 49,
+        "incidencia_100mil": 463.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2105708",
+        "municipio": "Lago da Pedra",
+        "populacao_2022": 44403.0,
+        "casos": 47,
+        "incidencia_100mil": 105.85,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2106409",
+        "municipio": "Mata Roma",
+        "populacao_2022": 17090.0,
+        "casos": 44,
+        "incidencia_100mil": 257.46,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2112605",
+        "municipio": "Urbano Santos",
+        "populacao_2022": 32812.0,
+        "casos": 42,
+        "incidencia_100mil": 128.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2103000",
+        "municipio": "Caxias",
+        "populacao_2022": 156973.0,
+        "casos": 41,
+        "incidencia_100mil": 26.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102556",
+        "municipio": "Campestre do Maranhão",
+        "populacao_2022": 12301.0,
+        "casos": 40,
+        "incidencia_100mil": 325.18,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101251",
+        "municipio": "Bacabeira",
+        "populacao_2022": 16966.0,
+        "casos": 40,
+        "incidencia_100mil": 235.77,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2106904",
+        "municipio": "Monção",
+        "populacao_2022": 27751.0,
+        "casos": 40,
+        "incidencia_100mil": 144.14,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105989",
+        "municipio": "Lajeado Novo",
+        "populacao_2022": 7057.0,
+        "casos": 39,
+        "incidencia_100mil": 552.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2102804",
+        "municipio": "Carolina",
+        "populacao_2022": 24062.0,
+        "casos": 38,
+        "incidencia_100mil": 157.93,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2110807",
+        "municipio": "São Félix de Balsas",
+        "populacao_2022": 4402.0,
+        "casos": 35,
+        "incidencia_100mil": 795.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2105203",
+        "municipio": "Igarapé Grande",
+        "populacao_2022": 10231.0,
+        "casos": 33,
+        "incidencia_100mil": 322.55,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2101939",
+        "municipio": "Bernardo do Mearim",
+        "populacao_2022": 5840.0,
+        "casos": 33,
+        "incidencia_100mil": 565.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2108900",
+        "municipio": "Poção de Pedras",
+        "populacao_2022": 17161.0,
+        "casos": 33,
+        "incidencia_100mil": 192.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2106359",
+        "municipio": "Marajá do Sena",
+        "populacao_2022": 7027.0,
+        "casos": 33,
+        "incidencia_100mil": 469.62,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2109551",
+        "municipio": "Ribamar Fiquene",
+        "populacao_2022": 7420.0,
+        "casos": 33,
+        "incidencia_100mil": 444.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2103307",
+        "municipio": "Codó",
+        "populacao_2022": 114275.0,
+        "casos": 32,
+        "incidencia_100mil": 28.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111607",
+        "municipio": "São Raimundo das Mangabeiras",
+        "populacao_2022": 18672.0,
+        "casos": 30,
+        "incidencia_100mil": 160.67,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2106607",
+        "municipio": "Matões",
+        "populacao_2022": 32174.0,
+        "casos": 30,
+        "incidencia_100mil": 93.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106755",
+        "municipio": "Miranda do Norte",
+        "populacao_2022": 23864.0,
+        "casos": 29,
+        "incidencia_100mil": 121.52,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105450",
+        "municipio": "Jatobá",
+        "populacao_2022": 7471.0,
+        "casos": 29,
+        "incidencia_100mil": 388.17,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2110856",
+        "municipio": "São Francisco do Brejão",
+        "populacao_2022": 9051.0,
+        "casos": 28,
+        "incidencia_100mil": 309.36,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "2108009",
+        "municipio": "Pastos Bons",
+        "populacao_2022": 18802.0,
+        "casos": 28,
+        "incidencia_100mil": 148.92,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2112852",
+        "municipio": "Vila Nova dos Martírios",
+        "populacao_2022": 10362.0,
+        "casos": 27,
+        "incidencia_100mil": 260.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105401",
+        "municipio": "Itapecuru Mirim",
+        "populacao_2022": 60440.0,
+        "casos": 27,
+        "incidencia_100mil": 44.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107803",
+        "municipio": "Parnarama",
+        "populacao_2022": 31250.0,
+        "casos": 26,
+        "incidencia_100mil": 83.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2108454",
+        "municipio": "Peritoró",
+        "populacao_2022": 20479.0,
+        "casos": 26,
+        "incidencia_100mil": 126.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2102200",
+        "municipio": "Buriti",
+        "populacao_2022": 29685.0,
+        "casos": 26,
+        "incidencia_100mil": 87.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111409",
+        "municipio": "São Luís Gonzaga do Maranhão",
+        "populacao_2022": 17818.0,
+        "casos": 26,
+        "incidencia_100mil": 145.92,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2110302",
+        "municipio": "Santo Antônio dos Lopes",
+        "populacao_2022": 14304.0,
+        "casos": 25,
+        "incidencia_100mil": 174.78,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2102309",
+        "municipio": "Buriti Bravo",
+        "populacao_2022": 22455.0,
+        "casos": 24,
+        "incidencia_100mil": 106.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2112456",
+        "municipio": "Turilândia",
+        "populacao_2022": 31638.0,
+        "casos": 24,
+        "incidencia_100mil": 75.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102150",
+        "municipio": "Brejo de Areia",
+        "populacao_2022": 9218.0,
+        "casos": 23,
+        "incidencia_100mil": 249.51,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105948",
+        "municipio": "Lago dos Rodrigues",
+        "populacao_2022": 8758.0,
+        "casos": 23,
+        "incidencia_100mil": 262.62,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2109809",
+        "municipio": "Santa Helena",
+        "populacao_2022": 41561.0,
+        "casos": 22,
+        "incidencia_100mil": 52.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104107",
+        "municipio": "Fortaleza dos Nogueiras",
+        "populacao_2022": 12640.0,
+        "casos": 22,
+        "incidencia_100mil": 174.05,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2102101",
+        "municipio": "Brejo",
+        "populacao_2022": 34120.0,
+        "casos": 22,
+        "incidencia_100mil": 64.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106706",
+        "municipio": "Mirador",
+        "populacao_2022": 21030.0,
+        "casos": 21,
+        "incidencia_100mil": 99.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100055",
+        "municipio": "Açailândia",
+        "populacao_2022": 106550.0,
+        "casos": 21,
+        "incidencia_100mil": 19.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104099",
+        "municipio": "Formosa da Serra Negra",
+        "populacao_2022": 17719.0,
+        "casos": 18,
+        "incidencia_100mil": 101.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2103604",
+        "municipio": "Coroatá",
+        "populacao_2022": 59566.0,
+        "casos": 17,
+        "incidencia_100mil": 28.54,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104677",
+        "municipio": "Governador Nunes Freire",
+        "populacao_2022": 23128.0,
+        "casos": 17,
+        "incidencia_100mil": 73.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100808",
+        "municipio": "Anapurus",
+        "populacao_2022": 13793.0,
+        "casos": 16,
+        "incidencia_100mil": 116.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2111805",
+        "municipio": "Sítio Novo",
+        "populacao_2022": 17074.0,
+        "casos": 16,
+        "incidencia_100mil": 93.71,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105963",
+        "municipio": "Lagoa Grande do Maranhão",
+        "populacao_2022": 11411.0,
+        "casos": 16,
+        "incidencia_100mil": 140.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2109700",
+        "municipio": "Sambaíba",
+        "populacao_2022": 5568.0,
+        "casos": 16,
+        "incidencia_100mil": 287.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2104909",
+        "municipio": "Guimarães",
+        "populacao_2022": 10290.0,
+        "casos": 16,
+        "incidencia_100mil": 155.49,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2111748",
+        "municipio": "Senador Alexandre Costa",
+        "populacao_2022": 10207.0,
+        "casos": 15,
+        "incidencia_100mil": 146.96,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2105351",
+        "municipio": "Itaipava do Grajaú",
+        "populacao_2022": 13828.0,
+        "casos": 15,
+        "incidencia_100mil": 108.48,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2110203",
+        "municipio": "Santa Rita",
+        "populacao_2022": 37035.0,
+        "casos": 14,
+        "incidencia_100mil": 37.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100600",
+        "municipio": "Amarante do Maranhão",
+        "populacao_2022": 37085.0,
+        "casos": 13,
+        "incidencia_100mil": 35.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107902",
+        "municipio": "Passagem Franca",
+        "populacao_2022": 17220.0,
+        "casos": 13,
+        "incidencia_100mil": 75.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2112100",
+        "municipio": "Timbiras",
+        "populacao_2022": 26484.0,
+        "casos": 12,
+        "incidencia_100mil": 45.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100501",
+        "municipio": "Alto Parnaíba",
+        "populacao_2022": 11109.0,
+        "casos": 12,
+        "incidencia_100mil": 108.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2100907",
+        "municipio": "Araioses",
+        "populacao_2022": 39052.0,
+        "casos": 12,
+        "incidencia_100mil": 30.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109601",
+        "municipio": "Rosário",
+        "populacao_2022": 38475.0,
+        "casos": 11,
+        "incidencia_100mil": 28.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2110708",
+        "municipio": "São Domingos do Maranhão",
+        "populacao_2022": 34034.0,
+        "casos": 11,
+        "incidencia_100mil": 32.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105005",
+        "municipio": "Humberto de Campos",
+        "populacao_2022": 25680.0,
+        "casos": 11,
+        "incidencia_100mil": 42.83,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101509",
+        "municipio": "Barão de Grajaú",
+        "populacao_2022": 18984.0,
+        "casos": 11,
+        "incidencia_100mil": 57.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105427",
+        "municipio": "Itinga do Maranhão",
+        "populacao_2022": 22513.0,
+        "casos": 10,
+        "incidencia_100mil": 44.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101905",
+        "municipio": "Bequimão",
+        "populacao_2022": 19584.0,
+        "casos": 10,
+        "incidencia_100mil": 51.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103406",
+        "municipio": "Coelho Neto",
+        "populacao_2022": 41658.0,
+        "casos": 10,
+        "incidencia_100mil": 24.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105153",
+        "municipio": "Igarapé do Meio",
+        "populacao_2022": 13974.0,
+        "casos": 10,
+        "incidencia_100mil": 71.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2110039",
+        "municipio": "Santa Luzia do Paruá",
+        "populacao_2022": 24307.0,
+        "casos": 10,
+        "incidencia_100mil": 41.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102036",
+        "municipio": "Bom Jesus das Selvas",
+        "populacao_2022": 28599.0,
+        "casos": 9,
+        "incidencia_100mil": 31.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2112506",
+        "municipio": "Tutóia",
+        "populacao_2022": 53356.0,
+        "casos": 9,
+        "incidencia_100mil": 16.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105500",
+        "municipio": "João Lisboa",
+        "populacao_2022": 24709.0,
+        "casos": 9,
+        "incidencia_100mil": 36.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106003",
+        "municipio": "Lima Campos",
+        "populacao_2022": 11297.0,
+        "casos": 9,
+        "incidencia_100mil": 79.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2114007",
+        "municipio": "Zé Doca",
+        "populacao_2022": 40801.0,
+        "casos": 9,
+        "incidencia_100mil": 22.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104552",
+        "municipio": "Governador Edison Lobão",
+        "populacao_2022": 18411.0,
+        "casos": 8,
+        "incidencia_100mil": 43.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100105",
+        "municipio": "Afonso Cunha",
+        "populacao_2022": 6144.0,
+        "casos": 8,
+        "incidencia_100mil": 130.21,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2111573",
+        "municipio": "São Pedro dos Crentes",
+        "populacao_2022": 5783.0,
+        "casos": 8,
+        "incidencia_100mil": 138.34,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2111029",
+        "municipio": "São João do Carú",
+        "populacao_2022": 12251.0,
+        "casos": 8,
+        "incidencia_100mil": 65.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109205",
+        "municipio": "Presidente Juscelino",
+        "populacao_2022": 11356.0,
+        "casos": 8,
+        "incidencia_100mil": 70.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111532",
+        "municipio": "São Pedro da Água Branca",
+        "populacao_2022": 14338.0,
+        "casos": 8,
+        "incidencia_100mil": 55.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102325",
+        "municipio": "Buriticupu",
+        "populacao_2022": 55499.0,
+        "casos": 8,
+        "incidencia_100mil": 14.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2113009",
+        "municipio": "Vitorino Freire",
+        "populacao_2022": 30845.0,
+        "casos": 7,
+        "incidencia_100mil": 22.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105476",
+        "municipio": "Jenipapo dos Vieiras",
+        "populacao_2022": 17076.0,
+        "casos": 7,
+        "incidencia_100mil": 40.99,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106326",
+        "municipio": "Maracaçumé",
+        "populacao_2022": 21149.0,
+        "casos": 7,
+        "incidencia_100mil": 33.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106805",
+        "municipio": "Mirinzal",
+        "populacao_2022": 13978.0,
+        "casos": 7,
+        "incidencia_100mil": 50.08,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2112803",
+        "municipio": "Viana",
+        "populacao_2022": 51442.0,
+        "casos": 7,
+        "incidencia_100mil": 13.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2112308",
+        "municipio": "Tuntum",
+        "populacao_2022": 36251.0,
+        "casos": 7,
+        "incidencia_100mil": 19.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100303",
+        "municipio": "Aldeias Altas",
+        "populacao_2022": 23286.0,
+        "casos": 7,
+        "incidencia_100mil": 30.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103901",
+        "municipio": "Duque Bacelar",
+        "populacao_2022": 10223.0,
+        "casos": 7,
+        "incidencia_100mil": 68.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103703",
+        "municipio": "Cururupu",
+        "populacao_2022": 31558.0,
+        "casos": 7,
+        "incidencia_100mil": 22.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100477",
+        "municipio": "Alto Alegre do Pindaré",
+        "populacao_2022": 25710.0,
+        "casos": 7,
+        "incidencia_100mil": 27.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111250",
+        "municipio": "São José dos Basílios",
+        "populacao_2022": 6957.0,
+        "casos": 7,
+        "incidencia_100mil": 100.62,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2103752",
+        "municipio": "Davinópolis",
+        "populacao_2022": 14404.0,
+        "casos": 7,
+        "incidencia_100mil": 48.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104628",
+        "municipio": "Governador Luiz Rocha",
+        "populacao_2022": 7063.0,
+        "casos": 6,
+        "incidencia_100mil": 84.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100402",
+        "municipio": "Altamira do Maranhão",
+        "populacao_2022": 6447.0,
+        "casos": 6,
+        "incidencia_100mil": 93.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109403",
+        "municipio": "Primeira Cruz",
+        "populacao_2022": 13614.0,
+        "casos": 6,
+        "incidencia_100mil": 44.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107258",
+        "municipio": "Nova Colinas",
+        "populacao_2022": 5021.0,
+        "casos": 6,
+        "incidencia_100mil": 119.5,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2108702",
+        "municipio": "Pio XII",
+        "populacao_2022": 21886.0,
+        "casos": 6,
+        "incidencia_100mil": 27.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103554",
+        "municipio": "Conceição do Lago-Açu",
+        "populacao_2022": 14915.0,
+        "casos": 6,
+        "incidencia_100mil": 40.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101707",
+        "municipio": "Barreirinhas",
+        "populacao_2022": 65589.0,
+        "casos": 5,
+        "incidencia_100mil": 7.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102077",
+        "municipio": "Bom Lugar",
+        "populacao_2022": 12212.0,
+        "casos": 5,
+        "incidencia_100mil": 40.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104404",
+        "municipio": "Gonçalves Dias",
+        "populacao_2022": 17206.0,
+        "casos": 5,
+        "incidencia_100mil": 29.06,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2112704",
+        "municipio": "Vargem Grande",
+        "populacao_2022": 43261.0,
+        "casos": 5,
+        "incidencia_100mil": 11.56,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111953",
+        "municipio": "Sucupira do Riachão",
+        "populacao_2022": 4985.0,
+        "casos": 5,
+        "incidencia_100mil": 100.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "2112902",
+        "municipio": "Vitória do Mearim",
+        "populacao_2022": 30805.0,
+        "casos": 5,
+        "incidencia_100mil": 16.23,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101004",
+        "municipio": "Arari",
+        "populacao_2022": 29472.0,
+        "casos": 5,
+        "incidencia_100mil": 16.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111789",
+        "municipio": "Serrano do Maranhão",
+        "populacao_2022": 10202.0,
+        "casos": 5,
+        "incidencia_100mil": 49.01,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107100",
+        "municipio": "Morros",
+        "populacao_2022": 18554.0,
+        "casos": 5,
+        "incidencia_100mil": 26.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109270",
+        "municipio": "Presidente Sarney",
+        "populacao_2022": 17511.0,
+        "casos": 5,
+        "incidencia_100mil": 28.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111003",
+        "municipio": "São João Batista",
+        "populacao_2022": 18544.0,
+        "casos": 5,
+        "incidencia_100mil": 26.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103802",
+        "municipio": "Dom Pedro",
+        "populacao_2022": 23053.0,
+        "casos": 5,
+        "incidencia_100mil": 21.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102705",
+        "municipio": "Cantanhede",
+        "populacao_2022": 24303.0,
+        "casos": 5,
+        "incidencia_100mil": 20.57,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102358",
+        "municipio": "Buritirana",
+        "populacao_2022": 12918.0,
+        "casos": 4,
+        "incidencia_100mil": 30.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106508",
+        "municipio": "Matinha",
+        "populacao_2022": 22034.0,
+        "casos": 4,
+        "incidencia_100mil": 18.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2110237",
+        "municipio": "Santana do Maranhão",
+        "populacao_2022": 10567.0,
+        "casos": 4,
+        "incidencia_100mil": 37.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2108306",
+        "municipio": "Penalva",
+        "populacao_2022": 32511.0,
+        "casos": 4,
+        "incidencia_100mil": 12.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106631",
+        "municipio": "Matões do Norte",
+        "populacao_2022": 17432.0,
+        "casos": 4,
+        "incidencia_100mil": 22.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107308",
+        "municipio": "Nova Iorque",
+        "populacao_2022": 4320.0,
+        "casos": 4,
+        "incidencia_100mil": 92.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101350",
+        "municipio": "Bacurituba",
+        "populacao_2022": 5252.0,
+        "casos": 4,
+        "incidencia_100mil": 76.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2103174",
+        "municipio": "Centro Novo do Maranhão",
+        "populacao_2022": 16267.0,
+        "casos": 4,
+        "incidencia_100mil": 24.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102903",
+        "municipio": "Carutapera",
+        "populacao_2022": 24238.0,
+        "casos": 4,
+        "incidencia_100mil": 16.5,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2108801",
+        "municipio": "Pirapemas",
+        "populacao_2022": 17714.0,
+        "casos": 3,
+        "incidencia_100mil": 16.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102754",
+        "municipio": "Capinzal do Norte",
+        "populacao_2022": 11374.0,
+        "casos": 3,
+        "incidencia_100mil": 26.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111904",
+        "municipio": "Sucupira do Norte",
+        "populacao_2022": 10238.0,
+        "casos": 3,
+        "incidencia_100mil": 29.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106672",
+        "municipio": "Milagres do Maranhão",
+        "populacao_2022": 8818.0,
+        "casos": 3,
+        "incidencia_100mil": 34.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100709",
+        "municipio": "Anajatuba",
+        "populacao_2022": 25322.0,
+        "casos": 3,
+        "incidencia_100mil": 11.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2110278",
+        "municipio": "Santo Amaro do Maranhão",
+        "populacao_2022": 13949.0,
+        "casos": 3,
+        "incidencia_100mil": 21.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105104",
+        "municipio": "Icatu",
+        "populacao_2022": 24794.0,
+        "casos": 3,
+        "incidencia_100mil": 12.1,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111078",
+        "municipio": "São João do Soter",
+        "populacao_2022": 16889.0,
+        "casos": 2,
+        "incidencia_100mil": 11.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111706",
+        "municipio": "São Vicente Ferrer",
+        "populacao_2022": 19498.0,
+        "casos": 2,
+        "incidencia_100mil": 10.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2110401",
+        "municipio": "São Benedito do Rio Preto",
+        "populacao_2022": 18364.0,
+        "casos": 2,
+        "incidencia_100mil": 10.89,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107209",
+        "municipio": "Nina Rodrigues",
+        "populacao_2022": 14176.0,
+        "casos": 2,
+        "incidencia_100mil": 14.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107456",
+        "municipio": "Olinda Nova do Maranhão",
+        "populacao_2022": 13577.0,
+        "casos": 2,
+        "incidencia_100mil": 14.73,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104602",
+        "municipio": "Governador Eugênio Barros",
+        "populacao_2022": 13930.0,
+        "casos": 2,
+        "incidencia_100mil": 14.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102374",
+        "municipio": "Cachoeira Grande",
+        "populacao_2022": 9732.0,
+        "casos": 2,
+        "incidencia_100mil": 20.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102507",
+        "municipio": "Cajari",
+        "populacao_2022": 16412.0,
+        "casos": 2,
+        "incidencia_100mil": 12.19,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100154",
+        "municipio": "Água Doce do Maranhão",
+        "populacao_2022": 12142.0,
+        "casos": 2,
+        "incidencia_100mil": 16.47,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2110609",
+        "municipio": "São Bernardo",
+        "populacao_2022": 26943.0,
+        "casos": 2,
+        "incidencia_100mil": 7.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111763",
+        "municipio": "Senador La Rocque",
+        "populacao_2022": 14700.0,
+        "casos": 2,
+        "incidencia_100mil": 13.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2105807",
+        "municipio": "Lago do Junco",
+        "populacao_2022": 9506.0,
+        "casos": 2,
+        "incidencia_100mil": 21.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104701",
+        "municipio": "Graça Aranha",
+        "populacao_2022": 6023.0,
+        "casos": 2,
+        "incidencia_100mil": 33.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109056",
+        "municipio": "Porto Rico do Maranhão",
+        "populacao_2022": 5954.0,
+        "casos": 2,
+        "incidencia_100mil": 33.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109239",
+        "municipio": "Presidente Médici",
+        "populacao_2022": 4696.0,
+        "casos": 2,
+        "incidencia_100mil": 42.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104008",
+        "municipio": "Esperantinópolis",
+        "populacao_2022": 18311.0,
+        "casos": 1,
+        "incidencia_100mil": 5.46,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101772",
+        "municipio": "Bela Vista do Maranhão",
+        "populacao_2022": 11750.0,
+        "casos": 1,
+        "incidencia_100mil": 8.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2104081",
+        "municipio": "Fernando Falcão",
+        "populacao_2022": 10873.0,
+        "casos": 1,
+        "incidencia_100mil": 9.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101301",
+        "municipio": "Bacuri",
+        "populacao_2022": 16290.0,
+        "casos": 1,
+        "incidencia_100mil": 6.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2101103",
+        "municipio": "Axixá",
+        "populacao_2022": 11790.0,
+        "casos": 1,
+        "incidencia_100mil": 8.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2102408",
+        "municipio": "Cajapió",
+        "populacao_2022": 10121.0,
+        "casos": 1,
+        "incidencia_100mil": 9.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2100873",
+        "municipio": "Araguanã",
+        "populacao_2022": 11181.0,
+        "casos": 1,
+        "incidencia_100mil": 8.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2108058",
+        "municipio": "Paulino Neves",
+        "populacao_2022": 17056.0,
+        "casos": 1,
+        "incidencia_100mil": 5.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2108405",
+        "municipio": "Peri Mirim",
+        "populacao_2022": 11108.0,
+        "casos": 1,
+        "incidencia_100mil": 9.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2107605",
+        "municipio": "Palmeirândia",
+        "populacao_2022": 21059.0,
+        "casos": 1,
+        "incidencia_100mil": 4.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106375",
+        "municipio": "Maranhãozinho",
+        "populacao_2022": 13761.0,
+        "casos": 1,
+        "incidencia_100mil": 7.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2106201",
+        "municipio": "Luís Domingues",
+        "populacao_2022": 7161.0,
+        "casos": 1,
+        "incidencia_100mil": 13.96,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109759",
+        "municipio": "Santa Filomena do Maranhão",
+        "populacao_2022": 6697.0,
+        "casos": 1,
+        "incidencia_100mil": 14.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2109304",
+        "municipio": "Presidente Vargas",
+        "populacao_2022": 10549.0,
+        "casos": 1,
+        "incidencia_100mil": 9.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "2111631",
+        "municipio": "São Raimundo do Doca Bezerra",
+        "populacao_2022": 5650.0,
+        "casos": 1,
+        "incidencia_100mil": 17.7,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "MA",
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 6047,
+        "percentual_dentro_uf_residencia": 99.9
+      },
+      {
+        "uf_residencia": "MA",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.03
+      },
+      {
+        "uf_residencia": "MA",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "MA",
+        "uf_provavel_infeccao": "AP",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "MA",
+        "uf_provavel_infeccao": "MT",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "MA",
+        "uf_provavel_infeccao": "PI",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.02
+      }
+    ]
+  },
+  "interpretacao": "Na UF Maranhão, foram contabilizados 12.386 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 203 municípios com informações disponíveis para análise, São Luís apresentou o maior número absoluto de notificações, com 2.113. A maior incidência foi observada em Benedito Leite, com 7.185,96 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 48,12% dos registros de MA foram classificados como autóctones, 1,91% como não autóctones, 2,05% como indeterminados e 47,92% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,90% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Maranhão",
+    "MA",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_17",
+  "titulo": "Distribuição geográfica dos registros de dengue em Tocantins — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "17",
+    "sigla_uf": "TO",
+    "uf_nome": "Tocantins",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Tocantins, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 15296,
+    "total_casos_notificacao": 15430,
+    "total_municipios_analisados": 138,
+    "municipio_maior_numero_casos": "Araguaína",
+    "maior_numero_casos_municipio": 4745,
+    "municipio_maior_incidencia": "Jaú do Tocantins",
+    "maior_incidencia_100mil": 5818.84,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 15296,
+      "autoctones_residencia": 8889,
+      "percentual_autoctones": 58.11,
+      "nao_autoctones_residencia": 214,
+      "percentual_nao_autoctones": 1.4,
+      "indeterminados": 98,
+      "percentual_indeterminados": 0.64,
+      "ausentes": 6095,
+      "percentual_ausentes": 39.85,
+      "total_comparaveis_uf_residencia_infeccao": 8943,
+      "percentual_mesma_uf_residencia_infeccao": 99.94,
+      "percentual_uf_diferente_residencia_infeccao": 0.06
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 93
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 14
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 31
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1702109",
+        "municipio": "Araguaína",
+        "populacao_2022": 171301.0,
+        "casos": 4745,
+        "incidencia_100mil": 2769.98,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1721000",
+        "municipio": "Palmas",
+        "populacao_2022": 302692.0,
+        "casos": 1522,
+        "incidencia_100mil": 502.82,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718204",
+        "municipio": "Porto Nacional",
+        "populacao_2022": 64418.0,
+        "casos": 1011,
+        "incidencia_100mil": 1569.44,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702208",
+        "municipio": "Araguatins",
+        "populacao_2022": 31918.0,
+        "casos": 808,
+        "incidencia_100mil": 2531.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1705508",
+        "municipio": "Colinas do Tocantins",
+        "populacao_2022": 34233.0,
+        "casos": 790,
+        "incidencia_100mil": 2307.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1709500",
+        "municipio": "Gurupi",
+        "populacao_2022": 85125.0,
+        "casos": 496,
+        "incidencia_100mil": 582.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716109",
+        "municipio": "Paraíso do Tocantins",
+        "populacao_2022": 52360.0,
+        "casos": 419,
+        "incidencia_100mil": 800.23,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1721208",
+        "municipio": "Tocantinópolis",
+        "populacao_2022": 22615.0,
+        "casos": 238,
+        "incidencia_100mil": 1052.4,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1714203",
+        "municipio": "Natividade",
+        "populacao_2022": 8754.0,
+        "casos": 206,
+        "incidencia_100mil": 2353.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703008",
+        "municipio": "Babaçulândia",
+        "populacao_2022": 7880.0,
+        "casos": 201,
+        "incidencia_100mil": 2550.76,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703842",
+        "municipio": "Campos Lindos",
+        "populacao_2022": 8653.0,
+        "casos": 196,
+        "incidencia_100mil": 2265.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1711506",
+        "municipio": "Jaú do Tocantins",
+        "populacao_2022": 3334.0,
+        "casos": 194,
+        "incidencia_100mil": 5818.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1701002",
+        "municipio": "Ananás",
+        "populacao_2022": 10325.0,
+        "casos": 160,
+        "incidencia_100mil": 1549.64,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1722081",
+        "municipio": "Wanderlândia",
+        "populacao_2022": 10522.0,
+        "casos": 153,
+        "incidencia_100mil": 1454.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1709302",
+        "municipio": "Guaraí",
+        "populacao_2022": 24775.0,
+        "casos": 145,
+        "incidencia_100mil": 585.27,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1714880",
+        "municipio": "Nova Olinda",
+        "populacao_2022": 10367.0,
+        "casos": 145,
+        "incidencia_100mil": 1398.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720259",
+        "municipio": "São Salvador do Tocantins",
+        "populacao_2022": 2385.0,
+        "casos": 132,
+        "incidencia_100mil": 5534.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1715754",
+        "municipio": "Palmeirópolis",
+        "populacao_2022": 6975.0,
+        "casos": 124,
+        "incidencia_100mil": 1777.78,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1706506",
+        "municipio": "Darcinópolis",
+        "populacao_2022": 5827.0,
+        "casos": 117,
+        "incidencia_100mil": 2007.89,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716505",
+        "municipio": "Pedro Afonso",
+        "populacao_2022": 14055.0,
+        "casos": 107,
+        "incidencia_100mil": 761.29,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1709005",
+        "municipio": "Goiatins",
+        "populacao_2022": 12433.0,
+        "casos": 105,
+        "incidencia_100mil": 844.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1711100",
+        "municipio": "Itaporã do Tocantins",
+        "populacao_2022": 2404.0,
+        "casos": 103,
+        "incidencia_100mil": 4284.53,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703305",
+        "municipio": "Bom Jesus do Tocantins",
+        "populacao_2022": 4038.0,
+        "casos": 98,
+        "incidencia_100mil": 2426.94,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718865",
+        "municipio": "Santa Fé do Araguaia",
+        "populacao_2022": 7216.0,
+        "casos": 98,
+        "incidencia_100mil": 1358.09,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1717206",
+        "municipio": "Piraquê",
+        "populacao_2022": 2282.0,
+        "casos": 95,
+        "incidencia_100mil": 4163.01,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702554",
+        "municipio": "Augustinópolis",
+        "populacao_2022": 17484.0,
+        "casos": 90,
+        "incidencia_100mil": 514.76,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702307",
+        "municipio": "Arapoema",
+        "populacao_2022": 5550.0,
+        "casos": 83,
+        "incidencia_100mil": 1495.5,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1707009",
+        "municipio": "Dianópolis",
+        "populacao_2022": 17739.0,
+        "casos": 77,
+        "incidencia_100mil": 434.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1719004",
+        "municipio": "Santa Tereza do Tocantins",
+        "populacao_2022": 2781.0,
+        "casos": 74,
+        "incidencia_100mil": 2660.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1700301",
+        "municipio": "Aguiarnópolis",
+        "populacao_2022": 4497.0,
+        "casos": 63,
+        "incidencia_100mil": 1400.93,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1721307",
+        "municipio": "Tupiratins",
+        "populacao_2022": 1874.0,
+        "casos": 63,
+        "incidencia_100mil": 3361.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1712504",
+        "municipio": "Marianópolis do Tocantins",
+        "populacao_2022": 4615.0,
+        "casos": 63,
+        "incidencia_100mil": 1365.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720804",
+        "municipio": "Sítio Novo do Tocantins",
+        "populacao_2022": 10830.0,
+        "casos": 59,
+        "incidencia_100mil": 544.78,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1722107",
+        "municipio": "Xambioá",
+        "populacao_2022": 10517.0,
+        "casos": 58,
+        "incidencia_100mil": 551.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703073",
+        "municipio": "Barra do Ouro",
+        "populacao_2022": 4476.0,
+        "casos": 57,
+        "incidencia_100mil": 1273.46,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702901",
+        "municipio": "Axixá do Tocantins",
+        "populacao_2022": 10262.0,
+        "casos": 54,
+        "incidencia_100mil": 526.21,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703826",
+        "municipio": "Cachoeirinha",
+        "populacao_2022": 1961.0,
+        "casos": 52,
+        "incidencia_100mil": 2651.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1712454",
+        "municipio": "Luzinópolis",
+        "populacao_2022": 2717.0,
+        "casos": 52,
+        "incidencia_100mil": 1913.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1705102",
+        "municipio": "Chapada da Natividade",
+        "populacao_2022": 3117.0,
+        "casos": 51,
+        "incidencia_100mil": 1636.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703883",
+        "municipio": "Carmolândia",
+        "populacao_2022": 2201.0,
+        "casos": 51,
+        "incidencia_100mil": 2317.13,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1700350",
+        "municipio": "Aliança do Tocantins",
+        "populacao_2022": 5147.0,
+        "casos": 50,
+        "incidencia_100mil": 971.44,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703891",
+        "municipio": "Carrasco Bonito",
+        "populacao_2022": 3318.0,
+        "casos": 49,
+        "incidencia_100mil": 1476.79,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1713700",
+        "municipio": "Monte Santo do Tocantins",
+        "populacao_2022": 2396.0,
+        "casos": 49,
+        "incidencia_100mil": 2045.08,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1713957",
+        "municipio": "Muricilândia",
+        "populacao_2022": 3367.0,
+        "casos": 48,
+        "incidencia_100mil": 1425.6,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718709",
+        "municipio": "Rio dos Bois",
+        "populacao_2022": 2738.0,
+        "casos": 47,
+        "incidencia_100mil": 1716.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718907",
+        "municipio": "Santa Rosa do Tocantins",
+        "populacao_2022": 4653.0,
+        "casos": 47,
+        "incidencia_100mil": 1010.1,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702000",
+        "municipio": "Araguaçu",
+        "populacao_2022": 8133.0,
+        "casos": 45,
+        "incidencia_100mil": 553.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1711902",
+        "municipio": "Lagoa da Confusão",
+        "populacao_2022": 15288.0,
+        "casos": 45,
+        "incidencia_100mil": 294.35,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1705607",
+        "municipio": "Conceição do Tocantins",
+        "populacao_2022": 3887.0,
+        "casos": 45,
+        "incidencia_100mil": 1157.71,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1707108",
+        "municipio": "Divinópolis do Tocantins",
+        "populacao_2022": 7024.0,
+        "casos": 45,
+        "incidencia_100mil": 640.66,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718303",
+        "municipio": "Praia Norte",
+        "populacao_2022": 9044.0,
+        "casos": 44,
+        "incidencia_100mil": 486.51,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703701",
+        "municipio": "Brejinho de Nazaré",
+        "populacao_2022": 4725.0,
+        "casos": 43,
+        "incidencia_100mil": 910.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1700707",
+        "municipio": "Alvorada",
+        "populacao_2022": 8802.0,
+        "casos": 42,
+        "incidencia_100mil": 477.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1707306",
+        "municipio": "Dueré",
+        "populacao_2022": 4248.0,
+        "casos": 41,
+        "incidencia_100mil": 965.16,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1713601",
+        "municipio": "Monte do Carmo",
+        "populacao_2022": 5694.0,
+        "casos": 41,
+        "incidencia_100mil": 720.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1701903",
+        "municipio": "Araguacema",
+        "populacao_2022": 5927.0,
+        "casos": 40,
+        "incidencia_100mil": 674.88,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716653",
+        "municipio": "Pequizeiro",
+        "populacao_2022": 4921.0,
+        "casos": 40,
+        "incidencia_100mil": 812.84,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1717909",
+        "municipio": "Ponte Alta do Tocantins",
+        "populacao_2022": 7586.0,
+        "casos": 36,
+        "incidencia_100mil": 474.56,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716208",
+        "municipio": "Paranã",
+        "populacao_2022": 10542.0,
+        "casos": 36,
+        "incidencia_100mil": 341.49,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703057",
+        "municipio": "Bandeirantes do Tocantins",
+        "populacao_2022": 3407.0,
+        "casos": 36,
+        "incidencia_100mil": 1056.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1717503",
+        "municipio": "Pium",
+        "populacao_2022": 7128.0,
+        "casos": 33,
+        "incidencia_100mil": 462.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702158",
+        "municipio": "Araguanã",
+        "populacao_2022": 4310.0,
+        "casos": 32,
+        "incidencia_100mil": 742.46,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718659",
+        "municipio": "Rio da Conceição",
+        "populacao_2022": 1768.0,
+        "casos": 32,
+        "incidencia_100mil": 1809.95,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1715002",
+        "municipio": "Nova Rosalândia",
+        "populacao_2022": 3362.0,
+        "casos": 31,
+        "incidencia_100mil": 922.07,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1707405",
+        "municipio": "Esperantina",
+        "populacao_2022": 7530.0,
+        "casos": 31,
+        "incidencia_100mil": 411.69,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1700400",
+        "municipio": "Almas",
+        "populacao_2022": 6499.0,
+        "casos": 29,
+        "incidencia_100mil": 446.22,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703107",
+        "municipio": "Barrolândia",
+        "populacao_2022": 4846.0,
+        "casos": 29,
+        "incidencia_100mil": 598.43,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1713809",
+        "municipio": "Palmeiras do Tocantins",
+        "populacao_2022": 4872.0,
+        "casos": 29,
+        "incidencia_100mil": 595.24,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720101",
+        "municipio": "São Bento do Tocantins",
+        "populacao_2022": 5654.0,
+        "casos": 29,
+        "incidencia_100mil": 512.91,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716307",
+        "municipio": "Pau D'Arco",
+        "populacao_2022": 4043.0,
+        "casos": 27,
+        "incidencia_100mil": 667.82,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1708205",
+        "municipio": "Formoso do Araguaia",
+        "populacao_2022": 18881.0,
+        "casos": 26,
+        "incidencia_100mil": 137.7,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1713205",
+        "municipio": "Miracema do Tocantins",
+        "populacao_2022": 18566.0,
+        "casos": 25,
+        "incidencia_100mil": 134.65,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1709807",
+        "municipio": "Ipueiras",
+        "populacao_2022": 1590.0,
+        "casos": 25,
+        "incidencia_100mil": 1572.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1710706",
+        "municipio": "Itaguatins",
+        "populacao_2022": 5172.0,
+        "casos": 24,
+        "incidencia_100mil": 464.04,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718550",
+        "municipio": "Riachinho",
+        "populacao_2022": 3960.0,
+        "casos": 24,
+        "incidencia_100mil": 606.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1702406",
+        "municipio": "Arraias",
+        "populacao_2022": 10287.0,
+        "casos": 24,
+        "incidencia_100mil": 233.3,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1706001",
+        "municipio": "Couto Magalhães",
+        "populacao_2022": 5331.0,
+        "casos": 24,
+        "incidencia_100mil": 450.2,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716604",
+        "municipio": "Peixe",
+        "populacao_2022": 9317.0,
+        "casos": 24,
+        "incidencia_100mil": 257.59,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1718808",
+        "municipio": "Sampaio",
+        "populacao_2022": 4215.0,
+        "casos": 23,
+        "incidencia_100mil": 545.67,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1701309",
+        "municipio": "Aragominas",
+        "populacao_2022": 5290.0,
+        "casos": 23,
+        "incidencia_100mil": 434.78,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718840",
+        "municipio": "Sandolândia",
+        "populacao_2022": 3723.0,
+        "casos": 21,
+        "incidencia_100mil": 564.06,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1715705",
+        "municipio": "Palmeirante",
+        "populacao_2022": 4798.0,
+        "casos": 21,
+        "incidencia_100mil": 437.68,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720937",
+        "municipio": "Taipas do Tocantins",
+        "populacao_2022": 2021.0,
+        "casos": 20,
+        "incidencia_100mil": 989.61,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1717008",
+        "municipio": "Pindorama do Tocantins",
+        "populacao_2022": 4478.0,
+        "casos": 19,
+        "incidencia_100mil": 424.3,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720655",
+        "municipio": "Silvanópolis",
+        "populacao_2022": 5108.0,
+        "casos": 19,
+        "incidencia_100mil": 371.97,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1707702",
+        "municipio": "Filadélfia",
+        "populacao_2022": 7712.0,
+        "casos": 18,
+        "incidencia_100mil": 233.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1714302",
+        "municipio": "Nazaré",
+        "populacao_2022": 4521.0,
+        "casos": 18,
+        "incidencia_100mil": 398.14,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718881",
+        "municipio": "Santa Maria do Tocantins",
+        "populacao_2022": 2680.0,
+        "casos": 17,
+        "incidencia_100mil": 634.33,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1718451",
+        "municipio": "Pugmil",
+        "populacao_2022": 2193.0,
+        "casos": 17,
+        "incidencia_100mil": 775.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720200",
+        "municipio": "São Miguel do Tocantins",
+        "populacao_2022": 13241.0,
+        "casos": 16,
+        "incidencia_100mil": 120.84,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1708304",
+        "municipio": "Goianorte",
+        "populacao_2022": 4738.0,
+        "casos": 15,
+        "incidencia_100mil": 316.59,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1713304",
+        "municipio": "Miranorte",
+        "populacao_2022": 12701.0,
+        "casos": 15,
+        "incidencia_100mil": 118.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1703602",
+        "municipio": "Brasilândia do Tocantins",
+        "populacao_2022": 1974.0,
+        "casos": 14,
+        "incidencia_100mil": 709.22,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1707553",
+        "municipio": "Fátima",
+        "populacao_2022": 3467.0,
+        "casos": 14,
+        "incidencia_100mil": 403.81,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703909",
+        "municipio": "Caseara",
+        "populacao_2022": 4847.0,
+        "casos": 14,
+        "incidencia_100mil": 288.84,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1718758",
+        "municipio": "Rio Sono",
+        "populacao_2022": 4841.0,
+        "casos": 13,
+        "incidencia_100mil": 268.54,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1707207",
+        "municipio": "Dois Irmãos do Tocantins",
+        "populacao_2022": 6327.0,
+        "casos": 13,
+        "incidencia_100mil": 205.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1706100",
+        "municipio": "Cristalândia",
+        "populacao_2022": 6371.0,
+        "casos": 12,
+        "incidencia_100mil": 188.35,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1715101",
+        "municipio": "Novo Acordo",
+        "populacao_2022": 3969.0,
+        "casos": 12,
+        "incidencia_100mil": 302.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1716703",
+        "municipio": "Colméia",
+        "populacao_2022": 8941.0,
+        "casos": 12,
+        "incidencia_100mil": 134.21,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1710508",
+        "municipio": "Itacajá",
+        "populacao_2022": 6819.0,
+        "casos": 11,
+        "incidencia_100mil": 161.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1711803",
+        "municipio": "Juarina",
+        "populacao_2022": 2243.0,
+        "casos": 11,
+        "incidencia_100mil": 490.41,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720903",
+        "municipio": "Taguatinga",
+        "populacao_2022": 14011.0,
+        "casos": 11,
+        "incidencia_100mil": 78.51,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1718402",
+        "municipio": "Presidente Kennedy",
+        "populacao_2022": 3047.0,
+        "casos": 10,
+        "incidencia_100mil": 328.19,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720309",
+        "municipio": "São Sebastião do Tocantins",
+        "populacao_2022": 4100.0,
+        "casos": 10,
+        "incidencia_100mil": 243.9,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1715507",
+        "municipio": "Oliveira de Fátima",
+        "populacao_2022": 1164.0,
+        "casos": 10,
+        "incidencia_100mil": 859.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720150",
+        "municipio": "São Félix do Tocantins",
+        "populacao_2022": 1783.0,
+        "casos": 10,
+        "incidencia_100mil": 560.85,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1705557",
+        "municipio": "Combinado",
+        "populacao_2022": 4756.0,
+        "casos": 9,
+        "incidencia_100mil": 189.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1701051",
+        "municipio": "Angico",
+        "populacao_2022": 2876.0,
+        "casos": 8,
+        "incidencia_100mil": 278.16,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1703867",
+        "municipio": "Cariri do Tocantins",
+        "populacao_2022": 4007.0,
+        "casos": 8,
+        "incidencia_100mil": 199.65,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1712009",
+        "municipio": "Lajeado",
+        "populacao_2022": 3357.0,
+        "casos": 8,
+        "incidencia_100mil": 238.31,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1715259",
+        "municipio": "Novo Jardim",
+        "populacao_2022": 2230.0,
+        "casos": 7,
+        "incidencia_100mil": 313.9,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1703800",
+        "municipio": "Buriti do Tocantins",
+        "populacao_2022": 10307.0,
+        "casos": 7,
+        "incidencia_100mil": 67.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1700251",
+        "municipio": "Abreulândia",
+        "populacao_2022": 2576.0,
+        "casos": 6,
+        "incidencia_100mil": 232.92,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1720853",
+        "municipio": "Sucupira",
+        "populacao_2022": 1577.0,
+        "casos": 6,
+        "incidencia_100mil": 380.47,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1720002",
+        "municipio": "Santa Terezinha do Tocantins",
+        "populacao_2022": 2406.0,
+        "casos": 6,
+        "incidencia_100mil": 249.38,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1704105",
+        "municipio": "Centenário",
+        "populacao_2022": 2131.0,
+        "casos": 6,
+        "incidencia_100mil": 281.56,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1711951",
+        "municipio": "Lagoa do Tocantins",
+        "populacao_2022": 3516.0,
+        "casos": 6,
+        "incidencia_100mil": 170.65,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1712702",
+        "municipio": "Mateiros",
+        "populacao_2022": 2748.0,
+        "casos": 5,
+        "incidencia_100mil": 181.95,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1703206",
+        "municipio": "Bernardo Sayão",
+        "populacao_2022": 4229.0,
+        "casos": 5,
+        "incidencia_100mil": 118.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1720499",
+        "municipio": "São Valério",
+        "populacao_2022": 4422.0,
+        "casos": 5,
+        "incidencia_100mil": 113.07,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1701101",
+        "municipio": "Aparecida do Rio Negro",
+        "populacao_2022": 4856.0,
+        "casos": 4,
+        "incidencia_100mil": 82.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1718006",
+        "municipio": "Porto Alegre do Tocantins",
+        "populacao_2022": 2866.0,
+        "casos": 4,
+        "incidencia_100mil": 139.57,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1717800",
+        "municipio": "Ponte Alta do Bom Jesus",
+        "populacao_2022": 4220.0,
+        "casos": 4,
+        "incidencia_100mil": 94.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1720978",
+        "municipio": "Talismã",
+        "populacao_2022": 2456.0,
+        "casos": 3,
+        "incidencia_100mil": 122.15,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1718501",
+        "municipio": "Recursolândia",
+        "populacao_2022": 3421.0,
+        "casos": 3,
+        "incidencia_100mil": 87.69,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1710904",
+        "municipio": "Itapiratins",
+        "populacao_2022": 3577.0,
+        "casos": 3,
+        "incidencia_100mil": 83.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1706258",
+        "municipio": "Crixás do Tocantins",
+        "populacao_2022": 1470.0,
+        "casos": 3,
+        "incidencia_100mil": 204.08,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1704600",
+        "municipio": "Chapada de Areia",
+        "populacao_2022": 1501.0,
+        "casos": 3,
+        "incidencia_100mil": 199.87,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1712801",
+        "municipio": "Maurilândia do Tocantins",
+        "populacao_2022": 3095.0,
+        "casos": 3,
+        "incidencia_100mil": 96.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1721109",
+        "municipio": "Tocantínia",
+        "populacao_2022": 7459.0,
+        "casos": 2,
+        "incidencia_100mil": 26.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1712157",
+        "municipio": "Lavandeira",
+        "populacao_2022": 1626.0,
+        "casos": 2,
+        "incidencia_100mil": 123.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1707652",
+        "municipio": "Figueirópolis",
+        "populacao_2022": 5211.0,
+        "casos": 2,
+        "incidencia_100mil": 38.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1702703",
+        "municipio": "Aurora do Tocantins",
+        "populacao_2022": 3342.0,
+        "casos": 2,
+        "incidencia_100mil": 59.84,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1718899",
+        "municipio": "Santa Rita do Tocantins",
+        "populacao_2022": 2219.0,
+        "casos": 2,
+        "incidencia_100mil": 90.13,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1708254",
+        "municipio": "Tabocão",
+        "populacao_2022": 3455.0,
+        "casos": 1,
+        "incidencia_100mil": 28.94,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1715150",
+        "municipio": "Novo Alegre",
+        "populacao_2022": 1846.0,
+        "casos": 1,
+        "incidencia_100mil": 54.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1721257",
+        "municipio": "Tupirama",
+        "populacao_2022": 1909.0,
+        "casos": 1,
+        "incidencia_100mil": 52.38,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "TO",
+        "uf_provavel_infeccao": "TO",
+        "total_registros": 8938,
+        "percentual_dentro_uf_residencia": 99.94
+      },
+      {
+        "uf_residencia": "TO",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "TO",
+        "uf_provavel_infeccao": "MA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "TO",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      },
+      {
+        "uf_residencia": "TO",
+        "uf_provavel_infeccao": "PR",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.01
+      }
+    ]
+  },
+  "interpretacao": "Na UF Tocantins, foram contabilizados 15.296 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 138 municípios com informações disponíveis para análise, Araguaína apresentou o maior número absoluto de notificações, com 4.745. A maior incidência foi observada em Jaú do Tocantins, com 5.818,84 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 58,11% dos registros de TO foram classificados como autóctones, 1,40% como não autóctones, 0,64% como indeterminados e 39,85% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,94% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Tocantins",
+    "TO",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

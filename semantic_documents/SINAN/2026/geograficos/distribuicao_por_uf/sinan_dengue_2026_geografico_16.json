@@ -1,0 +1,224 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_16",
+  "titulo": "Distribuição geográfica dos registros de dengue em Amapá — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "16",
+    "sigla_uf": "AP",
+    "uf_nome": "Amapá",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Amapá, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 510,
+    "total_casos_notificacao": 513,
+    "total_municipios_analisados": 14,
+    "municipio_maior_numero_casos": "Macapá",
+    "maior_numero_casos_municipio": 251,
+    "municipio_maior_incidencia": "Tartarugalzinho",
+    "maior_incidencia_100mil": 849.75,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 510,
+      "autoctones_residencia": 278,
+      "percentual_autoctones": 54.51,
+      "nao_autoctones_residencia": 11,
+      "percentual_nao_autoctones": 2.16,
+      "indeterminados": 3,
+      "percentual_indeterminados": 0.59,
+      "ausentes": 218,
+      "percentual_ausentes": 42.75,
+      "total_comparaveis_uf_residencia_infeccao": 285,
+      "percentual_mesma_uf_residencia_infeccao": 100.0,
+      "percentual_uf_diferente_residencia_infeccao": 0.0
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 2
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 9
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 3
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1600303",
+        "municipio": "Macapá",
+        "populacao_2022": 442933.0,
+        "casos": 251,
+        "incidencia_100mil": 56.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600709",
+        "municipio": "Tartarugalzinho",
+        "populacao_2022": 12945.0,
+        "casos": 110,
+        "incidencia_100mil": 849.75,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1600204",
+        "municipio": "Calçoene",
+        "populacao_2022": 10612.0,
+        "casos": 44,
+        "incidencia_100mil": 414.62,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1600501",
+        "municipio": "Oiapoque",
+        "populacao_2022": 27482.0,
+        "casos": 44,
+        "incidencia_100mil": 160.1,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1600600",
+        "municipio": "Santana",
+        "populacao_2022": 107618.0,
+        "casos": 17,
+        "incidencia_100mil": 15.8,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600055",
+        "municipio": "Serra do Navio",
+        "populacao_2022": 4673.0,
+        "casos": 12,
+        "incidencia_100mil": 256.79,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1600535",
+        "municipio": "Porto Grande",
+        "populacao_2022": 17848.0,
+        "casos": 8,
+        "incidencia_100mil": 44.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600154",
+        "municipio": "Pedra Branca do Amapari",
+        "populacao_2022": 12847.0,
+        "casos": 6,
+        "incidencia_100mil": 46.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600105",
+        "municipio": "Amapá",
+        "populacao_2022": 7943.0,
+        "casos": 4,
+        "incidencia_100mil": 50.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600253",
+        "municipio": "Itaubal",
+        "populacao_2022": 5599.0,
+        "casos": 4,
+        "incidencia_100mil": 71.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600550",
+        "municipio": "Pracuúba",
+        "populacao_2022": 3803.0,
+        "casos": 4,
+        "incidencia_100mil": 105.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1600402",
+        "municipio": "Mazagão",
+        "populacao_2022": 21924.0,
+        "casos": 4,
+        "incidencia_100mil": 18.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600238",
+        "municipio": "Ferreira Gomes",
+        "populacao_2022": 6666.0,
+        "casos": 1,
+        "incidencia_100mil": 15.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1600808",
+        "municipio": "Vitória do Jari",
+        "populacao_2022": 11291.0,
+        "casos": 1,
+        "incidencia_100mil": 8.86,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "AP",
+        "uf_provavel_infeccao": "AP",
+        "total_registros": 285,
+        "percentual_dentro_uf_residencia": 100.0
+      }
+    ]
+  },
+  "interpretacao": "Na UF Amapá, foram contabilizados 510 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 14 municípios com informações disponíveis para análise, Macapá apresentou o maior número absoluto de notificações, com 251. A maior incidência foi observada em Tartarugalzinho, com 849,75 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 54,51% dos registros de AP foram classificados como autóctones, 2,16% como não autóctones, 0,59% como indeterminados e 42,75% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 100,00% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Amapá",
+    "AP",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

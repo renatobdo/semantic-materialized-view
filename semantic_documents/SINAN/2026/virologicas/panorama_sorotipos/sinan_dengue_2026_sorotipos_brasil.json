@@ -1,0 +1,273 @@
+{
+  "document_id": "SINAN_DENGUE_2026_SOROTIPOS_BRASIL",
+  "titulo": "Panorama dos sorotipos de dengue no Brasil — 2026",
+  "tipo_documento": "panorama_virologico_nacional",
+  "dominio": "virologico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "pais": "Brasil",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_ufs": 27
+  },
+  "sintese": "Este documento apresenta o panorama nacional dos sorotipos de dengue registrados no SINAN em 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentadas a distribuição dos sorotipos identificados e a completude da informação de sorotipo entre as Unidades da Federação.",
+  "indicadores": {
+    "total_registros": 444266,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "sorotipo_informado": 29517,
+    "sorotipo_nao_informado": 414749,
+    "percentual_sorotipo_informado": 6.64,
+    "percentual_sorotipo_nao_informado": 93.36,
+    "total_ufs": 27,
+    "ufs_sem_sorotipo_informado": 1
+  },
+  "evidencias": {
+    "distribuicao_nacional_sorotipos": [
+      {
+        "sorotipo": "DENV-2",
+        "total_casos": 18763,
+        "percentual_entre_sorotipos_informados": 63.57
+      },
+      {
+        "sorotipo": "DENV-3",
+        "total_casos": 9017,
+        "percentual_entre_sorotipos_informados": 30.55
+      },
+      {
+        "sorotipo": "DENV-1",
+        "total_casos": 1631,
+        "percentual_entre_sorotipos_informados": 5.53
+      },
+      {
+        "sorotipo": "DENV-4",
+        "total_casos": 106,
+        "percentual_entre_sorotipos_informados": 0.36
+      }
+    ],
+    "completude_por_uf": [
+      {
+        "codigo_uf": "12",
+        "uf": "Acre",
+        "total_registros": 1832,
+        "sorotipo_informado": 83,
+        "percentual_sorotipo_informado": 4.53
+      },
+      {
+        "codigo_uf": "27",
+        "uf": "Alagoas",
+        "total_registros": 5473,
+        "sorotipo_informado": 794,
+        "percentual_sorotipo_informado": 14.51
+      },
+      {
+        "codigo_uf": "16",
+        "uf": "Amapá",
+        "total_registros": 513,
+        "sorotipo_informado": 0,
+        "percentual_sorotipo_informado": 0.0
+      },
+      {
+        "codigo_uf": "13",
+        "uf": "Amazonas",
+        "total_registros": 1399,
+        "sorotipo_informado": 58,
+        "percentual_sorotipo_informado": 4.15
+      },
+      {
+        "codigo_uf": "29",
+        "uf": "Bahia",
+        "total_registros": 21609,
+        "sorotipo_informado": 687,
+        "percentual_sorotipo_informado": 3.18
+      },
+      {
+        "codigo_uf": "23",
+        "uf": "Ceará",
+        "total_registros": 17337,
+        "sorotipo_informado": 3351,
+        "percentual_sorotipo_informado": 19.33
+      },
+      {
+        "codigo_uf": "53",
+        "uf": "Distrito Federal",
+        "total_registros": 3841,
+        "sorotipo_informado": 104,
+        "percentual_sorotipo_informado": 2.71
+      },
+      {
+        "codigo_uf": "32",
+        "uf": "Espírito Santo",
+        "total_registros": 19414,
+        "sorotipo_informado": 2106,
+        "percentual_sorotipo_informado": 10.85
+      },
+      {
+        "codigo_uf": "52",
+        "uf": "Goiás",
+        "total_registros": 108884,
+        "sorotipo_informado": 6423,
+        "percentual_sorotipo_informado": 5.9
+      },
+      {
+        "codigo_uf": "21",
+        "uf": "Maranhão",
+        "total_registros": 12282,
+        "sorotipo_informado": 400,
+        "percentual_sorotipo_informado": 3.26
+      },
+      {
+        "codigo_uf": "51",
+        "uf": "Mato Grosso",
+        "total_registros": 11633,
+        "sorotipo_informado": 585,
+        "percentual_sorotipo_informado": 5.03
+      },
+      {
+        "codigo_uf": "50",
+        "uf": "Mato Grosso do Sul",
+        "total_registros": 4651,
+        "sorotipo_informado": 708,
+        "percentual_sorotipo_informado": 15.22
+      },
+      {
+        "codigo_uf": "31",
+        "uf": "Minas Gerais",
+        "total_registros": 61248,
+        "sorotipo_informado": 5438,
+        "percentual_sorotipo_informado": 8.88
+      },
+      {
+        "codigo_uf": "41",
+        "uf": "Paraná",
+        "total_registros": 11293,
+        "sorotipo_informado": 504,
+        "percentual_sorotipo_informado": 4.46
+      },
+      {
+        "codigo_uf": "25",
+        "uf": "Paraíba",
+        "total_registros": 6514,
+        "sorotipo_informado": 362,
+        "percentual_sorotipo_informado": 5.56
+      },
+      {
+        "codigo_uf": "15",
+        "uf": "Pará",
+        "total_registros": 9323,
+        "sorotipo_informado": 1573,
+        "percentual_sorotipo_informado": 16.87
+      },
+      {
+        "codigo_uf": "26",
+        "uf": "Pernambuco",
+        "total_registros": 22036,
+        "sorotipo_informado": 1372,
+        "percentual_sorotipo_informado": 6.23
+      },
+      {
+        "codigo_uf": "22",
+        "uf": "Piauí",
+        "total_registros": 17383,
+        "sorotipo_informado": 296,
+        "percentual_sorotipo_informado": 1.7
+      },
+      {
+        "codigo_uf": "24",
+        "uf": "Rio Grande do Norte",
+        "total_registros": 7234,
+        "sorotipo_informado": 156,
+        "percentual_sorotipo_informado": 2.16
+      },
+      {
+        "codigo_uf": "43",
+        "uf": "Rio Grande do Sul",
+        "total_registros": 6743,
+        "sorotipo_informado": 69,
+        "percentual_sorotipo_informado": 1.02
+      },
+      {
+        "codigo_uf": "33",
+        "uf": "Rio de Janeiro",
+        "total_registros": 6854,
+        "sorotipo_informado": 424,
+        "percentual_sorotipo_informado": 6.19
+      },
+      {
+        "codigo_uf": "11",
+        "uf": "Rondônia",
+        "total_registros": 1354,
+        "sorotipo_informado": 97,
+        "percentual_sorotipo_informado": 7.16
+      },
+      {
+        "codigo_uf": "14",
+        "uf": "Roraima",
+        "total_registros": 556,
+        "sorotipo_informado": 42,
+        "percentual_sorotipo_informado": 7.55
+      },
+      {
+        "codigo_uf": "42",
+        "uf": "Santa Catarina",
+        "total_registros": 3070,
+        "sorotipo_informado": 233,
+        "percentual_sorotipo_informado": 7.59
+      },
+      {
+        "codigo_uf": "28",
+        "uf": "Sergipe",
+        "total_registros": 1165,
+        "sorotipo_informado": 127,
+        "percentual_sorotipo_informado": 10.9
+      },
+      {
+        "codigo_uf": "35",
+        "uf": "São Paulo",
+        "total_registros": 65195,
+        "sorotipo_informado": 935,
+        "percentual_sorotipo_informado": 1.43
+      },
+      {
+        "codigo_uf": "17",
+        "uf": "Tocantins",
+        "total_registros": 15430,
+        "sorotipo_informado": 2590,
+        "percentual_sorotipo_informado": 16.79
+      }
+    ]
+  },
+  "interpretacao": "No conjunto nacional de registros com informação de sorotipo, DENV-2 apresentou a maior frequência, com 18,763 registros. A informação de sorotipo estava disponível em 6.64% dos registros analisados. Entre as UFs, Ceará apresentou o maior percentual de registros com sorotipo informado (19.33%), enquanto Amapá apresentou o menor percentual (0.00%).",
+  "observacoes_dados": [
+    "414,749 registros (93.36%) não possuem informação de sorotipo.",
+    "A distribuição nacional dos sorotipos considera somente os registros com informação de sorotipo disponível.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Diferenças entre UFs devem ser interpretadas levando em consideração a disponibilidade da informação de sorotipo.",
+    "UFs sem registros com sorotipo informado: Amapá."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Sorotipo",
+    "Brasil",
+    "Unidade Federativa",
+    "Notificação epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Brasil",
+    "sorotipo",
+    "DENV-1",
+    "DENV-2",
+    "DENV-3",
+    "DENV-4",
+    "completude"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_28",
+  "titulo": "Desfechos dos registros de dengue em Sergipe - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "28",
+    "uf_nome": "Sergipe",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Sergipe, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 1165,
+    "avaliaveis_hospitalizacao": 825,
+    "hospitalizados": 195,
+    "percentual_hospitalizados": 23.64,
+    "total_evolucao_avaliavel": 541,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 538,
+    "percentual_evolucao_predominante": 99.45
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 1165,
+        "avaliaveis": 825,
+        "hospitalizados": 195,
+        "nao_hospitalizados": 630,
+        "ignorados": 4,
+        "ausentes": 336,
+        "percentual_hospitalizados": 23.64,
+        "percentual_nao_hospitalizados": 76.36,
+        "percentual_ignorados": 0.34,
+        "percentual_ausentes": 28.84
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 538,
+        "percentual_total": 46.18,
+        "avaliavel": true,
+        "total_avaliaveis": 541,
+        "percentual_avaliaveis": 99.45
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 11,
+        "percentual_total": 0.94,
+        "avaliavel": false,
+        "total_avaliaveis": 541,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 2,
+        "percentual_total": 0.17,
+        "avaliavel": true,
+        "total_avaliaveis": 541,
+        "percentual_avaliaveis": 0.37
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 1,
+        "percentual_total": 0.09,
+        "avaliavel": true,
+        "total_avaliaveis": 541,
+        "percentual_avaliaveis": 0.18
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 613,
+        "percentual_total": 52.62,
+        "avaliavel": false,
+        "total_avaliaveis": 541,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Sergipe, foram considerados 1,165 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 195 apresentaram hospitalização, correspondendo a 23.64%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 538 registros e 99.45% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Sergipe",
+    "28",
+    "2026",
+    "SINAN"
+  ]
+}

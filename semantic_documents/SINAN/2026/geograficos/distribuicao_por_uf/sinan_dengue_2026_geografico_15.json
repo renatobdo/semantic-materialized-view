@@ -1,0 +1,1232 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_15",
+  "titulo": "Distribuição geográfica dos registros de dengue em Pará — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "15",
+    "sigla_uf": "PA",
+    "uf_nome": "Pará",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Pará, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 9476,
+    "total_casos_notificacao": 9323,
+    "total_municipios_analisados": 137,
+    "municipio_maior_numero_casos": "Belém",
+    "maior_numero_casos_municipio": 1290,
+    "municipio_maior_incidencia": "Brejo Grande do Araguaia",
+    "maior_incidencia_100mil": 1430.05,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 9476,
+      "autoctones_residencia": 4807,
+      "percentual_autoctones": 50.73,
+      "nao_autoctones_residencia": 150,
+      "percentual_nao_autoctones": 1.58,
+      "indeterminados": 105,
+      "percentual_indeterminados": 1.11,
+      "ausentes": 4414,
+      "percentual_ausentes": 46.58,
+      "total_comparaveis_uf_residencia_infeccao": 4866,
+      "percentual_mesma_uf_residencia_infeccao": 99.84,
+      "percentual_uf_diferente_residencia_infeccao": 0.16
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 13
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 88
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 36
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1501402",
+        "municipio": "Belém",
+        "populacao_2022": 1303403.0,
+        "casos": 1290,
+        "incidencia_100mil": 98.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506807",
+        "municipio": "Santarém",
+        "populacao_2022": 331942.0,
+        "casos": 1099,
+        "incidencia_100mil": 331.08,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1502400",
+        "municipio": "Castanhal",
+        "populacao_2022": 192256.0,
+        "casos": 657,
+        "incidencia_100mil": 341.73,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1500602",
+        "municipio": "Altamira",
+        "populacao_2022": 126279.0,
+        "casos": 419,
+        "incidencia_100mil": 331.8,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1502707",
+        "municipio": "Conceição do Araguaia",
+        "populacao_2022": 44617.0,
+        "casos": 361,
+        "incidencia_100mil": 809.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1506708",
+        "municipio": "Santana do Araguaia",
+        "populacao_2022": 32413.0,
+        "casos": 359,
+        "incidencia_100mil": 1107.58,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1504059",
+        "municipio": "Mãe do Rio",
+        "populacao_2022": 34353.0,
+        "casos": 351,
+        "incidencia_100mil": 1021.74,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1500800",
+        "municipio": "Ananindeua",
+        "populacao_2022": 478778.0,
+        "casos": 338,
+        "incidencia_100mil": 70.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505536",
+        "municipio": "Parauapebas",
+        "populacao_2022": 267836.0,
+        "casos": 300,
+        "incidencia_100mil": 112.01,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1503309",
+        "municipio": "Igarapé-Miri",
+        "populacao_2022": 64831.0,
+        "casos": 297,
+        "incidencia_100mil": 458.11,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1506500",
+        "municipio": "Santa Izabel do Pará",
+        "populacao_2022": 73019.0,
+        "casos": 209,
+        "incidencia_100mil": 286.23,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1508100",
+        "municipio": "Tucuruí",
+        "populacao_2022": 91306.0,
+        "casos": 179,
+        "incidencia_100mil": 196.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1502152",
+        "municipio": "Canaã dos Carajás",
+        "populacao_2022": 77079.0,
+        "casos": 156,
+        "incidencia_100mil": 202.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1504208",
+        "municipio": "Marabá",
+        "populacao_2022": 266533.0,
+        "casos": 154,
+        "incidencia_100mil": 57.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501204",
+        "municipio": "Baião",
+        "populacao_2022": 51641.0,
+        "casos": 150,
+        "incidencia_100mil": 290.47,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501303",
+        "municipio": "Barcarena",
+        "populacao_2022": 126650.0,
+        "casos": 137,
+        "incidencia_100mil": 108.17,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501709",
+        "municipio": "Bragança",
+        "populacao_2022": 123082.0,
+        "casos": 110,
+        "incidencia_100mil": 89.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507607",
+        "municipio": "São Miguel do Guamá",
+        "populacao_2022": 52894.0,
+        "casos": 106,
+        "incidencia_100mil": 200.4,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1508407",
+        "municipio": "Xinguara",
+        "populacao_2022": 52893.0,
+        "casos": 97,
+        "incidencia_100mil": 183.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501758",
+        "municipio": "Brejo Grande do Araguaia",
+        "populacao_2022": 6783.0,
+        "casos": 97,
+        "incidencia_100mil": 1430.05,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1503606",
+        "municipio": "Itaituba",
+        "populacao_2022": 123314.0,
+        "casos": 87,
+        "incidencia_100mil": 70.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507953",
+        "municipio": "Tailândia",
+        "populacao_2022": 72493.0,
+        "casos": 80,
+        "incidencia_100mil": 110.36,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1505403",
+        "municipio": "Ourém",
+        "populacao_2022": 17855.0,
+        "casos": 76,
+        "incidencia_100mil": 425.65,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1500107",
+        "municipio": "Abaetetuba",
+        "populacao_2022": 158188.0,
+        "casos": 74,
+        "incidencia_100mil": 46.78,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506195",
+        "municipio": "Rurópolis",
+        "populacao_2022": 35769.0,
+        "casos": 73,
+        "incidencia_100mil": 204.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1508159",
+        "municipio": "Uruará",
+        "populacao_2022": 43558.0,
+        "casos": 71,
+        "incidencia_100mil": 163.0,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1505551",
+        "municipio": "Pau D'Arco",
+        "populacao_2022": 6931.0,
+        "casos": 70,
+        "incidencia_100mil": 1009.96,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1502764",
+        "municipio": "Cumaru do Norte",
+        "populacao_2022": 14036.0,
+        "casos": 67,
+        "incidencia_100mil": 477.34,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1508001",
+        "municipio": "Tomé-Açu",
+        "populacao_2022": 67585.0,
+        "casos": 65,
+        "incidencia_100mil": 96.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502301",
+        "municipio": "Capitão Poço",
+        "populacao_2022": 56506.0,
+        "casos": 64,
+        "incidencia_100mil": 113.26,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501501",
+        "municipio": "Benevides",
+        "populacao_2022": 63567.0,
+        "casos": 63,
+        "incidencia_100mil": 99.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506609",
+        "municipio": "Santa Maria do Pará",
+        "populacao_2022": 24624.0,
+        "casos": 59,
+        "incidencia_100mil": 239.6,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1507458",
+        "municipio": "São Geraldo do Araguaia",
+        "populacao_2022": 24255.0,
+        "casos": 55,
+        "incidencia_100mil": 226.76,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1504703",
+        "municipio": "Moju",
+        "populacao_2022": 84094.0,
+        "casos": 53,
+        "incidencia_100mil": 63.02,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500859",
+        "municipio": "Anapu",
+        "populacao_2022": 31850.0,
+        "casos": 53,
+        "incidencia_100mil": 166.41,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1502103",
+        "municipio": "Cametá",
+        "populacao_2022": 134184.0,
+        "casos": 50,
+        "incidencia_100mil": 37.26,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505502",
+        "municipio": "Paragominas",
+        "populacao_2022": 105550.0,
+        "casos": 50,
+        "incidencia_100mil": 47.37,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503457",
+        "municipio": "Ipixuna do Pará",
+        "populacao_2022": 30329.0,
+        "casos": 49,
+        "incidencia_100mil": 161.56,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1507961",
+        "municipio": "Terra Alta",
+        "populacao_2022": 10400.0,
+        "casos": 47,
+        "incidencia_100mil": 451.92,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1504422",
+        "municipio": "Marituba",
+        "populacao_2022": 111785.0,
+        "casos": 46,
+        "incidencia_100mil": 41.15,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500206",
+        "municipio": "Acará",
+        "populacao_2022": 59023.0,
+        "casos": 45,
+        "incidencia_100mil": 76.24,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506138",
+        "municipio": "Redenção",
+        "populacao_2022": 85597.0,
+        "casos": 44,
+        "incidencia_100mil": 51.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508084",
+        "municipio": "Tucumã",
+        "populacao_2022": 39550.0,
+        "casos": 43,
+        "incidencia_100mil": 108.72,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1507508",
+        "municipio": "São João do Araguaia",
+        "populacao_2022": 13664.0,
+        "casos": 43,
+        "incidencia_100mil": 314.7,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1506161",
+        "municipio": "Rio Maria",
+        "populacao_2022": 18384.0,
+        "casos": 41,
+        "incidencia_100mil": 223.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1505064",
+        "municipio": "Novo Repartimento",
+        "populacao_2022": 60732.0,
+        "casos": 40,
+        "incidencia_100mil": 65.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502939",
+        "municipio": "Dom Eliseu",
+        "populacao_2022": 58484.0,
+        "casos": 39,
+        "incidencia_100mil": 66.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504604",
+        "municipio": "Mocajuba",
+        "populacao_2022": 27198.0,
+        "casos": 39,
+        "incidencia_100mil": 143.39,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1505809",
+        "municipio": "Portel",
+        "populacao_2022": 62503.0,
+        "casos": 39,
+        "incidencia_100mil": 62.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507151",
+        "municipio": "São Domingos do Araguaia",
+        "populacao_2022": 21092.0,
+        "casos": 34,
+        "incidencia_100mil": 161.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1504976",
+        "municipio": "Nova Ipixuna",
+        "populacao_2022": 13955.0,
+        "casos": 34,
+        "incidencia_100mil": 243.64,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1500958",
+        "municipio": "Aurora do Pará",
+        "populacao_2022": 23774.0,
+        "casos": 33,
+        "incidencia_100mil": 138.81,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1504950",
+        "municipio": "Nova Esperança do Piriá",
+        "populacao_2022": 20478.0,
+        "casos": 32,
+        "incidencia_100mil": 156.27,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1502756",
+        "municipio": "Concórdia do Pará",
+        "populacao_2022": 26881.0,
+        "casos": 32,
+        "incidencia_100mil": 119.04,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501782",
+        "municipio": "Breu Branco",
+        "populacao_2022": 45712.0,
+        "casos": 32,
+        "incidencia_100mil": 70.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508357",
+        "municipio": "Vitória do Xingu",
+        "populacao_2022": 15607.0,
+        "casos": 30,
+        "incidencia_100mil": 192.22,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1504455",
+        "municipio": "Medicilândia",
+        "populacao_2022": 27094.0,
+        "casos": 29,
+        "incidencia_100mil": 107.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1503044",
+        "municipio": "Floresta do Araguaia",
+        "populacao_2022": 17898.0,
+        "casos": 29,
+        "incidencia_100mil": 162.03,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1504752",
+        "municipio": "Mojuí dos Campos",
+        "populacao_2022": 23501.0,
+        "casos": 28,
+        "incidencia_100mil": 119.14,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1507300",
+        "municipio": "São Félix do Xingu",
+        "populacao_2022": 65418.0,
+        "casos": 27,
+        "incidencia_100mil": 41.27,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506203",
+        "municipio": "Salinópolis",
+        "populacao_2022": 44772.0,
+        "casos": 27,
+        "incidencia_100mil": 60.31,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501451",
+        "municipio": "Belterra",
+        "populacao_2022": 18099.0,
+        "casos": 27,
+        "incidencia_100mil": 149.18,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501725",
+        "municipio": "Brasil Novo",
+        "populacao_2022": 24718.0,
+        "casos": 26,
+        "incidencia_100mil": 105.19,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1503093",
+        "municipio": "Goianésia do Pará",
+        "populacao_2022": 26362.0,
+        "casos": 24,
+        "incidencia_100mil": 91.04,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507805",
+        "municipio": "Senador José Porfírio",
+        "populacao_2022": 22576.0,
+        "casos": 23,
+        "incidencia_100mil": 101.88,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1506583",
+        "municipio": "Santa Maria das Barreiras",
+        "populacao_2022": 16548.0,
+        "casos": 23,
+        "incidencia_100mil": 138.99,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1506559",
+        "municipio": "Santa Luzia do Pará",
+        "populacao_2022": 20370.0,
+        "casos": 20,
+        "incidencia_100mil": 98.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507201",
+        "municipio": "São Domingos do Capim",
+        "populacao_2022": 30599.0,
+        "casos": 20,
+        "incidencia_100mil": 65.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503408",
+        "municipio": "Inhangapi",
+        "populacao_2022": 10325.0,
+        "casos": 19,
+        "incidencia_100mil": 184.02,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1502905",
+        "municipio": "Curuçá",
+        "populacao_2022": 41262.0,
+        "casos": 18,
+        "incidencia_100mil": 43.62,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508050",
+        "municipio": "Trairão",
+        "populacao_2022": 15242.0,
+        "casos": 18,
+        "incidencia_100mil": 118.09,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1505106",
+        "municipio": "Óbidos",
+        "populacao_2022": 52229.0,
+        "casos": 17,
+        "incidencia_100mil": 32.55,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501576",
+        "municipio": "Bom Jesus do Tocantins",
+        "populacao_2022": 18005.0,
+        "casos": 17,
+        "incidencia_100mil": 94.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506005",
+        "municipio": "Prainha",
+        "populacao_2022": 35577.0,
+        "casos": 15,
+        "incidencia_100mil": 42.16,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505650",
+        "municipio": "Placas",
+        "populacao_2022": 18668.0,
+        "casos": 15,
+        "incidencia_100mil": 80.35,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502004",
+        "municipio": "Cachoeira do Arari",
+        "populacao_2022": 23981.0,
+        "casos": 13,
+        "incidencia_100mil": 54.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505700",
+        "municipio": "Ponta de Pedras",
+        "populacao_2022": 24984.0,
+        "casos": 12,
+        "incidencia_100mil": 48.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505031",
+        "municipio": "Novo Progresso",
+        "populacao_2022": 33638.0,
+        "casos": 11,
+        "incidencia_100mil": 32.7,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503705",
+        "municipio": "Itupiranga",
+        "populacao_2022": 49754.0,
+        "casos": 11,
+        "incidencia_100mil": 22.11,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507409",
+        "municipio": "São Francisco do Pará",
+        "populacao_2022": 14894.0,
+        "casos": 11,
+        "incidencia_100mil": 73.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500305",
+        "municipio": "Afuá",
+        "populacao_2022": 37765.0,
+        "casos": 10,
+        "incidencia_100mil": 26.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502202",
+        "municipio": "Capanema",
+        "populacao_2022": 70394.0,
+        "casos": 10,
+        "incidencia_100mil": 14.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505494",
+        "municipio": "Palestina do Pará",
+        "populacao_2022": 6885.0,
+        "casos": 10,
+        "incidencia_100mil": 145.24,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1507003",
+        "municipio": "Santo Antônio do Tauá",
+        "populacao_2022": 27461.0,
+        "casos": 10,
+        "incidencia_100mil": 36.42,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508209",
+        "municipio": "Vigia",
+        "populacao_2022": 50832.0,
+        "casos": 10,
+        "incidencia_100mil": 19.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504000",
+        "municipio": "Limoeiro do Ajuru",
+        "populacao_2022": 29569.0,
+        "casos": 9,
+        "incidencia_100mil": 30.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505437",
+        "municipio": "Ourilândia do Norte",
+        "populacao_2022": 32467.0,
+        "casos": 9,
+        "incidencia_100mil": 27.72,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505304",
+        "municipio": "Oriximiná",
+        "populacao_2022": 68294.0,
+        "casos": 9,
+        "incidencia_100mil": 13.18,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503804",
+        "municipio": "Jacundá",
+        "populacao_2022": 37707.0,
+        "casos": 9,
+        "incidencia_100mil": 23.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502954",
+        "municipio": "Eldorado do Carajás",
+        "populacao_2022": 28192.0,
+        "casos": 9,
+        "incidencia_100mil": 31.92,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504406",
+        "municipio": "Marapanim",
+        "populacao_2022": 26573.0,
+        "casos": 9,
+        "incidencia_100mil": 33.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502608",
+        "municipio": "Colares",
+        "populacao_2022": 12868.0,
+        "casos": 8,
+        "incidencia_100mil": 62.17,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505205",
+        "municipio": "Oeiras do Pará",
+        "populacao_2022": 33844.0,
+        "casos": 8,
+        "incidencia_100mil": 23.64,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502806",
+        "municipio": "Curralinho",
+        "populacao_2022": 33903.0,
+        "casos": 8,
+        "incidencia_100mil": 23.6,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504109",
+        "municipio": "Magalhães Barata",
+        "populacao_2022": 8115.0,
+        "casos": 8,
+        "incidencia_100mil": 98.58,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500909",
+        "municipio": "Augusto Corrêa",
+        "populacao_2022": 44573.0,
+        "casos": 8,
+        "incidencia_100mil": 17.95,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508308",
+        "municipio": "Viseu",
+        "populacao_2022": 58692.0,
+        "casos": 7,
+        "incidencia_100mil": 11.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507102",
+        "municipio": "São Caetano de Odivelas",
+        "populacao_2022": 16666.0,
+        "casos": 6,
+        "incidencia_100mil": 36.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506302",
+        "municipio": "Salvaterra",
+        "populacao_2022": 24129.0,
+        "casos": 6,
+        "incidencia_100mil": 24.87,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503200",
+        "municipio": "Igarapé-Açu",
+        "populacao_2022": 35797.0,
+        "casos": 6,
+        "incidencia_100mil": 16.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503507",
+        "municipio": "Irituia",
+        "populacao_2022": 30955.0,
+        "casos": 6,
+        "incidencia_100mil": 19.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506351",
+        "municipio": "Santa Bárbara do Pará",
+        "populacao_2022": 21087.0,
+        "casos": 6,
+        "incidencia_100mil": 28.45,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505635",
+        "municipio": "Piçarra",
+        "populacao_2022": 12832.0,
+        "casos": 5,
+        "incidencia_100mil": 38.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507904",
+        "municipio": "Soure",
+        "populacao_2022": 24204.0,
+        "casos": 5,
+        "incidencia_100mil": 20.66,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508035",
+        "municipio": "Tracuateua",
+        "populacao_2022": 28595.0,
+        "casos": 5,
+        "incidencia_100mil": 17.49,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505908",
+        "municipio": "Porto de Moz",
+        "populacao_2022": 40597.0,
+        "casos": 5,
+        "incidencia_100mil": 12.32,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501808",
+        "municipio": "Breves",
+        "populacao_2022": 106968.0,
+        "casos": 5,
+        "incidencia_100mil": 4.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507466",
+        "municipio": "São João da Ponta",
+        "populacao_2022": 4430.0,
+        "casos": 5,
+        "incidencia_100mil": 112.87,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1501956",
+        "municipio": "Cachoeira do Piriá",
+        "populacao_2022": 19630.0,
+        "casos": 4,
+        "incidencia_100mil": 20.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500347",
+        "municipio": "Água Azul do Norte",
+        "populacao_2022": 18080.0,
+        "casos": 4,
+        "incidencia_100mil": 22.12,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506906",
+        "municipio": "Santarém Novo",
+        "populacao_2022": 6116.0,
+        "casos": 4,
+        "incidencia_100mil": 65.4,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504901",
+        "municipio": "Muaná",
+        "populacao_2022": 45368.0,
+        "casos": 3,
+        "incidencia_100mil": 6.61,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500503",
+        "municipio": "Almeirim",
+        "populacao_2022": 34280.0,
+        "casos": 3,
+        "incidencia_100mil": 8.75,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1508126",
+        "municipio": "Ulianópolis",
+        "populacao_2022": 37972.0,
+        "casos": 3,
+        "incidencia_100mil": 7.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507979",
+        "municipio": "Terra Santa",
+        "populacao_2022": 18782.0,
+        "casos": 3,
+        "incidencia_100mil": 15.97,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505486",
+        "municipio": "Pacajá",
+        "populacao_2022": 41097.0,
+        "casos": 3,
+        "incidencia_100mil": 7.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501105",
+        "municipio": "Bagre",
+        "populacao_2022": 31892.0,
+        "casos": 3,
+        "incidencia_100mil": 9.41,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504802",
+        "municipio": "Monte Alegre",
+        "populacao_2022": 60012.0,
+        "casos": 3,
+        "incidencia_100mil": 5.0,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503754",
+        "municipio": "Jacareacanga",
+        "populacao_2022": 24042.0,
+        "casos": 3,
+        "incidencia_100mil": 12.48,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506104",
+        "municipio": "Primavera",
+        "populacao_2022": 10851.0,
+        "casos": 3,
+        "incidencia_100mil": 27.65,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500131",
+        "municipio": "Abel Figueiredo",
+        "populacao_2022": 6136.0,
+        "casos": 2,
+        "incidencia_100mil": 32.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500701",
+        "municipio": "Anajás",
+        "populacao_2022": 28011.0,
+        "casos": 2,
+        "incidencia_100mil": 7.14,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1500404",
+        "municipio": "Alenquer",
+        "populacao_2022": 69377.0,
+        "casos": 2,
+        "incidencia_100mil": 2.88,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506187",
+        "municipio": "Rondon do Pará",
+        "populacao_2022": 53143.0,
+        "casos": 2,
+        "incidencia_100mil": 3.76,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1506112",
+        "municipio": "Quatipuru",
+        "populacao_2022": 11524.0,
+        "casos": 2,
+        "incidencia_100mil": 17.36,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501907",
+        "municipio": "Bujaru",
+        "populacao_2022": 24383.0,
+        "casos": 2,
+        "incidencia_100mil": 8.2,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501600",
+        "municipio": "Bonito",
+        "populacao_2022": 12622.0,
+        "casos": 2,
+        "incidencia_100mil": 15.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502772",
+        "municipio": "Curionópolis",
+        "populacao_2022": 19950.0,
+        "casos": 2,
+        "incidencia_100mil": 10.03,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503903",
+        "municipio": "Juruti",
+        "populacao_2022": 50881.0,
+        "casos": 2,
+        "incidencia_100mil": 3.93,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507755",
+        "municipio": "Sapucaia",
+        "populacao_2022": 5847.0,
+        "casos": 2,
+        "incidencia_100mil": 34.21,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507474",
+        "municipio": "São João de Pirabas",
+        "populacao_2022": 20689.0,
+        "casos": 2,
+        "incidencia_100mil": 9.67,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1503077",
+        "municipio": "Garrafão do Norte",
+        "populacao_2022": 24703.0,
+        "casos": 1,
+        "incidencia_100mil": 4.05,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1501253",
+        "municipio": "Bannach",
+        "populacao_2022": 4031.0,
+        "casos": 1,
+        "incidencia_100mil": 24.81,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1504307",
+        "municipio": "Maracanã",
+        "populacao_2022": 25971.0,
+        "casos": 1,
+        "incidencia_100mil": 3.85,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1502855",
+        "municipio": "Curuá",
+        "populacao_2022": 14117.0,
+        "casos": 1,
+        "incidencia_100mil": 7.08,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1505601",
+        "municipio": "Peixe-Boi",
+        "populacao_2022": 8285.0,
+        "casos": 1,
+        "incidencia_100mil": 12.07,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1507706",
+        "municipio": "São Sebastião da Boa Vista",
+        "populacao_2022": 25643.0,
+        "casos": 1,
+        "incidencia_100mil": 3.9,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "PA",
+        "uf_provavel_infeccao": "PA",
+        "total_registros": 4858,
+        "percentual_dentro_uf_residencia": 99.84
+      },
+      {
+        "uf_residencia": "PA",
+        "uf_provavel_infeccao": "TO",
+        "total_registros": 4,
+        "percentual_dentro_uf_residencia": 0.08
+      },
+      {
+        "uf_residencia": "PA",
+        "uf_provavel_infeccao": "GO",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.04
+      },
+      {
+        "uf_residencia": "PA",
+        "uf_provavel_infeccao": "PI",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.02
+      },
+      {
+        "uf_residencia": "PA",
+        "uf_provavel_infeccao": "SP",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.02
+      }
+    ]
+  },
+  "interpretacao": "Na UF Pará, foram contabilizados 9.476 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 137 municípios com informações disponíveis para análise, Belém apresentou o maior número absoluto de notificações, com 1.290. A maior incidência foi observada em Brejo Grande do Araguaia, com 1.430,05 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 50,73% dos registros de PA foram classificados como autóctones, 1,58% como não autóctones, 1,11% como indeterminados e 46,58% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,84% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Pará",
+    "PA",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

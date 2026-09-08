@@ -1,0 +1,864 @@
+# Distribuição geográfica dos registros de dengue em Minas Gerais — 2026
+
+## Identificação
+
+- **ID do documento:** SINAN_DENGUE_2026_GEOGRAFICO_31
+- **Tipo de documento:** distribuicao_geografica_uf
+- **Domínio:** geografico
+- **Fonte:** SINAN
+- **Doença:** dengue
+- **Ano:** 2026
+
+## Escopo
+
+- **Codigo uf:** 31
+- **Sigla uf:** MG
+- **Uf nome:** Minas Gerais
+- **Semana inicial:** 1
+- **Semana final:** 34
+- **Total semanas:** 34
+- **Ano:** 2026
+
+## Síntese epidemiológica
+
+Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Minas Gerais, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.
+
+## Indicadores
+
+- **Semana inicial:** 1
+- **Semana final:** 34
+- **Total semanas:** 34
+- **Total notificações residencia:** 61.668
+- **Total notificações notificacao:** 61.248
+- **Total municipios analisados:** 756
+- **Municipio maior numero notificações:** Uberlândia
+- **Maior numero notificações municipio:** 7.605
+- **Municipio maior incidencia:** Machacalis
+- **Maior incidencia 100mil:** 8.447,66
+- **Criticidade maior incidencia:** Alta
+### Autoctonia
+
+- **Total registros:** 61.668
+- **Autoctones residencia:** 28.543
+- **Percentual autoctones:** 46,28%
+- **Nao autoctones residencia:** 571
+- **Percentual nao autoctones:** 0,93%
+- **Indeterminados:** 867
+- **Percentual indeterminados:** 1,41%
+- **Ausentes:** 31.687
+- **Percentual ausentes:** 51,38%
+- **Total comparaveis uf residencia infeccao:** 28.502
+- **Percentual mesma uf residencia infeccao:** 99,88%
+- **Percentual uf diferente residencia infeccao:** 0,12%
+
+## Evidências
+
+### Distribuicao criticidade
+
+- **Grau criticidade:** Alta | **Total municipios:** 166
+- **Grau criticidade:** Baixa | **Total municipios:** 387
+- **Grau criticidade:** Média | **Total municipios:** 203
+### Municipios
+
+- **Codigo municipio:** 3170206 | **Municipio:** Uberlândia | **Populacao 2022:** 713.224 | **Notificações:** 7.605 | **Incidencia 100mil:** 1.066,28 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3135100 | **Municipio:** Janaúba | **Populacao 2022:** 70.699 | **Notificações:** 2.797 | **Incidencia 100mil:** 3.956,21 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3106200 | **Municipio:** Belo Horizonte | **Populacao 2022:** 2.315.560 | **Notificações:** 2.385 | **Incidencia 100mil:** 103 | **Grau criticidade:** Média
+- **Codigo municipio:** 3122306 | **Municipio:** Divinópolis | **Populacao 2022:** 231.091 | **Notificações:** 2.180 | **Incidencia 100mil:** 943,35 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3154606 | **Municipio:** Ribeirão das Neves | **Populacao 2022:** 329.794 | **Notificações:** 1.971 | **Incidencia 100mil:** 597,65 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3152808 | **Municipio:** Prata | **Populacao 2022:** 28.342 | **Notificações:** 1.725 | **Incidencia 100mil:** 6.086,37 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3156700 | **Municipio:** Sabará | **Populacao 2022:** 129.380 | **Notificações:** 1.587 | **Incidencia 100mil:** 1.226,62 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3143302 | **Municipio:** Montes Claros | **Populacao 2022:** 414.240 | **Notificações:** 1.497 | **Incidencia 100mil:** 361,38 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3107307 | **Municipio:** Bocaiúva | **Populacao 2022:** 48.032 | **Notificações:** 1.153 | **Incidencia 100mil:** 2.400,48 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3103504 | **Municipio:** Araguari | **Populacao 2022:** 117.808 | **Notificações:** 1.145 | **Incidencia 100mil:** 971,92 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3152006 | **Municipio:** Pompéu | **Populacao 2022:** 31.047 | **Notificações:** 1.063 | **Incidencia 100mil:** 3.423,84 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3104205 | **Municipio:** Arcos | **Populacao 2022:** 41.416 | **Notificações:** 1.054 | **Incidencia 100mil:** 2.544,91 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3129806 | **Municipio:** Ibirité | **Populacao 2022:** 170.537 | **Notificações:** 1.030 | **Incidencia 100mil:** 603,97 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3162955 | **Municipio:** São José da Lapa | **Populacao 2022:** 26.090 | **Notificações:** 987 | **Incidencia 100mil:** 3.783,06 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3131307 | **Municipio:** Ipatinga | **Populacao 2022:** 227.731 | **Notificações:** 960 | **Incidencia 100mil:** 421,55 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3100906 | **Municipio:** Águas Formosas | **Populacao 2022:** 18.448 | **Notificações:** 744 | **Incidencia 100mil:** 4.032,96 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3169604 | **Municipio:** Tupaciguara | **Populacao 2022:** 25.470 | **Notificações:** 736 | **Incidencia 100mil:** 2.889,67 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3116605 | **Municipio:** Cláudio | **Populacao 2022:** 30.159 | **Notificações:** 720 | **Incidencia 100mil:** 2.387,35 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3101102 | **Municipio:** Aimorés | **Populacao 2022:** 25.269 | **Notificações:** 668 | **Incidencia 100mil:** 2.643,56 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3106705 | **Municipio:** Betim | **Populacao 2022:** 411.846 | **Notificações:** 661 | **Incidencia 100mil:** 160,50 | **Grau criticidade:** Média
+- **Codigo municipio:** 3170107 | **Municipio:** Uberaba | **Populacao 2022:** 337.836 | **Notificações:** 607 | **Incidencia 100mil:** 179,67 | **Grau criticidade:** Média
+- **Codigo municipio:** 3112604 | **Municipio:** Capinópolis | **Populacao 2022:** 14.655 | **Notificações:** 588 | **Incidencia 100mil:** 4.012,28 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3126703 | **Municipio:** Francisco Sá | **Populacao 2022:** 23.476 | **Notificações:** 586 | **Incidencia 100mil:** 2.496,17 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3145208 | **Municipio:** Nova Serrana | **Populacao 2022:** 105.552 | **Notificações:** 582 | **Incidencia 100mil:** 551,39 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3118601 | **Municipio:** Contagem | **Populacao 2022:** 621.863 | **Notificações:** 563 | **Incidencia 100mil:** 90,53 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3138906 | **Municipio:** Machacalis | **Populacao 2022:** 6.487 | **Notificações:** 548 | **Incidencia 100mil:** 8.447,66 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3127107 | **Municipio:** Frutal | **Populacao 2022:** 58.588 | **Notificações:** 500 | **Incidencia 100mil:** 853,42 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3127701 | **Municipio:** Governador Valadares | **Populacao 2022:** 257.171 | **Notificações:** 485 | **Incidencia 100mil:** 188,59 | **Grau criticidade:** Média
+- **Codigo municipio:** 3147907 | **Municipio:** Passos | **Populacao 2022:** 111.939 | **Notificações:** 475 | **Incidencia 100mil:** 424,34 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3119302 | **Municipio:** Coromandel | **Populacao 2022:** 28.894 | **Notificações:** 459 | **Incidencia 100mil:** 1.588,57 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3104007 | **Municipio:** Araxá | **Populacao 2022:** 111.691 | **Notificações:** 456 | **Incidencia 100mil:** 408,27 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3103751 | **Municipio:** Araporã | **Populacao 2022:** 8.479 | **Notificações:** 405 | **Incidencia 100mil:** 4.776,51 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3136702 | **Municipio:** Juiz de Fora | **Populacao 2022:** 540.756 | **Notificações:** 401 | **Incidencia 100mil:** 74,16 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3115805 | **Municipio:** Centralina | **Populacao 2022:** 10.207 | **Notificações:** 378 | **Incidencia 100mil:** 3.703,34 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3144805 | **Municipio:** Nova Lima | **Populacao 2022:** 111.697 | **Notificações:** 371 | **Incidencia 100mil:** 332,15 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3169901 | **Municipio:** Ubá | **Populacao 2022:** 103.365 | **Notificações:** 370 | **Incidencia 100mil:** 357,95 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3110004 | **Municipio:** Caeté | **Populacao 2022:** 38.776 | **Notificações:** 345 | **Incidencia 100mil:** 889,73 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3121605 | **Municipio:** Diamantina | **Populacao 2022:** 47.702 | **Notificações:** 343 | **Incidencia 100mil:** 719,05 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3112703 | **Municipio:** Capitão Enéas | **Populacao 2022:** 14.108 | **Notificações:** 321 | **Incidencia 100mil:** 2.275,30 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3168606 | **Municipio:** Teófilo Otoni | **Populacao 2022:** 137.418 | **Notificações:** 316 | **Incidencia 100mil:** 229,96 | **Grau criticidade:** Média
+- **Codigo municipio:** 3131158 | **Municipio:** Ipaba | **Populacao 2022:** 17.136 | **Notificações:** 309 | **Incidencia 100mil:** 1.803,22 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3151206 | **Municipio:** Pirapora | **Populacao 2022:** 55.606 | **Notificações:** 300 | **Incidencia 100mil:** 539,51 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3157807 | **Municipio:** Santa Luzia | **Populacao 2022:** 219.132 | **Notificações:** 296 | **Incidencia 100mil:** 135,08 | **Grau criticidade:** Média
+- **Codigo municipio:** 3130101 | **Municipio:** Igarapé | **Populacao 2022:** 45.847 | **Notificações:** 294 | **Incidencia 100mil:** 641,26 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3126109 | **Municipio:** Formiga | **Populacao 2022:** 68.248 | **Notificações:** 292 | **Incidencia 100mil:** 427,85 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3137205 | **Municipio:** Lagoa da Prata | **Populacao 2022:** 51.412 | **Notificações:** 274 | **Incidencia 100mil:** 532,95 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3149309 | **Municipio:** Pedro Leopoldo | **Populacao 2022:** 62.580 | **Notificações:** 269 | **Incidencia 100mil:** 429,85 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3134202 | **Municipio:** Ituiutaba | **Populacao 2022:** 102.217 | **Notificações:** 263 | **Incidencia 100mil:** 257,30 | **Grau criticidade:** Média
+- **Codigo municipio:** 3138302 | **Municipio:** Leandro Ferreira | **Populacao 2022:** 3.199 | **Notificações:** 259 | **Incidencia 100mil:** 8.096,28 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3171204 | **Municipio:** Vespasiano | **Populacao 2022:** 129.246 | **Notificações:** 259 | **Incidencia 100mil:** 200,39 | **Grau criticidade:** Média
+- **Codigo municipio:** 3152204 | **Municipio:** Porteirinha | **Populacao 2022:** 37.438 | **Notificações:** 258 | **Incidencia 100mil:** 689,14 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3112505 | **Municipio:** Capim Branco | **Populacao 2022:** 10.663 | **Notificações:** 244 | **Incidencia 100mil:** 2.288,29 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3131901 | **Municipio:** Itabirito | **Populacao 2022:** 53.365 | **Notificações:** 242 | **Incidencia 100mil:** 453,48 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3125606 | **Municipio:** Felisburgo | **Populacao 2022:** 6.489 | **Notificações:** 230 | **Incidencia 100mil:** 3.544,46 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3133402 | **Municipio:** Itapagipe | **Populacao 2022:** 13.690 | **Notificações:** 229 | **Incidencia 100mil:** 1.672,75 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3168705 | **Municipio:** Timóteo | **Populacao 2022:** 81.579 | **Notificações:** 227 | **Incidencia 100mil:** 278,26 | **Grau criticidade:** Média
+- **Codigo municipio:** 3143906 | **Municipio:** Muriaé | **Populacao 2022:** 104.108 | **Notificações:** 226 | **Incidencia 100mil:** 217,08 | **Grau criticidade:** Média
+- **Codigo municipio:** 3143104 | **Municipio:** Monte Carmelo | **Populacao 2022:** 47.692 | **Notificações:** 225 | **Incidencia 100mil:** 471,78 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3101805 | **Municipio:** Alpercata | **Populacao 2022:** 6.903 | **Notificações:** 216 | **Incidencia 100mil:** 3.129,07 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3124104 | **Municipio:** Esmeraldas | **Populacao 2022:** 85.598 | **Notificações:** 208 | **Incidencia 100mil:** 243 | **Grau criticidade:** Média
+- **Codigo municipio:** 3148004 | **Municipio:** Patos de Minas | **Populacao 2022:** 159.235 | **Notificações:** 198 | **Incidencia 100mil:** 124,34 | **Grau criticidade:** Média
+- **Codigo municipio:** 3153202 | **Municipio:** Presidente Juscelino | **Populacao 2022:** 3.465 | **Notificações:** 196 | **Incidencia 100mil:** 5.656,57 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3134400 | **Municipio:** Iturama | **Populacao 2022:** 38.295 | **Notificações:** 183 | **Incidencia 100mil:** 477,87 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3146206 | **Municipio:** Ouro Verde de Minas | **Populacao 2022:** 5.757 | **Notificações:** 180 | **Incidencia 100mil:** 3.126,63 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3145059 | **Municipio:** Nova Porteirinha | **Populacao 2022:** 6.706 | **Notificações:** 176 | **Incidencia 100mil:** 2.624,52 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3162401 | **Municipio:** São João da Ponte | **Populacao 2022:** 23.930 | **Notificações:** 170 | **Incidencia 100mil:** 710,41 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3100104 | **Municipio:** Abadia dos Dourados | **Populacao 2022:** 6.272 | **Notificações:** 169 | **Incidencia 100mil:** 2.694,52 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3111804 | **Municipio:** Canápolis | **Populacao 2022:** 10.608 | **Notificações:** 164 | **Incidencia 100mil:** 1.546 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3159803 | **Municipio:** Santa Vitória | **Populacao 2022:** 20.973 | **Notificações:** 162 | **Incidencia 100mil:** 772,42 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3141108 | **Municipio:** Matozinhos | **Populacao 2022:** 37.618 | **Notificações:** 149 | **Incidencia 100mil:** 396,09 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3124807 | **Municipio:** Estrela do Sul | **Populacao 2022:** 6.840 | **Notificações:** 148 | **Incidencia 100mil:** 2.163,74 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3170404 | **Municipio:** Unaí | **Populacao 2022:** 86.619 | **Notificações:** 148 | **Incidencia 100mil:** 170,86 | **Grau criticidade:** Média
+- **Codigo municipio:** 3151602 | **Municipio:** Planura | **Populacao 2022:** 11.145 | **Notificações:** 145 | **Incidencia 100mil:** 1.301,03 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3139409 | **Municipio:** Manhuaçu | **Populacao 2022:** 91.886 | **Notificações:** 144 | **Incidencia 100mil:** 156,72 | **Grau criticidade:** Média
+- **Codigo municipio:** 3105608 | **Municipio:** Barbacena | **Populacao 2022:** 125.317 | **Notificações:** 142 | **Incidencia 100mil:** 113,31 | **Grau criticidade:** Média
+- **Codigo municipio:** 3109006 | **Municipio:** Brumadinho | **Populacao 2022:** 38.915 | **Notificações:** 142 | **Incidencia 100mil:** 364,90 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3114204 | **Municipio:** Carmo do Cajuru | **Populacao 2022:** 23.479 | **Notificações:** 142 | **Incidencia 100mil:** 604,80 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3136652 | **Municipio:** Juatuba | **Populacao 2022:** 30.716 | **Notificações:** 137 | **Incidencia 100mil:** 446,02 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3170909 | **Municipio:** Varzelândia | **Populacao 2022:** 18.840 | **Notificações:** 132 | **Incidencia 100mil:** 700,64 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3114303 | **Municipio:** Carmo do Paranaíba | **Populacao 2022:** 29.011 | **Notificações:** 132 | **Incidencia 100mil:** 455 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3120904 | **Municipio:** Curvelo | **Populacao 2022:** 80.665 | **Notificações:** 131 | **Incidencia 100mil:** 162,40 | **Grau criticidade:** Média
+- **Codigo municipio:** 3158953 | **Municipio:** Santana do Paraíso | **Populacao 2022:** 44.800 | **Notificações:** 131 | **Incidencia 100mil:** 292,41 | **Grau criticidade:** Média
+- **Codigo municipio:** 3149903 | **Municipio:** Perdões | **Populacao 2022:** 21.384 | **Notificações:** 128 | **Incidencia 100mil:** 598,58 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3149200 | **Municipio:** Pedrinópolis | **Populacao 2022:** 3.344 | **Notificações:** 125 | **Incidencia 100mil:** 3.738,04 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3133808 | **Municipio:** Itaúna | **Populacao 2022:** 97.669 | **Notificações:** 121 | **Incidencia 100mil:** 123,89 | **Grau criticidade:** Média
+- **Codigo municipio:** 3111200 | **Municipio:** Campo Belo | **Populacao 2022:** 52.277 | **Notificações:** 116 | **Incidencia 100mil:** 221,89 | **Grau criticidade:** Média
+- **Codigo municipio:** 3153608 | **Municipio:** Prudente de Morais | **Populacao 2022:** 11.466 | **Notificações:** 115 | **Incidencia 100mil:** 1.002,97 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3138625 | **Municipio:** Limeira do Oeste | **Populacao 2022:** 8.687 | **Notificações:** 112 | **Incidencia 100mil:** 1.289,28 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3153905 | **Municipio:** Raposos | **Populacao 2022:** 16.279 | **Notificações:** 111 | **Incidencia 100mil:** 681,86 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3116506 | **Municipio:** Claro dos Poções | **Populacao 2022:** 7.166 | **Notificações:** 110 | **Incidencia 100mil:** 1.535,03 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3131604 | **Municipio:** Iraí de Minas | **Populacao 2022:** 7.180 | **Notificações:** 108 | **Incidencia 100mil:** 1.504,18 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3140506 | **Municipio:** Martinho Campos | **Populacao 2022:** 14.003 | **Notificações:** 105 | **Incidencia 100mil:** 749,84 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3128709 | **Municipio:** Guaxupé | **Populacao 2022:** 50.911 | **Notificações:** 104 | **Incidencia 100mil:** 204,28 | **Grau criticidade:** Média
+- **Codigo municipio:** 3157708 | **Municipio:** Santa Juliana | **Populacao 2022:** 15.734 | **Notificações:** 104 | **Incidencia 100mil:** 660,99 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3112307 | **Municipio:** Capelinha | **Populacao 2022:** 39.626 | **Notificações:** 104 | **Incidencia 100mil:** 262,45 | **Grau criticidade:** Média
+- **Codigo municipio:** 3119401 | **Municipio:** Coronel Fabriciano | **Populacao 2022:** 104.736 | **Notificações:** 101 | **Incidencia 100mil:** 96,43 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3145372 | **Municipio:** Novorizonte | **Populacao 2022:** 4.571 | **Notificações:** 101 | **Incidencia 100mil:** 2.209,58 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3148103 | **Municipio:** Patrocínio | **Populacao 2022:** 89.826 | **Notificações:** 98 | **Incidencia 100mil:** 109,10 | **Grau criticidade:** Média
+- **Codigo municipio:** 3118304 | **Municipio:** Conselheiro Lafaiete | **Populacao 2022:** 131.621 | **Notificações:** 98 | **Incidencia 100mil:** 74,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154804 | **Municipio:** Rio Acima | **Populacao 2022:** 10.261 | **Notificações:** 97 | **Incidencia 100mil:** 945,33 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3154507 | **Municipio:** Riacho dos Machados | **Populacao 2022:** 8.756 | **Notificações:** 92 | **Incidencia 100mil:** 1.050,71 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3147006 | **Municipio:** Paracatu | **Populacao 2022:** 94.023 | **Notificações:** 92 | **Incidencia 100mil:** 97,85 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154002 | **Municipio:** Raul Soares | **Populacao 2022:** 23.423 | **Notificações:** 91 | **Incidencia 100mil:** 388,51 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3129301 | **Municipio:** Iapu | **Populacao 2022:** 12.030 | **Notificações:** 90 | **Incidencia 100mil:** 748,13 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3128253 | **Municipio:** Guaraciama | **Populacao 2022:** 5.051 | **Notificações:** 90 | **Incidencia 100mil:** 1.781,83 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3137601 | **Municipio:** Lagoa Santa | **Populacao 2022:** 75.145 | **Notificações:** 89 | **Incidencia 100mil:** 118,44 | **Grau criticidade:** Média
+- **Codigo municipio:** 3111101 | **Municipio:** Campina Verde | **Populacao 2022:** 18.011 | **Notificações:** 88 | **Incidencia 100mil:** 488,59 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3105400 | **Municipio:** Barão de Cocais | **Populacao 2022:** 30.778 | **Notificações:** 85 | **Incidencia 100mil:** 276,17 | **Grau criticidade:** Média
+- **Codigo municipio:** 3171006 | **Municipio:** Vazante | **Populacao 2022:** 19.975 | **Notificações:** 85 | **Incidencia 100mil:** 425,53 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3170701 | **Municipio:** Varginha | **Populacao 2022:** 136.467 | **Notificações:** 84 | **Incidencia 100mil:** 61,55 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3152105 | **Municipio:** Ponte Nova | **Populacao 2022:** 57.776 | **Notificações:** 83 | **Incidencia 100mil:** 143,66 | **Grau criticidade:** Média
+- **Codigo municipio:** 3147105 | **Municipio:** Pará de Minas | **Populacao 2022:** 97.139 | **Notificações:** 82 | **Incidencia 100mil:** 84,42 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3124302 | **Municipio:** Espinosa | **Populacao 2022:** 30.443 | **Notificações:** 81 | **Incidencia 100mil:** 266,07 | **Grau criticidade:** Média
+- **Codigo municipio:** 3127339 | **Municipio:** Gameleiras | **Populacao 2022:** 4.793 | **Notificações:** 80 | **Incidencia 100mil:** 1.669,10 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3126505 | **Municipio:** Francisco Badaró | **Populacao 2022:** 7.366 | **Notificações:** 76 | **Incidencia 100mil:** 1.031,77 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3130200 | **Municipio:** Igaratinga | **Populacao 2022:** 10.830 | **Notificações:** 74 | **Incidencia 100mil:** 683,29 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3103405 | **Municipio:** Araçuaí | **Populacao 2022:** 34.297 | **Notificações:** 73 | **Incidencia 100mil:** 212,85 | **Grau criticidade:** Média
+- **Codigo municipio:** 3121258 | **Municipio:** Delta | **Populacao 2022:** 10.494 | **Notificações:** 73 | **Incidencia 100mil:** 695,64 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3131406 | **Municipio:** Ipiaçu | **Populacao 2022:** 3.775 | **Notificações:** 73 | **Incidencia 100mil:** 1.933,77 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3138203 | **Municipio:** Lavras | **Populacao 2022:** 104.761 | **Notificações:** 72 | **Incidencia 100mil:** 68,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3166956 | **Municipio:** Serranópolis de Minas | **Populacao 2022:** 4.399 | **Notificações:** 68 | **Incidencia 100mil:** 1.545,81 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3106309 | **Municipio:** Belo Oriente | **Populacao 2022:** 23.928 | **Notificações:** 67 | **Incidencia 100mil:** 280,01 | **Grau criticidade:** Média
+- **Codigo municipio:** 3146503 | **Municipio:** Pains | **Populacao 2022:** 8.142 | **Notificações:** 67 | **Incidencia 100mil:** 822,89 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3170800 | **Municipio:** Várzea da Palma | **Populacao 2022:** 33.744 | **Notificações:** 66 | **Incidencia 100mil:** 195,59 | **Grau criticidade:** Média
+- **Codigo municipio:** 3120151 | **Municipio:** Crisólita | **Populacao 2022:** 5.265 | **Notificações:** 66 | **Incidencia 100mil:** 1.253,56 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3151800 | **Municipio:** Poços de Caldas | **Populacao 2022:** 163.742 | **Notificações:** 64 | **Incidencia 100mil:** 39,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3118007 | **Municipio:** Congonhas | **Populacao 2022:** 52.890 | **Notificações:** 61 | **Incidencia 100mil:** 115,33 | **Grau criticidade:** Média
+- **Codigo municipio:** 3132404 | **Municipio:** Itajubá | **Populacao 2022:** 93.073 | **Notificações:** 60 | **Incidencia 100mil:** 64,47 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3137106 | **Municipio:** Lagamar | **Populacao 2022:** 6.631 | **Notificações:** 58 | **Incidencia 100mil:** 874,68 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3123809 | **Municipio:** Engenheiro Navarro | **Populacao 2022:** 6.354 | **Notificações:** 58 | **Incidencia 100mil:** 912,81 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3113404 | **Municipio:** Caratinga | **Populacao 2022:** 87.360 | **Notificações:** 57 | **Incidencia 100mil:** 65,25 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3152600 | **Municipio:** Pouso Alto | **Populacao 2022:** 6.566 | **Notificações:** 56 | **Incidencia 100mil:** 852,88 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3132503 | **Municipio:** Itamarandiba | **Populacao 2022:** 32.948 | **Notificações:** 56 | **Incidencia 100mil:** 169,96 | **Grau criticidade:** Média
+- **Codigo municipio:** 3135050 | **Municipio:** Jaíba | **Populacao 2022:** 37.660 | **Notificações:** 55 | **Incidencia 100mil:** 146,04 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162922 | **Municipio:** São Joaquim de Bicas | **Populacao 2022:** 34.348 | **Notificações:** 55 | **Incidencia 100mil:** 160,13 | **Grau criticidade:** Média
+- **Codigo municipio:** 3160900 | **Municipio:** São Brás do Suaçuí | **Populacao 2022:** 3.989 | **Notificações:** 54 | **Incidencia 100mil:** 1.353,72 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3156403 | **Municipio:** Romaria | **Populacao 2022:** 3.386 | **Notificações:** 54 | **Incidencia 100mil:** 1.594,80 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3172004 | **Municipio:** Visconde do Rio Branco | **Populacao 2022:** 39.160 | **Notificações:** 54 | **Incidencia 100mil:** 137,90 | **Grau criticidade:** Média
+- **Codigo municipio:** 3144300 | **Municipio:** Nanuque | **Populacao 2022:** 35.038 | **Notificações:** 53 | **Incidencia 100mil:** 151,26 | **Grau criticidade:** Média
+- **Codigo municipio:** 3136306 | **Municipio:** João Pinheiro | **Populacao 2022:** 46.801 | **Notificações:** 51 | **Incidencia 100mil:** 108,97 | **Grau criticidade:** Média
+- **Codigo municipio:** 3168002 | **Municipio:** Taiobeiras | **Populacao 2022:** 33.050 | **Notificações:** 51 | **Incidencia 100mil:** 154,31 | **Grau criticidade:** Média
+- **Codigo municipio:** 3130903 | **Municipio:** Inhapim | **Populacao 2022:** 22.692 | **Notificações:** 50 | **Incidencia 100mil:** 220,34 | **Grau criticidade:** Média
+- **Codigo municipio:** 3147204 | **Municipio:** Paraguaçu | **Populacao 2022:** 21.723 | **Notificações:** 50 | **Incidencia 100mil:** 230,17 | **Grau criticidade:** Média
+- **Codigo municipio:** 3113206 | **Municipio:** Carandaí | **Populacao 2022:** 23.812 | **Notificações:** 50 | **Incidencia 100mil:** 209,98 | **Grau criticidade:** Média
+- **Codigo municipio:** 3170438 | **Municipio:** União de Minas | **Populacao 2022:** 3.828 | **Notificações:** 50 | **Incidencia 100mil:** 1.306,17 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3141009 | **Municipio:** Mato Verde | **Populacao 2022:** 12.038 | **Notificações:** 50 | **Incidencia 100mil:** 415,35 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3142809 | **Municipio:** Monte Alegre de Minas | **Populacao 2022:** 20.170 | **Notificações:** 49 | **Incidencia 100mil:** 242,94 | **Grau criticidade:** Média
+- **Codigo municipio:** 3164704 | **Municipio:** São Sebastião do Paraíso | **Populacao 2022:** 71.796 | **Notificações:** 49 | **Incidencia 100mil:** 68,25 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3155504 | **Municipio:** Rio Paranaíba | **Populacao 2022:** 14.532 | **Notificações:** 49 | **Incidencia 100mil:** 337,19 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3103009 | **Municipio:** Antônio Dias | **Populacao 2022:** 9.219 | **Notificações:** 48 | **Incidencia 100mil:** 520,66 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3148202 | **Municipio:** Patrocínio do Muriaé | **Populacao 2022:** 5.576 | **Notificações:** 48 | **Incidencia 100mil:** 860,83 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3161908 | **Municipio:** São Gonçalo do Rio Abaixo | **Populacao 2022:** 11.850 | **Notificações:** 46 | **Incidencia 100mil:** 388,19 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3161106 | **Municipio:** São Francisco | **Populacao 2022:** 52.762 | **Notificações:** 46 | **Incidencia 100mil:** 87,18 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3132107 | **Municipio:** Itacarambi | **Populacao 2022:** 17.208 | **Notificações:** 46 | **Incidencia 100mil:** 267,32 | **Grau criticidade:** Média
+- **Codigo municipio:** 3140001 | **Municipio:** Mariana | **Populacao 2022:** 61.387 | **Notificações:** 45 | **Incidencia 100mil:** 73,31 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3129103 | **Municipio:** Gurinhatã | **Populacao 2022:** 5.192 | **Notificações:** 45 | **Incidencia 100mil:** 866,72 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3168903 | **Municipio:** Tiros | **Populacao 2022:** 7.883 | **Notificações:** 42 | **Incidencia 100mil:** 532,79 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3111507 | **Municipio:** Campos Altos | **Populacao 2022:** 12.979 | **Notificações:** 42 | **Incidencia 100mil:** 323,60 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3142601 | **Municipio:** Monsenhor Paulo | **Populacao 2022:** 8.340 | **Notificações:** 42 | **Incidencia 100mil:** 503,60 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3127354 | **Municipio:** Glaucilândia | **Populacao 2022:** 2.928 | **Notificações:** 41 | **Incidencia 100mil:** 1.400,27 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3145604 | **Municipio:** Oliveira | **Populacao 2022:** 39.262 | **Notificações:** 40 | **Incidencia 100mil:** 101,88 | **Grau criticidade:** Média
+- **Codigo municipio:** 3142403 | **Municipio:** Moema | **Populacao 2022:** 7.548 | **Notificações:** 40 | **Incidencia 100mil:** 529,94 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3138682 | **Municipio:** Luislândia | **Populacao 2022:** 6.210 | **Notificações:** 40 | **Incidencia 100mil:** 644,12 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3132701 | **Municipio:** Itambacuri | **Populacao 2022:** 21.042 | **Notificações:** 40 | **Incidencia 100mil:** 190,10 | **Grau criticidade:** Média
+- **Codigo municipio:** 3118809 | **Municipio:** Coração de Jesus | **Populacao 2022:** 25.377 | **Notificações:** 39 | **Incidencia 100mil:** 153,68 | **Grau criticidade:** Média
+- **Codigo municipio:** 3124906 | **Municipio:** Eugenópolis | **Populacao 2022:** 10.801 | **Notificações:** 39 | **Incidencia 100mil:** 361,08 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3129657 | **Municipio:** Ibiracatu | **Populacao 2022:** 5.081 | **Notificações:** 39 | **Incidencia 100mil:** 767,57 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3131703 | **Municipio:** Itabira | **Populacao 2022:** 113.343 | **Notificações:** 39 | **Incidencia 100mil:** 34,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171303 | **Municipio:** Viçosa | **Populacao 2022:** 76.430 | **Notificações:** 39 | **Incidencia 100mil:** 51,03 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3151305 | **Municipio:** Piraúba | **Populacao 2022:** 11.610 | **Notificações:** 38 | **Incidencia 100mil:** 327,30 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3106408 | **Municipio:** Belo Vale | **Populacao 2022:** 8.627 | **Notificações:** 38 | **Incidencia 100mil:** 440,48 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3108255 | **Municipio:** Bonito de Minas | **Populacao 2022:** 10.204 | **Notificações:** 37 | **Incidencia 100mil:** 362,60 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3155702 | **Municipio:** Rio Piracicaba | **Populacao 2022:** 14.631 | **Notificações:** 37 | **Incidencia 100mil:** 252,89 | **Grau criticidade:** Média
+- **Codigo municipio:** 3117504 | **Municipio:** Conceição do Mato Dentro | **Populacao 2022:** 23.163 | **Notificações:** 36 | **Incidencia 100mil:** 155,42 | **Grau criticidade:** Média
+- **Codigo municipio:** 3117306 | **Municipio:** Conceição das Alagoas | **Populacao 2022:** 28.381 | **Notificações:** 35 | **Incidencia 100mil:** 123,32 | **Grau criticidade:** Média
+- **Codigo municipio:** 3161007 | **Municipio:** São Domingos do Prata | **Populacao 2022:** 17.392 | **Notificações:** 35 | **Incidencia 100mil:** 201,24 | **Grau criticidade:** Média
+- **Codigo municipio:** 3118908 | **Municipio:** Cordisburgo | **Populacao 2022:** 7.547 | **Notificações:** 34 | **Incidencia 100mil:** 450,51 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3170008 | **Municipio:** Ubaí | **Populacao 2022:** 11.708 | **Notificações:** 34 | **Incidencia 100mil:** 290,40 | **Grau criticidade:** Média
+- **Codigo municipio:** 3152501 | **Municipio:** Pouso Alegre | **Populacao 2022:** 152.217 | **Notificações:** 34 | **Incidencia 100mil:** 22,34 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3151404 | **Municipio:** Pitangui | **Populacao 2022:** 26.685 | **Notificações:** 33 | **Incidencia 100mil:** 123,66 | **Grau criticidade:** Média
+- **Codigo municipio:** 3154101 | **Municipio:** Recreio | **Populacao 2022:** 11.007 | **Notificações:** 33 | **Incidencia 100mil:** 299,81 | **Grau criticidade:** Média
+- **Codigo municipio:** 3103207 | **Municipio:** Araçaí | **Populacao 2022:** 2.181 | **Notificações:** 33 | **Incidencia 100mil:** 1.513,07 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3114006 | **Municipio:** Carmo da Mata | **Populacao 2022:** 11.019 | **Notificações:** 33 | **Incidencia 100mil:** 299,48 | **Grau criticidade:** Média
+- **Codigo municipio:** 3148905 | **Municipio:** Pedra do Indaiá | **Populacao 2022:** 4.112 | **Notificações:** 33 | **Incidencia 100mil:** 802,53 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3103900 | **Municipio:** Araújos | **Populacao 2022:** 9.199 | **Notificações:** 33 | **Incidencia 100mil:** 358,73 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3123502 | **Municipio:** Douradoquara | **Populacao 2022:** 1.829 | **Notificações:** 33 | **Incidencia 100mil:** 1.804,26 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3120805 | **Municipio:** Cruzília | **Populacao 2022:** 15.362 | **Notificações:** 33 | **Incidencia 100mil:** 214,82 | **Grau criticidade:** Média
+- **Codigo municipio:** 3106606 | **Municipio:** Bertópolis | **Populacao 2022:** 4.451 | **Notificações:** 32 | **Incidencia 100mil:** 718,94 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3102704 | **Municipio:** Cachoeira de Pajeú | **Populacao 2022:** 9.110 | **Notificações:** 31 | **Incidencia 100mil:** 340,29 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3147956 | **Municipio:** Patis | **Populacao 2022:** 4.837 | **Notificações:** 31 | **Incidencia 100mil:** 640,89 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3149804 | **Municipio:** Perdizes | **Populacao 2022:** 17.151 | **Notificações:** 30 | **Incidencia 100mil:** 174,92 | **Grau criticidade:** Média
+- **Codigo municipio:** 3115300 | **Municipio:** Cataguases | **Populacao 2022:** 66.261 | **Notificações:** 30 | **Incidencia 100mil:** 45,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3118205 | **Municipio:** Conquista | **Populacao 2022:** 6.694 | **Notificações:** 30 | **Incidencia 100mil:** 448,16 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3118403 | **Municipio:** Conselheiro Pena | **Populacao 2022:** 20.824 | **Notificações:** 29 | **Incidencia 100mil:** 139,26 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162807 | **Municipio:** São João Evangelista | **Populacao 2022:** 15.315 | **Notificações:** 29 | **Incidencia 100mil:** 189,36 | **Grau criticidade:** Média
+- **Codigo municipio:** 3136207 | **Municipio:** João Monlevade | **Populacao 2022:** 80.187 | **Notificações:** 29 | **Incidencia 100mil:** 36,17 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3168804 | **Municipio:** Tiradentes | **Populacao 2022:** 7.744 | **Notificações:** 28 | **Incidencia 100mil:** 361,57 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3126604 | **Municipio:** Francisco Dumont | **Populacao 2022:** 4.503 | **Notificações:** 28 | **Incidencia 100mil:** 621,81 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3145000 | **Municipio:** Nova Ponte | **Populacao 2022:** 14.598 | **Notificações:** 27 | **Incidencia 100mil:** 184,96 | **Grau criticidade:** Média
+- **Codigo municipio:** 3108503 | **Municipio:** Botumirim | **Populacao 2022:** 5.790 | **Notificações:** 27 | **Incidencia 100mil:** 466,32 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3155801 | **Municipio:** Rio Pomba | **Populacao 2022:** 17.443 | **Notificações:** 27 | **Incidencia 100mil:** 154,79 | **Grau criticidade:** Média
+- **Codigo municipio:** 3117876 | **Municipio:** Confins | **Populacao 2022:** 7.350 | **Notificações:** 27 | **Incidencia 100mil:** 367,35 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3133709 | **Municipio:** Itatiaiuçu | **Populacao 2022:** 12.966 | **Notificações:** 27 | **Incidencia 100mil:** 208,24 | **Grau criticidade:** Média
+- **Codigo municipio:** 3166808 | **Municipio:** Serra do Salitre | **Populacao 2022:** 11.801 | **Notificações:** 27 | **Incidencia 100mil:** 228,79 | **Grau criticidade:** Média
+- **Codigo municipio:** 3134103 | **Municipio:** Itueta | **Populacao 2022:** 6.055 | **Notificações:** 26 | **Incidencia 100mil:** 429,40 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3146552 | **Municipio:** Pai Pedro | **Populacao 2022:** 5.551 | **Notificações:** 26 | **Incidencia 100mil:** 468,38 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3126208 | **Municipio:** Formoso | **Populacao 2022:** 7.949 | **Notificações:** 26 | **Incidencia 100mil:** 327,09 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3138807 | **Municipio:** Luz | **Populacao 2022:** 17.875 | **Notificações:** 26 | **Incidencia 100mil:** 145,45 | **Grau criticidade:** Média
+- **Codigo municipio:** 3108602 | **Municipio:** Brasília de Minas | **Populacao 2022:** 32.025 | **Notificações:** 26 | **Incidencia 100mil:** 81,19 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3131109 | **Municipio:** Inimutaba | **Populacao 2022:** 7.371 | **Notificações:** 26 | **Incidencia 100mil:** 352,73 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3123205 | **Municipio:** Dores do Indaiá | **Populacao 2022:** 12.630 | **Notificações:** 25 | **Incidencia 100mil:** 197,94 | **Grau criticidade:** Média
+- **Codigo municipio:** 3120300 | **Municipio:** Cristália | **Populacao 2022:** 5.121 | **Notificações:** 25 | **Incidencia 100mil:** 488,19 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3125705 | **Municipio:** Felixlândia | **Populacao 2022:** 13.978 | **Notificações:** 25 | **Incidencia 100mil:** 178,85 | **Grau criticidade:** Média
+- **Codigo municipio:** 3135209 | **Municipio:** Januária | **Populacao 2022:** 65.150 | **Notificações:** 25 | **Incidencia 100mil:** 38,37 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3122504 | **Municipio:** Dom Cavati | **Populacao 2022:** 4.904 | **Notificações:** 24 | **Incidencia 100mil:** 489,40 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3161502 | **Municipio:** São Geraldo | **Populacao 2022:** 10.282 | **Notificações:** 24 | **Incidencia 100mil:** 233,42 | **Grau criticidade:** Média
+- **Codigo municipio:** 3116159 | **Municipio:** Chapada Gaúcha | **Populacao 2022:** 12.355 | **Notificações:** 24 | **Incidencia 100mil:** 194,25 | **Grau criticidade:** Média
+- **Codigo municipio:** 3148608 | **Municipio:** Peçanha | **Populacao 2022:** 17.446 | **Notificações:** 24 | **Incidencia 100mil:** 137,57 | **Grau criticidade:** Média
+- **Codigo municipio:** 3109808 | **Municipio:** Cachoeira Dourada | **Populacao 2022:** 2.315 | **Notificações:** 24 | **Incidencia 100mil:** 1.036,72 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3157203 | **Municipio:** Santa Bárbara | **Populacao 2022:** 30.466 | **Notificações:** 24 | **Incidencia 100mil:** 78,78 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3112000 | **Municipio:** Candeias | **Populacao 2022:** 14.001 | **Notificações:** 24 | **Incidencia 100mil:** 171,42 | **Grau criticidade:** Média
+- **Codigo municipio:** 3137007 | **Municipio:** Ladainha | **Populacao 2022:** 14.383 | **Notificações:** 23 | **Incidencia 100mil:** 159,91 | **Grau criticidade:** Média
+- **Codigo municipio:** 3167202 | **Municipio:** Sete Lagoas | **Populacao 2022:** 227.397 | **Notificações:** 23 | **Incidencia 100mil:** 10,11 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135605 | **Municipio:** Jequitaí | **Populacao 2022:** 6.484 | **Notificações:** 23 | **Incidencia 100mil:** 354,72 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3157658 | **Municipio:** Santa Helena de Minas | **Populacao 2022:** 5.938 | **Notificações:** 23 | **Incidencia 100mil:** 387,34 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3159506 | **Municipio:** Santa Rita do Itueto | **Populacao 2022:** 5.826 | **Notificações:** 23 | **Incidencia 100mil:** 394,78 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3149705 | **Municipio:** Perdigão | **Populacao 2022:** 12.268 | **Notificações:** 23 | **Incidencia 100mil:** 187,48 | **Grau criticidade:** Média
+- **Codigo municipio:** 3165537 | **Municipio:** Sarzedo | **Populacao 2022:** 36.844 | **Notificações:** 23 | **Incidencia 100mil:** 62,43 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3134905 | **Municipio:** Jacutinga | **Populacao 2022:** 25.525 | **Notificações:** 22 | **Incidencia 100mil:** 86,19 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109907 | **Municipio:** Caetanópolis | **Populacao 2022:** 11.435 | **Notificações:** 22 | **Incidencia 100mil:** 192,39 | **Grau criticidade:** Média
+- **Codigo municipio:** 3133501 | **Municipio:** Itapecerica | **Populacao 2022:** 21.046 | **Notificações:** 22 | **Incidencia 100mil:** 104,53 | **Grau criticidade:** Média
+- **Codigo municipio:** 3151008 | **Municipio:** Piranguinho | **Populacao 2022:** 9.120 | **Notificações:** 22 | **Incidencia 100mil:** 241,23 | **Grau criticidade:** Média
+- **Codigo municipio:** 3164605 | **Municipio:** São Sebastião do Oeste | **Populacao 2022:** 8.815 | **Notificações:** 22 | **Incidencia 100mil:** 249,57 | **Grau criticidade:** Média
+- **Codigo municipio:** 3130705 | **Municipio:** Indianópolis | **Populacao 2022:** 6.171 | **Notificações:** 22 | **Incidencia 100mil:** 356,51 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3122009 | **Municipio:** Divino | **Populacao 2022:** 20.706 | **Notificações:** 22 | **Incidencia 100mil:** 106,25 | **Grau criticidade:** Média
+- **Codigo municipio:** 3156205 | **Municipio:** Rochedo de Minas | **Populacao 2022:** 2.291 | **Notificações:** 22 | **Incidencia 100mil:** 960,28 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3169307 | **Municipio:** Três Corações | **Populacao 2022:** 75.485 | **Notificações:** 22 | **Incidencia 100mil:** 29,14 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136959 | **Municipio:** Juvenília | **Populacao 2022:** 5.789 | **Notificações:** 22 | **Incidencia 100mil:** 380,03 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3127602 | **Municipio:** Gouveia | **Populacao 2022:** 11.331 | **Notificações:** 21 | **Incidencia 100mil:** 185,33 | **Grau criticidade:** Média
+- **Codigo municipio:** 3103801 | **Municipio:** Arapuá | **Populacao 2022:** 2.631 | **Notificações:** 21 | **Incidencia 100mil:** 798,18 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3162609 | **Municipio:** São João do Oriente | **Populacao 2022:** 7.070 | **Notificações:** 21 | **Incidencia 100mil:** 297,03 | **Grau criticidade:** Média
+- **Codigo municipio:** 3140159 | **Municipio:** Mário Campos | **Populacao 2022:** 15.900 | **Notificações:** 21 | **Incidencia 100mil:** 132,08 | **Grau criticidade:** Média
+- **Codigo municipio:** 3119104 | **Municipio:** Corinto | **Populacao 2022:** 23.532 | **Notificações:** 21 | **Incidencia 100mil:** 89,24 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150109 | **Municipio:** Piau | **Populacao 2022:** 2.796 | **Notificações:** 21 | **Incidencia 100mil:** 751,07 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3128006 | **Municipio:** Guanhães | **Populacao 2022:** 32.244 | **Notificações:** 20 | **Incidencia 100mil:** 62,03 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3146909 | **Municipio:** Papagaios | **Populacao 2022:** 13.920 | **Notificações:** 20 | **Incidencia 100mil:** 143,68 | **Grau criticidade:** Média
+- **Codigo municipio:** 3134608 | **Municipio:** Jaboticatubas | **Populacao 2022:** 20.406 | **Notificações:** 20 | **Incidencia 100mil:** 98,01 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167608 | **Municipio:** Simonésia | **Populacao 2022:** 19.750 | **Notificações:** 20 | **Incidencia 100mil:** 101,27 | **Grau criticidade:** Média
+- **Codigo municipio:** 3145901 | **Municipio:** Ouro Branco | **Populacao 2022:** 38.724 | **Notificações:** 20 | **Incidencia 100mil:** 51,65 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3107703 | **Municipio:** Bom Jesus do Amparo | **Populacao 2022:** 5.631 | **Notificações:** 20 | **Incidencia 100mil:** 355,18 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3162500 | **Municipio:** São João del Rei | **Populacao 2022:** 90.225 | **Notificações:** 20 | **Incidencia 100mil:** 22,17 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3169356 | **Municipio:** Três Marias | **Populacao 2022:** 28.895 | **Notificações:** 20 | **Incidencia 100mil:** 69,22 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109402 | **Municipio:** Buritizeiro | **Populacao 2022:** 23.910 | **Notificações:** 19 | **Incidencia 100mil:** 79,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3111408 | **Municipio:** Campo Florido | **Populacao 2022:** 8.466 | **Notificações:** 19 | **Incidencia 100mil:** 224,43 | **Grau criticidade:** Média
+- **Codigo municipio:** 3127008 | **Municipio:** Fronteira | **Populacao 2022:** 14.540 | **Notificações:** 19 | **Incidencia 100mil:** 130,67 | **Grau criticidade:** Média
+- **Codigo municipio:** 3107802 | **Municipio:** Bom Jesus do Galho | **Populacao 2022:** 14.536 | **Notificações:** 19 | **Incidencia 100mil:** 130,71 | **Grau criticidade:** Média
+- **Codigo municipio:** 3139607 | **Municipio:** Mantena | **Populacao 2022:** 26.535 | **Notificações:** 19 | **Incidencia 100mil:** 71,60 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3126000 | **Municipio:** Florestal | **Populacao 2022:** 8.045 | **Notificações:** 19 | **Incidencia 100mil:** 236,17 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162252 | **Municipio:** São João da Lagoa | **Populacao 2022:** 4.822 | **Notificações:** 19 | **Incidencia 100mil:** 394,03 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3109253 | **Municipio:** Bugre | **Populacao 2022:** 4.041 | **Notificações:** 18 | **Incidencia 100mil:** 445,43 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3146701 | **Municipio:** Palma | **Populacao 2022:** 5.707 | **Notificações:** 18 | **Incidencia 100mil:** 315,40 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3127800 | **Municipio:** Grão Mogol | **Populacao 2022:** 13.901 | **Notificações:** 18 | **Incidencia 100mil:** 129,49 | **Grau criticidade:** Média
+- **Codigo municipio:** 3146255 | **Municipio:** Padre Carvalho | **Populacao 2022:** 5.058 | **Notificações:** 18 | **Incidencia 100mil:** 355,87 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3114550 | **Municipio:** Carneirinho | **Populacao 2022:** 9.422 | **Notificações:** 18 | **Incidencia 100mil:** 191,04 | **Grau criticidade:** Média
+- **Codigo municipio:** 3122603 | **Municipio:** Dom Joaquim | **Populacao 2022:** 4.899 | **Notificações:** 18 | **Incidencia 100mil:** 367,42 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3171030 | **Municipio:** Verdelândia | **Populacao 2022:** 7.672 | **Notificações:** 18 | **Incidencia 100mil:** 234,62 | **Grau criticidade:** Média
+- **Codigo municipio:** 3171402 | **Municipio:** Vieiras | **Populacao 2022:** 3.700 | **Notificações:** 18 | **Incidencia 100mil:** 486,49 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3136801 | **Municipio:** Juramento | **Populacao 2022:** 3.768 | **Notificações:** 18 | **Incidencia 100mil:** 477,71 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3133758 | **Municipio:** Itaú de Minas | **Populacao 2022:** 14.406 | **Notificações:** 18 | **Incidencia 100mil:** 124,95 | **Grau criticidade:** Média
+- **Codigo municipio:** 3105509 | **Municipio:** Barão do Monte Alto | **Populacao 2022:** 4.964 | **Notificações:** 18 | **Incidencia 100mil:** 362,61 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3150158 | **Municipio:** Piedade de Caratinga | **Populacao 2022:** 8.529 | **Notificações:** 18 | **Incidencia 100mil:** 211,04 | **Grau criticidade:** Média
+- **Codigo municipio:** 3142205 | **Municipio:** Miraí | **Populacao 2022:** 13.633 | **Notificações:** 18 | **Incidencia 100mil:** 132,03 | **Grau criticidade:** Média
+- **Codigo municipio:** 3152303 | **Municipio:** Porto Firme | **Populacao 2022:** 10.569 | **Notificações:** 17 | **Incidencia 100mil:** 160,85 | **Grau criticidade:** Média
+- **Codigo municipio:** 3129509 | **Municipio:** Ibiá | **Populacao 2022:** 22.229 | **Notificações:** 17 | **Incidencia 100mil:** 76,48 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150703 | **Municipio:** Pirajuba | **Populacao 2022:** 5.537 | **Notificações:** 17 | **Incidencia 100mil:** 307,03 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3165503 | **Municipio:** Sardoá | **Populacao 2022:** 5.104 | **Notificações:** 17 | **Incidencia 100mil:** 333,07 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3106101 | **Municipio:** Belmiro Braga | **Populacao 2022:** 3.244 | **Notificações:** 17 | **Incidencia 100mil:** 524,04 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3158904 | **Municipio:** Santana do Manhuaçu | **Populacao 2022:** 8.987 | **Notificações:** 17 | **Incidencia 100mil:** 189,16 | **Grau criticidade:** Média
+- **Codigo municipio:** 3146305 | **Municipio:** Padre Paraíso | **Populacao 2022:** 17.334 | **Notificações:** 17 | **Incidencia 100mil:** 98,07 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3111903 | **Municipio:** Cana Verde | **Populacao 2022:** 5.272 | **Notificações:** 16 | **Incidencia 100mil:** 303,49 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3137536 | **Municipio:** Lagoa Grande | **Populacao 2022:** 8.969 | **Notificações:** 16 | **Incidencia 100mil:** 178,39 | **Grau criticidade:** Média
+- **Codigo municipio:** 3140530 | **Municipio:** Martins Soares | **Populacao 2022:** 8.396 | **Notificações:** 16 | **Incidencia 100mil:** 190,57 | **Grau criticidade:** Média
+- **Codigo municipio:** 3139201 | **Municipio:** Malacacheta | **Populacao 2022:** 17.516 | **Notificações:** 16 | **Incidencia 100mil:** 91,35 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140704 | **Municipio:** Mateus Leme | **Populacao 2022:** 37.841 | **Notificações:** 16 | **Incidencia 100mil:** 42,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3115102 | **Municipio:** Cássia | **Populacao 2022:** 17.155 | **Notificações:** 16 | **Incidencia 100mil:** 93,27 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3100609 | **Municipio:** Água Boa | **Populacao 2022:** 12.589 | **Notificações:** 16 | **Incidencia 100mil:** 127,10 | **Grau criticidade:** Média
+- **Codigo municipio:** 3160504 | **Municipio:** Santo Antônio do Rio Abaixo | **Populacao 2022:** 1.808 | **Notificações:** 16 | **Incidencia 100mil:** 884,96 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3122702 | **Municipio:** Dom Silvério | **Populacao 2022:** 5.228 | **Notificações:** 16 | **Incidencia 100mil:** 306,04 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3115359 | **Municipio:** Catas Altas | **Populacao 2022:** 5.473 | **Notificações:** 15 | **Incidencia 100mil:** 274,07 | **Grau criticidade:** Média
+- **Codigo municipio:** 3140803 | **Municipio:** Matias Barbosa | **Populacao 2022:** 14.121 | **Notificações:** 15 | **Incidencia 100mil:** 106,22 | **Grau criticidade:** Média
+- **Codigo municipio:** 3155603 | **Municipio:** Rio Pardo de Minas | **Populacao 2022:** 28.271 | **Notificações:** 15 | **Incidencia 100mil:** 53,06 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3161304 | **Municipio:** São Francisco de Sales | **Populacao 2022:** 5.732 | **Notificações:** 15 | **Incidencia 100mil:** 261,69 | **Grau criticidade:** Média
+- **Codigo municipio:** 3138708 | **Municipio:** Luminárias | **Populacao 2022:** 5.586 | **Notificações:** 15 | **Incidencia 100mil:** 268,53 | **Grau criticidade:** Média
+- **Codigo municipio:** 3136553 | **Municipio:** José Raydan | **Populacao 2022:** 4.268 | **Notificações:** 15 | **Incidencia 100mil:** 351,45 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3141603 | **Municipio:** Mercês | **Populacao 2022:** 10.373 | **Notificações:** 15 | **Incidencia 100mil:** 144,61 | **Grau criticidade:** Média
+- **Codigo municipio:** 3129004 | **Municipio:** Guiricema | **Populacao 2022:** 7.778 | **Notificações:** 15 | **Incidencia 100mil:** 192,85 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162658 | **Municipio:** São João do Pacuí | **Populacao 2022:** 3.972 | **Notificações:** 14 | **Incidencia 100mil:** 352,47 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3163102 | **Municipio:** São José da Varginha | **Populacao 2022:** 4.536 | **Notificações:** 14 | **Incidencia 100mil:** 308,64 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3142700 | **Municipio:** Montalvânia | **Populacao 2022:** 14.060 | **Notificações:** 14 | **Incidencia 100mil:** 99,57 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3142908 | **Municipio:** Monte Azul | **Populacao 2022:** 20.328 | **Notificações:** 14 | **Incidencia 100mil:** 68,87 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120839 | **Municipio:** Cuparaque | **Populacao 2022:** 3.983 | **Notificações:** 14 | **Incidencia 100mil:** 351,49 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3117603 | **Municipio:** Conceição do Pará | **Populacao 2022:** 5.415 | **Notificações:** 14 | **Incidencia 100mil:** 258,54 | **Grau criticidade:** Média
+- **Codigo municipio:** 3111150 | **Municipio:** Campo Azul | **Populacao 2022:** 3.714 | **Notificações:** 14 | **Incidencia 100mil:** 376,95 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3170750 | **Municipio:** Varjão de Minas | **Populacao 2022:** 6.969 | **Notificações:** 14 | **Incidencia 100mil:** 200,89 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162450 | **Municipio:** São João das Missões | **Populacao 2022:** 13.024 | **Notificações:** 13 | **Incidencia 100mil:** 99,82 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3137502 | **Municipio:** Lagoa Formosa | **Populacao 2022:** 18.904 | **Notificações:** 13 | **Incidencia 100mil:** 68,77 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3101508 | **Municipio:** Além Paraíba | **Populacao 2022:** 30.717 | **Notificações:** 13 | **Incidencia 100mil:** 42,32 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3127057 | **Municipio:** Fronteira dos Vales | **Populacao 2022:** 4.345 | **Notificações:** 13 | **Incidencia 100mil:** 299,19 | **Grau criticidade:** Média
+- **Codigo municipio:** 3105905 | **Municipio:** Barroso | **Populacao 2022:** 20.080 | **Notificações:** 13 | **Incidencia 100mil:** 64,74 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171808 | **Municipio:** Virginópolis | **Populacao 2022:** 10.314 | **Notificações:** 13 | **Incidencia 100mil:** 126,04 | **Grau criticidade:** Média
+- **Codigo municipio:** 3125952 | **Municipio:** Fervedouro | **Populacao 2022:** 10.445 | **Notificações:** 13 | **Incidencia 100mil:** 124,46 | **Grau criticidade:** Média
+- **Codigo municipio:** 3127073 | **Municipio:** Fruta de Leite | **Populacao 2022:** 4.647 | **Notificações:** 13 | **Incidencia 100mil:** 279,75 | **Grau criticidade:** Média
+- **Codigo municipio:** 3131000 | **Municipio:** Inhaúma | **Populacao 2022:** 6.239 | **Notificações:** 13 | **Incidencia 100mil:** 208,37 | **Grau criticidade:** Média
+- **Codigo municipio:** 3167103 | **Municipio:** Serro | **Populacao 2022:** 21.952 | **Notificações:** 13 | **Incidencia 100mil:** 59,22 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109303 | **Municipio:** Buritis | **Populacao 2022:** 24.030 | **Notificações:** 13 | **Incidencia 100mil:** 54,10 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140308 | **Municipio:** Marliéria | **Populacao 2022:** 4.592 | **Notificações:** 13 | **Incidencia 100mil:** 283,10 | **Grau criticidade:** Média
+- **Codigo municipio:** 3138658 | **Municipio:** Lontra | **Populacao 2022:** 8.790 | **Notificações:** 13 | **Incidencia 100mil:** 147,90 | **Grau criticidade:** Média
+- **Codigo municipio:** 3154457 | **Municipio:** Riachinho | **Populacao 2022:** 6.863 | **Notificações:** 13 | **Incidencia 100mil:** 189,42 | **Grau criticidade:** Média
+- **Codigo municipio:** 3123528 | **Municipio:** Durandé | **Populacao 2022:** 7.817 | **Notificações:** 13 | **Incidencia 100mil:** 166,30 | **Grau criticidade:** Média
+- **Codigo municipio:** 3168408 | **Municipio:** Tarumirim | **Populacao 2022:** 14.709 | **Notificações:** 12 | **Incidencia 100mil:** 81,58 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3138104 | **Municipio:** Lassance | **Populacao 2022:** 7.124 | **Notificações:** 12 | **Incidencia 100mil:** 168,44 | **Grau criticidade:** Média
+- **Codigo municipio:** 3126752 | **Municipio:** Franciscópolis | **Populacao 2022:** 5.034 | **Notificações:** 12 | **Incidencia 100mil:** 238,38 | **Grau criticidade:** Média
+- **Codigo municipio:** 3149507 | **Municipio:** Pequeri | **Populacao 2022:** 3.351 | **Notificações:** 12 | **Incidencia 100mil:** 358,10 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3147402 | **Municipio:** Paraopeba | **Populacao 2022:** 24.107 | **Notificações:** 12 | **Incidencia 100mil:** 49,78 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3127503 | **Municipio:** Gonzaga | **Populacao 2022:** 5.230 | **Notificações:** 12 | **Incidencia 100mil:** 229,45 | **Grau criticidade:** Média
+- **Codigo municipio:** 3150307 | **Municipio:** Piedade do Rio Grande | **Populacao 2022:** 4.604 | **Notificações:** 12 | **Incidencia 100mil:** 260,64 | **Grau criticidade:** Média
+- **Codigo municipio:** 3169000 | **Municipio:** Tocantins | **Populacao 2022:** 16.185 | **Notificações:** 12 | **Incidencia 100mil:** 74,14 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3158805 | **Municipio:** Santana do Jacaré | **Populacao 2022:** 4.214 | **Notificações:** 12 | **Incidencia 100mil:** 284,77 | **Grau criticidade:** Média
+- **Codigo municipio:** 3163805 | **Municipio:** São Miguel do Anta | **Populacao 2022:** 6.334 | **Notificações:** 12 | **Incidencia 100mil:** 189,45 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162104 | **Municipio:** São Gotardo | **Populacao 2022:** 40.910 | **Notificações:** 12 | **Incidencia 100mil:** 29,33 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3100302 | **Municipio:** Abre Campo | **Populacao 2022:** 13.927 | **Notificações:** 12 | **Incidencia 100mil:** 86,16 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3162906 | **Municipio:** São João Nepomuceno | **Populacao 2022:** 25.565 | **Notificações:** 12 | **Incidencia 100mil:** 46,94 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3152402 | **Municipio:** Poté | **Populacao 2022:** 13.666 | **Notificações:** 11 | **Incidencia 100mil:** 80,49 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3143203 | **Municipio:** Monte Santo de Minas | **Populacao 2022:** 20.890 | **Notificações:** 11 | **Incidencia 100mil:** 52,66 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102308 | **Municipio:** Alvinópolis | **Populacao 2022:** 15.059 | **Notificações:** 11 | **Incidencia 100mil:** 73,05 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3162559 | **Municipio:** São João do Manhuaçu | **Populacao 2022:** 11.246 | **Notificações:** 11 | **Incidencia 100mil:** 97,81 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109709 | **Municipio:** Cachoeira de Minas | **Populacao 2022:** 11.883 | **Notificações:** 11 | **Incidencia 100mil:** 92,57 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3146107 | **Municipio:** Ouro Preto | **Populacao 2022:** 74.821 | **Notificações:** 11 | **Incidencia 100mil:** 14,70 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154309 | **Municipio:** Resplendor | **Populacao 2022:** 17.226 | **Notificações:** 11 | **Incidencia 100mil:** 63,86 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3163003 | **Municipio:** São José da Safira | **Populacao 2022:** 3.806 | **Notificações:** 11 | **Incidencia 100mil:** 289,02 | **Grau criticidade:** Média
+- **Codigo municipio:** 3156908 | **Municipio:** Sacramento | **Populacao 2022:** 26.670 | **Notificações:** 11 | **Incidencia 100mil:** 41,24 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3168507 | **Municipio:** Teixeiras | **Populacao 2022:** 12.255 | **Notificações:** 11 | **Incidencia 100mil:** 89,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3146404 | **Municipio:** Paineiras | **Populacao 2022:** 4.224 | **Notificações:** 11 | **Incidencia 100mil:** 260,42 | **Grau criticidade:** Média
+- **Codigo municipio:** 3150901 | **Municipio:** Piranguçu | **Populacao 2022:** 6.041 | **Notificações:** 11 | **Incidencia 100mil:** 182,09 | **Grau criticidade:** Média
+- **Codigo municipio:** 3150539 | **Municipio:** Pingo-d'Água | **Populacao 2022:** 4.706 | **Notificações:** 11 | **Incidencia 100mil:** 233,74 | **Grau criticidade:** Média
+- **Codigo municipio:** 3127305 | **Municipio:** Galiléia | **Populacao 2022:** 6.222 | **Notificações:** 11 | **Incidencia 100mil:** 176,79 | **Grau criticidade:** Média
+- **Codigo municipio:** 3147600 | **Municipio:** Passa Quatro | **Populacao 2022:** 15.515 | **Notificações:** 11 | **Incidencia 100mil:** 70,90 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3108107 | **Municipio:** Bonfim | **Populacao 2022:** 7.434 | **Notificações:** 11 | **Incidencia 100mil:** 147,97 | **Grau criticidade:** Média
+- **Codigo municipio:** 3171907 | **Municipio:** Virgolândia | **Populacao 2022:** 4.552 | **Notificações:** 10 | **Incidencia 100mil:** 219,68 | **Grau criticidade:** Média
+- **Codigo municipio:** 3155405 | **Municipio:** Rio Novo | **Populacao 2022:** 8.518 | **Notificações:** 10 | **Incidencia 100mil:** 117,40 | **Grau criticidade:** Média
+- **Codigo municipio:** 3157278 | **Municipio:** Santa Bárbara do Monte Verde | **Populacao 2022:** 3.095 | **Notificações:** 10 | **Incidencia 100mil:** 323,10 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3156502 | **Municipio:** Rubelita | **Populacao 2022:** 5.679 | **Notificações:** 10 | **Incidencia 100mil:** 176,09 | **Grau criticidade:** Média
+- **Codigo municipio:** 3157005 | **Municipio:** Salinas | **Populacao 2022:** 40.178 | **Notificações:** 10 | **Incidencia 100mil:** 24,89 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3142502 | **Municipio:** Monjolos | **Populacao 2022:** 2.169 | **Notificações:** 10 | **Incidencia 100mil:** 461,04 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3115003 | **Municipio:** Cascalho Rico | **Populacao 2022:** 2.712 | **Notificações:** 10 | **Incidencia 100mil:** 368,73 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3151503 | **Municipio:** Piumhi | **Populacao 2022:** 36.062 | **Notificações:** 10 | **Incidencia 100mil:** 27,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3149150 | **Municipio:** Pedras de Maria da Cruz | **Populacao 2022:** 10.433 | **Notificações:** 10 | **Incidencia 100mil:** 95,85 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3139508 | **Municipio:** Manhumirim | **Populacao 2022:** 20.613 | **Notificações:** 10 | **Incidencia 100mil:** 48,51 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3139250 | **Municipio:** Mamonas | **Populacao 2022:** 5.997 | **Notificações:** 10 | **Incidencia 100mil:** 166,75 | **Grau criticidade:** Média
+- **Codigo municipio:** 3139904 | **Municipio:** Maria da Fé | **Populacao 2022:** 14.247 | **Notificações:** 10 | **Incidencia 100mil:** 70,19 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3141801 | **Municipio:** Minas Novas | **Populacao 2022:** 24.405 | **Notificações:** 10 | **Incidencia 100mil:** 40,98 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3115904 | **Municipio:** Chácara | **Populacao 2022:** 3.075 | **Notificações:** 10 | **Incidencia 100mil:** 325,20 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3115474 | **Municipio:** Catuti | **Populacao 2022:** 4.739 | **Notificações:** 10 | **Incidencia 100mil:** 211,01 | **Grau criticidade:** Média
+- **Codigo municipio:** 3137304 | **Municipio:** Lagoa dos Patos | **Populacao 2022:** 3.313 | **Notificações:** 10 | **Incidencia 100mil:** 301,84 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3169703 | **Municipio:** Turmalina | **Populacao 2022:** 20.000 | **Notificações:** 10 | **Incidencia 100mil:** 50 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159001 | **Municipio:** Santana do Riacho | **Populacao 2022:** 5.313 | **Notificações:** 9 | **Incidencia 100mil:** 169,40 | **Grau criticidade:** Média
+- **Codigo municipio:** 3107406 | **Municipio:** Bom Despacho | **Populacao 2022:** 51.737 | **Notificações:** 9 | **Incidencia 100mil:** 17,40 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3122207 | **Municipio:** Divinolândia de Minas | **Populacao 2022:** 6.516 | **Notificações:** 9 | **Incidencia 100mil:** 138,12 | **Grau criticidade:** Média
+- **Codigo municipio:** 3122108 | **Municipio:** Divino das Laranjeiras | **Populacao 2022:** 4.178 | **Notificações:** 9 | **Incidencia 100mil:** 215,41 | **Grau criticidade:** Média
+- **Codigo municipio:** 3121902 | **Municipio:** Divinésia | **Populacao 2022:** 4.226 | **Notificações:** 9 | **Incidencia 100mil:** 212,97 | **Grau criticidade:** Média
+- **Codigo municipio:** 3137700 | **Municipio:** Lajinha | **Populacao 2022:** 20.835 | **Notificações:** 9 | **Incidencia 100mil:** 43,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3141306 | **Municipio:** Medeiros | **Populacao 2022:** 3.900 | **Notificações:** 9 | **Incidencia 100mil:** 230,77 | **Grau criticidade:** Média
+- **Codigo municipio:** 3116704 | **Municipio:** Coimbra | **Populacao 2022:** 7.117 | **Notificações:** 9 | **Incidencia 100mil:** 126,46 | **Grau criticidade:** Média
+- **Codigo municipio:** 3101706 | **Municipio:** Almenara | **Populacao 2022:** 40.364 | **Notificações:** 9 | **Incidencia 100mil:** 22,30 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135357 | **Municipio:** Japonvar | **Populacao 2022:** 8.127 | **Notificações:** 9 | **Incidencia 100mil:** 110,74 | **Grau criticidade:** Média
+- **Codigo municipio:** 3100807 | **Municipio:** Aguanil | **Populacao 2022:** 4.357 | **Notificações:** 9 | **Incidencia 100mil:** 206,56 | **Grau criticidade:** Média
+- **Codigo municipio:** 3101607 | **Municipio:** Alfenas | **Populacao 2022:** 78.970 | **Notificações:** 9 | **Incidencia 100mil:** 11,40 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120409 | **Municipio:** Cristiano Otoni | **Populacao 2022:** 4.667 | **Notificações:** 9 | **Incidencia 100mil:** 192,84 | **Grau criticidade:** Média
+- **Codigo municipio:** 3160207 | **Municipio:** Santo Antônio do Itambé | **Populacao 2022:** 3.915 | **Notificações:** 9 | **Incidencia 100mil:** 229,89 | **Grau criticidade:** Média
+- **Codigo municipio:** 3158003 | **Municipio:** Santa Maria de Itabira | **Populacao 2022:** 10.485 | **Notificações:** 9 | **Incidencia 100mil:** 85,84 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3133907 | **Municipio:** Itaverava | **Populacao 2022:** 5.642 | **Notificações:** 9 | **Incidencia 100mil:** 159,52 | **Grau criticidade:** Média
+- **Codigo municipio:** 3125903 | **Municipio:** Ferros | **Populacao 2022:** 9.590 | **Notificações:** 9 | **Incidencia 100mil:** 93,85 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3151909 | **Municipio:** Pocrane | **Populacao 2022:** 8.350 | **Notificações:** 9 | **Incidencia 100mil:** 107,78 | **Grau criticidade:** Média
+- **Codigo municipio:** 3108800 | **Municipio:** Braúnas | **Populacao 2022:** 4.441 | **Notificações:** 9 | **Incidencia 100mil:** 202,66 | **Grau criticidade:** Média
+- **Codigo municipio:** 3117836 | **Municipio:** Cônego Marinho | **Populacao 2022:** 7.237 | **Notificações:** 9 | **Incidencia 100mil:** 124,36 | **Grau criticidade:** Média
+- **Codigo municipio:** 3126901 | **Municipio:** Frei Inocêncio | **Populacao 2022:** 8.226 | **Notificações:** 9 | **Incidencia 100mil:** 109,41 | **Grau criticidade:** Média
+- **Codigo municipio:** 3145455 | **Municipio:** Olhos-d'Água | **Populacao 2022:** 5.385 | **Notificações:** 9 | **Incidencia 100mil:** 167,13 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162575 | **Municipio:** São João do Manteninha | **Populacao 2022:** 5.331 | **Notificações:** 8 | **Incidencia 100mil:** 150,07 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162708 | **Municipio:** São João do Paraíso | **Populacao 2022:** 23.910 | **Notificações:** 8 | **Incidencia 100mil:** 33,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171071 | **Municipio:** Veredinha | **Populacao 2022:** 5.181 | **Notificações:** 8 | **Incidencia 100mil:** 154,41 | **Grau criticidade:** Média
+- **Codigo municipio:** 3161809 | **Municipio:** São Gonçalo do Pará | **Populacao 2022:** 11.770 | **Notificações:** 8 | **Incidencia 100mil:** 67,97 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104502 | **Municipio:** Arinos | **Populacao 2022:** 17.272 | **Notificações:** 8 | **Incidencia 100mil:** 46,32 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3158102 | **Municipio:** Santa Maria do Salto | **Populacao 2022:** 4.755 | **Notificações:** 8 | **Incidencia 100mil:** 168,24 | **Grau criticidade:** Média
+- **Codigo municipio:** 3109600 | **Municipio:** Cachoeira da Prata | **Populacao 2022:** 3.693 | **Notificações:** 8 | **Incidencia 100mil:** 216,63 | **Grau criticidade:** Média
+- **Codigo municipio:** 3110608 | **Municipio:** Cambuí | **Populacao 2022:** 29.536 | **Notificações:** 8 | **Incidencia 100mil:** 27,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3113503 | **Municipio:** Carbonita | **Populacao 2022:** 8.512 | **Notificações:** 8 | **Incidencia 100mil:** 93,98 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128600 | **Municipio:** Guarda-Mor | **Populacao 2022:** 6.539 | **Notificações:** 8 | **Incidencia 100mil:** 122,34 | **Grau criticidade:** Média
+- **Codigo municipio:** 3115508 | **Municipio:** Caxambu | **Populacao 2022:** 21.056 | **Notificações:** 8 | **Incidencia 100mil:** 37,99 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3123601 | **Municipio:** Elói Mendes | **Populacao 2022:** 26.336 | **Notificações:** 8 | **Incidencia 100mil:** 30,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3164001 | **Municipio:** São Pedro dos Ferros | **Populacao 2022:** 7.166 | **Notificações:** 8 | **Incidencia 100mil:** 111,64 | **Grau criticidade:** Média
+- **Codigo municipio:** 3152709 | **Municipio:** Prados | **Populacao 2022:** 9.048 | **Notificações:** 8 | **Incidencia 100mil:** 88,42 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3132206 | **Municipio:** Itaguara | **Populacao 2022:** 13.846 | **Notificações:** 8 | **Incidencia 100mil:** 57,78 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140100 | **Municipio:** Marilac | **Populacao 2022:** 4.224 | **Notificações:** 8 | **Incidencia 100mil:** 189,39 | **Grau criticidade:** Média
+- **Codigo municipio:** 3166501 | **Municipio:** Serra Azul de Minas | **Populacao 2022:** 3.792 | **Notificações:** 8 | **Incidencia 100mil:** 210,97 | **Grau criticidade:** Média
+- **Codigo municipio:** 3114501 | **Municipio:** Carmópolis de Minas | **Populacao 2022:** 18.003 | **Notificações:** 8 | **Incidencia 100mil:** 44,44 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102902 | **Municipio:** Antônio Carlos | **Populacao 2022:** 11.095 | **Notificações:** 8 | **Incidencia 100mil:** 72,10 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3131208 | **Municipio:** Ipanema | **Populacao 2022:** 19.522 | **Notificações:** 8 | **Incidencia 100mil:** 40,98 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3119708 | **Municipio:** Coronel Xavier Chaves | **Populacao 2022:** 3.486 | **Notificações:** 8 | **Incidencia 100mil:** 229,49 | **Grau criticidade:** Média
+- **Codigo municipio:** 3144607 | **Municipio:** Nepomuceno | **Populacao 2022:** 25.018 | **Notificações:** 8 | **Incidencia 100mil:** 31,98 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3116902 | **Municipio:** Comendador Gomes | **Populacao 2022:** 2.773 | **Notificações:** 8 | **Incidencia 100mil:** 288,50 | **Grau criticidade:** Média
+- **Codigo municipio:** 3161601 | **Municipio:** São Geraldo da Piedade | **Populacao 2022:** 3.305 | **Notificações:** 7 | **Incidencia 100mil:** 211,80 | **Grau criticidade:** Média
+- **Codigo municipio:** 3162203 | **Municipio:** São João Batista do Glória | **Populacao 2022:** 7.652 | **Notificações:** 7 | **Incidencia 100mil:** 91,48 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3100500 | **Municipio:** Açucena | **Populacao 2022:** 8.943 | **Notificações:** 7 | **Incidencia 100mil:** 78,27 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3153509 | **Municipio:** Alto Jequitibá | **Populacao 2022:** 8.397 | **Notificações:** 7 | **Incidencia 100mil:** 83,36 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154903 | **Municipio:** Rio Casca | **Populacao 2022:** 12.789 | **Notificações:** 7 | **Incidencia 100mil:** 54,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3151701 | **Municipio:** Poço Fundo | **Populacao 2022:** 16.390 | **Notificações:** 7 | **Incidencia 100mil:** 42,71 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3160009 | **Municipio:** Santo Antônio do Aventureiro | **Populacao 2022:** 3.769 | **Notificações:** 7 | **Incidencia 100mil:** 185,73 | **Grau criticidade:** Média
+- **Codigo municipio:** 3123106 | **Municipio:** Dores de Guanhães | **Populacao 2022:** 5.029 | **Notificações:** 7 | **Incidencia 100mil:** 139,19 | **Grau criticidade:** Média
+- **Codigo municipio:** 3111002 | **Municipio:** Campestre | **Populacao 2022:** 20.696 | **Notificações:** 7 | **Incidencia 100mil:** 33,82 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3123858 | **Municipio:** Entre Folhas | **Populacao 2022:** 5.179 | **Notificações:** 7 | **Incidencia 100mil:** 135,16 | **Grau criticidade:** Média
+- **Codigo municipio:** 3165552 | **Municipio:** Setubinha | **Populacao 2022:** 9.917 | **Notificações:** 7 | **Incidencia 100mil:** 70,59 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3129707 | **Municipio:** Ibiraci | **Populacao 2022:** 10.948 | **Notificações:** 7 | **Incidencia 100mil:** 63,94 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3145307 | **Municipio:** Novo Cruzeiro | **Populacao 2022:** 26.975 | **Notificações:** 7 | **Incidencia 100mil:** 25,95 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128303 | **Municipio:** Guaranésia | **Populacao 2022:** 19.150 | **Notificações:** 7 | **Incidencia 100mil:** 36,55 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3127206 | **Municipio:** Funilândia | **Populacao 2022:** 4.686 | **Notificações:** 7 | **Incidencia 100mil:** 149,38 | **Grau criticidade:** Média
+- **Codigo municipio:** 3116407 | **Municipio:** Claraval | **Populacao 2022:** 4.658 | **Notificações:** 7 | **Incidencia 100mil:** 150,28 | **Grau criticidade:** Média
+- **Codigo municipio:** 3141702 | **Municipio:** Mesquita | **Populacao 2022:** 5.040 | **Notificações:** 7 | **Incidencia 100mil:** 138,89 | **Grau criticidade:** Média
+- **Codigo municipio:** 3165107 | **Municipio:** São Tomás de Aquino | **Populacao 2022:** 6.740 | **Notificações:** 7 | **Incidencia 100mil:** 103,86 | **Grau criticidade:** Média
+- **Codigo municipio:** 3107505 | **Municipio:** Bom Jardim de Minas | **Populacao 2022:** 6.783 | **Notificações:** 7 | **Incidencia 100mil:** 103,20 | **Grau criticidade:** Média
+- **Codigo municipio:** 3132008 | **Municipio:** Itacambira | **Populacao 2022:** 4.252 | **Notificações:** 7 | **Incidencia 100mil:** 164,63 | **Grau criticidade:** Média
+- **Codigo municipio:** 3143401 | **Municipio:** Monte Sião | **Populacao 2022:** 24.089 | **Notificações:** 7 | **Incidencia 100mil:** 29,06 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140902 | **Municipio:** Matipó | **Populacao 2022:** 18.552 | **Notificações:** 7 | **Incidencia 100mil:** 37,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3105103 | **Municipio:** Bambuí | **Populacao 2022:** 23.546 | **Notificações:** 7 | **Incidencia 100mil:** 29,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104908 | **Municipio:** Baependi | **Populacao 2022:** 18.366 | **Notificações:** 7 | **Incidencia 100mil:** 38,11 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170503 | **Municipio:** Urucânia | **Populacao 2022:** 10.600 | **Notificações:** 6 | **Incidencia 100mil:** 56,60 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102209 | **Municipio:** Alvarenga | **Populacao 2022:** 3.975 | **Notificações:** 6 | **Incidencia 100mil:** 150,94 | **Grau criticidade:** Média
+- **Codigo municipio:** 3166709 | **Municipio:** Serra dos Aimorés | **Populacao 2022:** 6.944 | **Notificações:** 6 | **Incidencia 100mil:** 86,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121209 | **Municipio:** Delfinópolis | **Populacao 2022:** 8.393 | **Notificações:** 6 | **Incidencia 100mil:** 71,49 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135001 | **Municipio:** Jaguaraçu | **Populacao 2022:** 3.092 | **Notificações:** 6 | **Incidencia 100mil:** 194,05 | **Grau criticidade:** Média
+- **Codigo municipio:** 3131802 | **Municipio:** Itabirinha | **Populacao 2022:** 10.362 | **Notificações:** 6 | **Incidencia 100mil:** 57,90 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3145703 | **Municipio:** Oliveira Fortes | **Populacao 2022:** 2.027 | **Notificações:** 6 | **Incidencia 100mil:** 296 | **Grau criticidade:** Média
+- **Codigo municipio:** 3127909 | **Municipio:** Grupiara | **Populacao 2022:** 1.392 | **Notificações:** 6 | **Incidencia 100mil:** 431,03 | **Grau criticidade:** Alta
+- **Codigo municipio:** 3144003 | **Municipio:** Mutum | **Populacao 2022:** 27.635 | **Notificações:** 6 | **Incidencia 100mil:** 21,71 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3146008 | **Municipio:** Ouro Fino | **Populacao 2022:** 32.094 | **Notificações:** 6 | **Incidencia 100mil:** 18,70 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3129608 | **Municipio:** Ibiaí | **Populacao 2022:** 6.286 | **Notificações:** 6 | **Incidencia 100mil:** 95,45 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3119203 | **Municipio:** Coroaci | **Populacao 2022:** 10.884 | **Notificações:** 6 | **Incidencia 100mil:** 55,13 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3134004 | **Municipio:** Itinga | **Populacao 2022:** 13.745 | **Notificações:** 6 | **Incidencia 100mil:** 43,65 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157906 | **Municipio:** Santa Margarida | **Populacao 2022:** 16.395 | **Notificações:** 6 | **Incidencia 100mil:** 36,60 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135704 | **Municipio:** Jequitibá | **Populacao 2022:** 5.883 | **Notificações:** 6 | **Incidencia 100mil:** 101,99 | **Grau criticidade:** Média
+- **Codigo municipio:** 3172202 | **Municipio:** Wenceslau Braz | **Populacao 2022:** 2.356 | **Notificações:** 6 | **Incidencia 100mil:** 254,67 | **Grau criticidade:** Média
+- **Codigo municipio:** 3163201 | **Municipio:** São José do Alegre | **Populacao 2022:** 4.133 | **Notificações:** 6 | **Incidencia 100mil:** 145,17 | **Grau criticidade:** Média
+- **Codigo municipio:** 3155306 | **Municipio:** Rio Manso | **Populacao 2022:** 5.568 | **Notificações:** 6 | **Incidencia 100mil:** 107,76 | **Grau criticidade:** Média
+- **Codigo municipio:** 3152907 | **Municipio:** Pratápolis | **Populacao 2022:** 8.406 | **Notificações:** 6 | **Incidencia 100mil:** 71,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150802 | **Municipio:** Piranga | **Populacao 2022:** 17.018 | **Notificações:** 6 | **Incidencia 100mil:** 35,26 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110806 | **Municipio:** Campanário | **Populacao 2022:** 2.923 | **Notificações:** 6 | **Incidencia 100mil:** 205,27 | **Grau criticidade:** Média
+- **Codigo municipio:** 3136108 | **Municipio:** Joanésia | **Populacao 2022:** 4.329 | **Notificações:** 6 | **Incidencia 100mil:** 138,60 | **Grau criticidade:** Média
+- **Codigo municipio:** 3160405 | **Municipio:** Santo Antônio do Monte | **Populacao 2022:** 27.295 | **Notificações:** 6 | **Incidencia 100mil:** 21,98 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135803 | **Municipio:** Jequitinhonha | **Populacao 2022:** 24.007 | **Notificações:** 6 | **Incidencia 100mil:** 24,99 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3122405 | **Municipio:** Divisa Nova | **Populacao 2022:** 5.851 | **Notificações:** 6 | **Incidencia 100mil:** 102,55 | **Grau criticidade:** Média
+- **Codigo municipio:** 3100203 | **Municipio:** Abaeté | **Populacao 2022:** 22.675 | **Notificações:** 6 | **Incidencia 100mil:** 26,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3100708 | **Municipio:** Água Comprida | **Populacao 2022:** 2.108 | **Notificações:** 6 | **Incidencia 100mil:** 284,63 | **Grau criticidade:** Média
+- **Codigo municipio:** 3135308 | **Municipio:** Japaraíba | **Populacao 2022:** 4.506 | **Notificações:** 6 | **Incidencia 100mil:** 133,16 | **Grau criticidade:** Média
+- **Codigo municipio:** 3150604 | **Municipio:** Piracema | **Populacao 2022:** 6.700 | **Notificações:** 6 | **Incidencia 100mil:** 89,55 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3112802 | **Municipio:** Capitólio | **Populacao 2022:** 10.380 | **Notificações:** 6 | **Incidencia 100mil:** 57,80 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3125309 | **Municipio:** Faria Lemos | **Populacao 2022:** 3.188 | **Notificações:** 6 | **Incidencia 100mil:** 188,21 | **Grau criticidade:** Média
+- **Codigo municipio:** 3125101 | **Municipio:** Extrema | **Populacao 2022:** 53.482 | **Notificações:** 6 | **Incidencia 100mil:** 11,22 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3117702 | **Municipio:** Conceição do Rio Verde | **Populacao 2022:** 12.541 | **Notificações:** 6 | **Incidencia 100mil:** 47,84 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3130309 | **Municipio:** Iguatama | **Populacao 2022:** 6.826 | **Notificações:** 6 | **Incidencia 100mil:** 87,90 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3126802 | **Municipio:** Frei Gaspar | **Populacao 2022:** 5.640 | **Notificações:** 6 | **Incidencia 100mil:** 106,38 | **Grau criticidade:** Média
+- **Codigo municipio:** 3166907 | **Municipio:** Serrania | **Populacao 2022:** 7.621 | **Notificações:** 5 | **Incidencia 100mil:** 65,61 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3143500 | **Municipio:** Morada Nova de Minas | **Populacao 2022:** 9.067 | **Notificações:** 5 | **Incidencia 100mil:** 55,15 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3108305 | **Municipio:** Borda da Mata | **Populacao 2022:** 17.404 | **Notificações:** 5 | **Incidencia 100mil:** 28,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128105 | **Municipio:** Guapé | **Populacao 2022:** 13.772 | **Notificações:** 5 | **Incidencia 100mil:** 36,31 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3145109 | **Municipio:** Nova Resende | **Populacao 2022:** 16.387 | **Notificações:** 5 | **Incidencia 100mil:** 30,51 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3113305 | **Municipio:** Carangola | **Populacao 2022:** 31.240 | **Notificações:** 5 | **Incidencia 100mil:** 16,01 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128204 | **Municipio:** Guaraciaba | **Populacao 2022:** 9.753 | **Notificações:** 5 | **Incidencia 100mil:** 51,27 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165008 | **Municipio:** São Tiago | **Populacao 2022:** 11.192 | **Notificações:** 5 | **Incidencia 100mil:** 44,67 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3143708 | **Municipio:** Morro do Pilar | **Populacao 2022:** 3.133 | **Notificações:** 5 | **Incidencia 100mil:** 159,59 | **Grau criticidade:** Média
+- **Codigo municipio:** 3117801 | **Municipio:** Conceição dos Ouros | **Populacao 2022:** 10.880 | **Notificações:** 5 | **Incidencia 100mil:** 45,96 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3138351 | **Municipio:** Leme do Prado | **Populacao 2022:** 4.341 | **Notificações:** 5 | **Incidencia 100mil:** 115,18 | **Grau criticidade:** Média
+- **Codigo municipio:** 3138609 | **Municipio:** Lima Duarte | **Populacao 2022:** 17.221 | **Notificações:** 5 | **Incidencia 100mil:** 29,03 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150406 | **Municipio:** Piedade dos Gerais | **Populacao 2022:** 5.019 | **Notificações:** 5 | **Incidencia 100mil:** 99,62 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121704 | **Municipio:** Diogo de Vasconcelos | **Populacao 2022:** 3.549 | **Notificações:** 5 | **Incidencia 100mil:** 140,88 | **Grau criticidade:** Média
+- **Codigo municipio:** 3124500 | **Municipio:** Estiva | **Populacao 2022:** 11.502 | **Notificações:** 5 | **Incidencia 100mil:** 43,47 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3113107 | **Municipio:** Caranaíba | **Populacao 2022:** 2.933 | **Notificações:** 5 | **Incidencia 100mil:** 170,47 | **Grau criticidade:** Média
+- **Codigo municipio:** 3112901 | **Municipio:** Caputira | **Populacao 2022:** 8.936 | **Notificações:** 5 | **Incidencia 100mil:** 55,95 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3112653 | **Municipio:** Capitão Andrade | **Populacao 2022:** 4.585 | **Notificações:** 5 | **Incidencia 100mil:** 109,05 | **Grau criticidade:** Média
+- **Codigo municipio:** 3130051 | **Municipio:** Icaraí de Minas | **Populacao 2022:** 10.677 | **Notificações:** 5 | **Incidencia 100mil:** 46,83 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3142304 | **Municipio:** Moeda | **Populacao 2022:** 5.125 | **Notificações:** 5 | **Incidencia 100mil:** 97,56 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3139300 | **Municipio:** Manga | **Populacao 2022:** 18.886 | **Notificações:** 5 | **Incidencia 100mil:** 26,47 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3105004 | **Municipio:** Baldim | **Populacao 2022:** 7.492 | **Notificações:** 5 | **Incidencia 100mil:** 66,74 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3124708 | **Municipio:** Estrela do Indaiá | **Populacao 2022:** 2.772 | **Notificações:** 5 | **Incidencia 100mil:** 180,38 | **Grau criticidade:** Média
+- **Codigo municipio:** 3148509 | **Municipio:** Pavão | **Populacao 2022:** 8.047 | **Notificações:** 5 | **Incidencia 100mil:** 62,13 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3147709 | **Municipio:** Passa Tempo | **Populacao 2022:** 8.473 | **Notificações:** 5 | **Incidencia 100mil:** 59,01 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3119955 | **Municipio:** Córrego Fundo | **Populacao 2022:** 6.133 | **Notificações:** 5 | **Incidencia 100mil:** 81,53 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3101631 | **Municipio:** Alfredo Vasconcelos | **Populacao 2022:** 6.931 | **Notificações:** 5 | **Incidencia 100mil:** 72,14 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171600 | **Municipio:** Virgem da Lapa | **Populacao 2022:** 11.804 | **Notificações:** 5 | **Incidencia 100mil:** 42,36 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170529 | **Municipio:** Urucuia | **Populacao 2022:** 17.479 | **Notificações:** 5 | **Incidencia 100mil:** 28,61 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159605 | **Municipio:** Santa Rita do Sapucaí | **Populacao 2022:** 40.635 | **Notificações:** 5 | **Incidencia 100mil:** 12,30 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135506 | **Municipio:** Jequeri | **Populacao 2022:** 12.419 | **Notificações:** 5 | **Incidencia 100mil:** 40,26 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120607 | **Municipio:** Crucilândia | **Populacao 2022:** 5.434 | **Notificações:** 5 | **Incidencia 100mil:** 92,01 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3161700 | **Municipio:** São Gonçalo do Abaeté | **Populacao 2022:** 7.375 | **Notificações:** 5 | **Incidencia 100mil:** 67,80 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136504 | **Municipio:** Jordânia | **Populacao 2022:** 10.304 | **Notificações:** 5 | **Incidencia 100mil:** 48,52 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120201 | **Municipio:** Cristais | **Populacao 2022:** 12.197 | **Notificações:** 5 | **Incidencia 100mil:** 40,99 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3162948 | **Municipio:** São José da Barra | **Populacao 2022:** 7.793 | **Notificações:** 5 | **Incidencia 100mil:** 64,16 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3115706 | **Municipio:** Central de Minas | **Populacao 2022:** 6.171 | **Notificações:** 5 | **Incidencia 100mil:** 81,02 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3156601 | **Municipio:** Rubim | **Populacao 2022:** 10.298 | **Notificações:** 5 | **Incidencia 100mil:** 48,55 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3158508 | **Municipio:** Santana de Pirapama | **Populacao 2022:** 7.030 | **Notificações:** 5 | **Incidencia 100mil:** 71,12 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171154 | **Municipio:** Vermelho Novo | **Populacao 2022:** 4.899 | **Notificações:** 5 | **Incidencia 100mil:** 102,06 | **Grau criticidade:** Média
+- **Codigo municipio:** 3123700 | **Municipio:** Engenheiro Caldas | **Populacao 2022:** 13.622 | **Notificações:** 5 | **Incidencia 100mil:** 36,71 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3146750 | **Municipio:** Palmópolis | **Populacao 2022:** 6.301 | **Notificações:** 4 | **Incidencia 100mil:** 63,48 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3145802 | **Municipio:** Onça de Pitangui | **Populacao 2022:** 2.969 | **Notificações:** 4 | **Incidencia 100mil:** 134,73 | **Grau criticidade:** Média
+- **Codigo municipio:** 3145851 | **Municipio:** Oratórios | **Populacao 2022:** 4.917 | **Notificações:** 4 | **Incidencia 100mil:** 81,35 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3142007 | **Municipio:** Mirabela | **Populacao 2022:** 13.651 | **Notificações:** 4 | **Incidencia 100mil:** 29,30 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128808 | **Municipio:** Guidoval | **Populacao 2022:** 7.131 | **Notificações:** 4 | **Incidencia 100mil:** 56,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167707 | **Municipio:** Sobrália | **Populacao 2022:** 5.137 | **Notificações:** 4 | **Incidencia 100mil:** 77,87 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3108206 | **Municipio:** Bonfinópolis de Minas | **Populacao 2022:** 5.528 | **Notificações:** 4 | **Incidencia 100mil:** 72,36 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3119609 | **Municipio:** Coronel Pacheco | **Populacao 2022:** 2.762 | **Notificações:** 4 | **Incidencia 100mil:** 144,82 | **Grau criticidade:** Média
+- **Codigo municipio:** 3144359 | **Municipio:** Naque | **Populacao 2022:** 6.303 | **Notificações:** 4 | **Incidencia 100mil:** 63,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165206 | **Municipio:** São Tomé das Letras | **Populacao 2022:** 6.904 | **Notificações:** 4 | **Incidencia 100mil:** 57,94 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157252 | **Municipio:** Santa Bárbara do Leste | **Populacao 2022:** 8.458 | **Notificações:** 4 | **Incidencia 100mil:** 47,29 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3156809 | **Municipio:** Sabinópolis | **Populacao 2022:** 14.240 | **Notificações:** 4 | **Incidencia 100mil:** 28,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3117900 | **Municipio:** Congonhal | **Populacao 2022:** 11.083 | **Notificações:** 4 | **Incidencia 100mil:** 36,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3115201 | **Municipio:** Conceição da Barra de Minas | **Populacao 2022:** 3.560 | **Notificações:** 4 | **Incidencia 100mil:** 112,36 | **Grau criticidade:** Média
+- **Codigo municipio:** 3109451 | **Municipio:** Cabeceira Grande | **Populacao 2022:** 6.627 | **Notificações:** 4 | **Incidencia 100mil:** 60,36 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3107109 | **Municipio:** Boa Esperança | **Populacao 2022:** 39.848 | **Notificações:** 4 | **Incidencia 100mil:** 10,04 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3123007 | **Municipio:** Dores de Campos | **Populacao 2022:** 10.007 | **Notificações:** 4 | **Incidencia 100mil:** 39,97 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3125804 | **Municipio:** Fernandes Tourinho | **Populacao 2022:** 2.789 | **Notificações:** 4 | **Incidencia 100mil:** 143,42 | **Grau criticidade:** Média
+- **Codigo municipio:** 3136900 | **Municipio:** Juruaia | **Populacao 2022:** 11.084 | **Notificações:** 4 | **Incidencia 100mil:** 36,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109204 | **Municipio:** Buenópolis | **Populacao 2022:** 9.150 | **Notificações:** 4 | **Incidencia 100mil:** 43,72 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170479 | **Municipio:** Uruana de Minas | **Populacao 2022:** 3.282 | **Notificações:** 4 | **Incidencia 100mil:** 121,88 | **Grau criticidade:** Média
+- **Codigo municipio:** 3141207 | **Municipio:** Matutina | **Populacao 2022:** 3.814 | **Notificações:** 4 | **Incidencia 100mil:** 104,88 | **Grau criticidade:** Média
+- **Codigo municipio:** 3141504 | **Municipio:** Mendes Pimentel | **Populacao 2022:** 5.606 | **Notificações:** 4 | **Incidencia 100mil:** 71,35 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3162005 | **Municipio:** São Gonçalo do Sapucaí | **Populacao 2022:** 23.959 | **Notificações:** 4 | **Incidencia 100mil:** 16,70 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3127370 | **Municipio:** Goiabeira | **Populacao 2022:** 2.830 | **Notificações:** 4 | **Incidencia 100mil:** 141,34 | **Grau criticidade:** Média
+- **Codigo municipio:** 3113800 | **Municipio:** Carmésia | **Populacao 2022:** 2.605 | **Notificações:** 4 | **Incidencia 100mil:** 153,55 | **Grau criticidade:** Média
+- **Codigo municipio:** 3148301 | **Municipio:** Paula Cândido | **Populacao 2022:** 8.659 | **Notificações:** 4 | **Incidencia 100mil:** 46,19 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3148756 | **Municipio:** Pedra Bonita | **Populacao 2022:** 7.320 | **Notificações:** 4 | **Incidencia 100mil:** 54,64 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3114402 | **Municipio:** Carmo do Rio Claro | **Populacao 2022:** 20.954 | **Notificações:** 4 | **Incidencia 100mil:** 19,09 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170305 | **Municipio:** Umburatiba | **Populacao 2022:** 2.684 | **Notificações:** 4 | **Incidencia 100mil:** 149,03 | **Grau criticidade:** Média
+- **Codigo municipio:** 3143005 | **Municipio:** Monte Belo | **Populacao 2022:** 13.046 | **Notificações:** 4 | **Incidencia 100mil:** 30,66 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165404 | **Municipio:** Sapucaí-Mirim | **Populacao 2022:** 6.311 | **Notificações:** 4 | **Incidencia 100mil:** 63,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3156304 | **Municipio:** Rodeiro | **Populacao 2022:** 8.664 | **Notificações:** 4 | **Incidencia 100mil:** 46,17 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3158201 | **Municipio:** Santa Maria do Suaçuí | **Populacao 2022:** 12.788 | **Notificações:** 4 | **Incidencia 100mil:** 31,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3168309 | **Municipio:** Taquaraçu de Minas | **Populacao 2022:** 4.224 | **Notificações:** 4 | **Incidencia 100mil:** 94,70 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3132305 | **Municipio:** Itaipé | **Populacao 2022:** 10.463 | **Notificações:** 4 | **Incidencia 100mil:** 38,23 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157377 | **Municipio:** Santa Cruz de Salinas | **Populacao 2022:** 3.910 | **Notificações:** 4 | **Incidencia 100mil:** 102,30 | **Grau criticidade:** Média
+- **Codigo municipio:** 3160454 | **Municipio:** Santo Antônio do Retiro | **Populacao 2022:** 6.629 | **Notificações:** 4 | **Incidencia 100mil:** 60,34 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3163904 | **Municipio:** São Pedro da União | **Populacao 2022:** 4.885 | **Notificações:** 4 | **Incidencia 100mil:** 81,88 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3168101 | **Municipio:** Tapira | **Populacao 2022:** 4.118 | **Notificações:** 4 | **Incidencia 100mil:** 97,13 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150000 | **Municipio:** Pescador | **Populacao 2022:** 3.570 | **Notificações:** 4 | **Incidencia 100mil:** 112,04 | **Grau criticidade:** Média
+- **Codigo municipio:** 3130655 | **Municipio:** Indaiabira | **Populacao 2022:** 6.346 | **Notificações:** 4 | **Incidencia 100mil:** 63,03 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159704 | **Municipio:** Santa Rosa da Serra | **Populacao 2022:** 3.382 | **Notificações:** 4 | **Incidencia 100mil:** 118,27 | **Grau criticidade:** Média
+- **Codigo municipio:** 3101003 | **Municipio:** Águas Vermelhas | **Populacao 2022:** 14.037 | **Notificações:** 4 | **Incidencia 100mil:** 28,50 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3124401 | **Municipio:** Espírito Santo do Dourado | **Populacao 2022:** 6.611 | **Notificações:** 3 | **Incidencia 100mil:** 45,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3138401 | **Municipio:** Leopoldina | **Populacao 2022:** 51.145 | **Notificações:** 3 | **Incidencia 100mil:** 5,87 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3125002 | **Municipio:** Ewbank da Câmara | **Populacao 2022:** 3.875 | **Notificações:** 3 | **Incidencia 100mil:** 77,42 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3106655 | **Municipio:** Berizal | **Populacao 2022:** 4.201 | **Notificações:** 3 | **Incidencia 100mil:** 71,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3161403 | **Municipio:** São Francisco do Glória | **Populacao 2022:** 4.800 | **Notificações:** 3 | **Incidencia 100mil:** 62,50 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3111606 | **Municipio:** Campos Gerais | **Populacao 2022:** 26.105 | **Notificações:** 3 | **Incidencia 100mil:** 11,49 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3111705 | **Municipio:** Canaã | **Populacao 2022:** 4.715 | **Notificações:** 3 | **Incidencia 100mil:** 63,63 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150208 | **Municipio:** Piedade de Ponte Nova | **Populacao 2022:** 3.976 | **Notificações:** 3 | **Incidencia 100mil:** 75,45 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3130507 | **Municipio:** Ilicínea | **Populacao 2022:** 12.741 | **Notificações:** 3 | **Incidencia 100mil:** 23,55 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3133303 | **Municipio:** Itaobim | **Populacao 2022:** 19.151 | **Notificações:** 3 | **Incidencia 100mil:** 15,66 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120003 | **Municipio:** Córrego Novo | **Populacao 2022:** 2.875 | **Notificações:** 3 | **Incidencia 100mil:** 104,35 | **Grau criticidade:** Média
+- **Codigo municipio:** 3135407 | **Municipio:** Jeceaba | **Populacao 2022:** 6.197 | **Notificações:** 3 | **Incidencia 100mil:** 48,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136579 | **Municipio:** Josenópolis | **Populacao 2022:** 3.630 | **Notificações:** 3 | **Incidencia 100mil:** 82,64 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3137403 | **Municipio:** Lagoa Dourada | **Populacao 2022:** 12.769 | **Notificações:** 3 | **Incidencia 100mil:** 23,49 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3124005 | **Municipio:** Ervália | **Populacao 2022:** 20.255 | **Notificações:** 3 | **Incidencia 100mil:** 14,81 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3124203 | **Municipio:** Espera Feliz | **Populacao 2022:** 24.102 | **Notificações:** 3 | **Incidencia 100mil:** 12,45 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154150 | **Municipio:** Reduto | **Populacao 2022:** 7.848 | **Notificações:** 3 | **Incidencia 100mil:** 38,23 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136405 | **Municipio:** Joaquim Felício | **Populacao 2022:** 3.854 | **Notificações:** 3 | **Incidencia 100mil:** 77,84 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3160959 | **Municipio:** São Domingos das Dores | **Populacao 2022:** 5.626 | **Notificações:** 3 | **Incidencia 100mil:** 53,32 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157401 | **Municipio:** Santa Cruz do Escalvado | **Populacao 2022:** 4.673 | **Notificações:** 3 | **Incidencia 100mil:** 64,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167806 | **Municipio:** Soledade de Minas | **Populacao 2022:** 5.613 | **Notificações:** 3 | **Incidencia 100mil:** 53,45 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140852 | **Municipio:** Matias Cardoso | **Populacao 2022:** 8.895 | **Notificações:** 3 | **Incidencia 100mil:** 33,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3166105 | **Municipio:** Senhora do Porto | **Populacao 2022:** 3.067 | **Notificações:** 3 | **Incidencia 100mil:** 97,82 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3142106 | **Municipio:** Miradouro | **Populacao 2022:** 8.968 | **Notificações:** 3 | **Incidencia 100mil:** 33,45 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3108008 | **Municipio:** Bom Sucesso | **Populacao 2022:** 17.151 | **Notificações:** 3 | **Incidencia 100mil:** 17,49 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3108552 | **Municipio:** Brasilândia de Minas | **Populacao 2022:** 15.020 | **Notificações:** 3 | **Incidencia 100mil:** 19,97 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3117108 | **Municipio:** Conceição da Aparecida | **Populacao 2022:** 10.371 | **Notificações:** 3 | **Incidencia 100mil:** 28,93 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102506 | **Municipio:** Amparo do Serra | **Populacao 2022:** 4.541 | **Notificações:** 3 | **Incidencia 100mil:** 66,06 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102407 | **Municipio:** Alvorada de Minas | **Populacao 2022:** 4.159 | **Notificações:** 3 | **Incidencia 100mil:** 72,13 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170057 | **Municipio:** Ubaporanga | **Populacao 2022:** 13.017 | **Notificações:** 3 | **Incidencia 100mil:** 23,05 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171709 | **Municipio:** Virgínia | **Populacao 2022:** 8.908 | **Notificações:** 3 | **Incidencia 100mil:** 33,68 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3166204 | **Municipio:** Senhora dos Remédios | **Populacao 2022:** 10.384 | **Notificações:** 3 | **Incidencia 100mil:** 28,89 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102852 | **Municipio:** Angelândia | **Populacao 2022:** 7.718 | **Notificações:** 3 | **Incidencia 100mil:** 38,87 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3169406 | **Municipio:** Três Pontas | **Populacao 2022:** 55.255 | **Notificações:** 3 | **Incidencia 100mil:** 5,43 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3101904 | **Municipio:** Alpinópolis | **Populacao 2022:** 18.300 | **Notificações:** 3 | **Incidencia 100mil:** 16,39 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121001 | **Municipio:** Datas | **Populacao 2022:** 5.465 | **Notificações:** 3 | **Incidencia 100mil:** 54,89 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3145356 | **Municipio:** Novo Oriente de Minas | **Populacao 2022:** 10.275 | **Notificações:** 3 | **Incidencia 100mil:** 29,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3124609 | **Municipio:** Estrela Dalva | **Populacao 2022:** 2.186 | **Notificações:** 3 | **Incidencia 100mil:** 137,24 | **Grau criticidade:** Média
+- **Codigo municipio:** 3113701 | **Municipio:** Carlos Chagas | **Populacao 2022:** 18.615 | **Notificações:** 3 | **Incidencia 100mil:** 16,12 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3114105 | **Municipio:** Carmo de Minas | **Populacao 2022:** 13.797 | **Notificações:** 3 | **Incidencia 100mil:** 21,74 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3147303 | **Municipio:** Paraisópolis | **Populacao 2022:** 20.445 | **Notificações:** 3 | **Incidencia 100mil:** 14,67 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3147501 | **Municipio:** Passabém | **Populacao 2022:** 1.600 | **Notificações:** 3 | **Incidencia 100mil:** 187,50 | **Grau criticidade:** Média
+- **Codigo municipio:** 3104452 | **Municipio:** Aricanduva | **Populacao 2022:** 4.719 | **Notificações:** 3 | **Incidencia 100mil:** 63,57 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121803 | **Municipio:** Dionísio | **Populacao 2022:** 6.847 | **Notificações:** 3 | **Incidencia 100mil:** 43,81 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3168051 | **Municipio:** Taparuba | **Populacao 2022:** 3.387 | **Notificações:** 3 | **Incidencia 100mil:** 88,57 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110202 | **Municipio:** Cajuri | **Populacao 2022:** 4.088 | **Notificações:** 3 | **Incidencia 100mil:** 73,39 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3152131 | **Municipio:** Ponto Chique | **Populacao 2022:** 3.747 | **Notificações:** 3 | **Incidencia 100mil:** 80,06 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3168200 | **Municipio:** Tapiraí | **Populacao 2022:** 1.690 | **Notificações:** 3 | **Incidencia 100mil:** 177,51 | **Grau criticidade:** Média
+- **Codigo municipio:** 3153400 | **Municipio:** Presidente Olegário | **Populacao 2022:** 18.765 | **Notificações:** 3 | **Incidencia 100mil:** 15,99 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3112059 | **Municipio:** Cantagalo | **Populacao 2022:** 3.974 | **Notificações:** 3 | **Incidencia 100mil:** 75,49 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3127404 | **Municipio:** Gonçalves | **Populacao 2022:** 4.727 | **Notificações:** 3 | **Incidencia 100mil:** 63,47 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3113602 | **Municipio:** Careaçu | **Populacao 2022:** 6.816 | **Notificações:** 3 | **Incidencia 100mil:** 44,01 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3122470 | **Municipio:** Dom Bosco | **Populacao 2022:** 3.697 | **Notificações:** 3 | **Incidencia 100mil:** 81,15 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3155009 | **Municipio:** Rio Doce | **Populacao 2022:** 2.484 | **Notificações:** 3 | **Incidencia 100mil:** 120,77 | **Grau criticidade:** Média
+- **Codigo municipio:** 3163409 | **Municipio:** São José do Goiabal | **Populacao 2022:** 5.396 | **Notificações:** 3 | **Incidencia 100mil:** 55,60 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110301 | **Municipio:** Caldas | **Populacao 2022:** 14.217 | **Notificações:** 2 | **Incidencia 100mil:** 14,07 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3113909 | **Municipio:** Carmo da Cachoeira | **Populacao 2022:** 11.547 | **Notificações:** 2 | **Incidencia 100mil:** 17,32 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3116209 | **Municipio:** Chiador | **Populacao 2022:** 2.800 | **Notificações:** 2 | **Incidencia 100mil:** 71,43 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3149101 | **Municipio:** Pedralva | **Populacao 2022:** 10.760 | **Notificações:** 2 | **Incidencia 100mil:** 18,59 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3116803 | **Municipio:** Coluna | **Populacao 2022:** 8.163 | **Notificações:** 2 | **Incidencia 100mil:** 24,50 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3129905 | **Municipio:** Ibitiúra de Minas | **Populacao 2022:** 3.365 | **Notificações:** 2 | **Incidencia 100mil:** 59,44 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3119500 | **Municipio:** Coronel Murta | **Populacao 2022:** 8.200 | **Notificações:** 2 | **Incidencia 100mil:** 24,39 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3119807 | **Municipio:** Córrego Danta | **Populacao 2022:** 2.960 | **Notificações:** 2 | **Incidencia 100mil:** 67,57 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3107604 | **Municipio:** Bom Jesus da Penha | **Populacao 2022:** 4.474 | **Notificações:** 2 | **Incidencia 100mil:** 44,70 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144409 | **Municipio:** Natércia | **Populacao 2022:** 4.691 | **Notificações:** 2 | **Incidencia 100mil:** 42,63 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165701 | **Municipio:** Senador Firmino | **Populacao 2022:** 7.716 | **Notificações:** 2 | **Incidencia 100mil:** 25,92 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3106002 | **Municipio:** Bela Vista de Minas | **Populacao 2022:** 10.167 | **Notificações:** 2 | **Incidencia 100mil:** 19,67 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167301 | **Municipio:** Silveirânia | **Populacao 2022:** 2.323 | **Notificações:** 2 | **Incidencia 100mil:** 86,10 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170578 | **Municipio:** Vargem Alegre | **Populacao 2022:** 5.780 | **Notificações:** 2 | **Incidencia 100mil:** 34,60 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140555 | **Municipio:** Mata Verde | **Populacao 2022:** 9.112 | **Notificações:** 2 | **Incidencia 100mil:** 21,95 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3103702 | **Municipio:** Araponga | **Populacao 2022:** 8.048 | **Notificações:** 2 | **Incidencia 100mil:** 24,85 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3103603 | **Municipio:** Arantina | **Populacao 2022:** 2.915 | **Notificações:** 2 | **Incidencia 100mil:** 68,61 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121100 | **Municipio:** Delfim Moreira | **Populacao 2022:** 7.952 | **Notificações:** 2 | **Incidencia 100mil:** 25,15 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3100401 | **Municipio:** Acaiaca | **Populacao 2022:** 3.909 | **Notificações:** 2 | **Incidencia 100mil:** 51,16 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120870 | **Municipio:** Curral de Dentro | **Populacao 2022:** 7.406 | **Notificações:** 2 | **Incidencia 100mil:** 27,01 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102050 | **Municipio:** Alto Caparaó | **Populacao 2022:** 5.795 | **Notificações:** 2 | **Incidencia 100mil:** 34,51 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3134509 | **Municipio:** Itutinga | **Populacao 2022:** 4.217 | **Notificações:** 2 | **Incidencia 100mil:** 47,43 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3134707 | **Municipio:** Jacinto | **Populacao 2022:** 11.042 | **Notificações:** 2 | **Incidencia 100mil:** 18,11 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3141405 | **Municipio:** Medina | **Populacao 2022:** 20.156 | **Notificações:** 2 | **Incidencia 100mil:** 9,92 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3143450 | **Municipio:** Montezuma | **Populacao 2022:** 6.888 | **Notificações:** 2 | **Incidencia 100mil:** 29,04 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3139805 | **Municipio:** Mar de Espanha | **Populacao 2022:** 12.721 | **Notificações:** 2 | **Incidencia 100mil:** 15,72 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3139003 | **Municipio:** Machado | **Populacao 2022:** 37.684 | **Notificações:** 2 | **Incidencia 100mil:** 5,31 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165560 | **Municipio:** Sem-Peixe | **Populacao 2022:** 2.433 | **Notificações:** 2 | **Incidencia 100mil:** 82,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3164308 | **Municipio:** São Roque de Minas | **Populacao 2022:** 7.129 | **Notificações:** 2 | **Incidencia 100mil:** 28,05 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110400 | **Municipio:** Camacho | **Populacao 2022:** 2.838 | **Notificações:** 2 | **Incidencia 100mil:** 70,47 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3163706 | **Municipio:** São Lourenço | **Populacao 2022:** 44.798 | **Notificações:** 2 | **Incidencia 100mil:** 4,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3112109 | **Municipio:** Caparaó | **Populacao 2022:** 5.048 | **Notificações:** 2 | **Incidencia 100mil:** 39,62 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3113008 | **Municipio:** Caraí | **Populacao 2022:** 19.548 | **Notificações:** 2 | **Incidencia 100mil:** 10,23 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110707 | **Municipio:** Cambuquira | **Populacao 2022:** 12.313 | **Notificações:** 2 | **Incidencia 100mil:** 16,24 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3108701 | **Municipio:** Brás Pires | **Populacao 2022:** 4.260 | **Notificações:** 2 | **Incidencia 100mil:** 46,95 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110103 | **Municipio:** Caiana | **Populacao 2022:** 5.304 | **Notificações:** 2 | **Incidencia 100mil:** 37,71 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3138005 | **Municipio:** Laranjal | **Populacao 2022:** 5.963 | **Notificações:** 2 | **Incidencia 100mil:** 33,54 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3132800 | **Municipio:** Itambé do Mato Dentro | **Populacao 2022:** 2.142 | **Notificações:** 2 | **Incidencia 100mil:** 93,37 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3133204 | **Municipio:** Itanhomi | **Populacao 2022:** 11.128 | **Notificações:** 2 | **Incidencia 100mil:** 17,97 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104700 | **Municipio:** Ataléia | **Populacao 2022:** 13.736 | **Notificações:** 2 | **Incidencia 100mil:** 14,56 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3126307 | **Municipio:** Fortaleza de Minas | **Populacao 2022:** 3.477 | **Notificações:** 2 | **Incidencia 100mil:** 57,52 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3125507 | **Municipio:** São Gonçalo do Rio Preto | **Populacao 2022:** 3.032 | **Notificações:** 2 | **Incidencia 100mil:** 65,96 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104106 | **Municipio:** Arceburgo | **Populacao 2022:** 9.177 | **Notificações:** 2 | **Incidencia 100mil:** 21,79 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104304 | **Municipio:** Areado | **Populacao 2022:** 13.881 | **Notificações:** 2 | **Incidencia 100mil:** 14,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3125408 | **Municipio:** Felício dos Santos | **Populacao 2022:** 5.133 | **Notificações:** 2 | **Incidencia 100mil:** 38,96 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3137809 | **Municipio:** Lambari | **Populacao 2022:** 20.414 | **Notificações:** 2 | **Incidencia 100mil:** 9,80 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3164209 | **Municipio:** São Romão | **Populacao 2022:** 10.315 | **Notificações:** 2 | **Incidencia 100mil:** 19,39 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157104 | **Municipio:** Salto da Divisa | **Populacao 2022:** 6.110 | **Notificações:** 2 | **Incidencia 100mil:** 32,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3156452 | **Municipio:** Rosário da Limeira | **Populacao 2022:** 4.734 | **Notificações:** 2 | **Incidencia 100mil:** 42,25 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3107208 | **Municipio:** Bocaina de Minas | **Populacao 2022:** 5.348 | **Notificações:** 2 | **Incidencia 100mil:** 37,40 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121308 | **Municipio:** Descoberto | **Populacao 2022:** 4.928 | **Notificações:** 2 | **Incidencia 100mil:** 40,58 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3134301 | **Municipio:** Itumirim | **Populacao 2022:** 6.638 | **Notificações:** 2 | **Incidencia 100mil:** 30,13 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3116100 | **Municipio:** Chapada do Norte | **Populacao 2022:** 10.337 | **Notificações:** 2 | **Incidencia 100mil:** 19,35 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157609 | **Municipio:** Santa Fé de Minas | **Populacao 2022:** 3.522 | **Notificações:** 2 | **Incidencia 100mil:** 56,79 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3122355 | **Municipio:** Divisa Alegre | **Populacao 2022:** 6.321 | **Notificações:** 2 | **Incidencia 100mil:** 31,64 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120508 | **Municipio:** Cristina | **Populacao 2022:** 10.374 | **Notificações:** 2 | **Incidencia 100mil:** 19,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120102 | **Municipio:** Couto de Magalhães de Minas | **Populacao 2022:** 4.245 | **Notificações:** 2 | **Incidencia 100mil:** 47,11 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3161205 | **Municipio:** São Francisco de Paula | **Populacao 2022:** 6.187 | **Notificações:** 2 | **Incidencia 100mil:** 32,33 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159407 | **Municipio:** Santa Rita de Ibitipoca | **Populacao 2022:** 3.301 | **Notificações:** 2 | **Incidencia 100mil:** 60,59 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3160801 | **Municipio:** São Bento Abade | **Populacao 2022:** 4.713 | **Notificações:** 2 | **Incidencia 100mil:** 42,44 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3171105 | **Municipio:** Veríssimo | **Populacao 2022:** 3.411 | **Notificações:** 2 | **Incidencia 100mil:** 58,63 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3101300 | **Municipio:** Alagoa | **Populacao 2022:** 2.749 | **Notificações:** 1 | **Incidencia 100mil:** 36,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3101409 | **Municipio:** Albertina | **Populacao 2022:** 2.952 | **Notificações:** 1 | **Incidencia 100mil:** 33,88 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3162302 | **Municipio:** São João da Mata | **Populacao 2022:** 2.914 | **Notificações:** 1 | **Incidencia 100mil:** 34,32 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3160603 | **Municipio:** Santo Hipólito | **Populacao 2022:** 2.717 | **Notificações:** 1 | **Incidencia 100mil:** 36,81 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3160702 | **Municipio:** Santos Dumont | **Populacao 2022:** 42.406 | **Notificações:** 1 | **Incidencia 100mil:** 2,36 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3161056 | **Municipio:** São Félix de Minas | **Populacao 2022:** 3.200 | **Notificações:** 1 | **Incidencia 100mil:** 31,25 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3161650 | **Municipio:** São Geraldo do Baixio | **Populacao 2022:** 3.143 | **Notificações:** 1 | **Incidencia 100mil:** 31,82 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159209 | **Municipio:** Santa Rita de Caldas | **Populacao 2022:** 8.460 | **Notificações:** 1 | **Incidencia 100mil:** 11,82 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159308 | **Municipio:** Santa Rita de Jacutinga | **Populacao 2022:** 4.755 | **Notificações:** 1 | **Incidencia 100mil:** 21,03 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159357 | **Municipio:** Santa Rita de Minas | **Populacao 2022:** 6.773 | **Notificações:** 1 | **Incidencia 100mil:** 14,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3159902 | **Municipio:** Santo Antônio do Amparo | **Populacao 2022:** 17.285 | **Notificações:** 1 | **Incidencia 100mil:** 5,79 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3160306 | **Municipio:** Santo Antônio do Jacinto | **Populacao 2022:** 10.327 | **Notificações:** 1 | **Incidencia 100mil:** 9,68 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157302 | **Municipio:** Santa Bárbara do Tugúrio | **Populacao 2022:** 4.208 | **Notificações:** 1 | **Incidencia 100mil:** 23,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3157500 | **Municipio:** Santa Efigênia de Minas | **Populacao 2022:** 4.039 | **Notificações:** 1 | **Incidencia 100mil:** 24,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3158607 | **Municipio:** Santana do Deserto | **Populacao 2022:** 3.747 | **Notificações:** 1 | **Incidencia 100mil:** 26,69 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154200 | **Municipio:** Resende Costa | **Populacao 2022:** 11.230 | **Notificações:** 1 | **Incidencia 100mil:** 8,90 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3154408 | **Municipio:** Ressaquinha | **Populacao 2022:** 4.548 | **Notificações:** 1 | **Incidencia 100mil:** 21,99 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3155108 | **Municipio:** Rio do Prado | **Populacao 2022:** 4.639 | **Notificações:** 1 | **Incidencia 100mil:** 21,56 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3155207 | **Municipio:** Rio Espera | **Populacao 2022:** 5.429 | **Notificações:** 1 | **Incidencia 100mil:** 18,42 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3163300 | **Municipio:** São José do Divino | **Populacao 2022:** 3.464 | **Notificações:** 1 | **Incidencia 100mil:** 28,87 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3163508 | **Municipio:** São José do Jacuri | **Populacao 2022:** 6.197 | **Notificações:** 1 | **Incidencia 100mil:** 16,14 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3164100 | **Municipio:** São Pedro do Suaçuí | **Populacao 2022:** 5.103 | **Notificações:** 1 | **Incidencia 100mil:** 19,60 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3153004 | **Municipio:** Pratinha | **Populacao 2022:** 3.559 | **Notificações:** 1 | **Incidencia 100mil:** 28,10 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3153103 | **Municipio:** Presidente Bernardes | **Populacao 2022:** 4.850 | **Notificações:** 1 | **Incidencia 100mil:** 20,62 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3153301 | **Municipio:** Presidente Kubitschek | **Populacao 2022:** 3.071 | **Notificações:** 1 | **Incidencia 100mil:** 32,56 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3149606 | **Municipio:** Pequi | **Populacao 2022:** 4.155 | **Notificações:** 1 | **Incidencia 100mil:** 24,07 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3149952 | **Municipio:** Periquito | **Populacao 2022:** 6.553 | **Notificações:** 1 | **Incidencia 100mil:** 15,26 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3150505 | **Municipio:** Pimenta | **Populacao 2022:** 8.563 | **Notificações:** 1 | **Incidencia 100mil:** 11,68 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3148707 | **Municipio:** Pedra Azul | **Populacao 2022:** 24.410 | **Notificações:** 1 | **Incidencia 100mil:** 4,10 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3149408 | **Municipio:** Pedro Teixeira | **Populacao 2022:** 1.810 | **Notificações:** 1 | **Incidencia 100mil:** 55,25 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3147808 | **Municipio:** Passa Vinte | **Populacao 2022:** 2.233 | **Notificações:** 1 | **Incidencia 100mil:** 44,78 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165602 | **Municipio:** Senador Cortes | **Populacao 2022:** 2.240 | **Notificações:** 1 | **Incidencia 100mil:** 44,64 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3165909 | **Municipio:** Senador Modestino Gonçalves | **Populacao 2022:** 4.008 | **Notificações:** 1 | **Incidencia 100mil:** 24,95 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3166006 | **Municipio:** Senhora de Oliveira | **Populacao 2022:** 5.483 | **Notificações:** 1 | **Incidencia 100mil:** 18,24 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144201 | **Municipio:** Nacip Raydan | **Populacao 2022:** 2.459 | **Notificações:** 1 | **Incidencia 100mil:** 40,67 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144375 | **Municipio:** Natalândia | **Populacao 2022:** 3.520 | **Notificações:** 1 | **Incidencia 100mil:** 28,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144508 | **Municipio:** Nazareno | **Populacao 2022:** 8.179 | **Notificações:** 1 | **Incidencia 100mil:** 12,23 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144656 | **Municipio:** Ninheira | **Populacao 2022:** 10.588 | **Notificações:** 1 | **Incidencia 100mil:** 9,44 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144706 | **Municipio:** Nova Era | **Populacao 2022:** 17.438 | **Notificações:** 1 | **Incidencia 100mil:** 5,73 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3144904 | **Municipio:** Nova Módica | **Populacao 2022:** 3.663 | **Notificações:** 1 | **Incidencia 100mil:** 27,30 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3140605 | **Municipio:** Materlândia | **Populacao 2022:** 3.963 | **Notificações:** 1 | **Incidencia 100mil:** 25,23 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3137908 | **Municipio:** Lamim | **Populacao 2022:** 3.184 | **Notificações:** 1 | **Incidencia 100mil:** 31,41 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3138674 | **Municipio:** Luisburgo | **Populacao 2022:** 6.956 | **Notificações:** 1 | **Incidencia 100mil:** 14,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136520 | **Municipio:** José Gonçalves de Minas | **Populacao 2022:** 3.969 | **Notificações:** 1 | **Incidencia 100mil:** 25,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136603 | **Municipio:** Nova União | **Populacao 2022:** 5.909 | **Notificações:** 1 | **Incidencia 100mil:** 16,92 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3135076 | **Municipio:** Jampruca | **Populacao 2022:** 4.296 | **Notificações:** 1 | **Incidencia 100mil:** 23,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3136009 | **Municipio:** Joaíma | **Populacao 2022:** 13.888 | **Notificações:** 1 | **Incidencia 100mil:** 7,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3132909 | **Municipio:** Itamogi | **Populacao 2022:** 10.770 | **Notificações:** 1 | **Incidencia 100mil:** 9,29 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3130408 | **Municipio:** Ijaci | **Populacao 2022:** 7.003 | **Notificações:** 1 | **Incidencia 100mil:** 14,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3130556 | **Municipio:** Imbé de Minas | **Populacao 2022:** 6.986 | **Notificações:** 1 | **Incidencia 100mil:** 14,31 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3130804 | **Municipio:** Ingaí | **Populacao 2022:** 2.580 | **Notificações:** 1 | **Incidencia 100mil:** 38,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167400 | **Municipio:** Silvianópolis | **Populacao 2022:** 6.179 | **Notificações:** 1 | **Incidencia 100mil:** 16,18 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167509 | **Municipio:** Simão Pereira | **Populacao 2022:** 2.947 | **Notificações:** 1 | **Incidencia 100mil:** 33,93 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3167905 | **Municipio:** Tabuleiro | **Populacao 2022:** 4.014 | **Notificações:** 1 | **Incidencia 100mil:** 24,91 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128402 | **Municipio:** Guarani | **Populacao 2022:** 7.714 | **Notificações:** 1 | **Incidencia 100mil:** 12,96 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3128501 | **Municipio:** Guarará | **Populacao 2022:** 3.149 | **Notificações:** 1 | **Incidencia 100mil:** 31,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3130002 | **Municipio:** Ibituruna | **Populacao 2022:** 2.698 | **Notificações:** 1 | **Incidencia 100mil:** 37,06 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3127388 | **Municipio:** Goianá | **Populacao 2022:** 4.053 | **Notificações:** 1 | **Incidencia 100mil:** 24,67 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3125200 | **Municipio:** Fama | **Populacao 2022:** 2.578 | **Notificações:** 1 | **Incidencia 100mil:** 38,79 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3123304 | **Municipio:** Dores do Turvo | **Populacao 2022:** 4.987 | **Notificações:** 1 | **Incidencia 100mil:** 20,05 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3123908 | **Municipio:** Entre Rios de Minas | **Populacao 2022:** 14.746 | **Notificações:** 1 | **Incidencia 100mil:** 6,78 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3121407 | **Municipio:** Desterro de Entre Rios | **Populacao 2022:** 7.653 | **Notificações:** 1 | **Incidencia 100mil:** 13,07 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3120706 | **Municipio:** Cruzeiro da Fortaleza | **Populacao 2022:** 3.521 | **Notificações:** 1 | **Incidencia 100mil:** 28,40 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3118106 | **Municipio:** Congonhas do Norte | **Populacao 2022:** 4.831 | **Notificações:** 1 | **Incidencia 100mil:** 20,70 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3117009 | **Municipio:** Comercinho | **Populacao 2022:** 6.660 | **Notificações:** 1 | **Incidencia 100mil:** 15,02 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3115409 | **Municipio:** Catas Altas da Noruega | **Populacao 2022:** 3.110 | **Notificações:** 1 | **Incidencia 100mil:** 32,15 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3116001 | **Municipio:** Chalé | **Populacao 2022:** 6.075 | **Notificações:** 1 | **Incidencia 100mil:** 16,46 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3116308 | **Municipio:** Cipotânea | **Populacao 2022:** 5.581 | **Notificações:** 1 | **Incidencia 100mil:** 17,92 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3114907 | **Municipio:** Casa Grande | **Populacao 2022:** 2.214 | **Notificações:** 1 | **Incidencia 100mil:** 45,17 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3169505 | **Municipio:** Tumiritinga | **Populacao 2022:** 5.886 | **Notificações:** 1 | **Incidencia 100mil:** 16,99 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3112406 | **Municipio:** Capetinga | **Populacao 2022:** 6.562 | **Notificações:** 1 | **Incidencia 100mil:** 15,24 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3110905 | **Municipio:** Campanha | **Populacao 2022:** 15.935 | **Notificações:** 1 | **Incidencia 100mil:** 6,28 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109105 | **Municipio:** Bueno Brandão | **Populacao 2022:** 10.911 | **Notificações:** 1 | **Incidencia 100mil:** 9,17 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3109501 | **Municipio:** Cabo Verde | **Populacao 2022:** 11.410 | **Notificações:** 1 | **Incidencia 100mil:** 8,76 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3107901 | **Municipio:** Bom Repouso | **Populacao 2022:** 12.649 | **Notificações:** 1 | **Incidencia 100mil:** 7,91 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3105707 | **Municipio:** Barra Longa | **Populacao 2022:** 5.666 | **Notificações:** 1 | **Incidencia 100mil:** 17,65 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3106507 | **Municipio:** Berilo | **Populacao 2022:** 9.826 | **Notificações:** 1 | **Incidencia 100mil:** 10,18 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3106903 | **Municipio:** Bicas | **Populacao 2022:** 13.978 | **Notificações:** 1 | **Incidencia 100mil:** 7,15 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3107000 | **Municipio:** Biquinhas | **Populacao 2022:** 2.383 | **Notificações:** 1 | **Incidencia 100mil:** 41,96 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104403 | **Municipio:** Argirita | **Populacao 2022:** 2.688 | **Notificações:** 1 | **Incidencia 100mil:** 37,20 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104601 | **Municipio:** Astolfo Dutra | **Populacao 2022:** 14.138 | **Notificações:** 1 | **Incidencia 100mil:** 7,07 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3104809 | **Municipio:** Augusto de Lima | **Populacao 2022:** 4.538 | **Notificações:** 1 | **Incidencia 100mil:** 22,04 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102100 | **Municipio:** Alto Rio Doce | **Populacao 2022:** 10.891 | **Notificações:** 1 | **Incidencia 100mil:** 9,18 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102605 | **Municipio:** Andradas | **Populacao 2022:** 40.553 | **Notificações:** 1 | **Incidencia 100mil:** 2,47 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3102803 | **Municipio:** Andrelândia | **Populacao 2022:** 11.927 | **Notificações:** 1 | **Incidencia 100mil:** 8,38 | **Grau criticidade:** Baixa
+- **Codigo municipio:** 3170651 | **Municipio:** Vargem Grande do Rio Pardo | **Populacao 2022:** 4.633 | **Notificações:** 1 | **Incidencia 100mil:** 21,58 | **Grau criticidade:** Baixa
+### Fluxo uf residencia provavel infeccao
+
+- **Uf residencia:** MG | **Uf provavel infeccao:** MG | **Total registros:** 28.468 | **Percentual dentro uf residencia:** 99,88%
+- **Uf residencia:** MG | **Uf provavel infeccao:** SP | **Total registros:** 11 | **Percentual dentro uf residencia:** 0,04%
+- **Uf residencia:** MG | **Uf provavel infeccao:** RJ | **Total registros:** 6 | **Percentual dentro uf residencia:** 0,02%
+- **Uf residencia:** MG | **Uf provavel infeccao:** ES | **Total registros:** 5 | **Percentual dentro uf residencia:** 0,02%
+- **Uf residencia:** MG | **Uf provavel infeccao:** BA | **Total registros:** 3 | **Percentual dentro uf residencia:** 0,01%
+- **Uf residencia:** MG | **Uf provavel infeccao:** DF | **Total registros:** 2 | **Percentual dentro uf residencia:** 0,01%
+- **Uf residencia:** MG | **Uf provavel infeccao:** AM | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+- **Uf residencia:** MG | **Uf provavel infeccao:** CE | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+- **Uf residencia:** MG | **Uf provavel infeccao:** GO | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+- **Uf residencia:** MG | **Uf provavel infeccao:** PE | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+- **Uf residencia:** MG | **Uf provavel infeccao:** MA | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+- **Uf residencia:** MG | **Uf provavel infeccao:** SC | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+- **Uf residencia:** MG | **Uf provavel infeccao:** TO | **Total registros:** 1 | **Percentual dentro uf residencia:** 0,00%
+
+## Interpretação dos resultados
+
+Na UF Minas Gerais, foram contabilizados 61.668 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 756 municípios com informações disponíveis para análise, Uberlândia apresentou o maior número absoluto de notificações, com 7.605. A maior incidência foi observada em Machacalis, com 8.447,66 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 46,28% dos registros de MG foram classificados como autóctones, 0,93% como não autóctones, 1,41% como indeterminados e 51,38% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,88% permaneceram na mesma UF.
+
+## Observações sobre os dados
+
+- Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.
+- Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.
+- A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.
+- Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.
+- Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção.
+
+## Conceitos semânticos
+
+- Dengue
+- Município
+- Unidade Federativa
+- Residência
+- Local de notificação
+- Incidência
+- População
+- Criticidade
+- Autoctonia
+- Caso autóctone
+- Provável local de infecção
+- UF provável de infecção
+
+## Palavras-chave
+
+dengue, SINAN, Minas Gerais, MG, município, incidência, casos, residência, notificação, criticidade, autoctonia, autóctone, provável local de infecção, UF provável de infecção

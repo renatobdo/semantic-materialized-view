@@ -1,0 +1,244 @@
+{
+  "document_id": "SINAN_DENGUE_2026_GEOGRAFICO_14",
+  "titulo": "Distribuição geográfica dos registros de dengue em Roraima — 2026",
+  "tipo_documento": "distribuicao_geografica_uf",
+  "dominio": "geografico",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "14",
+    "sigla_uf": "RR",
+    "uf_nome": "Roraima",
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "ano": 2026
+  },
+  "sintese": "Este documento apresenta a distribuição geográfica dos registros de dengue no SINAN em Roraima, no ano de 2026, considerando os registros disponíveis entre as semanas epidemiológicas 1 e 34. São apresentados indicadores segundo município de residência, incidência por 100 mil habitantes e classificação de criticidade. O documento também incorpora a classificação de autoctonia e a relação entre a UF de residência e a UF provável de infecção.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_casos_residencia": 562,
+    "total_casos_notificacao": 556,
+    "total_municipios_analisados": 15,
+    "municipio_maior_numero_casos": "Boa Vista",
+    "maior_numero_casos_municipio": 333,
+    "municipio_maior_incidencia": "São Luiz do Anauá",
+    "maior_incidencia_100mil": 1162.0,
+    "criticidade_maior_incidencia": "Alta",
+    "autoctonia": {
+      "total_registros": 562,
+      "autoctones_residencia": 338,
+      "percentual_autoctones": 60.14,
+      "nao_autoctones_residencia": 37,
+      "percentual_nao_autoctones": 6.58,
+      "indeterminados": 53,
+      "percentual_indeterminados": 9.43,
+      "ausentes": 134,
+      "percentual_ausentes": 23.84,
+      "total_comparaveis_uf_residencia_infeccao": 360,
+      "percentual_mesma_uf_residencia_infeccao": 99.17,
+      "percentual_uf_diferente_residencia_infeccao": 0.83
+    }
+  },
+  "evidencias": {
+    "distribuicao_criticidade": [
+      {
+        "grau_criticidade": "Alta",
+        "total_municipios": 2
+      },
+      {
+        "grau_criticidade": "Baixa",
+        "total_municipios": 11
+      },
+      {
+        "grau_criticidade": "Média",
+        "total_municipios": 2
+      }
+    ],
+    "municipios": [
+      {
+        "codigo_municipio": "1400100",
+        "municipio": "Boa Vista",
+        "populacao_2022": 413486.0,
+        "casos": 333,
+        "incidencia_100mil": 80.53,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400605",
+        "municipio": "São Luiz do Anauá",
+        "populacao_2022": 7315.0,
+        "casos": 85,
+        "incidencia_100mil": 1162.0,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1400233",
+        "municipio": "Caroebe",
+        "populacao_2022": 10656.0,
+        "casos": 37,
+        "incidencia_100mil": 347.22,
+        "grau_criticidade": "Alta"
+      },
+      {
+        "codigo_municipio": "1400159",
+        "municipio": "Bonfim",
+        "populacao_2022": 13923.0,
+        "casos": 34,
+        "incidencia_100mil": 244.2,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1400506",
+        "municipio": "São João da Baliza",
+        "populacao_2022": 8858.0,
+        "casos": 16,
+        "incidencia_100mil": 180.63,
+        "grau_criticidade": "Média"
+      },
+      {
+        "codigo_municipio": "1400175",
+        "municipio": "Cantá",
+        "populacao_2022": 18682.0,
+        "casos": 13,
+        "incidencia_100mil": 69.59,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400282",
+        "municipio": "Iracema",
+        "populacao_2022": 10023.0,
+        "casos": 9,
+        "incidencia_100mil": 89.79,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400308",
+        "municipio": "Mucajaí",
+        "populacao_2022": 18095.0,
+        "casos": 7,
+        "incidencia_100mil": 38.68,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400472",
+        "municipio": "Rorainópolis",
+        "populacao_2022": 32647.0,
+        "casos": 6,
+        "incidencia_100mil": 18.38,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400050",
+        "municipio": "Alto Alegre",
+        "populacao_2022": 21096.0,
+        "casos": 6,
+        "incidencia_100mil": 28.44,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400209",
+        "municipio": "Caracaraí",
+        "populacao_2022": 20957.0,
+        "casos": 5,
+        "incidencia_100mil": 23.86,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400456",
+        "municipio": "Pacaraima",
+        "populacao_2022": 19305.0,
+        "casos": 5,
+        "incidencia_100mil": 25.9,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400704",
+        "municipio": "Uiramutã",
+        "populacao_2022": 13751.0,
+        "casos": 3,
+        "incidencia_100mil": 21.82,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400407",
+        "municipio": "Normandia",
+        "populacao_2022": 13986.0,
+        "casos": 2,
+        "incidencia_100mil": 14.3,
+        "grau_criticidade": "Baixa"
+      },
+      {
+        "codigo_municipio": "1400027",
+        "municipio": "Amajari",
+        "populacao_2022": 13927.0,
+        "casos": 1,
+        "incidencia_100mil": 7.18,
+        "grau_criticidade": "Baixa"
+      }
+    ],
+    "fluxo_uf_residencia_provavel_infeccao": [
+      {
+        "uf_residencia": "RR",
+        "uf_provavel_infeccao": "RR",
+        "total_registros": 357,
+        "percentual_dentro_uf_residencia": 99.17
+      },
+      {
+        "uf_residencia": "RR",
+        "uf_provavel_infeccao": "AM",
+        "total_registros": 2,
+        "percentual_dentro_uf_residencia": 0.56
+      },
+      {
+        "uf_residencia": "RR",
+        "uf_provavel_infeccao": "AP",
+        "total_registros": 1,
+        "percentual_dentro_uf_residencia": 0.28
+      }
+    ]
+  },
+  "interpretacao": "Na UF Roraima, foram contabilizados 562 notificações segundo o local de residência entre as semanas epidemiológicas 1 e 34 de 2026. Entre os 15 municípios com informações disponíveis para análise, Boa Vista apresentou o maior número absoluto de notificações, com 333. A maior incidência foi observada em São Luiz do Anauá, com 1.162,00 notificações por 100 mil habitantes, classificada como Alta. Quanto à autoctonia segundo o município de residência, 60,14% dos registros de RR foram classificados como autóctones, 6,58% como não autóctones, 9,43% como indeterminados e 23,84% não apresentaram informação suficiente para essa classificação. Entre os registros comparáveis quanto à UF de residência e à UF provável de infecção, 99,17% permaneceram na mesma UF.",
+  "observacoes_dados": [
+    "Os totais por residência e por notificação representam perspectivas geográficas distintas e não devem ser interpretados como medidas equivalentes.",
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "A incidência por 100 mil habitantes considera a população municipal de referência utilizada no processo de enriquecimento dos dados.",
+    "Municípios com populações menores podem apresentar incidências elevadas mesmo com números absolutos de registros relativamente baixos.",
+    "Os indicadores de autoctonia devem ser interpretados considerando os registros ausentes e indeterminados e a disponibilidade do provável local de infecção."
+  ],
+  "conceitos_semanticos": [
+    "Dengue",
+    "Município",
+    "Unidade Federativa",
+    "Residência",
+    "Local de notificação",
+    "Incidência",
+    "População",
+    "Criticidade",
+    "Autoctonia",
+    "Caso autóctone",
+    "Provável local de infecção",
+    "UF provável de infecção"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "SINAN",
+    "Roraima",
+    "RR",
+    "município",
+    "incidência",
+    "casos",
+    "residência",
+    "notificação",
+    "criticidade",
+    "autoctonia",
+    "autóctone",
+    "provável local de infecção",
+    "UF provável de infecção"
+  ]
+}

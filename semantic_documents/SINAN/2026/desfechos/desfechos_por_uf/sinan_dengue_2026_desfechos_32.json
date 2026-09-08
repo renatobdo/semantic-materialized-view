@@ -1,0 +1,129 @@
+{
+  "document_id": "SINAN_DENGUE_2026_DESFECHOS_32",
+  "titulo": "Desfechos dos registros de dengue em Espírito Santo - 2026",
+  "tipo_documento": "desfechos_uf",
+  "dominio": "desfechos",
+  "fonte": {
+    "sistema": "SINAN",
+    "doenca": "dengue",
+    "ano": 2026
+  },
+  "escopo": {
+    "codigo_uf": "32",
+    "uf_nome": "Espírito Santo",
+    "ano": 2026,
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34
+  },
+  "sintese": "Este documento apresenta informações sobre hospitalização e evolução dos registros de dengue no SINAN em Espírito Santo, entre as semanas epidemiológicas 1 e 34 de 2026.",
+  "indicadores": {
+    "semana_inicial": 1,
+    "semana_final": 34,
+    "total_semanas": 34,
+    "total_registros": 19414,
+    "avaliaveis_hospitalizacao": 19390,
+    "hospitalizados": 1024,
+    "percentual_hospitalizados": 5.28,
+    "total_evolucao_avaliavel": 12885,
+    "evolucao_predominante": "Cura",
+    "total_evolucao_predominante": 12869,
+    "percentual_evolucao_predominante": 99.88
+  },
+  "evidencias": {
+    "hospitalizacao": [
+      {
+        "total_registros": 19414,
+        "avaliaveis": 19390,
+        "hospitalizados": 1024,
+        "nao_hospitalizados": 18366,
+        "ignorados": 18,
+        "ausentes": 6,
+        "percentual_hospitalizados": 5.28,
+        "percentual_nao_hospitalizados": 94.72,
+        "percentual_ignorados": 0.09,
+        "percentual_ausentes": 0.03
+      }
+    ],
+    "evolucao": [
+      {
+        "evolucao": "Cura",
+        "total_registros": 12869,
+        "percentual_total": 66.29,
+        "avaliavel": true,
+        "total_avaliaveis": 12885,
+        "percentual_avaliaveis": 99.88
+      },
+      {
+        "evolucao": "Ignorado",
+        "total_registros": 1470,
+        "percentual_total": 7.57,
+        "avaliavel": false,
+        "total_avaliaveis": 12885,
+        "percentual_avaliaveis": null
+      },
+      {
+        "evolucao": "Óbito em investigação",
+        "total_registros": 4,
+        "percentual_total": 0.02,
+        "avaliavel": true,
+        "total_avaliaveis": 12885,
+        "percentual_avaliaveis": 0.03
+      },
+      {
+        "evolucao": "Óbito pelo agravo",
+        "total_registros": 7,
+        "percentual_total": 0.04,
+        "avaliavel": true,
+        "total_avaliaveis": 12885,
+        "percentual_avaliaveis": 0.05
+      },
+      {
+        "evolucao": "Óbito por outras causas",
+        "total_registros": 5,
+        "percentual_total": 0.03,
+        "avaliavel": true,
+        "total_avaliaveis": 12885,
+        "percentual_avaliaveis": 0.04
+      },
+      {
+        "evolucao": "Ausente",
+        "total_registros": 5059,
+        "percentual_total": 26.06,
+        "avaliavel": false,
+        "total_avaliaveis": 12885,
+        "percentual_avaliaveis": null
+      }
+    ]
+  },
+  "interpretacao": "Na UF Espírito Santo, foram considerados 19,414 registros de dengue entre as semanas epidemiológicas 1 e 34 de 2026. Entre os registros avaliáveis para hospitalização, 1,024 apresentaram hospitalização, correspondendo a 5.28%. Entre as categorias avaliáveis de evolução, Cura foi a mais frequente, com 12,869 registros e 99.88% dos registros com evolução avaliável.",
+  "observacoes_dados": [
+    "Os resultados correspondem aos registros disponíveis entre as semanas epidemiológicas 1 e 34 de 2026.",
+    "Os percentuais de hospitalização são calculados sobre os registros avaliáveis para hospitalização.",
+    "As categorias ausente e ignorado são mantidas separadamente das categorias avaliáveis de evolução.",
+    "Os resultados possuem caráter descritivo e não estabelecem relações causais."
+  ],
+  "conceitos_semanticos": [
+    "dengue",
+    "hospitalização",
+    "evolução clínica",
+    "cura",
+    "óbito",
+    "desfecho",
+    "semana epidemiológica",
+    "unidade federativa",
+    "vigilância epidemiológica"
+  ],
+  "palavras_chave": [
+    "dengue",
+    "hospitalização",
+    "evolução",
+    "cura",
+    "óbito",
+    "desfechos",
+    "Espírito Santo",
+    "32",
+    "2026",
+    "SINAN"
+  ]
+}
