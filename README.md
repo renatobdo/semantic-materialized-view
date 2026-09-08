@@ -12,7 +12,7 @@ A implementação atual concentra-se principalmente em dados de **dengue proveni
 
 Uma demonstração do agente inteligente está disponível em:
 
-[▶️ Assistir à demonstração](assets/demo.mp4)
+https://github.com/user-attachments/assets/81dc9d45-8ab3-4a02-8637-59e2a47d7e41
 
 A abordagem transforma resultados epidemiológicos previamente processados e agregados em documentos semanticamente estruturados, denominados **Visões Semânticas Materializadas (VSMs)**.
 
